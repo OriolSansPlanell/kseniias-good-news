@@ -1,13 +1,17 @@
 # Scheduled task prompt
 
 This is the exact instruction the 6-hour Claude scheduled task runs. If you
-fork this project, replace `oriolsansplanell` with your own GitHub username.
+fork this project, replace `OriolSansPlanell` with your own GitHub username.
 
 ---
 
-Update the website "Kseniia's Good News", which lives in the GitHub repository oriolsansplanell/kseniias-good-news and is served by GitHub Pages. Keep this run lightweight: no web searches, only the feed fetches below.
+Update the website "Kseniia's Good News", which lives in the GitHub repository OriolSansPlanell/kseniias-good-news and is served by GitHub Pages. Keep this run lightweight: no web searches, only the feed fetches below.
 
-1. Get the repository. Call the add_repo tool (mcp__claude-code-remote__add_repo) with owner "oriolsansplanell", repo "kseniias-good-news", access "push", then clone it with the command it returns and cd into it. Run: git config user.name "Good News bot" && git config user.email "goodnews-bot@users.noreply.github.com". If add_repo is refused or the push later fails for lack of access, stop and report the exact error.
+1. Get the repository. Do this before anything else, and do not clone or touch git until it succeeds:
+   a. Call the add_repo tool (mcp__claude-code-remote__add_repo; load it with ToolSearch "select:mcp__claude-code-remote__add_repo" if it isn't listed) with owner "OriolSansPlanell", repo "kseniias-good-news", access "push". Use exactly that capitalisation.
+   b. Wait for its result. If it says the repo was added, clone with exactly the clone command or clone_url it returns, then cd into the clone. If it is refused, needs approval, or errors, stop and report its exact message; do not clone the public URL yourself, because pushing from such a clone is denied.
+   c. Run: git config user.name "Good News bot" && git config user.email "goodnews-bot@users.noreply.github.com"
+   d. Check write access right away with `git push --dry-run origin HEAD:main`. If it fails, stop and report the exact error.
 
 2. Run `python3 scripts/update_site.py list` to see which stories are already stored (id and url).
 
