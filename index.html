@@ -1,0 +1,403 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Kseniia's Good News</title>
+<meta name="description" content="Positive news from several sources, scored 0–10 for goodness and refreshed every six hours.">
+<meta name="theme-color" content="#EEF3F1" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0D1715" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Good News">
+<link rel="alternate" type="application/rss+xml" title="Kseniia's Good News" href="feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Mono:wght@500;600&display=swap">
+<style>
+/* Layout: one calm reading column; a morning-sky palette; the 0–10 score is the only loud colour on the page */
+:root{
+  --bg:#EEF3F1; --surface:#FFFFFF; --ink:#12302A; --muted:#5A726C; --line:#D4E0DC;
+  --accent:#0F6E5C; --accent-ink:#FFFFFF; --sun:#D98A12; --sun-tint:#FFF3DC; --chip:#E2ECE9;
+  --shadow:0 1px 2px rgba(18,48,42,.06),0 4px 14px rgba(18,48,42,.05);
+  --f-display:"Bricolage Grotesque","Avenir Next","Segoe UI",system-ui,sans-serif;
+  --f-body:"Atkinson Hyperlegible",-apple-system,"Segoe UI",Roboto,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+  --r:14px; color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0D1715; --surface:#15211F; --ink:#E3EEEA; --muted:#93ABA4; --line:#26372F;
+  --accent:#5CC9AE; --accent-ink:#06201A; --sun:#F2B544; --sun-tint:#2A2414; --chip:#1D2C29;
+  --shadow:0 1px 2px rgba(0,0,0,.3); color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0D1715; --surface:#15211F; --ink:#E3EEEA; --muted:#93ABA4; --line:#26372F;
+  --accent:#5CC9AE; --accent-ink:#06201A; --sun:#F2B544; --sun-tint:#2A2414; --chip:#1D2C29;
+  --shadow:0 1px 2px rgba(0,0,0,.3); color-scheme:dark}
+
+*{box-sizing:border-box}
+:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased}
+[hidden]{display:none!important}
+img{max-width:100%}
+.wrap{max-width:680px;margin:0 auto;padding-inline:16px;padding-block:0 48px}
+a{color:var(--accent)}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:6px}
+
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.top-in{max-width:680px;margin:0 auto;padding:12px 16px 10px;display:flex;flex-direction:column;gap:10px}
+.brand{display:flex;align-items:baseline;justify-content:space-between;gap:6px 12px;flex-wrap:wrap}
+.brand h1{margin:0;font-family:var(--f-display);font-weight:800;font-size:1.6rem;letter-spacing:-.02em;line-height:1.05;display:flex;align-items:center;gap:8px}
+.brand h1 .who{font-weight:500;color:var(--muted)}
+.sunmark{width:22px;height:22px;flex:none}
+.updated{font-family:var(--f-mono);font-size:.72rem;color:var(--muted);letter-spacing:.02em}
+.tabs{display:flex;gap:4px;background:var(--chip);padding:3px;border-radius:999px;width:max-content;max-width:100%}
+.tab{border:0;background:transparent;padding:6px 14px;border-radius:999px;font-size:.88rem;font-weight:700;cursor:pointer;color:var(--muted)}
+.tab[aria-selected="true"]{background:var(--surface);color:var(--ink);box-shadow:var(--shadow)}
+.tab .n{font-family:var(--f-mono);font-weight:500;font-size:.75rem;margin-left:4px;opacity:.8}
+
+.panel{margin-top:18px;display:grid;grid-template-columns:minmax(0,1fr);gap:14px}
+.mood{display:grid;grid-template-columns:auto 1fr;gap:16px;align-items:end;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:14px 16px}
+.mood-num{font-family:var(--f-display);font-weight:800;font-size:2.6rem;line-height:.9;font-variant-numeric:tabular-nums}
+.mood-num small{font-size:.95rem;color:var(--muted);font-weight:500}
+.mood-lbl{font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-top:6px}
+.hist{display:flex;align-items:flex-end;gap:3px;height:56px;min-width:0}
+.hist .col{flex:1;display:flex;flex-direction:column;align-items:stretch;gap:3px;height:100%;justify-content:flex-end}
+.hist .bar{border-radius:3px 3px 1px 1px;min-height:2px;transition:opacity .2s}
+.hist .col.off .bar{opacity:.22}
+.hist .tick{font-family:var(--f-mono);font-size:.62rem;color:var(--muted);text-align:center;line-height:1}
+.controls{display:flex;flex-direction:column;gap:10px}
+.slider-row{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.slider-row label{font-size:.85rem;font-weight:700}
+.slider-row input{flex:1;min-width:140px;accent-color:var(--sun)}
+.slider-val{font-family:var(--f-mono);font-size:.85rem;min-width:3.4em;text-align:right}
+.chips{display:flex;gap:6px;overflow-x:auto;padding-bottom:2px;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;border:1px solid var(--line);background:var(--surface);padding:5px 12px;border-radius:999px;font-size:.82rem;cursor:pointer;white-space:nowrap}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.sort{display:flex;gap:6px;align-items:center;font-size:.8rem;color:var(--muted)}
+.sort button{border:0;background:none;padding:2px 4px;cursor:pointer;color:var(--muted);font-weight:700;text-decoration:underline transparent;text-underline-offset:3px}
+.sort button[aria-pressed="true"]{color:var(--ink);text-decoration-color:var(--sun)}
+
+.bright{margin-top:22px;background:linear-gradient(160deg,var(--sun-tint),var(--surface) 70%);border:1px solid var(--line);border-radius:var(--r);padding:18px 18px 16px;display:grid;gap:8px}
+.eyebrow{font-size:.7rem;text-transform:uppercase;letter-spacing:.1em;font-weight:700;color:var(--sun)}
+.bright .card.plain{background:none;border:0;padding:0}
+.bright h2{margin:0;font-family:var(--f-display);font-weight:700;font-size:1.45rem;line-height:1.15;letter-spacing:-.01em;text-wrap:balance}
+
+.day{margin:26px 0 8px;font-family:var(--f-display);font-weight:700;font-size:.85rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);display:flex;align-items:center;gap:10px}
+.day::after{content:"";flex:1;height:1px;background:var(--line)}
+.list{display:grid;gap:10px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:14px 14px 12px;display:grid;grid-template-columns:auto 1fr;gap:12px;min-width:0}
+.card.is-read{opacity:.62}
+.badge{width:44px;height:44px;border-radius:12px;display:grid;place-items:center;font-family:var(--f-mono);font-weight:600;font-size:1.15rem;color:#10221E;font-variant-numeric:tabular-nums}
+.bright .badge{width:52px;height:52px;font-size:1.35rem}
+.body{min-width:0;display:grid;gap:5px}
+.meta{font-size:.76rem;color:var(--muted);display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.meta .cat{font-weight:700;color:var(--ink)}
+.meta .dot{opacity:.5}
+.card h3{margin:0;font-family:var(--f-display);font-weight:700;font-size:1.08rem;line-height:1.22;text-wrap:balance}
+.sum{margin:0;font-size:.95rem;color:var(--ink);opacity:.88}
+.why{font-size:.84rem;color:var(--muted);border-left:2px solid var(--line);padding-left:10px;margin:2px 0 0}
+.actions{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin-top:4px}
+.go{display:inline-flex;align-items:center;gap:6px;background:var(--accent);color:var(--accent-ink);text-decoration:none;font-weight:700;font-size:.84rem;padding:7px 12px;border-radius:999px}
+.ghost{border:1px solid var(--line);background:transparent;border-radius:999px;padding:6px 11px;font-size:.8rem;cursor:pointer;color:var(--muted);display:inline-flex;align-items:center;gap:5px}
+.ghost[aria-pressed="true"]{color:var(--sun);border-color:var(--sun)}
+.ghost svg,.go svg{width:14px;height:14px}
+
+.empty{margin-top:28px;text-align:center;color:var(--muted);padding:28px 16px;border:1px dashed var(--line);border-radius:var(--r)}
+.empty strong{display:block;color:var(--ink);font-family:var(--f-display);font-size:1.1rem;margin-bottom:4px}
+
+.about{margin-top:20px;display:grid;gap:18px}
+.about section{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px}
+.about h2{margin:0 0 8px;font-family:var(--f-display);font-size:1.15rem}
+.about p{margin:0 0 8px;max-width:65ch}
+.scale{display:grid;gap:6px;margin-top:6px}
+.scale div{display:grid;grid-template-columns:62px 1fr;gap:10px;align-items:center;font-size:.9rem}
+.scale span.sw{font-family:var(--f-mono);font-size:.8rem;font-weight:600;color:#10221E;text-align:center;border-radius:6px;padding:3px 0}
+.srcs{display:flex;flex-wrap:wrap;gap:6px;margin-top:4px}
+.srcs span{background:var(--chip);border-radius:999px;padding:3px 10px;font-size:.82rem}
+
+.toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:8px 14px;border-radius:999px;font-size:.85rem;font-weight:700;box-shadow:var(--shadow);z-index:10;max-width:calc(100% - 32px);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+@media (max-width:420px){.mood{grid-template-columns:1fr}.brand h1{font-size:1.4rem}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="top-in">
+    <div class="brand">
+      <h1><svg class="sunmark" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 17h20" stroke="var(--ink)" stroke-width="2" stroke-linecap="round"/><path d="M6 17a6 6 0 0 1 12 0Z" fill="var(--sun)"/><path d="M12 5v2M5.6 8.6l1.4 1.4M18.4 8.6 17 10" stroke="var(--sun)" stroke-width="2" stroke-linecap="round"/></svg><span><span class="who">Kseniia's</span> Good News</span></h1>
+      <span class="updated" id="updated">Loading…</span>
+    </div>
+    <div class="tabs" role="tablist">
+      <button class="tab" role="tab" id="tab-feed" data-tab="feed" aria-selected="true">Feed</button>
+      <button class="tab" role="tab" id="tab-saved" data-tab="saved" aria-selected="false">Saved<span class="n" id="saved-n"></span></button>
+      <button class="tab" role="tab" id="tab-about" data-tab="about" aria-selected="false">How it works</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div id="feedview">
+    <div class="panel">
+      <div class="mood">
+        <div>
+          <div class="mood-num" id="mood">–<small>/10</small></div>
+          <div class="mood-lbl" id="mood-lbl">Average goodness, last 3 days</div>
+        </div>
+        <div class="hist" id="hist" aria-label="How many stories have each score"></div>
+      </div>
+      <div class="controls">
+        <div class="slider-row">
+          <label for="min">Show stories scoring</label>
+          <input type="range" id="min" min="0" max="10" step="1" value="6">
+          <span class="slider-val" id="min-val">6+</span>
+        </div>
+        <div class="chips" id="chips"></div>
+        <div class="sort">Sort:
+          <button id="sort-new" data-sort="new" aria-pressed="true">Newest</button>
+          <button id="sort-best" data-sort="best" aria-pressed="false">Brightest</button>
+        </div>
+      </div>
+    </div>
+    <div id="bright"></div>
+    <div id="feed"></div>
+  </div>
+
+  <div id="aboutview" class="about" hidden>
+    <section>
+      <h2>What this is</h2>
+      <p>Every six hours Claude reads a set of news feeds, picks the new stories, writes a short summary in its own words and gives each one a goodness score from 0 to 10. The full story always stays with the original publisher: tap <em>Read at source</em> to open it.</p>
+      <p>Stories older than 10 days drop off. Saved stories and the ones you've read are remembered on this device only.</p>
+    </section>
+    <section>
+      <h2>The goodness score</h2>
+      <p>The score rates how positive the news is for people, animals or the planet. It weighs how many lives it touches, how lasting the change is, and whether it already happened or is only a promise.</p>
+      <div class="scale" id="scale"></div>
+    </section>
+    <section>
+      <h2>Sources</h2>
+      <p>Summaries are kept short so the publisher gets your visit.</p>
+      <div class="srcs" id="srcs"></div>
+    </section>
+    <section>
+      <h2>On your phone</h2>
+      <p>On iPhone, open this page in Safari, tap the share button, then <em>Add to Home Screen</em>. On Android, open it in Chrome and tap <em>Install app</em> (or ⋮ then <em>Add to Home screen</em>). It then opens like an app and keeps the last stories for offline reading.</p>
+      <p>Prefer a news reader? Subscribe to the <a href="feed.xml">RSS feed</a>, which carries stories scoring 6 or more.</p>
+    </section>
+  </div>
+</main>
+<div class="toast" id="toast" hidden></div>
+
+<script>
+(function(){
+  const $ = s => document.querySelector(s);
+  const store = {
+    get(k, d){ try{ const v = localStorage.getItem("gn:"+k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } },
+    set(k, v){ try{ localStorage.setItem("gn:"+k, JSON.stringify(v)); }catch(e){} }
+  };
+  const SCALE = [
+    [0,"0–1","Tragic or harmful: lives lost, lasting damage"],
+    [2,"2–3","Bad news with a small silver lining"],
+    [4,"4","Mixed, or a warning that may help later"],
+    [5,"5","Neutral but interesting"],
+    [6,"6–7","Good news for a community or a field"],
+    [8,"8–9","Real progress that helps many lives"],
+    [10,"10","Rare landmark: broad, lasting human benefit"]
+  ];
+
+  const st = {
+    stories: [], meta: null, loaded: false, failed: false,
+    min: store.get("min", 6), cat: store.get("cat", "All"), sort: store.get("sort", "new"),
+    tab: "feed", saved: new Set(store.get("saved", [])), read: new Set(store.get("read", [])),
+    open: new Set(), fetchedAt: 0
+  };
+
+  function esc(s){ return String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+  function lerp(a,b,t){ return a+(b-a)*t; }
+  const STOPS = [[0,[262,22,62]],[4,[214,28,62]],[6,[168,42,56]],[8,[96,48,58]],[10,[42,92,58]]];
+  function scoreColor(s){
+    s = Math.max(0, Math.min(10, Number(s)||0));
+    for(let i=0;i<STOPS.length-1;i++){
+      const [a,ca]=STOPS[i],[b,cb]=STOPS[i+1];
+      if(s<=b){ const t=(s-a)/(b-a); return `hsl(${lerp(ca[0],cb[0],t)} ${lerp(ca[1],cb[1],t)}% ${lerp(ca[2],cb[2],t)}%)`; }
+    }
+    return "hsl(42 92% 58%)";
+  }
+  function ago(iso){
+    const t = Date.parse(iso); if(!t) return "";
+    const m = Math.round((Date.now()-t)/60000);
+    if(m < 1) return "just now";
+    if(m < 60) return m+" min ago";
+    const h = Math.round(m/60); if(h < 24) return h+" h ago";
+    const d = Math.round(h/24); return d === 1 ? "yesterday" : d+" days ago";
+  }
+  function dayLabel(iso){
+    const d = new Date(iso); if(isNaN(d)) return "Earlier";
+    const today = new Date(); today.setHours(0,0,0,0);
+    const dd = new Date(d); dd.setHours(0,0,0,0);
+    const diff = Math.round((today-dd)/86400000);
+    if(diff <= 0) return "Today";
+    if(diff === 1) return "Yesterday";
+    return d.toLocaleDateString(undefined,{weekday:"long", day:"numeric", month:"short"});
+  }
+  function toast(msg){ const t=$("#toast"); t.textContent=msg; t.hidden=false; clearTimeout(toast._t); toast._t=setTimeout(()=>t.hidden=true,1800); }
+  const ICON_EXT = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M9 3h4v4M13 3 7.5 8.5M12 9.5V13H3V4h3.5"/></svg>';
+  const ICON_STAR = '<svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="m8 1.8 1.9 3.9 4.3.6-3.1 3 .7 4.3L8 11.6l-3.8 2 .7-4.3-3.1-3 4.3-.6z"/></svg>';
+  const ICON_SHARE = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M8 10V2.5M5 5.5l3-3 3 3M3.5 8.5v5h9v-5"/></svg>';
+  const canShare = typeof navigator.share === "function";
+
+  function cardHTML(s, big){
+    const saved = st.saved.has(s.id), open = st.open.has(s.id);
+    const meta = [ `<span class="cat">${esc(s.category||"News")}</span>`, esc(s.source||""), esc(ago(s.published)) ]
+      .filter(Boolean).join('<span class="dot">·</span>');
+    return `<article class="card${big?' plain':''}${st.read.has(s.id)&&!big?' is-read':''}" data-id="${esc(s.id)}">
+      <div class="badge" style="background:${scoreColor(s.score)}" title="Goodness ${esc(s.score)}/10" aria-label="Goodness ${esc(s.score)} out of 10">${esc(s.score)}</div>
+      <div class="body">
+        <div class="meta">${meta}${s.region?`<span class="dot">·</span>${esc(s.region)}`:""}</div>
+        ${big?`<h2>${esc(s.title)}</h2>`:`<h3>${esc(s.title)}</h3>`}
+        <p class="sum">${esc(s.summary)}</p>
+        ${open && s.why ? `<p class="why">Why ${esc(s.score)}: ${esc(s.why)}</p>` : ""}
+        <div class="actions">
+          <a class="go" href="${esc(s.url)}" target="_blank" rel="noopener" data-act="read">Read at ${esc(s.source||"source")} ${ICON_EXT}</a>
+          ${s.why?`<button class="ghost" data-act="why" aria-expanded="${open}">${open?"Hide reason":"Why this score?"}</button>`:""}
+          <button class="ghost" data-act="save" aria-pressed="${saved}" aria-label="${saved?"Remove from saved":"Save story"}">${ICON_STAR}${saved?"Saved":"Save"}</button>
+          <button class="ghost" data-act="share">${ICON_SHARE}${canShare?"Share":"Copy link"}</button>
+        </div>
+      </div>
+    </article>`;
+  }
+
+  function renderHeader(){
+    const m = st.meta;
+    $("#updated").textContent = st.failed && !st.loaded ? "Can't reach the feed" :
+      (m && m.updated) ? "Updated "+ago(m.updated) : (st.loaded ? "" : "Loading…");
+    $("#saved-n").textContent = st.saved.size ? st.saved.size : "";
+    for(const b of document.querySelectorAll(".tab")) b.setAttribute("aria-selected", String(b.dataset.tab===st.tab));
+    $("#feedview").hidden = st.tab==="about";
+    $("#aboutview").hidden = st.tab!=="about";
+  }
+
+  function renderMood(){
+    const cutoff = Date.now()-3*86400000;
+    const recent = st.stories.filter(s => Date.parse(s.published) >= cutoff);
+    const pool = recent.length ? recent : st.stories;
+    const avg = pool.length ? pool.reduce((a,s)=>a+(Number(s.score)||0),0)/pool.length : null;
+    $("#mood").innerHTML = (avg==null ? "–" : avg.toFixed(1)) + "<small>/10</small>";
+    $("#mood-lbl").textContent = recent.length ? `Average goodness, last 3 days · ${recent.length} stories` : "Average goodness";
+    const counts = Array(11).fill(0);
+    for(const s of st.stories){ const k=Math.round(Number(s.score)); if(k>=0&&k<=10) counts[k]++; }
+    const max = Math.max(1,...counts);
+    $("#hist").innerHTML = counts.map((c,i)=>`<div class="col${i<st.min?' off':''}" title="${c} stor${c===1?'y':'ies'} scored ${i}">
+      <div class="bar" style="height:${Math.round(c/max*40)+2}px;background:${scoreColor(i)}"></div><div class="tick">${i}</div></div>`).join("");
+  }
+
+  function renderControls(){
+    $("#min").value = st.min;
+    $("#min-val").textContent = st.min+"+";
+    const cats = ["All", ...Array.from(new Set(st.stories.map(s=>s.category).filter(Boolean))).sort()];
+    if(st.loaded && !cats.includes(st.cat)) st.cat = "All";
+    $("#chips").innerHTML = cats.map(c=>`<button class="chip" data-cat="${esc(c)}" aria-pressed="${c===st.cat}">${esc(c)}</button>`).join("");
+    for(const b of document.querySelectorAll(".sort button")) b.setAttribute("aria-pressed", String(b.dataset.sort===st.sort));
+  }
+
+  function renderFeed(){
+    const feed = $("#feed"), bright = $("#bright");
+    if(st.tab==="about") return;
+    if(!st.loaded){
+      bright.innerHTML = "";
+      feed.innerHTML = st.failed
+        ? `<div class="empty"><strong>Stories didn't load</strong>Check your connection and reload the page.</div>`
+        : `<div class="empty"><strong>Fetching today's good news</strong>Stories appear here in a moment.</div>`;
+      return;
+    }
+    let list = st.tab==="saved" ? st.stories.filter(s=>st.saved.has(s.id))
+      : st.stories.filter(s => (Number(s.score)||0) >= st.min && (st.cat==="All" || s.category===st.cat));
+
+    let top = null;
+    if(st.tab==="feed"){
+      const c48 = Date.now()-2*86400000;
+      const pool = st.stories.filter(s=>Date.parse(s.published)>=c48);
+      top = (pool.length?pool:st.stories).slice().sort((a,b)=>(b.score-a.score)||(Date.parse(b.published)-Date.parse(a.published)))[0] || null;
+    }
+    bright.innerHTML = top ? `<div class="bright"><div class="eyebrow">Brightest of the last two days</div>${cardHTML(top,true)}</div>` : "";
+    if(top) list = list.filter(s=>s.id!==top.id);
+
+    if(!st.stories.length){
+      feed.innerHTML = `<div class="empty"><strong>No stories yet</strong>The next update fills this page. It runs every six hours.</div>`; return;
+    }
+    if(!list.length){
+      feed.innerHTML = st.tab==="saved"
+        ? `<div class="empty"><strong>Nothing saved yet</strong>Tap Save on any story to keep it here.</div>`
+        : `<div class="empty"><strong>No more stories at ${st.min}+${st.cat!=="All"?" in "+esc(st.cat):""}</strong>Lower the minimum score or pick another topic.</div>`;
+      return;
+    }
+    if(st.sort==="best"){
+      list.sort((a,b)=>(b.score-a.score)||(Date.parse(b.published)-Date.parse(a.published)));
+      feed.innerHTML = `<div class="day">By goodness</div><div class="list">${list.map(s=>cardHTML(s)).join("")}</div>`;
+    } else {
+      list.sort((a,b)=>Date.parse(b.published)-Date.parse(a.published));
+      let html="", cur=null;
+      for(const s of list){
+        const d = dayLabel(s.published);
+        if(d!==cur){ if(cur!==null) html+="</div>"; html+=`<div class="day">${esc(d)}</div><div class="list">`; cur=d; }
+        html += cardHTML(s);
+      }
+      feed.innerHTML = html+"</div>";
+    }
+  }
+
+  function renderAbout(){
+    $("#scale").innerHTML = SCALE.map(([n,l,t])=>`<div><span class="sw" style="background:${scoreColor(n)}">${l}</span><span>${esc(t)}</span></div>`).join("");
+    const srcs = (st.meta && Array.isArray(st.meta.sources) && st.meta.sources.length) ? st.meta.sources
+      : Array.from(new Set(st.stories.map(s=>s.source).filter(Boolean)));
+    $("#srcs").innerHTML = srcs.map(s=>`<span>${esc(s)}</span>`).join("");
+  }
+
+  function render(){ renderHeader(); renderControls(); renderMood(); renderFeed(); renderAbout(); }
+
+  document.addEventListener("click", e=>{
+    const tab = e.target.closest(".tab");
+    if(tab){ st.tab = tab.dataset.tab; render(); window.scrollTo({top:0}); return; }
+    const chip = e.target.closest(".chip");
+    if(chip){ st.cat = chip.dataset.cat; store.set("cat", st.cat); render(); return; }
+    const sb = e.target.closest(".sort button");
+    if(sb){ st.sort = sb.dataset.sort; store.set("sort", st.sort); render(); return; }
+    const act = e.target.closest("[data-act]");
+    if(!act) return;
+    const card = act.closest(".card"); if(!card) return;
+    const id = card.dataset.id, s = st.stories.find(x=>x.id===id); if(!s) return;
+    const a = act.dataset.act;
+    if(a==="read"){ st.read.add(id); store.set("read", Array.from(st.read).slice(-500)); setTimeout(render, 300); }
+    else if(a==="why"){ st.open.has(id) ? st.open.delete(id) : st.open.add(id); render(); }
+    else if(a==="save"){ st.saved.has(id) ? st.saved.delete(id) : st.saved.add(id); store.set("saved", Array.from(st.saved)); render(); toast(st.saved.has(id)?"Saved on this device":"Removed from saved"); }
+    else if(a==="share"){
+      if(canShare){ navigator.share({title:s.title, text:s.summary, url:s.url}).catch(()=>{}); return; }
+      try{ navigator.clipboard.writeText(s.title+" — "+s.url).then(()=>toast("Link copied"), ()=>toast(s.url)); }catch(err){ toast(s.url); }
+    }
+  });
+  $("#min").addEventListener("input", e=>{ st.min = Number(e.target.value); store.set("min", st.min); renderControls(); renderMood(); renderFeed(); });
+
+  async function load(){
+    try{
+      const r = await fetch("stories.json?t="+Date.now(), {cache:"no-store"});
+      if(!r.ok) throw new Error(r.status);
+      const data = await r.json();
+      st.stories = Array.isArray(data.stories) ? data.stories : [];
+      st.meta = { updated: data.updated, sources: data.sources };
+      st.loaded = true; st.failed = false; st.fetchedAt = Date.now();
+    }catch(e){ st.failed = true; }
+    render();
+  }
+  document.addEventListener("visibilitychange", ()=>{ if(!document.hidden && Date.now()-st.fetchedAt > 15*60000) load(); });
+  setInterval(()=>{ if(!document.hidden) renderHeader(); }, 60000);
+  render(); load();
+
+  if("serviceWorker" in navigator){ window.addEventListener("load", ()=>navigator.serviceWorker.register("sw.js").catch(()=>{})); }
+})();
+</script>
+</body>
+</html>
