@@ -1,7 +1,7 @@
 # Scheduled task prompt
 
-This is the exact instruction the 6-hour Claude scheduled task runs. Replace
-`OWNER` with your GitHub username if you set the task up yourself.
+This is the exact instruction the 6-hour Claude scheduled task runs. If you
+fork this project, replace `oriolsansplanell` with your own GitHub username.
 
 ---
 
