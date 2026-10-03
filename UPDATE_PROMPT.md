@@ -5,9 +5,9 @@ This is the exact instruction the 6-hour Claude scheduled task runs. Replace
 
 ---
 
-Update the website "Kseniia's Good News", which lives in the GitHub repository OWNER/kseniias-good-news and is served by GitHub Pages. Keep this run lightweight: no web searches, only the feed fetches below.
+Update the website "Kseniia's Good News", which lives in the GitHub repository oriolsansplanell/kseniias-good-news and is served by GitHub Pages. Keep this run lightweight: no web searches, only the feed fetches below.
 
-1. Get the repository. Call the add_repo tool (mcp__claude-code-remote__add_repo) with owner "OWNER", repo "kseniias-good-news", access "push", then clone it with the command it returns and cd into it. Run: git config user.name "Good News bot" && git config user.email "goodnews-bot@users.noreply.github.com". If add_repo is refused or the push later fails for lack of access, stop and report the exact error.
+1. Get the repository. Call the add_repo tool (mcp__claude-code-remote__add_repo) with owner "oriolsansplanell", repo "kseniias-good-news", access "push", then clone it with the command it returns and cd into it. Run: git config user.name "Good News bot" && git config user.email "goodnews-bot@users.noreply.github.com". If add_repo is refused or the push later fails for lack of access, stop and report the exact error.
 
 2. Run `python3 scripts/update_site.py list` to see which stories are already stored (id and url).
 

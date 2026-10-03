@@ -48,7 +48,7 @@ In claude.ai, open **Settings → Connectors** and connect **GitHub**. When GitH
 1. In the repository, open **Settings → Pages**.
 2. Under **Build and deployment**, set Source to **Deploy from a branch**.
 3. Choose branch **main** and folder **/ (root)**, then **Save**.
-4. After a minute or two the page shows your address: `https://YOUR-USERNAME.github.io/kseniias-good-news/`.
+4. After a minute or two the page shows your address: `https://YOUR-USERNAME.github.io/kseniias-good-news/` (this one: https://oriolsansplanell.github.io/kseniias-good-news/).
 
 ### 6. Set the site address
 Edit `site.json` and replace `YOUR-GITHUB-NAME` with your username (click the file, then the pencil icon, then **Commit changes**). Claude does this for you in step 4's easy route.
