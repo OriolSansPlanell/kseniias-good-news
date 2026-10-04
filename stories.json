@@ -21,7 +21,24 @@
    "region": "UK",
    "published": "2026-10-02T15:30:56Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Europe"
+   "continent": "Europe",
+   "i18n": {
+    "ca": {
+     "title": "Els museus nacionals britànics seguiran sent gratuïts per als visitants estrangers",
+     "summary": "Després de converses amb el govern, 14 grans museus nacionals han confirmat que mantindran l'entrada gratuïta per als visitants internacionals.",
+     "why": "Manté la cultura oberta a tothom; és una continuïtat més que no pas un avenç nou."
+    },
+    "fr": {
+     "title": "Les musées nationaux britanniques resteront gratuits pour les visiteurs étrangers",
+     "summary": "Après des discussions avec le gouvernement, 14 grands musées nationaux ont confirmé qu'ils resteront gratuits pour les visiteurs internationaux.",
+     "why": "La culture reste ouverte à tous ; c'est une continuité plutôt qu'un nouveau progrès."
+    },
+    "ru": {
+     "title": "Национальные музеи Великобритании останутся бесплатными для иностранцев",
+     "summary": "После переговоров с правительством 14 крупных национальных музеев подтвердили, что вход для иностранных посетителей останется бесплатным.",
+     "why": "Культура остаётся доступной для всех; скорее сохранение, чем новое достижение."
+    }
+   }
   },
   {
    "id": "gnn-antarctica-wind-farm",
@@ -35,7 +52,24 @@
    "region": "Antarctica",
    "published": "2026-10-02T13:00:15Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Antarctica"
+   "continent": "Antarctica",
+   "i18n": {
+    "ca": {
+     "title": "Els aerogeneradors de l'Antàrtida han estalviat 122.000 galons de gasoil",
+     "summary": "Tres turbines a l'illa de Ross fa 15 anys que subministren energia a l'estació McMurdo, i redueixen els enviaments de combustible i les emissions de la base.",
+     "why": "Un èxit d'energia neta provat i durador, a petita escala."
+    },
+    "fr": {
+     "title": "Les éoliennes de l'Antarctique ont permis d'économiser 122 000 gallons de gazole",
+     "summary": "Trois turbines sur l'île de Ross alimentent la station McMurdo depuis 15 ans, réduisant les livraisons de carburant et les émissions de la base.",
+     "why": "Un succès durable et éprouvé de l'énergie propre, à petite échelle."
+    },
+    "ru": {
+     "title": "Ветряки в Антарктиде сэкономили 122 000 галлонов дизеля",
+     "summary": "Три турбины на острове Росса уже 15 лет снабжают энергией станцию Мак-Мердо, сокращая поставки топлива и выбросы.",
+     "why": "Долгий и проверенный успех чистой энергетики, пусть и в малом масштабе."
+    }
+   }
   },
   {
    "id": "rtbc-community-lighthouses",
@@ -49,7 +83,24 @@
    "region": "USA",
    "published": "2026-10-02T08:00:29Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "North America"
+   "continent": "North America",
+   "i18n": {
+    "ca": {
+     "title": "Uns «fars comunitaris» solars mantenen la llum a Nova Orleans durant les apagades",
+     "summary": "Líders religiosos han creat 14 centres comunitaris amb energia solar que donen electricitat i ajuda als veïns durant tempestes i talls, i volen estendre'ls a tot el país.",
+     "why": "Resiliència pràctica que protegeix les persones vulnerables en els desastres."
+    },
+    "fr": {
+     "title": "Des « phares communautaires » solaires gardent La Nouvelle-Orléans éclairée pendant les pannes",
+     "summary": "Des responsables religieux ont ouvert 14 centres communautaires alimentés à l'énergie solaire qui offrent électricité et aide aux habitants lors des tempêtes et des coupures, avec l'ambition de s'étendre à tout le pays.",
+     "why": "Une résilience concrète qui protège les personnes vulnérables lors des catastrophes."
+    },
+    "ru": {
+     "title": "Солнечные «общественные маяки» дают свет Новому Орлеану во время отключений",
+     "summary": "Религиозные лидеры открыли 14 общественных центров на солнечной энергии, где соседи получают электричество и помощь во время штормов и аварий; их хотят распространить по всей стране.",
+     "why": "Практическая устойчивость, защищающая уязвимых людей во время бедствий."
+    }
+   }
   },
   {
    "id": "gnn-sycamore-gap-shoots",
@@ -63,7 +114,24 @@
    "region": "UK",
    "published": "2026-10-01T18:30:18Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Europe"
+   "continent": "Europe",
+   "i18n": {
+    "ca": {
+     "title": "El sicòmor de Sycamore Gap, talat fa tres anys, torna a créixer",
+     "summary": "Tres anys després que es tallés el famós arbre del Mur d'Adrià, imatges aèries mostren un cercle de brots vigorosos que ja fan prop d'un metre.",
+     "why": "Una recuperació encoratjadora, sobretot simbòlica."
+    },
+    "fr": {
+     "title": "L'arbre abattu de Sycamore Gap repousse",
+     "summary": "Trois ans après l'abattage du célèbre arbre du mur d'Hadrien, des images aériennes montrent une couronne de nouvelles pousses vigoureuses atteignant déjà environ un mètre.",
+     "why": "Une renaissance réconfortante, surtout symbolique."
+    },
+    "ru": {
+     "title": "Срубленный платан в Сикамор-Гэп снова растёт",
+     "summary": "Через три года после того, как знаменитое дерево у Адрианова вала было срублено, аэросъёмка показала кольцо крепких молодых побегов высотой уже около метра.",
+     "why": "Обнадёживающее восстановление, скорее символическое."
+    }
+   }
   },
   {
    "id": "gnn-hydrogen-boron-fusion",
@@ -77,7 +145,24 @@
    "region": "China",
    "published": "2026-10-01T15:30:26Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Asia"
+   "continent": "Asia",
+   "i18n": {
+    "ca": {
+     "title": "Un reactor xinès anuncia fusió amb combustible d'hidrogen i bor",
+     "summary": "Enginyers d'una empresa comercial de fusió diuen que han aconseguit la fusió amb hidrogen i bor, un combustible que gairebé no produeix radiació de neutrons.",
+     "why": "Prometedor per a l'energia neta, però encara és una fita de laboratori lluny d'una central."
+    },
+    "fr": {
+     "title": "Un réacteur chinois annonce une fusion avec un combustible hydrogène-bore",
+     "summary": "Les ingénieurs d'une entreprise commerciale de fusion affirment avoir obtenu la fusion avec de l'hydrogène-bore, un combustible qui ne produit presque pas de rayonnement neutronique.",
+     "why": "Prometteur pour l'énergie propre, mais encore une étape de laboratoire loin d'une centrale."
+    },
+    "ru": {
+     "title": "Китайский реактор сообщил о синтезе на водородно-борном топливе",
+     "summary": "Инженеры коммерческой термоядерной компании заявляют, что добились синтеза на водороде и боре — топливе, почти не дающем нейтронного излучения.",
+     "why": "Многообещающе для чистой энергетики, но это пока ранний лабораторный этап, далёкий от электростанции."
+    }
+   }
   },
   {
    "id": "rtbc-la-seed-bombs",
@@ -91,7 +176,24 @@
    "region": "USA",
    "published": "2026-10-01T14:25:04Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "North America"
+   "continent": "North America",
+   "i18n": {
+    "ca": {
+     "title": "Supervivents dels incendis replanten els turons cremats de Los Angeles amb bombes de llavors",
+     "summary": "Veïns que van perdre la casa als incendis han fet i repartit 10.000 boles de llavors autòctones per ajudar el paisatge a recuperar-se.",
+     "why": "Curació comunitària i recuperació ecològica alhora."
+    },
+    "fr": {
+     "title": "Des rescapés des incendies replantent les collines brûlées de Los Angeles avec des bombes à graines",
+     "summary": "Des habitants qui ont perdu leur maison dans les incendies ont fabriqué et distribué 10 000 boules de graines locales pour aider le paysage à se régénérer.",
+     "why": "Guérison collective et restauration écologique à la fois."
+    },
+    "ru": {
+     "title": "Пострадавшие от пожаров засевают выжженные холмы Лос-Анджелеса «семенными бомбами»",
+     "summary": "Жители, потерявшие дома при пожарах, сделали и раздали 10 000 шариков с семенами местных растений, чтобы помочь природе восстановиться.",
+     "why": "Исцеление сообщества и восстановление природы одновременно."
+    }
+   }
   },
   {
    "id": "sd-strawberry-plant-armor",
@@ -105,7 +207,24 @@
    "region": "Global",
    "published": "2026-10-01T13:43:15Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Global"
+   "continent": "Global",
+   "i18n": {
+    "ca": {
+     "title": "Una tela protectora triplica amb escreix la collita de maduixes",
+     "summary": "Una coberta per als conreus va multiplicar fins a 3,5 vegades la collita de maduixes, alhora que aturava les plagues i reduïa els pesticides.",
+     "why": "Més aliments amb menys productes químics."
+    },
+    "fr": {
+     "title": "Un voile protecteur fait plus que tripler les récoltes de fraises",
+     "summary": "Un voile de culture a multiplié jusqu'à 3,5 fois les récoltes de fraises tout en bloquant les ravageurs et en réduisant les pesticides.",
+     "why": "Plus de nourriture avec moins de produits chimiques."
+    },
+    "ru": {
+     "title": "Защитная ткань более чем втрое повышает урожай клубники",
+     "summary": "Укрывной материал увеличил сбор клубники до 3,5 раза, защищая от вредителей и сокращая применение пестицидов.",
+     "why": "Больше еды при меньшем количестве химии."
+    }
+   }
   },
   {
    "id": "gnn-arabian-sea-humpbacks",
@@ -119,7 +238,24 @@
    "region": "Arabian Sea",
    "published": "2026-10-01T13:00:21Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Asia"
+   "continent": "Asia",
+   "i18n": {
+    "ca": {
+     "title": "Es confirma que els iubartes del mar d'Aràbia són una subespècie diferent",
+     "summary": "L'anàlisi genètica mostra que les balenes aïllades i no migratòries del mar d'Aràbia són genèticament diferents, cosa que reforça la necessitat d'una protecció específica.",
+     "why": "Útil per a la conservació, però sobretot és una troballa científica."
+    },
+    "fr": {
+     "title": "Les baleines à bosse de la mer d'Arabie confirmées comme sous-espèce distincte",
+     "summary": "Une analyse génétique montre que les baleines isolées et non migratrices de la mer d'Arabie sont génétiquement distinctes, ce qui renforce les arguments pour une protection ciblée.",
+     "why": "Utile pour la conservation, mais surtout une découverte scientifique."
+    },
+    "ru": {
+     "title": "Горбатые киты Аравийского моря признаны отдельным подвидом",
+     "summary": "Генетический анализ показал, что изолированные, не мигрирующие киты Аравийского моря генетически отличаются, что усиливает аргументы за их особую охрану.",
+     "why": "Полезно для охраны природы, но прежде всего научное открытие."
+    }
+   }
   },
   {
    "id": "gnn-greek-artifacts-returned",
@@ -133,7 +269,24 @@
    "region": "Greece / USA",
    "published": "2026-10-01T11:00:34Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Europe"
+   "continent": "Europe",
+   "i18n": {
+    "ca": {
+     "title": "Antiguitats gregues robades de 5.000 anys d'història tornen a casa",
+     "summary": "Les autoritats de Nova York han retornat un gran lot d'objectes grecs espoliats, entre ells cascos de bronze i escultures de fins al 2700 aC.",
+     "why": "Retorna el patrimoni cultural al seu país d'origen."
+    },
+    "fr": {
+     "title": "Des antiquités grecques volées couvrant 5 000 ans rentrent au pays",
+     "summary": "Les autorités de New York ont restitué un important lot d'objets grecs pillés, dont des casques en bronze et des sculptures remontant jusqu'à 2700 av. J.-C.",
+     "why": "Le patrimoine culturel retrouve son pays d'origine."
+    },
+    "ru": {
+     "title": "Похищенные греческие древности возрастом до 5000 лет вернулись домой",
+     "summary": "Власти Нью-Йорка вернули большую партию похищенных греческих предметов, включая бронзовые шлемы и скульптуры возрастом до 2700 года до н. э.",
+     "why": "Культурное наследие возвращается на родину."
+    }
+   }
   },
   {
    "id": "sd-apoe4-reversible",
@@ -147,7 +300,24 @@
    "region": "Global",
    "published": "2026-10-01T04:45:26Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Global"
+   "continent": "Global",
+   "i18n": {
+    "ca": {
+     "title": "El dany del principal gen de risc de l'Alzheimer podria ser reversible",
+     "summary": "Investigadors han descobert com el gen APOE4 malmet els vasos sanguinis del cervell i n'han revertit parcialment l'efecte en experiments.",
+     "why": "Obre una nova via de tractament; encara és recerca inicial."
+    },
+    "fr": {
+     "title": "Les dégâts du principal gène de risque d'Alzheimer pourraient être réversibles",
+     "summary": "Des chercheurs ont découvert comment le gène APOE4 abîme les vaisseaux sanguins du cerveau et ont partiellement inversé cet effet lors d'expériences.",
+     "why": "Ouvre une nouvelle piste de traitement ; recherche encore précoce."
+    },
+    "ru": {
+     "title": "Вред от главного гена риска болезни Альцгеймера может быть обратим",
+     "summary": "Исследователи выяснили, как ген APOE4 повреждает сосуды мозга, и в экспериментах частично обратили этот эффект.",
+     "why": "Открывает новый путь к лечению; исследования пока на ранней стадии."
+    }
+   }
   },
   {
    "id": "sd-cannabis-violence-review",
@@ -161,7 +331,24 @@
    "region": "Global",
    "published": "2026-09-30T12:49:01Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Global"
+   "continent": "Global",
+   "i18n": {
+    "ca": {
+     "title": "Una revisió relaciona el consum de cànnabis amb més violència",
+     "summary": "En 265.000 persones, els consumidors de cànnabis tenien aproximadament el doble de probabilitats de cometre violència, tot i que l'estudi no pot demostrar-ne la causa.",
+     "why": "Una troballa negativa; s'inclou per equilibri."
+    },
+    "fr": {
+     "title": "Une revue associe la consommation de cannabis à davantage de violence",
+     "summary": "Sur 265 000 personnes, les consommateurs de cannabis étaient environ deux fois plus susceptibles de commettre des violences, sans que l'étude puisse prouver de lien de cause.",
+     "why": "Un résultat négatif, inclus par souci d'équilibre."
+    },
+    "ru": {
+     "title": "Обзор связал употребление каннабиса с более высоким уровнем насилия",
+     "summary": "Среди 265 000 человек употреблявшие каннабис примерно вдвое чаще совершали насилие, хотя исследование не доказывает причинную связь.",
+     "why": "Негативный вывод; приведён для баланса."
+    }
+   }
   },
   {
    "id": "gnn-golf-course-wetland",
@@ -175,7 +362,24 @@
    "region": "UK",
    "published": "2026-09-30T11:00:31Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Europe"
+   "continent": "Europe",
+   "i18n": {
+    "ca": {
+     "title": "Un camp de golf anglès convertit en aiguamoll per a ocells marins",
+     "summary": "Un antic camp de golf costaner s'ha renaturalitzat com a aiguamoll i ara l'aprofiten corriols, xatracs i altres ocells.",
+     "why": "Un guany real d'hàbitat per a ocells costaners amenaçats."
+    },
+    "fr": {
+     "title": "Un golf anglais transformé en zone humide pour les oiseaux marins",
+     "summary": "Un ancien golf côtier a été rendu à la nature sous forme de zone humide, désormais fréquentée par des gravelots, des sternes et d'autres oiseaux.",
+     "why": "Un vrai gain d'habitat pour des oiseaux côtiers menacés."
+    },
+    "ru": {
+     "title": "Английское поле для гольфа превратили в болото для морских птиц",
+     "summary": "Бывшее прибрежное поле для гольфа восстановили как водно-болотные угодья, где теперь гнездятся зуйки, крачки и другие птицы.",
+     "why": "Реальное расширение среды обитания для уязвимых прибрежных птиц."
+    }
+   }
   },
   {
    "id": "gnn-west-coast-sea-turtle-nests",
@@ -189,7 +393,24 @@
    "region": "USA",
    "published": "2026-09-30T09:52:15Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "North America"
+   "continent": "North America",
+   "i18n": {
+    "ca": {
+     "title": "Tortugues marines fan niu a les platges de Califòrnia per primer cop documentat",
+     "summary": "Tortugues olivàcies han post ous a la sorra del sud de Califòrnia, el primer niu registrat a la costa oest dels EUA i un senyal que l'espècie amplia el seu territori.",
+     "why": "Una primera vegada per a la fauna, tot i que en part lligada a l'escalfament del mar."
+    },
+    "fr": {
+     "title": "Des tortues marines pondent sur les plages de Californie, une première",
+     "summary": "Des tortues olivâtres ont pondu sur le sable du sud de la Californie, première nidification jamais observée sur la côte ouest des États-Unis et signe que l'espèce étend son aire.",
+     "why": "Une première pour la faune, en partie liée au réchauffement des océans."
+    },
+    "ru": {
+     "title": "Морские черепахи впервые отложили яйца на пляжах Калифорнии",
+     "summary": "Оливковые черепахи отложили яйца на песке Южной Калифорнии — первое зарегистрированное гнездование на западном побережье США и признак расширения ареала вида.",
+     "why": "Первое в истории событие для дикой природы, хотя отчасти связанное с потеплением океана."
+    }
+   }
   },
   {
    "id": "sd-bats-europe-origin",
@@ -203,7 +424,24 @@
    "region": "Europe",
    "published": "2026-09-30T05:12:36Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Europe"
+   "continent": "Europe",
+   "i18n": {
+    "ca": {
+     "title": "Els ratpenats podrien haver aparegut primer a Europa",
+     "summary": "Proves genètiques i fòssils indiquen que els ratpenats van sorgir a Europa fa entre 60 i 65 milions d'anys i després es van estendre pel món.",
+     "why": "Ciència interessant, neutra pel que fa al benestar."
+    },
+    "fr": {
+     "title": "Les chauves-souris seraient apparues en Europe",
+     "summary": "Des données génétiques et fossiles suggèrent que les chauves-souris sont apparues en Europe il y a 60 à 65 millions d'années avant de se répandre dans le monde.",
+     "why": "Science intéressante, neutre pour le bien-être."
+    },
+    "ru": {
+     "title": "Летучие мыши, возможно, впервые появились в Европе",
+     "summary": "Генетические и ископаемые данные указывают, что летучие мыши возникли в Европе 60–65 млн лет назад, а затем распространились по миру.",
+     "why": "Интересная наука, нейтральная для благополучия людей."
+    }
+   }
   },
   {
    "id": "sd-curiosity-5000-days",
@@ -217,7 +455,24 @@
    "region": "Space",
    "published": "2026-09-30T04:34:34Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Global"
+   "continent": "Global",
+   "i18n": {
+    "ca": {
+     "title": "El ròver Curiosity compleix 5.000 dies a Mart",
+     "summary": "El ròver de la NASA ho ha celebrat amb una nova panoràmica del mont Sharp i el cràter Gale.",
+     "why": "Una fita agradable amb poc efecte en la vida diària."
+    },
+    "fr": {
+     "title": "Le rover Curiosity fête ses 5 000 jours sur Mars",
+     "summary": "Le rover de la NASA a marqué l'événement avec un nouveau panorama du mont Sharp et du cratère Gale.",
+     "why": "Une étape sympathique, sans grand effet sur la vie quotidienne."
+    },
+    "ru": {
+     "title": "Марсоход Curiosity провёл на Марсе 5000 дней",
+     "summary": "Марсоход NASA отметил это событие новой панорамой горы Шарп и кратера Гейл.",
+     "why": "Приятная веха, мало влияющая на повседневную жизнь."
+    }
+   }
   },
   {
    "id": "gnn-indonesia-cash-for-photos",
@@ -231,7 +486,24 @@
    "region": "Indonesia",
    "published": "2026-09-29T13:00:01Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Asia"
+   "continent": "Asia",
+   "i18n": {
+    "ca": {
+     "title": "Pagar per fotos d'animals converteix caçadors en protectors",
+     "summary": "Pobles d'Indonèsia cobren per proves fotogràfiques d'animals vius en lloc de caçar-los, cosa que ajuda els orangutans i ocells rars.",
+     "why": "Un incentiu que funciona, canvia comportaments i protegeix espècies."
+    },
+    "fr": {
+     "title": "Payer pour des photos d'animaux transforme des chasseurs en protecteurs",
+     "summary": "Des villages d'Indonésie sont payés pour des preuves photographiques d'animaux vivants plutôt que de les chasser, ce qui aide les orangs-outans et des oiseaux rares.",
+     "why": "Un modèle d'incitation efficace qui change les comportements et protège les espèces."
+    },
+    "ru": {
+     "title": "Плата за фото животных превращает охотников в защитников",
+     "summary": "Деревни в Индонезии получают деньги за снимки живых животных с фотоловушек вместо охоты на них, что помогает орангутанам и редким птицам.",
+     "why": "Работающая модель стимулов, которая меняет поведение и защищает виды."
+    }
+   }
   },
   {
    "id": "gnn-norway-andfjorden-mpa",
@@ -245,7 +517,24 @@
    "region": "Norway",
    "published": "2026-09-29T11:00:24Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Europe"
+   "continent": "Europe",
+   "i18n": {
+    "ca": {
+     "title": "Noruega crea una gran àrea marina protegida per a balenes i ocells marins",
+     "summary": "La reserva d'Andfjorden abasta uns 714 milles quadrades d'aigües riques del nord, on hi ha balenes, ocells marins i esculls d'aigua freda.",
+     "why": "Protecció duradora d'una gran extensió d'oceà."
+    },
+    "fr": {
+     "title": "La Norvège crée une grande aire marine protégée pour les baleines et les oiseaux marins",
+     "summary": "La réserve d'Andfjorden couvre environ 714 milles carrés d'eaux nordiques riches, fréquentées par des baleines, des oiseaux marins et des récifs d'eau froide.",
+     "why": "Une protection durable sur une grande étendue d'océan."
+    },
+    "ru": {
+     "title": "Норвегия создала крупную морскую охраняемую зону для китов и морских птиц",
+     "summary": "Заповедник Андфьорден охватывает около 714 квадратных миль богатых северных вод, где обитают киты, морские птицы и холодноводные рифы.",
+     "why": "Долгосрочная защита большой акватории."
+    }
+   }
   },
   {
    "id": "rtbc-denver-student-housing",
@@ -259,7 +548,24 @@
    "region": "USA",
    "published": "2026-09-29T08:00:24Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "North America"
+   "continent": "North America",
+   "i18n": {
+    "ca": {
+     "title": "Denver obre habitatges per a estudiants universitaris sense llar",
+     "summary": "Una entitat sense ànim de lucre i universitats locals ofereixen fins a dos anys d'habitatge subvencionat i suport a estudiants sense una llar estable.",
+     "why": "Canvia directament les possibilitats dels estudiants en risc d'abandonar."
+    },
+    "fr": {
+     "title": "Denver ouvre des logements pour les étudiants sans abri",
+     "summary": "Une association et des universités locales proposent jusqu'à deux ans de logement subventionné et d'accompagnement aux étudiants sans domicile stable.",
+     "why": "Change directement les chances des étudiants menacés de décrocher."
+    },
+    "ru": {
+     "title": "В Денвере открыли жильё для бездомных студентов",
+     "summary": "Некоммерческая организация и местные университеты предлагают студентам без постоянного жилья до двух лет льготного проживания и поддержки.",
+     "why": "Напрямую повышает шансы студентов, которым грозит отчисление."
+    }
+   }
   },
   {
    "id": "pn-peru-indigenous-wildfires",
@@ -273,7 +579,24 @@
    "region": "Peru",
    "published": "2026-09-29T08:00:00Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "South America"
+   "continent": "South America",
+   "i18n": {
+    "ca": {
+     "title": "Comunitats indígenes del Perú aturen els incendis forestals",
+     "summary": "Comunitats de l'Amazònia peruana combinen el coneixement tradicional del bosc amb eines noves per detectar i prevenir incendis.",
+     "why": "Protegeix el bosc i els mitjans de vida amb un model que altres poden copiar."
+    },
+    "fr": {
+     "title": "Au Pérou, des communautés autochtones stoppent les incendies de forêt",
+     "summary": "Des communautés de l'Amazonie péruvienne associent savoirs forestiers traditionnels et nouveaux outils pour détecter et prévenir les incendies.",
+     "why": "Protège la forêt et les moyens de subsistance avec un modèle reproductible."
+    },
+    "ru": {
+     "title": "Коренные общины Перу останавливают лесные пожары",
+     "summary": "Общины перуанской Амазонии сочетают традиционные знания о лесе с новыми инструментами, чтобы обнаруживать и предотвращать пожары.",
+     "why": "Защищает лес и источники средств к существованию по модели, которую могут перенять другие."
+    }
+   }
   },
   {
    "id": "gnn-vietnam-delacours-langur",
@@ -287,7 +610,24 @@
    "region": "Vietnam",
    "published": "2026-09-28T15:30:22Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Asia"
+   "continent": "Asia",
+   "i18n": {
+    "ca": {
+     "title": "Vietnam protegeix els últims boscos d'un mico en perill crític",
+     "summary": "Una nova àrea de conservació de 7.500 acres protegeix el bosc calcari on viuen la majoria dels langurs de Delacour que queden.",
+     "why": "Protecció legal concreta per a un dels primats més rars del món."
+    },
+    "fr": {
+     "title": "Le Vietnam protège les dernières forêts d'un singe en danger critique",
+     "summary": "Une nouvelle aire de conservation de 7 500 acres protège la forêt calcaire où vivent la plupart des derniers langurs de Delacour.",
+     "why": "Une protection juridique concrète pour l'un des primates les plus rares au monde."
+    },
+    "ru": {
+     "title": "Вьетнам взял под охрану последние леса обезьяны на грани исчезновения",
+     "summary": "Новая охраняемая территория площадью 7500 акров защищает известняковый лес, где живёт большинство оставшихся лангуров Делакура.",
+     "why": "Конкретная правовая защита одного из самых редких приматов мира."
+    }
+   }
   },
   {
    "id": "sd-ancient-peptides-superbugs",
@@ -301,7 +641,24 @@
    "region": "Global",
    "published": "2026-09-28T09:59:57Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Global"
+   "continent": "Global",
+   "i18n": {
+    "ca": {
+     "title": "Proteïnes de fa 160 milions d'anys combaten bacteris resistents als antibiòtics",
+     "summary": "Científics han reconstruït pèptids antimicrobians antics i han vist que vencen els bacteris resistents millor que les versions humanes actuals.",
+     "why": "Un enfocament nou davant una gran amenaça sanitària; en fase de laboratori."
+    },
+    "fr": {
+     "title": "Des protéines vieilles de 160 millions d'années contre les bactéries résistantes",
+     "summary": "Des scientifiques ont reconstitué des peptides antimicrobiens anciens et constaté qu'ils surpassent les versions humaines actuelles contre les bactéries résistantes.",
+     "why": "Une nouvelle approche face à une menace sanitaire majeure ; stade du laboratoire."
+    },
+    "ru": {
+     "title": "Белки возрастом 160 млн лет борются с устойчивыми к антибиотикам бактериями",
+     "summary": "Учёные воссоздали древние антимикробные пептиды и выяснили, что они справляются с устойчивыми бактериями лучше современных человеческих.",
+     "why": "Новый подход к серьёзной угрозе здоровью; пока лабораторная стадия."
+    }
+   }
   },
   {
    "id": "sd-stroke-body-clock",
@@ -315,7 +672,24 @@
    "region": "Global",
    "published": "2026-09-28T08:35:12Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Global"
+   "continent": "Global",
+   "i18n": {
+    "ca": {
+     "title": "Reajustar el rellotge biològic podria ajudar el cervell a recuperar-se d'un ictus",
+     "summary": "Reforçar els ritmes circadians va millorar la recuperació després d'un ictus, ja que augmenta l'eliminació de residus del cervell i redueix la inflamació.",
+     "why": "Idea barata i de poc risc amb potencial real; proves inicials."
+    },
+    "fr": {
+     "title": "Recaler l'horloge biologique pourrait aider le cerveau après un AVC",
+     "summary": "Renforcer les rythmes circadiens a amélioré la récupération après un AVC en stimulant l'élimination des déchets du cerveau et en réduisant l'inflammation.",
+     "why": "Idée peu coûteuse et peu risquée, au vrai potentiel ; premiers résultats."
+    },
+    "ru": {
+     "title": "Настройка биологических часов может помочь мозгу восстановиться после инсульта",
+     "summary": "Укрепление циркадных ритмов улучшило восстановление после инсульта: мозг лучше очищался от отходов, а воспаление снижалось.",
+     "why": "Дешёвая и безопасная идея с реальным потенциалом; первые данные."
+    }
+   }
   },
   {
    "id": "sd-glucosamine-alzheimers",
@@ -329,7 +703,24 @@
    "region": "Global",
    "published": "2026-09-27T13:53:39Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Global"
+   "continent": "Global",
+   "i18n": {
+    "ca": {
+     "title": "El suplement articular glucosamina, vinculat a un Alzheimer més ràpid",
+     "summary": "Les persones que prenien glucosamina tenien un risc un 25% més alt de passar de deteriorament lleu a demència, per un mecanisme de sucres i proteïnes.",
+     "why": "Preocupant per a molts usuaris de suplements, però útil de saber."
+    },
+    "fr": {
+     "title": "La glucosamine, complément pour les articulations, liée à un Alzheimer plus rapide",
+     "summary": "Les personnes prenant de la glucosamine avaient un risque environ 25 % plus élevé d'évoluer d'un déclin léger vers la démence, via un mécanisme sucre-protéine.",
+     "why": "Inquiétant pour de nombreux consommateurs de compléments, mais utile à savoir."
+    },
+    "ru": {
+     "title": "Глюкозамин для суставов связали с более быстрым развитием болезни Альцгеймера",
+     "summary": "У принимавших глюкозамин риск перехода от лёгких когнитивных нарушений к деменции был примерно на 25% выше из-за механизма, связанного с сахарами и белками.",
+     "why": "Тревожно для многих, кто принимает добавки, но полезно знать."
+    }
+   }
   },
   {
    "id": "sd-crispr-cholesterol-year",
@@ -343,7 +734,24 @@
    "region": "Global",
    "published": "2026-09-27T13:15:21Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Global"
+   "continent": "Global",
+   "i18n": {
+    "ca": {
+     "title": "Un sol tractament CRISPR redueix a la meitat el colesterol «dolent» durant un any",
+     "summary": "Una única dosi d'edició genètica va reduir aproximadament a la meitat el colesterol LDL i els triglicèrids, i l'efecte es va mantenir 12 mesos.",
+     "why": "Podria canviar la prevenció cardíaca de milions de persones si es demostra segur a gran escala."
+    },
+    "fr": {
+     "title": "Un seul traitement CRISPR divise par deux le « mauvais » cholestérol pendant un an",
+     "summary": "Une dose unique d'édition génétique a réduit d'environ moitié le cholestérol LDL et les triglycérides, avec un effet maintenu pendant 12 mois.",
+     "why": "Pourrait changer la prévention cardiaque de millions de personnes si sa sécurité se confirme à grande échelle."
+    },
+    "ru": {
+     "title": "Одна процедура CRISPR вдвое снизила «плохой» холестерин на целый год",
+     "summary": "Однократное редактирование генов снизило уровень холестерина ЛПНП и триглицеридов примерно вдвое, и эффект сохранялся 12 месяцев.",
+     "why": "Может изменить профилактику болезней сердца для миллионов, если подтвердится безопасность."
+    }
+   }
   },
   {
    "id": "gnn-doordash-131m-workers",
@@ -357,7 +765,24 @@
    "region": "USA",
    "published": "2026-09-27T11:00:38Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "North America"
+   "continent": "North America",
+   "i18n": {
+    "ca": {
+     "title": "Nova York recupera 131 milions de dòlars per als repartidors de DoorDash",
+     "summary": "La ciutat ha arribat a un acord amb DoorDash per infraccions salarials, i més de 115 milions aniran directament als repartidors que van cobrar de menys.",
+     "why": "Un pagament gran i directe a treballadors amb ingressos baixos."
+    },
+    "fr": {
+     "title": "New York récupère 131 millions de dollars pour les livreurs de DoorDash",
+     "summary": "La ville a conclu un accord avec DoorDash pour des infractions salariales, et plus de 115 millions iront directement aux livreurs sous-payés.",
+     "why": "Un versement important et direct à des travailleurs modestes."
+    },
+    "ru": {
+     "title": "Нью-Йорк взыскал 131 млн долларов для курьеров DoorDash",
+     "summary": "Город урегулировал с DoorDash нарушения в оплате труда, и более 115 млн долларов получат напрямую курьеры, которым недоплачивали.",
+     "why": "Крупная прямая выплата низкооплачиваемым работникам."
+    }
+   }
   },
   {
    "id": "gnn-oregon-billion-gift",
@@ -371,7 +796,24 @@
    "region": "USA",
    "published": "2026-09-26T22:29:05Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "North America"
+   "continent": "North America",
+   "i18n": {
+    "ca": {
+     "title": "Phil Knight dona 1.000 milions de dòlars a la Universitat d'Oregon",
+     "summary": "El cofundador de Nike ha fet la donació individual més gran mai rebuda per una universitat pública dels EUA.",
+     "why": "Gran impuls a l'educació pública, tot i que el benefici es concentra en una sola institució."
+    },
+    "fr": {
+     "title": "Phil Knight donne un milliard de dollars à l'université de l'Oregon",
+     "summary": "Le cofondateur de Nike a fait le plus gros don individuel jamais reçu par une université publique américaine.",
+     "why": "Un grand coup de pouce à l'enseignement public, mais concentré sur un seul établissement."
+    },
+    "ru": {
+     "title": "Фил Найт пожертвовал 1 млрд долларов Орегонскому университету",
+     "summary": "Дар сооснователя Nike — крупнейшее единовременное пожертвование государственному университету в истории США.",
+     "why": "Большая поддержка государственного образования, но польза сосредоточена в одном вузе."
+    }
+   }
   },
   {
    "id": "rtbc-nairobi-libraries",
@@ -385,7 +827,24 @@
    "region": "Kenya",
    "published": "2026-09-25T08:00:13Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Africa"
+   "continent": "Africa",
+   "i18n": {
+    "ca": {
+     "title": "Les biblioteques oblidades de Nairobi renaixen com a centres cívics",
+     "summary": "L'entitat Book Bunk està convertint biblioteques públiques en centres amb internet gratuït, ordinadors i formació.",
+     "why": "Amplia les oportunitats de tota una ciutat."
+    },
+    "fr": {
+     "title": "Les bibliothèques délaissées de Nairobi renaissent en lieux de vie citoyenne",
+     "summary": "L'association Book Bunk transforme des bibliothèques publiques en centres offrant internet gratuit, ordinateurs et formations.",
+     "why": "Élargit l'accès aux opportunités pour toute une ville."
+    },
+    "ru": {
+     "title": "Заброшенные библиотеки Найроби возрождаются как общественные центры",
+     "summary": "Некоммерческая организация Book Bunk превращает публичные библиотеки в центры с бесплатным интернетом, компьютерами и обучением.",
+     "why": "Расширяет доступ к возможностям для целого города."
+    }
+   }
   },
   {
    "id": "gnn-edinburgh-bikes-outnumber-cars",
@@ -399,7 +858,24 @@
    "region": "UK",
    "published": "2026-09-23T18:30:11Z",
    "added": "2026-10-03T15:58:00Z",
-   "continent": "Europe"
+   "continent": "Europe",
+   "i18n": {
+    "ca": {
+     "title": "A Edimburg, les bicicletes superen els cotxes en una ruta en hora punta",
+     "summary": "Els carrils bici protegits i el lloguer de bicicletes elèctriques han fet que, per primera vegada, hi passin més ciclistes que cotxes en un trajecte del matí.",
+     "why": "Mostra com la infraestructura canvia hàbits; d'abast local."
+    },
+    "fr": {
+     "title": "À Édimbourg, les vélos dépassent les voitures sur un trajet aux heures de pointe",
+     "summary": "Des pistes cyclables protégées et la location de vélos électriques ont fait passer, pour la première fois, plus de cyclistes que de voitures sur un trajet du matin.",
+     "why": "Montre que les infrastructures changent les habitudes ; portée locale."
+    },
+    "ru": {
+     "title": "В Эдинбурге велосипедисты обогнали машины на маршруте в час пик",
+     "summary": "Защищённые велодорожки и прокат электровелосипедов впервые вывели велосипедистов вперёд автомобилей на одном утреннем маршруте.",
+     "why": "Показывает, как инфраструктура меняет привычки; местный масштаб."
+    }
+   }
   }
  ]
 }

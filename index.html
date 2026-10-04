@@ -130,7 +130,7 @@ button,select{font:inherit;color:inherit}
 .ghost{border:1px solid var(--line);background:transparent;border-radius:999px;padding:6px 10px;font-size:.78rem;cursor:pointer;color:var(--muted);display:inline-flex;align-items:center;gap:5px;min-height:32px}
 .ghost[aria-pressed="true"]{color:var(--sun);border-color:var(--sun)}
 .ghost svg,.go svg{width:14px;height:14px;flex:none}
-@media (max-width:480px){.ghost .lbl{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}.ghost{padding:6px 9px}}
+@media (max-width:480px){.actions{gap:5px}.ghost{padding:6px 8px}.go{padding:7px 11px}}
 .empty{margin-top:8px;text-align:center;color:var(--muted);padding:26px 16px;border:1px dashed var(--line);border-radius:var(--r)}
 .empty strong{display:block;color:var(--ink);font-family:var(--f-display);font-size:1.1rem;margin-bottom:4px}
 
@@ -254,7 +254,7 @@ button,select{font:inherit;color:inherit}
       allScores:"All scores", scoreN:"Score {n}+", allTopics:"All topics", allConts:"All continents",
       newest:"Newest first", brightest:"Brightest first", clear:"Clear filters",
       stripLbl:"Brightest of the last two days", byGood:"By goodness",
-      read:"Read at source", why:"Why this score?", whyN:"Why {n}:", hideWhy:"Hide reason",
+      read:"Read at source", why:"Why this score?", whyShort:"Why?", whyN:"Why {n}:", hideWhy:"Hide reason",
       save:"Save", saved:"Saved", savedToast:"Saved on this device", removed:"Removed from saved",
       share:"Share", copy:"Copy link", copied:"Link copied", isNew:"New", orig:"Original in English",
       noStories:["No stories yet","The next update fills this page. It runs every six hours."],
@@ -279,7 +279,7 @@ button,select{font:inherit;color:inherit}
       allScores:"Totes les notes", scoreN:"Nota {n}+", allTopics:"Tots els temes", allConts:"Tots els continents",
       newest:"Més recents", brightest:"Millor nota", clear:"Treu els filtres",
       stripLbl:"El millor dels últims dos dies", byGood:"Per nota",
-      read:"Llegeix a la font", why:"Per què aquesta nota?", whyN:"Per què {n}:", hideWhy:"Amaga el motiu",
+      read:"Llegeix a la font", why:"Per què aquesta nota?", whyShort:"Per què?", whyN:"Per què {n}:", hideWhy:"Amaga el motiu",
       save:"Desa", saved:"Desada", savedToast:"Desada en aquest dispositiu", removed:"Treta de les desades",
       share:"Comparteix", copy:"Copia l'enllaç", copied:"Enllaç copiat", isNew:"Nova", orig:"Original en anglès",
       noStories:["Encara no hi ha notícies","La propera actualització omplirà aquesta pàgina. Es fa cada sis hores."],
@@ -304,7 +304,7 @@ button,select{font:inherit;color:inherit}
       allScores:"Toutes les notes", scoreN:"Note {n}+", allTopics:"Tous les thèmes", allConts:"Tous les continents",
       newest:"Plus récentes", brightest:"Meilleure note", clear:"Effacer les filtres",
       stripLbl:"Le meilleur des deux derniers jours", byGood:"Par note",
-      read:"Lire à la source", why:"Pourquoi cette note ?", whyN:"Pourquoi {n} :", hideWhy:"Masquer",
+      read:"Lire à la source", why:"Pourquoi cette note ?", whyShort:"Pourquoi ?", whyN:"Pourquoi {n} :", hideWhy:"Masquer",
       save:"Enregistrer", saved:"Enregistrée", savedToast:"Enregistrée sur cet appareil", removed:"Retirée des enregistrements",
       share:"Partager", copy:"Copier le lien", copied:"Lien copié", isNew:"Nouveau", orig:"Original en anglais",
       noStories:["Pas encore d'actualités","La prochaine mise à jour remplira cette page. Elle a lieu toutes les six heures."],
@@ -329,7 +329,7 @@ button,select{font:inherit;color:inherit}
       allScores:"Любая оценка", scoreN:"Оценка {n}+", allTopics:"Все темы", allConts:"Все континенты",
       newest:"Сначала новые", brightest:"Сначала лучшие", clear:"Сбросить фильтры",
       stripLbl:"Лучшее за последние два дня", byGood:"По оценке",
-      read:"Читать в источнике", why:"Почему такая оценка?", whyN:"Почему {n}:", hideWhy:"Скрыть",
+      read:"Читать в источнике", why:"Почему такая оценка?", whyShort:"Почему?", whyN:"Почему {n}:", hideWhy:"Скрыть",
       save:"Сохранить", saved:"Сохранено", savedToast:"Сохранено на этом устройстве", removed:"Удалено из сохранённых",
       share:"Поделиться", copy:"Копировать ссылку", copied:"Ссылка скопирована", isNew:"Новое", orig:"Оригинал на английском",
       noStories:["Новостей пока нет","Следующее обновление заполнит эту страницу. Оно происходит каждые шесть часов."],
@@ -468,7 +468,7 @@ button,select{font:inherit;color:inherit}
         ${open && why ? `<p class="why">${esc(fmt(l.whyN,{n:s.score}))} ${esc(why)}</p>` : ""}
         <div class="actions">
           <a class="go" href="${esc(s.url)}" target="_blank" rel="noopener" data-act="read">${esc(l.read)} ${ICON_EXT}</a>
-          ${why?`<button class="ghost" data-act="why" aria-expanded="${open}" title="${esc(open?l.hideWhy:l.why)}">${ICON_Q}<span class="lbl">${esc(open?l.hideWhy:l.why)}</span></button>`:""}
+          ${why?`<button class="ghost" data-act="why" aria-expanded="${open}" title="${esc(open?l.hideWhy:l.why)}">${ICON_Q}<span class="lbl">${esc(open?l.hideWhy:l.whyShort)}</span></button>`:""}
           <button class="ghost" data-act="save" aria-pressed="${saved}" title="${esc(saved?l.saved:l.save)}">${ICON_STAR}<span class="lbl">${esc(saved?l.saved:l.save)}</span></button>
           <button class="ghost" data-act="share" title="${esc(canShare?l.share:l.copy)}">${ICON_SHARE}<span class="lbl">${esc(canShare?l.share:l.copy)}</span></button>
         </div>
