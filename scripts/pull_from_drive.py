@@ -73,6 +73,10 @@ def main():
         if not key or not folder:
             raise SystemExit("Missing DRIVE_API_KEY secret or drive_folder_id in site.json.")
         by_name = {f["name"]: f for f in list_drive(folder, key) if NAME_RE.match(f["name"])}
+        if not by_name:
+            raise SystemExit("No run files are visible in the Drive folder. The Claude task keeps at least "
+                             "one there, so the folder is most likely not shared as 'Anyone with the link "
+                             "(Viewer)'. Share it that way and run this workflow again.")
         names = sorted(by_name)
         load = lambda n: read_drive(by_name[n], key)
 
