@@ -5,7 +5,17 @@
     <link>https://oriolsansplanell.github.io/kseniias-good-news/</link>
     <description>Positive news from several sources, scored 0-10 for goodness and refreshed every six hours.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 12:17:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:14:33 +0000</lastBuildDate>
+    <item>
+      <title>Delhi volunteer group clears large amounts of waste from parks and waterways [6/10]</title>
+      <link>https://thebetterindia.com/videos/society/350-volunteers-thousands-of-tonnes-of-waste-removed-12623415</link>
+      <guid isPermaLink="false">tbi-delhi-volunteers-clean-parks-canals</guid>
+      <pubDate>Sun, 04 Oct 2026 17:02:04 +0000</pubDate>
+      <category>Environment</category>
+      <category>Asia</category>
+      <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">The Better India</source>
+      <description>A community cleanup initiative in Delhi now has 350 active volunteers who have removed thousands of tonnes of waste from parks, canals and riverbanks. They plan to open an environmental school for children. (Goodness 6/10: A local, citizen-led effort with real results, but limited to one city.)</description>
+    </item>
     <item>
       <title>Fishermen rescue newborn elephant calf swept into Teesta River [6/10]</title>
       <link>https://thebetterindia.com/wildlife/newborn-elephant-calf-teesta-rescue-viral-hug-12613589</link>
@@ -595,16 +605,6 @@
       <category>North America</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Good News Network</source>
       <description>The Nike co-founder's gift is the largest single donation ever made to a US public university. (Goodness 6/10: Big boost for public education; benefits concentrated in one institution.)</description>
-    </item>
-    <item>
-      <title>Nairobi's neglected libraries reborn as civic hubs [7/10]</title>
-      <link>https://reasonstobecheerful.world/nairobi-libraries-civic-hubs/</link>
-      <guid isPermaLink="false">rtbc-nairobi-libraries</guid>
-      <pubDate>Fri, 25 Sep 2026 08:00:13 +0000</pubDate>
-      <category>Society</category>
-      <category>Africa</category>
-      <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Reasons to be Cheerful</source>
-      <description>The nonprofit Book Bunk is restoring public libraries into centres with free internet, computers and skills training. (Goodness 7/10: Widens access to opportunity for a whole city.)</description>
     </item>
   </channel>
 </rss>

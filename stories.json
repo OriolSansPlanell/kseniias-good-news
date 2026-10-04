@@ -1,18 +1,52 @@
 {
- "updated": "2026-10-04T12:17:05Z",
+ "updated": "2026-10-04T18:14:33Z",
  "sources": [
   "Positive News",
-  "Good News Network",
+  "Mongabay",
   "The Optimist Daily",
   "The Better India",
   "Grist",
+  "Anthropocene Magazine",
   "Africanews",
-  "Mongabay"
+  "Good News Network",
+  "Reasons to be Cheerful",
+  "ScienceDaily"
  ],
- "count": 90,
- "last_run": "run-20261004T1217Z.json",
- "note": "11 new, 69 skipped, 0 pruned, 72 translations added, failed feeds: none",
+ "count": 94,
+ "last_run": "run-20261004T1814Z.json",
+ "note": "4 new, 80 skipped, 0 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "tbi-delhi-volunteers-clean-parks-canals",
+   "title": "Delhi volunteer group clears large amounts of waste from parks and waterways",
+   "summary": "A community cleanup initiative in Delhi now has 350 active volunteers who have removed thousands of tonnes of waste from parks, canals and riverbanks. They plan to open an environmental school for children.",
+   "why": "A local, citizen-led effort with real results, but limited to one city.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/videos/society/350-volunteers-thousands-of-tonnes-of-waste-removed-12623415",
+   "score": 6,
+   "category": "Environment",
+   "region": "Delhi, India",
+   "published": "2026-10-04T17:02:04Z",
+   "continent": "Asia",
+   "added": "2026-10-04T18:14:33Z",
+   "i18n": {
+    "ca": {
+     "title": "Grup de voluntaris de Delhi neteja grans quantitats de residus dels parcs i vies d'aigua",
+     "summary": "Una iniciativa de neteja comunitària a Delhi té ara 350 voluntaris actius que han tret milers de tones de residus dels parcs, canals i riberes. Tenen previst obrir una escola ambiental per a nens.",
+     "why": "Un esforç local i liderat pels ciutadans amb resultats reals, però limitat a una ciutat."
+    },
+    "fr": {
+     "title": "Un groupe de bénévoles de Delhi nettoie de grandes quantités de déchets dans les parcs et cours d'eau",
+     "summary": "Une initiative de nettoyage communautaire à Delhi compte maintenant 350 bénévoles actifs qui ont retiré des milliers de tonnes de déchets des parcs, canaux et rives. Ils envisagent d'ouvrir une école environnementale pour les enfants.",
+     "why": "Un effort local mené par des citoyens avec des résultats réels, mais limité à une seule ville."
+    },
+    "ru": {
+     "title": "Группа добровольцев в Дели очищает большое количество отходов из парков и водных путей",
+     "summary": "Инициатива по очистке сообщества в Дели теперь насчитывает 350 активных добровольцев, которые удалили тысячи тонн отходов из парков, каналов и берегов рек. Они планируют открыть экологическую школу для детей.",
+     "why": "Локальное, инициированное гражданами усилие с реальными результатами, но ограниченное одним городом."
+    }
+   }
+  },
   {
    "id": "tbi-newborn-elephant-calf-rescued-teesta",
    "title": "Fishermen rescue newborn elephant calf swept into Teesta River",
@@ -661,6 +695,37 @@
      "title": "Выборы в Бразилии могут определить защиту Амазонии после 45-процентного сокращения вырубок",
      "summary": "Политика, сократившая потерю лесов Амазонии на 45%, может быть отменена в зависимости от результата президентских выборов в Бразилии.",
      "why": "Прошлые успехи реальны, но теперь они подвергаются риску."
+    }
+   }
+  },
+  {
+   "id": "mb-vietnam-fishers-declining-catches",
+   "title": "Vietnamese fishers squeezed by fuel costs, falling catches and disputed waters",
+   "summary": "Fishers in Vietnam face higher fuel prices and shrinking stocks driven by overfishing and climate change, while competing with foreign vessels in contested parts of the sea.",
+   "why": "A useful warning about overfishing and livelihoods, with no clear improvement.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/vietnams-fishers-face-rising-costs-declining-catches-and-a-contested-sea/",
+   "score": 2,
+   "category": "Environment",
+   "region": "Vietnam",
+   "published": "2026-10-02T18:01:16Z",
+   "continent": "Asia",
+   "added": "2026-10-04T18:14:33Z",
+   "i18n": {
+    "ca": {
+     "title": "Els pescadors vietnamites pressionats pels costos de combustible, caiguda de captures i aigües disputades",
+     "summary": "Els pescadors a Vietnam s'enfronten a preus més alts de combustible i estocs decreixents impulsats per la sobrepesca i el canvi climàtic, mentre competeixen amb vaixells estrangers en parts contestades del mar.",
+     "why": "Un advertiment útil sobre la sobrepesca i els mitjans de vida, sense cap millora clara."
+    },
+    "fr": {
+     "title": "Les pêcheurs vietnamiens confrontés aux coûts de carburant, aux prises déclinantes et aux eaux contestées",
+     "summary": "Les pêcheurs au Vietnam font face à des prix de carburant plus élevés et à des stocks décroissants causés par la surpêche et le changement climatique, tout en concurrençant des navires étrangers dans des zones contestées de la mer.",
+     "why": "Un avertissement utile concernant la surpêche et les moyens de subsistance, sans amélioration claire en vue."
+    },
+    "ru": {
+     "title": "Вьетнамские рыбаки в затруднении из-за стоимости топлива, снижающихся уловов и спорных вод",
+     "summary": "Рыбаки во Вьетнаме сталкиваются с более высокими ценами на топливо и сокращающимися запасами, вызванными чрезмерным выловом и изменением климата, одновременно конкурируя с иностранными судами в спорных районах моря.",
+     "why": "Полезное предупреждение о чрезмерном вылове и средствах к существованию, но без явных признаков улучшения."
     }
    }
   },
@@ -1874,6 +1939,37 @@
    }
   },
   {
+   "id": "gr-boulder-climate-case-unexpected-allies",
+   "title": "Ranchers and conservative scholars back Boulder's climate lawsuit at the US Supreme Court",
+   "summary": "Colorado ranchers, conservative legal scholars and former Republican EPA officials have lined up behind Boulder's suit seeking climate damages from oil companies, forming an unusual coalition.",
+   "why": "Broad support is encouraging, but the legal outcome is uncertain.",
+   "source": "Grist",
+   "url": "https://grist.org/accountability/boulder-supreme-court-climate-lawsuit-ranchers-exxon/",
+   "score": 4,
+   "category": "Society",
+   "region": "Colorado, USA",
+   "published": "2026-10-01T08:45:00Z",
+   "continent": "North America",
+   "added": "2026-10-04T18:14:33Z",
+   "i18n": {
+    "ca": {
+     "title": "Ramaders i experts conservadors donen suport a la demanda climàtica de Boulder a la Cort Suprema dels EUA",
+     "summary": "Ramaders de Colorado, experts del dret conservadors i antics funcionaris republicans de l'EPA s'han alineat darrere de la demanda de Boulder buscant danys climàtics de les empreses petrolíferes, formant una coalició inusual.",
+     "why": "El suport ampli és animador, però el resultat legal és incert."
+    },
+    "fr": {
+     "title": "Des éleveurs et des universitaires conservateurs soutiennent l'action climatique de Boulder à la Cour suprême des États-Unis",
+     "summary": "Des éleveurs du Colorado, des universitaires conservateurs en droit et d'anciens fonctionnaires républicains de l'EPA se sont rangés derrière l'action de Boulder cherchant des dommages climatiques de la part des sociétés pétrolières, formant une coalition inhabituelle.",
+     "why": "Le large soutien est encourageant, mais l'issue juridique reste incertaine."
+    },
+    "ru": {
+     "title": "Скотоводы и консервативные ученые поддерживают климатический иск Боулдера в Верховном суде США",
+     "summary": "Скотоводы Колорадо, консервативные правоведы и бывшие республиканские чиновники EPA выступили в поддержку иска Боулдера о взыскании климатических убытков у нефтяных компаний, образовав необычную коалицию.",
+     "why": "Широкая поддержка обнадеживает, но исход дела неопределен."
+    }
+   }
+  },
+  {
    "id": "sd-ultra-processed-food-depression",
    "title": "Cutting ultra-processed food eased depression symptoms in a small trial",
    "summary": "In preliminary testing, people with depression who sharply reduced ultra-processed food reported notable improvements, possibly linked to less gut damage and inflammation.",
@@ -1963,6 +2059,37 @@
      "title": "Вред от главного гена риска болезни Альцгеймера может быть обратим",
      "summary": "Исследователи выяснили, как ген APOE4 повреждает сосуды мозга, и в экспериментах частично обратили этот эффект.",
      "why": "Открывает новый путь к лечению; исследования пока на ранней стадии."
+    }
+   }
+  },
+  {
+   "id": "mb-indonesia-new-peatland-agency-questions",
+   "title": "Indonesia sets up new peatland agency after severe fires, with doubts about its approach",
+   "summary": "Following the damaging 2025 fires, Indonesia has created a new peatland restoration agency. Observers ask how it will differ from its predecessor, which fell short of its goals.",
+   "why": "A new restoration body is a step forward, but its effectiveness is unproven.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/indonesias-new-peatland-agency-faces-questions-over-what-it-will-do-differently/",
+   "score": 4,
+   "category": "Environment",
+   "region": "Indonesia",
+   "published": "2026-10-01T04:19:26Z",
+   "continent": "Asia",
+   "added": "2026-10-04T18:14:33Z",
+   "i18n": {
+    "ca": {
+     "title": "Indonèsia estableix una nova agència de torberes després dels incendis greus, amb dubtes sobre el seu enfocament",
+     "summary": "Després dels incendis perjudicials de 2025, Indonèsia ha creat una nova agència de restauració de torberes. Els observadors qüestionen com es diferenciarà del seu predecessor, que no va complir els seus objectius.",
+     "why": "Un nou òrgan de restauració és un pas endavant, però la seva eficàcia no ha estat provada."
+    },
+    "fr": {
+     "title": "L'Indonésie crée une nouvelle agence de tourbières après de graves incendies, avec des doutes sur son approche",
+     "summary": "Suite aux incendies dévastateurs de 2025, l'Indonésie a créé une nouvelle agence de restauration des tourbières. Les observateurs se demandent comment elle différera de son prédécesseur, qui n'a pas atteint ses objectifs.",
+     "why": "Un nouvel organe de restauration est une avancée, mais son efficacité reste à prouver."
+    },
+    "ru": {
+     "title": "Индонезия учреждает новое агентство по торфяникам после сильных пожаров, с сомнениями относительно его подхода",
+     "summary": "После разрушительных пожаров 2025 года Индонезия создала новое агентство по восстановлению торфяников. Наблюдатели задаются вопросом, чем оно будет отличаться от своего предшественника, который не достиг своих целей.",
+     "why": "Новый орган восстановления — это шаг вперед, но его эффективность еще не доказана."
     }
    }
   },
