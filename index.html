@@ -100,10 +100,19 @@ button,select{font:inherit;color:inherit}
 .clear{flex:none;border:0;background:none;color:var(--accent);font-weight:700;font-size:.82rem;cursor:pointer;padding:6px 4px;text-decoration:underline;text-underline-offset:3px}
 
 /* Goodness slider */
-.slider-row{display:flex;align-items:center;gap:12px;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:6px 14px}
+.slider-row{--thumb:9px;display:grid;gap:4px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:10px 14px 8px}
+.slider-head{display:flex;align-items:center;justify-content:space-between;gap:12px}
 .slider-row label{font-size:.84rem;font-weight:700;white-space:nowrap}
-.slider-row input{flex:1;min-width:0;accent-color:var(--sun);height:24px;cursor:pointer}
+.slider-row input{width:100%;margin:0;accent-color:var(--sun);height:22px;cursor:pointer}
 .slider-row output{font-family:var(--f-mono);font-size:.85rem;font-weight:600;min-width:2.6em;text-align:center;border-radius:6px;padding:1px 4px;color:#10221E}
+.nhist{position:relative;height:46px;margin-top:2px}
+.nhist button{position:absolute;bottom:0;transform:translateX(-50%);width:calc((100% - 2 * var(--thumb)) / 10 - 4px);max-width:26px;border:0;padding:0;background:none;cursor:pointer;display:flex;flex-direction:column;justify-content:flex-end;height:100%}
+.nhist .bar{display:block;border-radius:3px 3px 1px 1px;min-height:2px;transition:opacity .2s}
+.nhist button.off .bar{opacity:.22}
+.nhist .n{font-family:var(--f-mono);font-size:.58rem;color:var(--muted);line-height:1;margin-bottom:2px;text-align:center}
+.nticks{position:relative;height:12px}
+.nticks span{position:absolute;transform:translateX(-50%);font-family:var(--f-mono);font-size:.6rem;color:var(--muted);line-height:1}
+@media (min-width:1000px){.world .hist{display:none}}
 
 /* Brightest strip */
 .strip-wrap{display:grid;gap:6px}
@@ -256,7 +265,12 @@ button,select{font:inherit;color:inherit}
 <div class="layout">
   <main class="main" id="main">
     <div id="newsview" class="main">
-      <div class="slider-row" id="sliderrow"><label for="min" id="min-lbl">Minimum goodness</label><input type="range" id="min" min="0" max="10" step="1" value="6"><output id="min-val" for="min">6+</output></div>
+      <div class="slider-row" id="sliderrow">
+        <div class="slider-head"><label for="min" id="min-lbl">Minimum goodness</label><output id="min-val" for="min">6+</output></div>
+        <div class="nhist" id="nhist" aria-hidden="true"></div>
+        <input type="range" id="min" min="0" max="10" step="1" value="6">
+        <div class="nticks" id="nticks" aria-hidden="true"></div>
+      </div>
       <div class="filters" id="filters"></div>
       <div id="strip"></div>
       <div id="feed"></div>
@@ -533,6 +547,12 @@ button,select{font:inherit;color:inherit}
     out.textContent = st.min > 0 ? st.min + "+" : "0+";
     out.style.background = scoreColor(st.min);
     inp.setAttribute("aria-valuetext", st.min > 0 ? fmt(l.scoreN, {n: st.min}) : l.allScores);
+    const counts = Array(11).fill(0);
+    for(const s of st.stories){ const k = Math.round(Number(s.score)); if(k >= 0 && k <= 10) counts[k]++; }
+    const mx = Math.max(1, ...counts);
+    const pos = i => `left:calc(var(--thumb) + (100% - 2 * var(--thumb)) * ${i/10})`;
+    $("#nhist").innerHTML = counts.map((c,i) => `<button type="button" tabindex="-1" data-setmin="${i}" class="${i < st.min ? "off" : ""}" style="${pos(i)}" title="${esc(plural(l.stories, c))} · ${i}/10">${c ? `<span class="n">${c}</span>` : ""}<span class="bar" style="height:${c ? Math.round(c/mx*30)+3 : 2}px;background:${scoreColor(i)}"></span></button>`).join("");
+    $("#nticks").innerHTML = counts.map((_,i) => `<span style="${pos(i)}">${i}</span>`).join("");
   }
   function renderFilters(){
     const box = $("#filters");
@@ -797,6 +817,8 @@ button,select{font:inherit;color:inherit}
     if(lb){ st.lang = lb.dataset.lang; store.set("lang", st.lang); closeLang(); render(); return; }
     if(!e.target.closest(".lang")) closeLang();
     const tab = e.target.closest(".tab"); if(tab){ setTab(tab.dataset.tab); return; }
+    const sm = e.target.closest("[data-setmin]");
+    if(sm){ st.min = Number(sm.dataset.setmin); store.set("min", st.min); $("#min").value = st.min; render(); return; }
     const ec = e.target.closest("[data-evcat]"); if(ec){ st.evCat = ec.dataset.evcat; renderCalendar(); return; }
     const pz = e.target.closest("[data-prize]");
     if(pz){ const id = pz.dataset.prize; st.openPrize.has(id) ? st.openPrize.delete(id) : st.openPrize.add(id); renderCalendar(); document.getElementById("prize-"+id)?.scrollIntoView({block:"nearest", behavior:"smooth"}); return; }
