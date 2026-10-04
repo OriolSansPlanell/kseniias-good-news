@@ -82,7 +82,7 @@ def main():
     changed = bool(newest) and newest > (db.get("last_run") or "")
 
     if changed:
-        stories, latest = [], {}
+        stories, latest, translations = [], {}, {}
         for n in names:
             try:
                 run = json.loads(load(n).decode("utf-8-sig"))
@@ -90,6 +90,9 @@ def main():
                 print(f"  ignoring {n}: not valid JSON ({e})")
                 continue
             stories += run.get("stories", []) if isinstance(run, dict) else []
+            if isinstance(run, dict) and isinstance(run.get("translations"), dict):
+                for sid, langs in run["translations"].items():
+                    translations.setdefault(sid, {}).update(langs if isinstance(langs, dict) else {})
             if n == newest and isinstance(run, dict):
                 latest = run
         result = update_site.merge(
@@ -98,6 +101,7 @@ def main():
             failed=latest.get("failed") or [],
             updated=latest.get("run_at") or None,
             last_run=newest,
+            translations=translations,
         )
         update_site.report(result)
 

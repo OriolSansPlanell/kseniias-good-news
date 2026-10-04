@@ -1,7 +1,8 @@
-// Offline support: the page shell is cached; stories.json is always fetched fresh
-// when online, with the last copy kept for offline reading.
-const CACHE = "kgn-v1";
-const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon.svg", "icons/icon-192.png"];
+// Offline support: the page shell is cached; data files (stories.json, site.json)
+// are always fetched fresh when online, with the last copy kept for offline reading.
+const CACHE = "kgn-v2";
+const SHELL = ["./", "index.html", "manifest.webmanifest", "world.json", "icons/icon.svg", "icons/icon-192.png"];
+const FRESH = ["stories.json", "site.json"];
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
@@ -18,10 +19,11 @@ self.addEventListener("activate", e => {
 self.addEventListener("fetch", e => {
   const url = new URL(e.request.url);
   if (e.request.method !== "GET" || url.origin !== location.origin) return;
+  const fresh = FRESH.find(f => url.pathname.endsWith(f));
 
-  // Network first for the stories and the page, so updates show up straight away.
-  if (url.pathname.endsWith("stories.json") || e.request.mode === "navigate") {
-    const key = url.pathname.endsWith("stories.json") ? "stories.json" : e.request;
+  // Network first for data and the page itself, so updates show up straight away.
+  if (fresh || e.request.mode === "navigate") {
+    const key = fresh || "index.html";
     e.respondWith(
       fetch(e.request)
         .then(res => { const copy = res.clone(); caches.open(CACHE).then(c => c.put(key, copy)); return res; })
@@ -30,6 +32,6 @@ self.addEventListener("fetch", e => {
     return;
   }
 
-  // Cache first for everything else (icons, manifest).
+  // Cache first for everything else (map, icons, manifest).
   e.respondWith(caches.match(e.request).then(r => r || fetch(e.request)));
 });

@@ -1,6 +1,6 @@
 # Kseniia's Good News
 
-A small, free website that collects positive news from several sources, gives each story a 0–10 goodness score with a short summary, and links to the original article for the full story. It works on phones and can be installed like an app.
+A small, free website that collects positive news from ten sources, gives each story a 0–10 goodness score with a short summary, and links to the original article for the full story. It reads in English, Catalan, French and Russian, shows a world map coloured by how good each continent's news has been, works on phones and can be installed like an app.
 
 Live at **https://oriolsansplanell.github.io/kseniias-good-news/**
 
@@ -17,7 +17,7 @@ news feeds ──► Claude scheduled task (every 6 h) ──► run file in a G
         phone / browser ◄── GitHub Pages
 ```
 
-1. Every six hours a Claude scheduled task reads the news feeds, writes short summaries and scores, and uploads one small file (`run-YYYYMMDDTHHMMZ.json`) to a Google Drive folder. It never needs write access to GitHub.
+1. Every six hours a Claude scheduled task runs. Sonnet coordinates: two Haiku helpers read the news feeds in parallel, Sonnet picks and scores the stories and writes the English summaries, and a third Haiku helper translates them into Catalan, French and Russian (and fills in translations missing from older stories). The task then uploads one small file (`run-YYYYMMDDTHHMMZ.json`) to a Google Drive folder. It never needs write access to GitHub.
 2. Every hour a GitHub Action looks in that folder. If there is a newer run file, it merges the stories into `stories.json` and `feed.xml`, commits them, and publishes the site.
 3. The Claude task also deletes run files older than three days, so the folder stays small.
 
@@ -25,14 +25,16 @@ news feeds ──► Claude scheduled task (every 6 h) ──► run file in a G
 
 | File | What it does |
 | --- | --- |
-| `index.html` | The whole reader: filters, scores, saved stories, sharing |
+| `index.html` | The whole reader: four languages, filters by score, topic and continent, the world panel, saved stories, sharing |
+| `world.json` | Simplified continent outlines for the map (from Natural Earth, public domain) |
 | `stories.json` | The current stories |
 | `feed.xml` | An RSS feed of stories scoring 6 or more |
 | `sw.js`, `manifest.webmanifest`, `icons/` | Make it installable on phones and readable offline |
 | `scripts/update_site.py` | Checks stories, removes duplicates and stories older than 10 days, writes `stories.json` and `feed.xml` |
 | `scripts/pull_from_drive.py` | Reads run files from the Drive folder and merges them (used by the Action) |
 | `.github/workflows/update-site.yml` | The hourly Action: import, commit, publish |
-| `site.json` | Site name, address and the Drive folder ID |
+| `site.json` | Site name, address, Drive folder ID and the list of news sources |
+| `scripts/build_map.py` | Rebuilds `world.json` (only needed to change the map) |
 | `UPDATE_PROMPT.md` | The exact instruction the Claude scheduled task follows |
 
 ## Setup, step by step
@@ -85,7 +87,9 @@ Send the address to anyone. No account or sign-in is needed to read it. Saved st
 
 ## Changing things
 
-- **Sources or scoring rules:** edit `UPDATE_PROMPT.md` and ask Claude to update the scheduled task with it. Feeds must be readable by Claude's web fetch tool (the BBC's site blocks it, for example).
+- **Sources:** edit the `sources` list in `site.json` (name, short code, feed URL). The scheduled task reads it on every run, so nothing else needs changing. Feeds must be readable by Claude's web fetch tool (the BBC and The Guardian block it, for example).
+- **Scoring rules or the model split:** edit `UPDATE_PROMPT.md` and ask Claude to update the scheduled task with it.
+- **Wording in the four languages:** the `T` table near the top of the script in `index.html`.
 - **How long stories stay:** `KEEP_DAYS` at the top of `scripts/update_site.py`.
 - **How often the site checks Drive:** the `cron` line in `.github/workflows/update-site.yml`.
 - **Look and feel:** everything is in `index.html`. Any edit you commit to `main` republishes the site.

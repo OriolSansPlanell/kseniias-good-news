@@ -2,5 +2,67 @@
   "title": "Kseniia's Good News",
   "url": "https://oriolsansplanell.github.io/kseniias-good-news/",
   "description": "Positive news from several sources, scored 0-10 for goodness and refreshed every six hours.",
-  "drive_folder_id": "1PQ9DQwWpwxMzSrdW2zXacv0e8vumFiZ0"
+  "drive_folder_id": "1PQ9DQwWpwxMzSrdW2zXacv0e8vumFiZ0",
+  "sources": [
+    {
+      "name": "Positive News",
+      "code": "pn",
+      "feed": "https://www.positive.news/feed/",
+      "focus": "UK and global solutions journalism"
+    },
+    {
+      "name": "Good News Network",
+      "code": "gnn",
+      "feed": "https://www.goodnewsnetwork.org/feed/",
+      "focus": "Global good news, mostly US and UK"
+    },
+    {
+      "name": "Reasons to be Cheerful",
+      "code": "rtbc",
+      "feed": "https://reasonstobecheerful.world/feed/",
+      "focus": "Solutions from cities and communities worldwide"
+    },
+    {
+      "name": "ScienceDaily",
+      "code": "sd",
+      "feed": "https://www.sciencedaily.com/rss/top/science.xml",
+      "focus": "Science and health research (mixed news)"
+    },
+    {
+      "name": "Mongabay",
+      "code": "mb",
+      "feed": "https://news.mongabay.com/feed/",
+      "focus": "Conservation, strong on Latin America, Asia and Africa (mixed news)"
+    },
+    {
+      "name": "The Optimist Daily",
+      "code": "od",
+      "feed": "https://www.optimistdaily.com/feed/",
+      "focus": "Global solutions news"
+    },
+    {
+      "name": "The Better India",
+      "code": "tbi",
+      "feed": "https://thebetterindia.com/feed/",
+      "focus": "Positive stories from India"
+    },
+    {
+      "name": "Anthropocene Magazine",
+      "code": "am",
+      "feed": "https://www.anthropocenemagazine.org/feed/",
+      "focus": "Sustainability science and innovation"
+    },
+    {
+      "name": "Grist",
+      "code": "gr",
+      "feed": "https://grist.org/feed/",
+      "focus": "Climate and environment, mostly North America (mixed news)"
+    },
+    {
+      "name": "Africanews",
+      "code": "an",
+      "feed": "https://www.africanews.com/feed/rss",
+      "focus": "General news from Africa (mostly not positive; pick only real good news)"
+    }
+  ]
 }
