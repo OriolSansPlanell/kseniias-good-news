@@ -320,7 +320,7 @@ button,select{font:inherit;color:inherit}
       updated:"Updated {t}", loading:"Loading…", unreachable:"Can't reach the feed",
       minGood:"Minimum goodness", allScores:"All scores", scoreN:"Score {n}+", allTopics:"All topics", allConts:"All continents",
       newest:"Newest first", brightest:"Brightest first", clear:"Clear filters",
-      stripLbl:"Brightest of the last two days", byGood:"By goodness",
+      stripLbl:"Brightest of the last three days", byGood:"By goodness",
       read:"Read at source", why:"Why this score?", whyShort:"Why?", whyN:"Why {n}:", hideWhy:"Hide reason",
       save:"Save", saved:"Saved", savedToast:"Saved on this device", removed:"Removed from saved",
       share:"Share", copy:"Copy link", copied:"Link copied", isNew:"New", orig:"Original in English",
@@ -345,7 +345,7 @@ button,select{font:inherit;color:inherit}
       updated:"Actualitzat {t}", loading:"Carregant…", unreachable:"No es poden carregar les notícies",
       minGood:"Nota mínima", allScores:"Totes les notes", scoreN:"Nota {n}+", allTopics:"Tots els temes", allConts:"Tots els continents",
       newest:"Més recents", brightest:"Millor nota", clear:"Treu els filtres",
-      stripLbl:"El millor dels últims dos dies", byGood:"Per nota",
+      stripLbl:"El millor dels últims tres dies", byGood:"Per nota",
       read:"Llegeix a la font", why:"Per què aquesta nota?", whyShort:"Per què?", whyN:"Per què {n}:", hideWhy:"Amaga el motiu",
       save:"Desa", saved:"Desada", savedToast:"Desada en aquest dispositiu", removed:"Treta de les desades",
       share:"Comparteix", copy:"Copia l'enllaç", copied:"Enllaç copiat", isNew:"Nova", orig:"Original en anglès",
@@ -370,7 +370,7 @@ button,select{font:inherit;color:inherit}
       updated:"Mis à jour {t}", loading:"Chargement…", unreachable:"Impossible de charger les actualités",
       minGood:"Note minimale", allScores:"Toutes les notes", scoreN:"Note {n}+", allTopics:"Tous les thèmes", allConts:"Tous les continents",
       newest:"Plus récentes", brightest:"Meilleure note", clear:"Effacer les filtres",
-      stripLbl:"Le meilleur des deux derniers jours", byGood:"Par note",
+      stripLbl:"Le meilleur des trois derniers jours", byGood:"Par note",
       read:"Lire à la source", why:"Pourquoi cette note ?", whyShort:"Pourquoi ?", whyN:"Pourquoi {n} :", hideWhy:"Masquer",
       save:"Enregistrer", saved:"Enregistrée", savedToast:"Enregistrée sur cet appareil", removed:"Retirée des enregistrements",
       share:"Partager", copy:"Copier le lien", copied:"Lien copié", isNew:"Nouveau", orig:"Original en anglais",
@@ -395,7 +395,7 @@ button,select{font:inherit;color:inherit}
       updated:"Обновлено {t}", loading:"Загрузка…", unreachable:"Не удалось загрузить новости",
       minGood:"Минимальная оценка", allScores:"Любая оценка", scoreN:"Оценка {n}+", allTopics:"Все темы", allConts:"Все континенты",
       newest:"Сначала новые", brightest:"Сначала лучшие", clear:"Сбросить фильтры",
-      stripLbl:"Лучшее за последние два дня", byGood:"По оценке",
+      stripLbl:"Лучшее за последние три дня", byGood:"По оценке",
       read:"Читать в источнике", why:"Почему такая оценка?", whyShort:"Почему?", whyN:"Почему {n}:", hideWhy:"Скрыть",
       save:"Сохранить", saved:"Сохранено", savedToast:"Сохранено на этом устройстве", removed:"Удалено из сохранённых",
       share:"Поделиться", copy:"Копировать ссылку", copied:"Ссылка скопирована", isNew:"Новое", orig:"Оригинал на английском",
@@ -507,7 +507,8 @@ button,select{font:inherit;color:inherit}
     return cap(d.toLocaleDateString(st.lang,{weekday:"long", day:"numeric", month:"long"}));
   }
   function toast(msg){ const t=$("#toast"); t.textContent=msg; t.hidden=false; clearTimeout(toast._t); toast._t=setTimeout(()=>t.hidden=true,1800); }
-  const recent = days => { const c = Date.now()-days*86400000; return st.stories.filter(s => Date.parse(s.published) >= c); };
+  // "Last N days" = today plus the N-1 calendar days before it, matching the day headings in the feed.
+  const recent = days => { const c = startOfDay(Date.now()).getTime() - (days-1)*86400000; return st.stories.filter(s => Date.parse(s.published) >= c); };
   const avg = arr => arr.length ? arr.reduce((a,s)=>a+(Number(s.score)||0),0)/arr.length : null;
   const isNew = s => st.prevVisit && Date.parse(s.added) > Date.parse(st.prevVisit);
 
@@ -606,7 +607,7 @@ button,select{font:inherit;color:inherit}
       list = st.stories.filter(s=>st.saved.has(s.id));
       if(!list.length){ feed.innerHTML = empty(l.noSaved); return; }
     } else {
-      const pool = recent(2).length ? recent(2) : st.stories;
+      const pool = recent(3).length ? recent(3) : st.stories;
       const top = pool.slice().sort((a,b)=>(b.score-a.score)||(Date.parse(b.published)-Date.parse(a.published))).slice(0,3);
       strip.innerHTML = top.length ? `<div class="strip-wrap"><div class="eyebrow">${esc(l.stripLbl)}</div><div class="strip">${top.map(s=>
         `<button class="mini" data-jump="${esc(s.id)}"><span class="badge" style="background:${scoreColor(s.score)}">${esc(s.score)}</span><span class="t">${esc(tx(s,"title"))}</span></button>`).join("")}</div></div>` : "";
