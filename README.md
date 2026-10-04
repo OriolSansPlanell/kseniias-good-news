@@ -2,93 +2,116 @@
 
 A small, free website that collects positive news from several sources, gives each story a 0–10 goodness score with a short summary, and links to the original article for the full story. It works on phones and can be installed like an app.
 
-There is no server and no database. The site is three static files plus `stories.json`. Every six hours a Claude scheduled task reads the news feeds, scores the new stories, runs `scripts/update_site.py`, and commits the updated `stories.json` and `feed.xml` here. GitHub Pages then republishes the site.
+Live at **https://oriolsansplanell.github.io/kseniias-good-news/**
+
+## How it works
+
+There is no server and no database. The site is a few static files plus `stories.json`.
 
 ```
-news feeds ──► Claude scheduled task (every 6 h) ──► git push stories.json
-                                                         │
-                         phone / browser ◄── GitHub Pages ◄┘
+news feeds ──► Claude scheduled task (every 6 h) ──► run file in a Google Drive folder
+                                                              │
+                     GitHub Action (every hour) ◄─────────────┘
+                     merges it into stories.json, commits, publishes
+                                   │
+        phone / browser ◄── GitHub Pages
 ```
+
+1. Every six hours a Claude scheduled task reads the news feeds, writes short summaries and scores, and uploads one small file (`run-YYYYMMDDTHHMMZ.json`) to a Google Drive folder. It never needs write access to GitHub.
+2. Every hour a GitHub Action looks in that folder. If there is a newer run file, it merges the stories into `stories.json` and `feed.xml`, commits them, and publishes the site.
+3. The Claude task also deletes run files older than three days, so the folder stays small.
 
 ## What's in the repo
 
 | File | What it does |
 | --- | --- |
 | `index.html` | The whole reader: filters, scores, saved stories, sharing |
-| `stories.json` | The current stories (the only file that changes every run) |
+| `stories.json` | The current stories |
 | `feed.xml` | An RSS feed of stories scoring 6 or more |
 | `sw.js`, `manifest.webmanifest`, `icons/` | Make it installable on phones and readable offline |
-| `scripts/update_site.py` | Merges new stories, removes duplicates and stories older than 10 days, writes `stories.json` and `feed.xml` |
-| `site.json` | Site name and address, used in the RSS feed |
-| `UPDATE_PROMPT.md` | The exact instruction the scheduled task follows |
+| `scripts/update_site.py` | Checks stories, removes duplicates and stories older than 10 days, writes `stories.json` and `feed.xml` |
+| `scripts/pull_from_drive.py` | Reads run files from the Drive folder and merges them (used by the Action) |
+| `.github/workflows/update-site.yml` | The hourly Action: import, commit, publish |
+| `site.json` | Site name, address and the Drive folder ID |
+| `UPDATE_PROMPT.md` | The exact instruction the Claude scheduled task follows |
 
 ## Setup, step by step
 
-You need a free GitHub account and about ten minutes.
+The repository, the Drive folder and the scheduled task are already set up. These are the four steps left. Together they take about ten minutes.
 
-### 1. Create a GitHub account
-Go to [github.com/signup](https://github.com/signup) and create a free account. Remember your username; it becomes part of the site's address.
+### Step 1. Share the Drive folder by link
+The GitHub Action reads the folder without signing in, so the folder must be viewable by link.
 
-### 2. Create the repository
-1. Click **+** (top right) → **New repository**.
-2. Repository name: `kseniias-good-news`.
-3. Choose **Public** (GitHub Pages is free for public repositories).
-4. Leave "Add a README" **unticked**, so the repository starts empty.
-5. Click **Create repository**.
+1. Open the folder **Kseniia's Good News - runs**: https://drive.google.com/drive/folders/1PQ9DQwWpwxMzSrdW2zXacv0e8vumFiZ0
+2. Click the folder name at the top → **Share** → **Share**.
+3. Under **General access**, change **Restricted** to **Anyone with the link**, keep the role as **Viewer**, and click **Done**.
 
-### 3. Let Claude reach GitHub
-In claude.ai, open **Settings → Connectors** and connect **GitHub**. When GitHub asks which repositories Claude may access, include `kseniias-good-news`.
+The folder only ever holds these small story files, which end up on the public website anyway.
 
-### 4. Put the files in the repository
-**Easiest:** tell Claude your GitHub username in the chat where this was built. Claude pushes the files for you and checks it can write to the repository, which the scheduled task needs anyway.
+### Step 2. Create a Google API key (free)
+1. Go to https://console.cloud.google.com/ and sign in with the same Google account.
+2. If asked, accept the terms. At the top, click the project picker → **New project**, name it `good-news`, click **Create**, and make sure it is selected.
+3. Open https://console.cloud.google.com/apis/library/drive.googleapis.com and click **Enable**.
+4. Open https://console.cloud.google.com/apis/credentials → **+ Create credentials** → **API key**. Copy the key it shows.
+5. Recommended: click **Edit API key** (or the key's name). Under **API restrictions**, choose **Restrict key**, tick **Google Drive API**, and **Save**. The key then can't be used for anything else.
 
-**By hand instead:** unzip `kseniias-good-news.zip`. In your new repository click **uploading an existing file**, drag in everything inside the unzipped folder (including the `icons` and `scripts` folders), and click **Commit changes**.
+No billing account or card is needed for this.
 
-### 5. Turn on GitHub Pages
+### Step 3. Give the key to GitHub
+1. In the repository, open **Settings → Secrets and variables → Actions**.
+2. Click **New repository secret**.
+3. Name: `DRIVE_API_KEY`. Secret: paste the key. Click **Add secret**.
+
+GitHub keeps the secret hidden, even in logs.
+
+### Step 4. Let the Action publish the site
 1. In the repository, open **Settings → Pages**.
-2. Under **Build and deployment**, set Source to **Deploy from a branch**.
-3. Choose branch **main** and folder **/ (root)**, then **Save**.
-4. After a minute or two the page shows your address: `https://YOUR-USERNAME.github.io/kseniias-good-news/` (this one: https://oriolsansplanell.github.io/kseniias-good-news/).
+2. Under **Build and deployment → Source**, choose **GitHub Actions** instead of "Deploy from a branch".
+3. Open the **Actions** tab, click **Update site** on the left, then **Run workflow → Run workflow**.
+4. After about a minute the run shows a green tick, and the site is live again with any stories waiting in Drive.
 
-### 6. Set the site address
-Edit `site.json` and replace `YOUR-GITHUB-NAME` with your username (click the file, then the pencil icon, then **Commit changes**). Claude does this for you in step 4's easy route.
+You may see one failed (red) run from before step 4. That's expected and can be ignored.
 
-### 7. Switch the scheduled task to the website
-Tell Claude the site is live. Claude changes the existing 6-hour scheduled task so it updates this repository using `UPDATE_PROMPT.md`. Wait for the next run (a few minutes past 02:00, 08:00, 14:00 and 20:00 Paris summer time) and check that "Updated … ago" at the top of the page changes.
+### Check it's working
+- The top of the site says "Updated … ago". After each 6-hour Claude run (a few minutes past 02:00, 08:00, 14:00 and 20:00 Paris summer time), it resets within the hour.
+- The **Actions** tab lists one run per hour; most say nothing changed and finish in seconds.
 
-### 8. Install it on your phone
+### Install it on your phone
 - **iPhone:** open the address in Safari → Share button → **Add to Home Screen**.
 - **Android:** open it in Chrome → **Install app**, or ⋮ → **Add to Home screen**.
 
-### 9. Share it
+### Share it
 Send the address to anyone. No account or sign-in is needed to read it. Saved stories are kept on each person's own device.
 
 ## Changing things
 
-- **Sources:** edit the feed list in `UPDATE_PROMPT.md` and ask Claude to update the scheduled task with it. Feeds must be readable by Claude's web fetch tool (the BBC's site blocks it, for example).
-- **Scoring rules:** edit step 5 of `UPDATE_PROMPT.md` the same way.
+- **Sources or scoring rules:** edit `UPDATE_PROMPT.md` and ask Claude to update the scheduled task with it. Feeds must be readable by Claude's web fetch tool (the BBC's site blocks it, for example).
 - **How long stories stay:** `KEEP_DAYS` at the top of `scripts/update_site.py`.
-- **Look and feel:** everything is in `index.html`.
+- **How often the site checks Drive:** the `cron` line in `.github/workflows/update-site.yml`.
+- **Look and feel:** everything is in `index.html`. Any edit you commit to `main` republishes the site.
 - **Your own domain:** Settings → Pages → Custom domain (optional, paid domain).
 
 ## If something goes wrong
 
-- **The page says "Stories didn't load":** check that `stories.json` exists in the repository and that Pages is on (step 5).
-- **"Updated" stops moving:** open the scheduled task in Claude and read its last run. The most common cause is that Claude lost access to the repository; reconnect GitHub in claude.ai Settings → Connectors.
-- **A story is wrong or shouldn't be there:** delete it from `stories.json` on GitHub (pencil icon → remove the story's `{ … }` block → Commit changes), or ask Claude to.
+- **The site doesn't update:** open the **Actions** tab and click the latest run. A "Drive request failed (403)" message means the folder isn't shared by link (step 1) or the key doesn't have the Drive API enabled (step 2). "Missing DRIVE_API_KEY" means step 3 is missing.
+- **No new run files appear in the Drive folder:** open the scheduled task in Claude and read its last run. If Google Drive was disconnected, reconnect it in claude.ai Settings → Connectors.
+- **The page says "Stories didn't load":** check Settings → Pages is set to GitHub Actions and the last Action run is green.
+- **A story is wrong or shouldn't be there:** delete it from `stories.json` on GitHub (pencil icon → remove the story's `{ … }` block → Commit changes). Also delete the run file in Drive that contains it, or it comes back at the next import.
 
-## Running the script yourself
+## Running the scripts yourself
 
 ```
 python3 scripts/update_site.py list
-python3 scripts/update_site.py add new_stories.json --sources "Positive News,ScienceDaily"
+python3 scripts/update_site.py pack new_stories.json --out run.json --sources "Positive News"
+python3 scripts/update_site.py add new_stories.json
+python3 scripts/pull_from_drive.py --dir folder_with_run_files
 ```
 
 Only the Python standard library is needed.
 
 ## Costs
 
-GitHub Pages is free for public repositories. Updates use your Claude plan through the scheduled task; nothing else is billed.
+Free. GitHub Pages and Actions are free for public repositories, the Google API key has no cost for this use, and the Claude scheduled task runs on your existing Claude plan.
 
 ## Content
 
