@@ -1,21 +1,80 @@
 {
- "updated": "2026-10-04T06:15:40Z",
+ "updated": "2026-10-04T12:17:05Z",
  "sources": [
   "Positive News",
   "Good News Network",
-  "Reasons to be Cheerful",
-  "ScienceDaily",
-  "Mongabay",
   "The Optimist Daily",
   "The Better India",
-  "Anthropocene Magazine",
   "Grist",
-  "Africanews"
+  "Africanews",
+  "Mongabay"
  ],
- "count": 79,
- "last_run": "run-20261004T0615Z.json",
- "note": "52 new, 17 skipped, 1 pruned, 0 translations added, failed feeds: none",
+ "count": 90,
+ "last_run": "run-20261004T1217Z.json",
+ "note": "11 new, 69 skipped, 0 pruned, 72 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "tbi-newborn-elephant-calf-rescued-teesta",
+   "title": "Fishermen rescue newborn elephant calf swept into Teesta River",
+   "summary": "Fishermen saved a newborn elephant calf carried away by the Teesta River in Jalpaiguri. A veterinarian says the viral embrace was normal elephant social behaviour.",
+   "why": "Successful wildlife rescue of one animal.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/wildlife/newborn-elephant-calf-teesta-rescue-viral-hug-12613589",
+   "score": 6,
+   "category": "Animals",
+   "region": "Jalpaiguri, India",
+   "published": "2026-10-04T09:30:38Z",
+   "continent": "Asia",
+   "added": "2026-10-04T12:17:05Z",
+   "i18n": {
+    "ca": {
+     "title": "Pescadors rescaten una cria d'elefant novella arrossegada pel riu Teesta",
+     "summary": "Pescadors van salvar una cria d'elefant novella arrossegada pel riu Teesta a Jalpaiguri. Un veterinari diu que l'abraçada viral va ser un comportament social elefantí normal.",
+     "why": "Rescat de fauna silvestre reeixit d'un animal."
+    },
+    "fr": {
+     "title": "Des pêcheurs secourent un éléphanteau entraîné dans la rivière Teesta",
+     "summary": "Des pêcheurs ont sauvé un éléphanteau emporté par la rivière Teesta à Jalpaiguri. Un vétérinaire indique que l'étreinte virale était un comportement social normal chez les éléphants.",
+     "why": "Sauvetage réussi de la faune, un animal."
+    },
+    "ru": {
+     "title": "Рыбаки спасают новорожденного слоненка, вынесенного в реку Тиста",
+     "summary": "Рыбаки спасли новорожденного слоненка, унесенного рекой Тиста в Джальпайгури. Ветеринар говорит, что вирусный момент объятия был обычным социальным поведением слонов.",
+     "why": "Успешное спасение дикой природы одного животного."
+    }
+   }
+  },
+  {
+   "id": "tbi-smog-eating-paint-delhi-ncr",
+   "title": "Smog-eating paint tested as way to cut city air pollution",
+   "summary": "Coatings containing titanium dioxide use sunlight to break down pollutants. IIT Madras is testing whether they can reduce nitrogen dioxide on urban surfaces.",
+   "why": "Promising but still at testing stage.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/innovation/delhi-ncr-air-pollution-aqi-winter-smog-eating-paints-12593111",
+   "score": 5,
+   "category": "Environment",
+   "region": "Delhi-NCR, India",
+   "published": "2026-10-04T07:30:37Z",
+   "continent": "Asia",
+   "added": "2026-10-04T12:17:05Z",
+   "i18n": {
+    "ca": {
+     "title": "Pintura que mengea smog provada per reduir la contaminació aèria de la ciutat",
+     "summary": "Els revestiments que contenen diòxid de titani usen la llum solar per descompondre els contaminants. L'IIT Madras està provant si poden reduir el diòxid de nitrogen en superfícies urbanes.",
+     "why": "Promettedor però encara en fase de proves."
+    },
+    "fr": {
+     "title": "La peinture mangeuse de brouillard testée pour réduire la pollution de l'air urbain",
+     "summary": "Les revêtements contenant du dioxyde de titane utilisent la lumière solaire pour décomposer les polluants. L'IIT Madras teste s'ils peuvent réduire le dioxyde d'azote sur les surfaces urbaines.",
+     "why": "Prometteur mais encore au stade des tests."
+    },
+    "ru": {
+     "title": "Краска, поглощающая смог, тестируется для снижения загрязнения воздуха города",
+     "summary": "Покрытия, содержащие диоксид титана, используют солнечный свет для расщепления загрязняющих веществ. IIT Madras тестирует, смогут ли они уменьшить диоксид азота на городских поверхностях.",
+     "why": "Многообещающее, но все еще на стадии тестирования."
+    }
+   }
+  },
   {
    "id": "gnn-underwater-shades-protect-caribbean-corals",
    "title": "Temporary shades over Caribbean corals reduce heat damage",
@@ -79,6 +138,37 @@
    }
   },
   {
+   "id": "gnn-fan-rescues-woman-stuck-in-mud",
+   "title": "Football fan rescues woman trapped chest-deep in mud",
+   "summary": "A man who left his home in frustration during a match found a woman stuck in mud and helped save her life.",
+   "why": "A life saved, though a single local event.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/fan-storms-out-as-team-loses-and-finds-woman-stuck-in-mud/",
+   "score": 6,
+   "category": "Society",
+   "region": "United Kingdom",
+   "published": "2026-10-03T14:59:55Z",
+   "continent": "Europe",
+   "added": "2026-10-04T12:17:05Z",
+   "i18n": {
+    "ca": {
+     "title": "Un aficionat al futbol rescata una dona atrapada fins al pit en fang",
+     "summary": "Un home que va abandonar la seva casa en frustració durant un partit va trobar una dona atrapada al fang i va ajudar a salvar-li la vida.",
+     "why": "Una vida salvada, encara que és un únic esdeveniment local."
+    },
+    "fr": {
+     "title": "Un fan de football sauve une femme piégée jusqu'à la poitrine dans la boue",
+     "summary": "Un homme qui avait quitté son domicile en frustration lors d'un match a trouvé une femme coincée dans la boue et l'a aidée à sauver sa vie.",
+     "why": "Une vie sauvée, bien qu'il s'agisse d'un événement local unique."
+    },
+    "ru": {
+     "title": "Болельщик спасает женщину, застрявшую по грудь в грязи",
+     "summary": "Мужчина, ушедший из дома в расстройстве во время матча, нашел застрявшую в грязи женщину и помог спасти ей жизнь.",
+     "why": "Жизнь спасена, хотя это единственное местное событие."
+    }
+   }
+  },
+  {
    "id": "sd-ube2n-fatty-liver",
    "title": "Enzyme UBE2N may protect against worsening fatty liver disease",
    "summary": "Researchers found the enzyme UBE2N helps liver cells clear damaged mitochondria and break down fat, which could guard against inflammation and scarring.",
@@ -90,7 +180,24 @@
    "region": "Global",
    "published": "2026-10-03T13:46:11Z",
    "continent": "Global",
-   "added": "2026-10-04T04:10:05Z"
+   "added": "2026-10-04T04:10:05Z",
+   "i18n": {
+    "ca": {
+     "title": "L'enzim UBE2N pot protegir contra l'empeorament de la malaltia de fetge gras",
+     "summary": "Els investigadors van descobrir que l'enzim UBE2N ajuda les cèl·lules del fetge a netejar les mitocòndries danyades i descompondre la grassa, que podria protegir contra la inflamació i la cicatriu.",
+     "why": "Objectiu promettedor per a una malaltia comuna, però encara és recerca primerenca."
+    },
+    "fr": {
+     "title": "L'enzyme UBE2N pourrait protéger contre l'aggravation de la stéatose hépatique",
+     "summary": "Les chercheurs ont découvert que l'enzyme UBE2N aide les cellules hépatiques à éliminer les mitochondries endommagées et à décomposer les graisses, ce qui pourrait prévenir l'inflammation et la cicatrisation.",
+     "why": "Cible prometteuse pour une maladie courante, mais encore au stade de recherche précoce."
+    },
+    "ru": {
+     "title": "Фермент UBE2N может защитить от ухудшения жировой болезни печени",
+     "summary": "Исследователи обнаружили, что фермент UBE2N помогает клеткам печени избавляться от поврежденных митохондрий и расщеплять жир, что может защитить от воспаления и рубцевания.",
+     "why": "Многообещающая мишень для распространенного заболевания, но все еще на ранней стадии исследований."
+    }
+   }
   },
   {
    "id": "sd-juice-earth-flyby",
@@ -104,7 +211,24 @@
    "region": "Space",
    "published": "2026-10-03T13:34:11Z",
    "continent": "Global",
-   "added": "2026-10-04T04:10:05Z"
+   "added": "2026-10-04T04:10:05Z",
+   "i18n": {
+    "ca": {
+     "title": "La sonda Juice de l'ESA passa per la Terra camí del Júpiter",
+     "summary": "L'espaçonau Juice va usar una assistència gravitatòria terrestre el 28 de setembre per guanyar 3,5 km/s i canviar de curs, provant els seus instruments a la Terra i la Lluna.",
+     "why": "Un fita suau per a una important missió científica."
+    },
+    "fr": {
+     "title": "La sonde JUICE de l'ESA passe à proximité de la Terre en route vers Jupiter",
+     "summary": "Le vaisseau Juice a utilisé une assistance gravitationnelle terrestre le 28 septembre pour gagner 3,5 km/s et changer de cap, testant ses instruments sur la Terre et la Lune.",
+     "why": "Une étape progressive pour une grande mission scientifique."
+    },
+    "ru": {
+     "title": "Зонд JUICE Европейского космического агентства проходит мимо Земли в пути на Юпитер",
+     "summary": "Космический аппарат Juice использовал гравитационное маневрирование Земли 28 сентября, чтобы получить 3,5 км/с и изменить курс, тестируя свои приборы на Земле и Луне.",
+     "why": "Плавный этап для крупной научной миссии."
+    }
+   }
   },
   {
    "id": "sd-change6-magnetic-mineral",
@@ -118,7 +242,24 @@
    "region": "Space",
    "published": "2026-10-03T13:12:14Z",
    "continent": "Global",
-   "added": "2026-10-04T04:10:05Z"
+   "added": "2026-10-04T04:10:05Z",
+   "i18n": {
+    "ca": {
+     "title": "Les mostres lunars de Chang'e-6 contenen un nou mineral de ferro magnètic",
+     "summary": "Els científics van trobar un mineral de ferro a escala nanomètrica prèviament desconegut dins el vidre d'impacte de les mostres del costat llunyà de la Lluna, que podria preservar un registre del camp magnètic antic de la Lluna.",
+     "why": "Descoberta enginyosa per a la ciència planetària sense impacte humà directe."
+    },
+    "fr": {
+     "title": "Les échantillons lunaires de Chang'e-6 contiennent un nouveau minéral de fer magnétique",
+     "summary": "Les scientifiques ont trouvé un minéral de fer à l'échelle nanométrique auparavant inconnu dans le verre d'impact des échantillons du côté lointain de la Lune, qui pourrait préserver un enregistrement du champ magnétique lunaire ancien.",
+     "why": "Découverte intéressante pour la science planétaire sans impact humain direct."
+    },
+    "ru": {
+     "title": "Образцы Луны Chang'e-6 содержат новый магнитный железный минерал",
+     "summary": "Ученые обнаружили неизвестный ранее железный минерал наноразмера внутри ударного стекла образцов с дальней стороны Луны, которые могли сохранить запись о древнем магнитном поле Луны.",
+     "why": "Интересное открытие для планетарной науки без прямого воздействия на человека."
+    }
+   }
   },
   {
    "id": "sd-megatron-first-stars",
@@ -132,7 +273,24 @@
    "region": "Space",
    "published": "2026-10-03T12:50:57Z",
    "continent": "Global",
-   "added": "2026-10-04T04:11:20Z"
+   "added": "2026-10-04T04:11:20Z",
+   "i18n": {
+    "ca": {
+     "title": "Les simulacions traçen com les primeres estrelles van sembrar l'univers amb elements pesats",
+     "summary": "Les simulacions MEGATRON modelan com les estrelles primerenques van difondre carboni, oxigen i ferro, ajudant a vincular les observacions JWST amb traços químics en estrelles antigues.",
+     "why": "Cosmologia interessant sense impacte humà directe."
+    },
+    "fr": {
+     "title": "Les simulations tracent comment les premières étoiles ont ensemencé l'univers d'éléments lourds",
+     "summary": "Les simulations MEGATRON modélisent comment les premières étoiles ont diffusé le carbone, l'oxygène et le fer, reliant les observations JWST aux traces chimiques dans les anciennes étoiles.",
+     "why": "Cosmologie intéressante sans impact humain direct."
+    },
+    "ru": {
+     "title": "Симуляции показывают, как первые звезды засеяли Вселенную тяжелыми элементами",
+     "summary": "Симуляции MEGATRON моделируют, как ранние звезды распространили углерод, кислород и железо, помогая связать наблюдения JWST с химическими следами в древних звездах.",
+     "why": "Интересная космология без прямого воздействия на человека."
+    }
+   }
   },
   {
    "id": "sd-leucine-cell-energy",
@@ -146,7 +304,24 @@
    "region": "Global",
    "published": "2026-10-03T12:33:15Z",
    "continent": "Global",
-   "added": "2026-10-04T04:11:20Z"
+   "added": "2026-10-04T04:11:20Z",
+   "i18n": {
+    "ca": {
+     "title": "L'aminoàcid leucina estimula la producció d'energia de les cèl·lules",
+     "summary": "Els investigadors van demostrar que la leucina protegeix les proteïnes mitocondrials de ser descompostes, augmentant la producció d'energia cel·lular i suggerint una perspectiva nutricional sobre els trastorns metabòlics.",
+     "why": "Percepció útil però bàsica, encara lluny del tractament."
+    },
+    "fr": {
+     "title": "L'acide aminé leucine stimule la production d'énergie des cellules",
+     "summary": "Les chercheurs ont montré que la leucine protège les protéines mitochondriales d'être dégradées, augmentant la production d'énergie cellulaire et suggérant un angle nutritionnel sur les troubles métaboliques.",
+     "why": "Perception de base utile, encore loin du traitement."
+    },
+    "ru": {
+     "title": "Аминокислота лейцин усиливает производство энергии клетками",
+     "summary": "Исследователи показали, что лейцин защищает митохондриальные белки от разложения, увеличивая производство энергии клеток и предлагая пищевой подход к метаболическим расстройствам.",
+     "why": "Полезное базовое понимание, но еще далеко от лечения."
+    }
+   }
   },
   {
    "id": "sd-gut-imp-alzheimers",
@@ -160,7 +335,24 @@
    "region": "Global",
    "published": "2026-10-03T12:13:21Z",
    "continent": "Global",
-   "added": "2026-10-04T04:11:20Z"
+   "added": "2026-10-04T04:11:20Z",
+   "i18n": {
+    "ca": {
+     "title": "El compost bacterià intestinal ImP vinculat a un major risc de malaltia d'Alzheimer",
+     "summary": "Un estudi va vincular la molècula ImP produïda per l'intestí a un major risc de malaltia d'Alzheimer i una disminució cognitiva més ràpida, apuntant a un possible objectiu de prevenció.",
+     "why": "Un avís combinat amb un possible nou objectiu; etapa primerenca."
+    },
+    "fr": {
+     "title": "Le composé bactérien intestinal ImP lié à un risque accru d'Alzheimer",
+     "summary": "Une étude a lié la molécule ImP produite par l'intestin à un risque accru de maladie d'Alzheimer et à un déclin cognitif plus rapide, pointant une possible cible de prévention.",
+     "why": "Un avertissement associé à une cible potentielle ; stade précoce."
+    },
+    "ru": {
+     "title": "Бактериальный кишечный компонент ImP связан с повышенным риском болезни Альцгеймера",
+     "summary": "Исследование связало молекулу ImP, производимую кишечником, с повышенным риском болезни Альцгеймера и более быстрым снижением когнитивных функций, указывая на возможную мишень профилактики.",
+     "why": "Предупреждение в сочетании с возможной новой мишенью; ранний этап."
+    }
+   }
   },
   {
    "id": "sd-vacuum-boosts-superconductor",
@@ -174,7 +366,24 @@
    "region": "Global",
    "published": "2026-10-03T12:03:23Z",
    "continent": "Global",
-   "added": "2026-10-04T04:11:20Z"
+   "added": "2026-10-04T04:11:20Z",
+   "i18n": {
+    "ca": {
+     "title": "Les fluctuacions de buit van enfortir la superconductivitat en un material prim",
+     "summary": "Enginyeria del buit circumdant va augmentar la superconductivitat fins a un 5,4% en un material ultraprim, indicant noves maneres de sintonitzar materials quàntics.",
+     "why": "Resultat modest de laboratori amb potencial a llarg termini."
+    },
+    "fr": {
+     "title": "Les fluctuations du vide ont renforcé la supraconductivité dans un matériau mince",
+     "summary": "L'ingénierie du vide environnant a augmenté la supraconductivité de jusqu'à 5,4% dans un matériau ultramince, suggérant de nouvelles façons d'accorder les matériaux quantiques.",
+     "why": "Résultat de laboratoire modeste avec un potentiel à long terme."
+    },
+    "ru": {
+     "title": "Вакуумные флуктуации усилили сверхпроводимость в тонком материале",
+     "summary": "Проектирование окружающего вакуума повысило сверхпроводимость на 5,4% в ультратонком материале, намекая на новые способы настройки квантовых материалов.",
+     "why": "Скромный результат лабораторных работ с долгосрочным потенциалом."
+    }
+   }
   },
   {
    "id": "an-drc-ebola-post-exposure-drug-trial",
@@ -266,6 +475,37 @@
      "title": "Фермеры Уттар-Прадеша высаживают куркуму, чтобы отогнать слонов от урожая",
      "summary": "Около 100 фермеров близ Катарниагхата выращивают куркуму рядом с культурами, которые предпочитают слоны, в качестве менее привлекательного буфера, который снижает набеги.",
      "why": "Дешевый способ облегчить конфликт между человеком и дикой природой."
+    }
+   }
+  },
+  {
+   "id": "tbi-freediver-dances-underwater-saree",
+   "title": "Freediver performs Sanskrit stories in dance 15 metres underwater",
+   "summary": "A freediver performs classical dance interpretations of Sanskrit stories underwater, combining breath control with cultural storytelling.",
+   "why": "Creative cultural work with limited wider impact.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/culture/freediver-dances-in-saree-underwater-pranayama-sanskrit-stories-12613827",
+   "score": 5,
+   "category": "Culture",
+   "region": "India",
+   "published": "2026-10-03T06:43:37Z",
+   "continent": "Asia",
+   "added": "2026-10-04T12:17:05Z",
+   "i18n": {
+    "ca": {
+     "title": "Un busseador sense equip fa dansa de històries de sànscrit 15 metres sota l'aigua",
+     "summary": "Un busseador sense equip fa interpretacions de dansa clàssica d'històries de sànscrit sota l'aigua, combinant control de respiració amb narrativa cultural.",
+     "why": "Treball cultural creatiu amb impacte ampli limitat."
+    },
+    "fr": {
+     "title": "Un apneïste interprète des histoires sanskrit en danse à 15 mètres de profondeur",
+     "summary": "Un apneïste interprète des histoires en sanskrit à travers la danse classique sous l'eau, combinant le contrôle de la respiration et la narration culturelle.",
+     "why": "Travail culturel créatif à l'impact sociétal limité."
+    },
+    "ru": {
+     "title": "Вольный пловец исполняет историй санскрита в танце на глубине 15 метров",
+     "summary": "Вольный пловец исполняет классические танцевальные интерпретации санскритских историй под водой, сочетая контроль дыхания с культурным повествованием.",
+     "why": "Творческая культурная работа с ограниченным широким влиянием."
     }
    }
   },
@@ -394,6 +634,37 @@
    }
   },
   {
+   "id": "mb-amazon-deforestation-brazil-election",
+   "title": "Brazil's election could shape Amazon protection after 45% deforestation drop",
+   "summary": "Policies that cut Amazon forest loss by 45% could be reversed depending on the outcome of Brazil's presidential election.",
+   "why": "Past progress is real, but it is now at risk.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/future-of-amazon-rainforest-policies-at-stake-in-brazilian-presidential-election/",
+   "score": 4,
+   "category": "Environment",
+   "region": "Brazil",
+   "published": "2026-10-02T21:25:25Z",
+   "continent": "South America",
+   "added": "2026-10-04T12:17:05Z",
+   "i18n": {
+    "ca": {
+     "title": "L'elecció del Brasil podria formar la protecció de l'Amazònia després d'una caiguda de deforestació del 45%",
+     "summary": "Les polítiques que van reduir la pèrdua de foresta amazònica en un 45% podrien ser revertides depenent del resultat de l'elecció presidencial de Brasil.",
+     "why": "El progrés passat és real, però ara està en risc."
+    },
+    "fr": {
+     "title": "L'élection brésilienne pourrait modeler la protection de l'Amazonie après une baisse de 45% de la déforestation",
+     "summary": "Les politiques qui ont réduit la perte de forêt amazonienne de 45% pourraient être inversées selon l'issue de l'élection présidentielle au Brésil.",
+     "why": "Les progrès passés sont réels, mais ils sont maintenant menacés."
+    },
+    "ru": {
+     "title": "Выборы в Бразилии могут определить защиту Амазонии после 45-процентного сокращения вырубок",
+     "summary": "Политика, сократившая потерю лесов Амазонии на 45%, может быть отменена в зависимости от результата президентских выборов в Бразилии.",
+     "why": "Прошлые успехи реальны, но теперь они подвергаются риску."
+    }
+   }
+  },
+  {
    "id": "gnn-uk-museums-free-entry",
    "title": "UK national museums will stay free for foreign visitors",
    "summary": "After talks with the government, 14 major national museums confirmed they will keep free admission for international visitors.",
@@ -518,6 +789,37 @@
    }
   },
   {
+   "id": "an-burkina-faso-deaf-dancers-vibra-signe",
+   "title": "Deaf dancers in Burkina Faso use vibration technique to follow rhythm",
+   "summary": "Deaf and hearing-impaired dancers use the Vibra-Signe technique to feel music, giving them a route to social inclusion.",
+   "why": "Inclusion for a marginalised group, at community scale.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/02/burkina-faso-deaf-dancers-use-special-technique-to-follow-rhythm/",
+   "score": 7,
+   "category": "Society",
+   "region": "Burkina Faso",
+   "published": "2026-10-02T13:14:24Z",
+   "continent": "Africa",
+   "added": "2026-10-04T12:17:05Z",
+   "i18n": {
+    "ca": {
+     "title": "Ballarins sords a Burkina Faso usen tècnica de vibració per seguir el ritme",
+     "summary": "Ballarins sords i amb discapacitat auditiva usen la tècnica Vibra-Signe per sentir la música, donant-los una via d'inclusió social.",
+     "why": "Inclusió per a un grup marginat, a escala comunitària."
+    },
+    "fr": {
+     "title": "Des danseurs sourds au Burkina Faso utilisent la technique de vibration pour suivre le rythme",
+     "summary": "Les danseurs sourds et malentendants utilisent la technique Vibra-Signe pour sentir la musique, ce qui leur ouvre un chemin vers l'inclusion sociale.",
+     "why": "Inclusion pour un groupe marginalisé, à l'échelle communautaire."
+    },
+    "ru": {
+     "title": "Глухие танцоры в Буркина-Фасо используют технику вибраций для следования ритму",
+     "summary": "Глухие и слабослышащие танцоры используют технику Vibra-Signe для ощущения музыки, открывая им путь к социальной интеграции.",
+     "why": "Включение маргинализированной группы в общественную жизнь."
+    }
+   }
+  },
+  {
    "id": "gnn-antarctica-wind-farm",
    "title": "Antarctic wind turbines have saved 122,000 gallons of diesel",
    "summary": "Three turbines on Ross Island have powered McMurdo Station for 15 years, cutting fuel shipments and emissions at the research base.",
@@ -591,7 +893,24 @@
    "region": "Space",
    "published": "2026-10-02T12:21:30Z",
    "continent": "Global",
-   "added": "2026-10-04T04:10:05Z"
+   "added": "2026-10-04T04:10:05Z",
+   "i18n": {
+    "ca": {
+     "title": "El telescopi Roman de la NASA passa proves clau de punteria i coronagraf",
+     "summary": "El Telescopi Espacial Roman va demostrar una punteria molt estable i va captar imatges enfocades amb el seu coronagraf, un instrument dissenyat per ajudar a imatge de planetes al voltant d'altres estrelles.",
+     "why": "Progrés sòlid per a un observatori insigne."
+    },
+    "fr": {
+     "title": "Le télescope Roman de la NASA réussit les tests clés de pointage et de coronagraphe",
+     "summary": "Le télescope spatial Roman a démontré un pointage très stable et a capturé des images nettes avec son coronagraphe, un instrument conçu pour imager les planètes autour d'autres étoiles.",
+     "why": "Progrès solide pour un observatoire phare."
+    },
+    "ru": {
+     "title": "Телескоп Roman НАСА проходит ключевые испытания наведения и коронаграфа",
+     "summary": "Космический телескоп Roman показал очень стабильное наведение и захватил сфокусированные изображения своим коронаграфом, прибором, предназначенным для получения изображений планет вокруг других звезд.",
+     "why": "Твердый прогресс для флагманской обсерватории."
+    }
+   }
   },
   {
    "id": "mb-hong-kong-heat-outdoor-workers",
@@ -636,7 +955,55 @@
    "region": "Global",
    "published": "2026-10-02T11:54:34Z",
    "continent": "Global",
-   "added": "2026-10-04T04:10:05Z"
+   "added": "2026-10-04T04:10:05Z",
+   "i18n": {
+    "ca": {
+     "title": "Els fòssils magnètics de 97 milions d'anys suggereixen la navegació animal primerenca",
+     "summary": "Els fòssils magnètics antics poden ser la prova més antiga que animals usen el camp magnètic terrestre per navegar, potser sobre milers de quilòmetres.",
+     "why": "Perspectiva fascinant sobre l'evolució sense efecte pràctic directe."
+    },
+    "fr": {
+     "title": "Les fossiles magnétiques vieux de 97 millions d'années suggèrent une navigation animale précoce",
+     "summary": "Les fossiles magnétiques anciens pourraient être la plus ancienne preuve que les animaux utilisent le champ magnétique terrestre pour naviguer, possiblement sur des milliers de kilomètres.",
+     "why": "Aperçu fascinant de l'évolution sans effet pratique direct."
+    },
+    "ru": {
+     "title": "Магнитные окаменелости возрастом 97 миллионов лет указывают на раннюю навигацию животных",
+     "summary": "Древние магнитные окаменелости могут быть самым древним свидетельством того, что животные используют магнитное поле Земли для навигации, возможно на тысячи километров.",
+     "why": "Увлекательное понимание эволюции без прямого практического эффекта."
+    }
+   }
+  },
+  {
+   "id": "mb-indonesia-rubber-growers-traditional-fire-fighting",
+   "title": "Indonesian rubber growers use traditional methods to fight wildfires",
+   "summary": "Rubber farmers in Indonesia are using traditional techniques and simple equipment to protect their land during an El Niño-intensified fire season.",
+   "why": "Community resilience, but the fires still threaten them.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/as-fires-spread-indonesias-rubber-growers-draw-on-traditional-ways-to-fight-back/",
+   "score": 4,
+   "category": "Environment",
+   "region": "Indonesia",
+   "published": "2026-10-02T11:13:30Z",
+   "continent": "Asia",
+   "added": "2026-10-04T12:17:05Z",
+   "i18n": {
+    "ca": {
+     "title": "Els cultivadors de goma d'Indonèsia usen mètodes tradicionals per combatre els incendis forestals",
+     "summary": "Els cultivadors de goma d'Indonèsia usen tècniques tradicionals i equips senzills per protegir les seves terres durant una temporada d'incendis intensificada per El Niño.",
+     "why": "Resiliència comunitària, però els incendis encara els amenacen."
+    },
+    "fr": {
+     "title": "Les producteurs de caoutchouc indonésiens utilisent des méthodes traditionnelles pour combattre les feux de forêt",
+     "summary": "Les agriculteurs indonésiens qui cultivent le caoutchouc utilisent des techniques traditionnelles et des équipements simples pour protéger leurs terres pendant une saison d'incendies intensifiée par El Niño.",
+     "why": "Résilience communautaire, mais les incendies les menacent toujours."
+    },
+    "ru": {
+     "title": "Индонезийские производители каучука используют традиционные методы борьбы с лесными пожарами",
+     "summary": "Фермеры по выращиванию каучука в Индонезии используют традиционные методы и простое оборудование для защиты своих земель во время сезона пожаров, усиленного Эль-Ниньо.",
+     "why": "Устойчивость общин, но пожары все еще угрожают им."
+    }
+   }
   },
   {
    "id": "an-mobile-labs-speed-ebola-testing",
@@ -681,7 +1048,24 @@
    "region": "Global",
    "published": "2026-10-02T10:37:59Z",
    "continent": "Global",
-   "added": "2026-10-04T04:10:05Z"
+   "added": "2026-10-04T04:10:05Z",
+   "i18n": {
+    "ca": {
+     "title": "Les cèl·lules mare del càncer de sang depenen de NAD per a l'energia",
+     "summary": "Les cèl·lules mare del síndrome mielodisplàstic d'alt risc depenen fortament de la molècula NAD, i el bloqueig d'aquesta via les va debilitar mentre estalviava les cèl·lules de sang sanes en proves de laboratori.",
+     "why": "Un objectiu de tractament selectiu, encara en etapa de laboratori."
+    },
+    "fr": {
+     "title": "Les cellules souches du cancer du sang dépendent du NAD pour l'énergie",
+     "summary": "Les cellules souches du syndrome myélodysplasique à haut risque dépendent fortement de la molécule NAD, et le blocage de cette voie les a affaiblies tout en épargner les cellules sanguines saines dans les tests de laboratoire.",
+     "why": "Une cible thérapeutique sélective, toujours au stade du laboratoire."
+    },
+    "ru": {
+     "title": "Раковые стволовые клетки крови зависят от НАД для энергии",
+     "summary": "Стволовые клетки высокорисковых миелодиспластических синдромов в значительной степени зависят от молекулы НАД, и блокада этого пути ослабляла их, сохраняя здоровые клетки крови в лабораторных тестах.",
+     "why": "Селективная мишень для лечения, все еще на лабораторном этапе."
+    }
+   }
   },
   {
    "id": "rtbc-community-lighthouses",
@@ -726,7 +1110,24 @@
    "region": "United States",
    "published": "2026-10-02T04:58:10Z",
    "continent": "North America",
-   "added": "2026-10-04T04:10:05Z"
+   "added": "2026-10-04T04:10:05Z",
+   "i18n": {
+    "ca": {
+     "title": "Les simulacions mostren un estrès rècord a una cruïlla de falla de Califòrnia del Sud",
+     "summary": "Les simulacions de mil anys suggereixen que l'estrès en les falles de San Andreas i San Jacinto és inusitadament alt, fent que la cruïlla del Cajon Pass sigui més propensa a una ruptura vinculada, amb el temps desconegut.",
+     "why": "Un avís sobri que pot millorar la preparació."
+    },
+    "fr": {
+     "title": "Les simulations montrent un stress record à une jonction de faille du sud de la Californie",
+     "summary": "Les simulations millénaires suggèrent que le stress sur les failles de San Andreas et de San Jacinto est inhabituellement élevé, rendant la jonction du Cajon Pass plus susceptible à une rupture liée, timing inconnu.",
+     "why": "Un avertissement troublant qui peut quand même améliorer la préparation."
+    },
+    "ru": {
+     "title": "Симуляции показывают рекордный стресс на стыке разлома в Южной Калифорнии",
+     "summary": "Симуляции, рассчитанные на тысячу лет, предполагают, что напряжение на разломах Сан-Андреас и Сан-Хасинто необычно велико, что делает перекресток Cajon Pass более подверженным связанному разрыву, время неизвестно.",
+     "why": "Тревожное предупреждение, которое все еще может улучшить готовность."
+    }
+   }
   },
   {
    "id": "sd-chronic-fatigue-shared-networks",
@@ -740,7 +1141,24 @@
    "region": "Global",
    "published": "2026-10-02T01:59:44Z",
    "continent": "Global",
-   "added": "2026-10-04T04:10:05Z"
+   "added": "2026-10-04T04:10:05Z",
+   "i18n": {
+    "ca": {
+     "title": "El Long COVID, l'EM/SFC i tres altres condicions poden compartir biologia",
+     "summary": "Un estudi suggereix que cinc condicions relacionades amb la fatiga pertorben xarxes comunes relacionades amb la immunitat i la producció d'energia, que podria portar a proves de sang i tractaments.",
+     "why": "Podria ajudar molts pacients desatesos, però les proves i teràpies no estan aquí encara."
+    },
+    "fr": {
+     "title": "Le Long COVID, l'EM/SFC et trois autres conditions pourraient partager une biologie commune",
+     "summary": "Une étude suggère que cinq conditions liées à la fatigue perturbent les réseaux communs liés à l'immunité et à la production d'énergie, ce qui pourrait conduire à des tests sanguins et à des traitements.",
+     "why": "Pourrait aider de nombreux patients mal servis, mais les tests et les thérapies ne sont pas encore là."
+    },
+    "ru": {
+     "title": "Длительный COVID, МЭ/СМЭ и три других состояния могут иметь общую биологию",
+     "summary": "Исследование предполагает, что пять связанных с усталостью состояний нарушают общие сети, связанные с иммунитетом и производством энергии, что может привести к анализам крови и методам лечения.",
+     "why": "Может помочь многим недостаточно обслуживаемым пациентам, но тесты и методы лечения еще не готовы."
+    }
+   }
   },
   {
    "id": "sd-rna-droplets-origin-life",
@@ -754,7 +1172,24 @@
    "region": "Global",
    "published": "2026-10-02T01:21:43Z",
    "continent": "Global",
-   "added": "2026-10-04T04:11:20Z"
+   "added": "2026-10-04T04:11:20Z",
+   "i18n": {
+    "ca": {
+     "title": "La capacitat de l'ARN per formar gotes pot ajudar a explicar com va començar la vida",
+     "summary": "Els experiments mostren que l'ARN, a diferència de l'ADN, es concentra en gotes líquides que concentren molècules i s'endureixin en gels protectors, possiblement per causa d'un grup d'oxigen extra.",
+     "why": "Pista intrigant sobre els orígens de la vida, purament fonamental."
+    },
+    "fr": {
+     "title": "La capacité de l'ARN à former des gouttelettes pourrait aider à expliquer comment la vie a commencé",
+     "summary": "Les expériences montrent que l'ARN, contrairement à l'ADN, se rassemble en gouttelettes liquides qui concentrent les molécules et durcissent en gels protecteurs, possiblement en raison d'un groupe d'oxygène supplémentaire.",
+     "why": "Indice intrigant sur les origines de la vie, purement fondamental."
+    },
+    "ru": {
+     "title": "Способность РНК образовывать капли может помочь объяснить, как началась жизнь",
+     "summary": "Эксперименты показывают, что РНК, в отличие от ДНК, собирается в жидкие капли, которые концентрируют молекулы и затвердевают в защитные гели, возможно из-за одной дополнительной кислородной группы.",
+     "why": "Интригующий ключ к происхождению жизни, чисто фундаментальный."
+    }
+   }
   },
   {
    "id": "od-urine-test-womb-cancer",
@@ -830,7 +1265,24 @@
    "region": "Canada",
    "published": "2026-10-02T00:00:00Z",
    "continent": "North America",
-   "added": "2026-10-04T04:10:05Z"
+   "added": "2026-10-04T04:10:05Z",
+   "i18n": {
+    "ca": {
+     "title": "Dècades de neteja en una mina de coure tancada de la Colòmbia Britànica guanyen un premi de recuperació",
+     "summary": "La Colòmbia Britànica va honorar els operadors d'una mina de coure tancada per 30 anys de reclamació de terres i monitoratge ambiental després que el lloc es tanqués.",
+     "why": "Reparació sostinguda d'un paisatge danyat, tot i que limitada a un únic lloc."
+    },
+    "fr": {
+     "title": "Des décennies de nettoyage d'une mine de cuivre fermée en Colombie-Britannique remportent un prix de restauration",
+     "summary": "La Colombie-Britannique a honoré les opérateurs d'une mine de cuivre fermée pour 30 ans de restauration des terres et de surveillance environnementale après la fermeture du site.",
+     "why": "Réparation durable d'un paysage endommagé, bien que limitée à un seul site."
+    },
+    "ru": {
+     "title": "Десятилетия очистки закрытого медного рудника в Британской Колумбии получают награду за рекультивацию",
+     "summary": "Британская Колумбия почтила операторов закрытого медного рудника за 30 лет рекультивации земли и экологического мониторинга после закрытия объекта.",
+     "why": "Устойчивое восстановление поврежденного ландшафта, хотя и ограниченное одним участком."
+    }
+   }
   },
   {
    "id": "gnn-hunter-gatherer-sleep",
@@ -844,7 +1296,24 @@
    "region": "Global",
    "published": "2026-10-02T00:00:00Z",
    "continent": "Global",
-   "added": "2026-10-04T04:10:05Z"
+   "added": "2026-10-04T04:10:05Z",
+   "i18n": {
+    "ca": {
+     "title": "Un científic del son estudia per què els caçadors-recol·lectors rarament tênen dificultats per dormir",
+     "summary": "Un investigador que examina el son en les societats restants de caçadors-recol·lectors explica què els seus hàbits sobre llum, temperatura i rutina podrien ensenyar a les poblacions modernes privades de son.",
+     "why": "Perspectiva interessant i potencialment útil, però sense nova intervenció."
+    },
+    "fr": {
+     "title": "Un spécialiste du sommeil étudie pourquoi les chasseurs-cueilliers ont rarement du mal à dormir",
+     "summary": "Un chercheur examinant le sommeil dans les sociétés de chasseurs-cueilleurs restantes explique ce que leurs habitudes autour de la lumière, de la température et de la routine pourraient enseigner aux populations modernes privées de sommeil.",
+     "why": "Perspicacité intéressante et potentiellement utile, mais pas de nouvelle intervention."
+    },
+    "ru": {
+     "title": "Исследователь сна изучает, почему охотники-собиратели редко испытывают проблемы со сном",
+     "summary": "Исследователь, изучающий сон в оставшихся обществах охотников-собирателей, объясняет, что их привычки в отношении света, температуры и распорядка могут научить современное население, страдающее от недосыпания.",
+     "why": "Интересное и потенциально полезное понимание, но без нового вмешательства."
+    }
+   }
   },
   {
    "id": "am-ice-cream-waste-recycling-chemistry",
@@ -1095,6 +1564,68 @@
    }
   },
   {
+   "id": "mb-gabon-iboga-fairer-benefit-sharing",
+   "title": "Gabon seeks fairer share of profits from iboga used in ibogaine",
+   "summary": "As demand grows for ibogaine-based addiction treatments, Gabon wants more of the revenue from the iboga plant to stay in the country.",
+   "why": "Useful warning about fair benefit-sharing; no deal yet.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/gabon-home-to-the-medicinal-plant-behind-ibogaine-wants-a-fairer-share-of-its-global-boom/",
+   "score": 4,
+   "category": "Society",
+   "region": "Gabon",
+   "published": "2026-10-01T15:21:02Z",
+   "continent": "Africa",
+   "added": "2026-10-04T12:17:05Z",
+   "i18n": {
+    "ca": {
+     "title": "Gabon busca una part més justa dels beneficis de la iboga usada en ibogaïna",
+     "summary": "A mesura que creix la demanda de tractaments basats en ibogaïna, Gabon vol que més dels ingressos de la planta de iboga es quedin al país.",
+     "why": "Avís útil sobre la compartició justa de beneficis; sense acord encara."
+    },
+    "fr": {
+     "title": "Le Gabon cherche une part plus juste des bénéfices de l'iboga utilisée dans l'ibogaïne",
+     "summary": "Alors que la demande de traitements basés sur l'ibogaïne augmente, le Gabon veut que plus des revenus de la plante d'iboga restent dans le pays.",
+     "why": "Avertissement utile sur le partage équitable des avantages ; pas encore d'accord."
+    },
+    "ru": {
+     "title": "Габон ищет справедливую долю прибыли от ибоги, используемой в ибогаине",
+     "summary": "С растущим спросом на методы лечения на основе ибогаина Габон хочет, чтобы больше доходов от растения ибога оставались в стране.",
+     "why": "Полезное предупреждение о справедливом распределении выгод; пока соглашения нет."
+    }
+   }
+  },
+  {
+   "id": "mb-dolphins-separate-social-hunting-waters",
+   "title": "Dolphins use different waters for socialising and hunting",
+   "summary": "Acoustic research off Florida shows dolphins keep feeding and social areas separate, using different sounds for each.",
+   "why": "Interesting science with no direct harm or benefit.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/dolphins-keep-their-social-and-hunting-lives-in-separate-waters-study-finds/",
+   "score": 5,
+   "category": "Science",
+   "region": "Florida, USA",
+   "published": "2026-10-01T15:07:38Z",
+   "continent": "North America",
+   "added": "2026-10-04T12:17:05Z",
+   "i18n": {
+    "ca": {
+     "title": "Els dofins usen aigues diferents per a la socialització i la caça",
+     "summary": "La recerca acústica a Florida mostra que els dofins mantenen les zones d'alimentació i socials separades, utilitzant sons diferents per a cada una.",
+     "why": "Ciència interessant sense benefici ni dany directe."
+    },
+    "fr": {
+     "title": "Les dauphins utilisent des eaux différentes pour la socialisation et la chasse",
+     "summary": "La recherche acoustique au large de la Floride montre que les dauphins maintiennent séparées leurs zones d'alimentation et sociales, en utilisant des sons différents pour chacune.",
+     "why": "Science intéressante sans effet pratique direct."
+    },
+    "ru": {
+     "title": "Дельфины используют разные воды для общения и охоты",
+     "summary": "Акустические исследования у берегов Флориды показывают, что дельфины держат кормовые и социальные районы отдельно, используя разные звуки для каждого.",
+     "why": "Интересная наука без прямой пользы или вреда."
+    }
+   }
+  },
+  {
    "id": "rtbc-la-seed-bombs",
    "title": "Fire survivors replant LA's burned hills with seed bombs",
    "summary": "Residents who lost homes in the fires made and handed out 10,000 balls of native seeds to help the landscape recover.",
@@ -1137,7 +1668,24 @@
    "region": "Australia",
    "published": "2026-10-01T13:59:22Z",
    "continent": "Oceania",
-   "added": "2026-10-04T04:10:05Z"
+   "added": "2026-10-04T04:10:05Z",
+   "i18n": {
+    "ca": {
+     "title": "Dues noves espècies gegants de tijeretes descrites a Austràlia",
+     "summary": "Els investigadors van identificar dues noves insectes pals australians, una ponent ous inusuals amb tapa, i van mostrar que una espècie llarga reconeguda havia estat mal identificada durant dècades.",
+     "why": "Afegeix al coneixement de la biodiversitat que val la pena protegir."
+    },
+    "fr": {
+     "title": "Deux nouvelles espèces géantes de bâtons d'insecte décrites en Australie",
+     "summary": "Les chercheurs ont identifié deux nouvelles espèces australiennes de bâton, l'une pondant des œufs inhabituels avec couvercle, et ont montré qu'une espèce longtemps reconnue avait été mal identifiée pendant des décennies.",
+     "why": "Ajoute à la connaissance de la biodiversité digne d'être protégée."
+    },
+    "ru": {
+     "title": "Два новых вида гигантских палочников описаны в Австралии",
+     "summary": "Исследователи идентифицировали два новых австралийских вида палочников, один откладывает необычные яйца с крышкой, и показали, что давно признанный вид был неправильно идентифицирован в течение десятилетий.",
+     "why": "Добавляет к знаниям о биоразнообразии, стоящем защиты."
+    }
+   }
   },
   {
    "id": "sd-strawberry-plant-armor",
@@ -1171,6 +1719,37 @@
    }
   },
   {
+   "id": "mb-community-led-conservation-kenya-kaelo",
+   "title": "Kenyan conservation shifts toward community-led conservancies",
+   "summary": "Conservationist Dickson Kaelo describes how pastoralist communities in Kenya are gaining decision-making power over wildlife in community conservancies.",
+   "why": "Positive model for local control, shown through an interview.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/from-community-based-to-community-led-conservation-in-kenya-interview-with-dickson-kaelo/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Kenya",
+   "published": "2026-10-01T13:26:51Z",
+   "continent": "Africa",
+   "added": "2026-10-04T12:17:05Z",
+   "i18n": {
+    "ca": {
+     "title": "La conservació de Kenya es desplaça cap a conservancies liderats per la comunitat",
+     "summary": "El conservacionista Dickson Kaelo descriu com les comunitats de pastors a Kenya estan guanyant poder de decisió sobre la fauna silvestre en conservancies dirigits per la comunitat.",
+     "why": "Model positiu de control local, mostrat a través d'una entrevista."
+    },
+    "fr": {
+     "title": "La conservation au Kenya s'oriente vers des zones de conservation gérées par la communauté",
+     "summary": "Le naturaliste Dickson Kaelo décrit comment les communautés de pasteurs au Kenya gagnent le pouvoir décisionnel sur la faune dans les zones de conservation gérées par les communautés.",
+     "why": "Modèle positif de contrôle local, montré par le biais d'une interview."
+    },
+    "ru": {
+     "title": "Охрана природы в Кении переходит на управление сообществами",
+     "summary": "Природовед Диксон Каэло описывает, как сообщества пастырей в Кении получают решающее слово в управлении дикой природой в общинных заповедниках.",
+     "why": "Позитивная модель местного контроля, показанная через интервью."
+    }
+   }
+  },
+  {
    "id": "sd-superfluid-helium-qubit",
    "title": "Proposed superfluid helium qubit could cut quantum errors a hundredfold",
    "summary": "Physicists propose a qubit built in superfluid helium that would be shielded from electromagnetic noise, potentially reducing errors about 100 times.",
@@ -1182,7 +1761,24 @@
    "region": "Global",
    "published": "2026-10-01T13:17:13Z",
    "continent": "Global",
-   "added": "2026-10-04T04:10:05Z"
+   "added": "2026-10-04T04:10:05Z",
+   "i18n": {
+    "ca": {
+     "title": "El qubit propusat de heli superfluido podria reduir els errors quàntics cent vegades",
+     "summary": "Els físics proposen un qubit construït en heli superfluido que estaria protegit del soroll electromagnètic, reduint potencialment els errors aproximadament 100 vegades.",
+     "why": "Avanç teòric interessant, lluny de l'ús pràctic."
+    },
+    "fr": {
+     "title": "Le qubit d'hélium superfluide proposé pourrait réduire les erreurs quantiques de cent fois",
+     "summary": "Les physiciens proposent un qubit construit dans de l'hélium superfluide qui serait blindé du bruit électromagnétique, réduisant potentiellement les erreurs d'environ 100 fois.",
+     "why": "Avancée théorique intéressante, loin de l'utilisation pratique."
+    },
+    "ru": {
+     "title": "Предлагаемый кубит сверхтекучего гелия может уменьшить ошибки квантов в сто раз",
+     "summary": "Физики предлагают кубит, построенный в сверхтекучем гелии, который был бы защищен от электромагнитного шума, потенциально снижая ошибки примерно в 100 раз.",
+     "why": "Интересный теоретический прогресс, далекий от практического использования."
+    }
+   }
   },
   {
    "id": "gnn-arabian-sea-humpbacks",
@@ -1227,7 +1823,24 @@
    "region": "Global",
    "published": "2026-10-01T12:26:47Z",
    "continent": "Global",
-   "added": "2026-10-04T04:10:05Z"
+   "added": "2026-10-04T04:10:05Z",
+   "i18n": {
+    "ca": {
+     "title": "La dieta MIND vinculada a una contracció cerebral més lenta",
+     "summary": "Les persones que van seguir de prop la dieta MIND van mostrar menys contracció cerebral i pèrdua de matèria gris, aproximadament igual a 2,5 anys menys d'envelliment cerebral.",
+     "why": "Hàbit accessible i de baix cost amb un benefici cerebral mesurable, tot i que observacional."
+    },
+    "fr": {
+     "title": "Le régime MIND lié à un rétrécissement cérébral plus lent",
+     "summary": "Les personnes qui ont suivi étroitement le régime MIND ont montré moins de rétrécissement cérébral et de perte de matière grise, à peu près égale à 2,5 ans de moins de vieillissement cérébral.",
+     "why": "Habitude accessible à faible coût avec un bénéfice cérébral mesurable, bien qu'observationnelle."
+    },
+    "ru": {
+     "title": "Диета MIND связана с более медленной атрофией мозга",
+     "summary": "Люди, которые внимательно придерживались диеты MIND, показали меньшую атрофию мозга и потерю серого вещества, примерно эквивалентную 2,5 годам менее быстрого старения мозга.",
+     "why": "Доступная и недорогая привычка с измеримой пользой для мозга, хотя и основанная на наблюдениях."
+    }
+   }
   },
   {
    "id": "gnn-greek-artifacts-returned",
@@ -1272,7 +1885,24 @@
    "region": "Global",
    "published": "2026-10-01T06:34:01Z",
    "continent": "Global",
-   "added": "2026-10-04T04:10:05Z"
+   "added": "2026-10-04T04:10:05Z",
+   "i18n": {
+    "ca": {
+     "title": "Reduir la comida ultraprocessada va alleujar els símptomes de depressió en un petit ensaig",
+     "summary": "En proves preliminars, les persones amb depressió que van reduir dràsticament la comida ultraprocessada van informar de millories notables, possiblement relacionades amb menys dany intestinal i inflamació.",
+     "why": "Encoratjador i pràctic, però primerenc i petit."
+    },
+    "fr": {
+     "title": "Réduire la malbouffe ultratraitée a soulagé les symptômes de dépression dans un petit essai",
+     "summary": "Dans les tests préliminaires, les personnes déprimées qui ont fortement réduit les aliments ultratraités ont signalé des améliorations notables, possiblement liées à moins de dommages intestinaux et d'inflammation.",
+     "why": "Encourageant et pratique, mais précoce et petit."
+    },
+    "ru": {
+     "title": "Сокращение ультраобработанной пищи облегчило симптомы депрессии в небольшом испытании",
+     "summary": "В предварительных тестах люди с депрессией, которые резко снизили потребление ультраобработанной пищи, сообщили об улучшении, возможно связанном с меньшим повреждением кишечника и воспалением.",
+     "why": "Обнадеживающее и практическое, но раннее и небольшое."
+    }
+   }
   },
   {
    "id": "mb-ganges-dolphins-buriganga-bangladesh",
@@ -1348,7 +1978,24 @@
    "region": "United States",
    "published": "2026-10-01T02:11:51Z",
    "continent": "North America",
-   "added": "2026-10-04T04:10:05Z"
+   "added": "2026-10-04T04:10:05Z",
+   "i18n": {
+    "ca": {
+     "title": "Un braç sense suport pot inflar les lectures de pressió sanguínia en uns 7 punts",
+     "summary": "Els investigadors de Johns Hopkins van descobrir que deixar el braç sense suport durant una verificació va augmentar les lectures sistòliques en aproximadament 6,5 mmHg, suficient per afectar els diagnòstics.",
+     "why": "Una simple solució immediately usable per millorar l'atenció de molts."
+    },
+    "fr": {
+     "title": "Un bras non soutenu peut gonfler les lectures de pression artérielle d'environ 7 points",
+     "summary": "Les chercheurs de Johns Hopkins ont découvert que laisser le bras non soutenu lors d'une vérification augmentait les lectures systoliques d'environ 6,5 mmHg, suffisant pour affecter les diagnostics.",
+     "why": "Un correctif simple et immédiatement utilisable pour améliorer les soins de nombreux patients."
+    },
+    "ru": {
+     "title": "Неподдерживаемая рука может завышать показания артериального давления примерно на 7 пунктов",
+     "summary": "Исследователи Johns Hopkins обнаружили, что оставление руки без поддержки во время проверки повышает систолические показания примерно на 6,5 мм рт. ст., что достаточно для влияния на диагностику.",
+     "why": "Простое, немедленно применимое решение для улучшения ухода за многими пациентами."
+    }
+   }
   },
   {
    "id": "od-argentina-solar-powered-train",
@@ -1475,6 +2122,37 @@
    }
   },
   {
+   "id": "gnn-chris-evans-video-bonded-dogs-adopted",
+   "title": "Actor's video helps bonded rescue dogs get adopted",
+   "summary": "Actor Chris Evans made a promotional video for two bonded dogs at a Boston shelter, and a family adopted both soon afterwards.",
+   "why": "Small but happy outcome for two animals.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/chris-evans-puts-his-limelight-on-a-bonded-dog-pair-with-cute-video-immediately-sees-them-adopted/",
+   "score": 6,
+   "category": "Animals",
+   "region": "Boston, USA",
+   "published": "2026-09-30T13:00:30Z",
+   "continent": "North America",
+   "added": "2026-10-04T12:17:05Z",
+   "i18n": {
+    "ca": {
+     "title": "El vídeo de l'actor ajuda a adoptar dos gos de rescat vinculats",
+     "summary": "L'actor Chris Evans va fer un vídeo promocional per a dos gos vinculats d'un refugi de Boston, i una família va adoptar tots dos poc després.",
+     "why": "Un resultat petit però positiu per a dos animals."
+    },
+    "fr": {
+     "title": "La vidéo de l'acteur aide deux chiens de sauvetage liés à être adoptés",
+     "summary": "L'acteur Chris Evans a réalisé une vidéo promotionnelle pour deux chiens liés dans un refuge de Boston, et une famille les a adoptés peu après.",
+     "why": "Un petit résultat heureux pour deux animaux."
+    },
+    "ru": {
+     "title": "Видео актера помогает найти приемные семьи для двух спасенных собак",
+     "summary": "Актер Крис Эванс создал промо-видео для двух связанных между собой собак из приюта в Бостоне, и вскоре семья усыновила их обеих.",
+     "why": "Небольшой, но счастливый результат для двух животных."
+    }
+   }
+  },
+  {
    "id": "sd-cannabis-violence-review",
    "title": "Review links cannabis use to higher rates of violence",
    "summary": "Across 265,000 people, cannabis users were about twice as likely to commit violence, though the study can't show cause.",
@@ -1517,7 +2195,24 @@
    "region": "Space",
    "published": "2026-09-30T12:27:27Z",
    "continent": "Global",
-   "added": "2026-10-04T04:11:20Z"
+   "added": "2026-10-04T04:11:20Z",
+   "i18n": {
+    "ca": {
+     "title": "Els llamps de raigs X llargs poden marcar el naixement dels magnetars",
+     "summary": "Els astrònoms van trobar proves que els llamps de raigs X que duren minuts provenen de la fusió d'estrelles de neutrons formant magnetars, amb un esdeveniment brillant durant gairebé deu minuts.",
+     "why": "Una manera nova de detectar événements còsmics rars; interès científic només."
+    },
+    "fr": {
+     "title": "Les longs éclairs de rayons X pourraient marquer la naissance des magnétars",
+     "summary": "Les astronomes ont trouvé des preuves que les éclairs de rayons X d'une durée de minutes proviennent de la fusion d'étoiles à neutrons formant des magnétars, avec un événement brillant pendant près de dix minutes.",
+     "why": "Une nouvelle façon de détecter les événements cosmiques rares ; intérêt scientifique uniquement."
+    },
+    "ru": {
+     "title": "Длительные вспышки рентгеновского излучения могут указывать на рождение магнетаров",
+     "summary": "Астрономы нашли доказательства того, что длящиеся минутами вспышки рентгеновского излучения происходят от слияния нейтронных звезд, образующих магнетары, с одним событием, сияющим почти десять минут.",
+     "why": "Новый способ обнаружения редких космических явлений; только научный интерес."
+    }
+   }
   },
   {
    "id": "sd-perseverance-jezero-water",
@@ -1531,7 +2226,24 @@
    "region": "Space",
    "published": "2026-09-30T11:34:31Z",
    "continent": "Global",
-   "added": "2026-10-04T04:11:20Z"
+   "added": "2026-10-04T04:11:20Z",
+   "i18n": {
+    "ca": {
+     "title": "Perseverance trova signes d'aigua subterrània, llacs i fluids calents en una zona de Mart",
+     "summary": "Les roques de la unitat de marge del Cràter Jezero van ser alterades per l'aigua diverses vegades, revelant una història hidrotermal més complexa del que s'esperava.",
+     "why": "Ciència planetària valuosa sense efecte directe en la vida diària."
+    },
+    "fr": {
+     "title": "Perseverance trouve des signes d'eau souterraine, de lacs et de fluides chauds sur Mars",
+     "summary": "Les roches de l'unité marginale du cratère Jezero ont été altérées par l'eau plusieurs fois, révélant une histoire hydrothermale plus complexe que prévu.",
+     "why": "Science planétaire précieuse sans effet direct sur la vie quotidienne."
+    },
+    "ru": {
+     "title": "Perseverance находит признаки подземной воды, озер и горячих жидкостей на Марсе",
+     "summary": "Скалы маргинальной единицы кратера Jezero были изменены водой несколько раз, выявляя более сложную гидротермальную историю, чем ожидалось.",
+     "why": "Ценная планетарная наука без прямого влияния на повседневную жизнь."
+    }
+   }
   },
   {
    "id": "gnn-golf-course-wetland",
@@ -1576,7 +2288,24 @@
    "region": "Space",
    "published": "2026-09-30T10:51:59Z",
    "continent": "Global",
-   "added": "2026-10-04T04:11:20Z"
+   "added": "2026-10-04T04:11:20Z",
+   "i18n": {
+    "ca": {
+     "title": "Els raigs de forats negres escalfen gas molt més allà de les seves galàxies",
+     "summary": "Les observacions mostren que els raigs de forats negres supermassius pertorben el gas que forma estrelles a centenars de milers d'anys llum de distància, possiblement decidint si les galàxies continuen fent estrelles.",
+     "why": "Astronomia fonamental sense efecte pràctic directe."
+    },
+    "fr": {
+     "title": "Les jets de trous noirs chauffent le gaz bien au-delà de leurs galaxies",
+     "summary": "Les observations montrent que les jets de trous noirs supermassifs perturbent le gaz qui forme les étoiles à des centaines de milliers d'années-lumière, décidant possiblement si les galaxies continuent à former des étoiles.",
+     "why": "Astronomie fondamentale sans effet pratique direct."
+    },
+    "ru": {
+     "title": "Джеты черных дыр нагревают газ далеко за пределами своих галактик",
+     "summary": "Наблюдения показывают, что джеты сверхмассивных черных дыр возмущают звездообразующий газ на сотни тысяч световых лет расстояния, возможно определяя, продолжают ли галактики создавать звезды.",
+     "why": "Фундаментальная астрономия без прямого практического эффекта."
+    }
+   }
   },
   {
    "id": "gnn-west-coast-sea-turtle-nests",
@@ -1621,7 +2350,24 @@
    "region": "Italy",
    "published": "2026-09-30T09:37:41Z",
    "continent": "Europe",
-   "added": "2026-10-04T04:11:20Z"
+   "added": "2026-10-04T04:11:20Z",
+   "i18n": {
+    "ca": {
+     "title": "L'erupció del Vesuvi del 79 CE usada per afinar la datació geològica",
+     "summary": "Els científics van usar la data precisa de l'erupció de Pompeia per calibrar un mètode de datació, que podria refinar les línies de temps d'erupcions, impactes i extincions.",
+     "why": "Guany metodològic sòlid per a la ciència de la Terra."
+    },
+    "fr": {
+     "title": "L'éruption du Vésuve de 79 ap. J.-C. utilisée pour affiner la datation géologique",
+     "summary": "Les scientifiques ont utilisé la date précisément connue de l'éruption de Pompéi pour étalonner une méthode de datation, qui pourrait affiner les chronologies des éruptions, des impacts et des extinctions.",
+     "why": "Gain méthodologique solide pour la science de la Terre."
+    },
+    "ru": {
+     "title": "Извержение Везувия 79 года н.э., используемое для улучшения геологического датирования",
+     "summary": "Ученые использовали точно известную дату извержения Помпеи для калибровки метода датирования, который может уточнить сроки извержений, воздействий и вымираний.",
+     "why": "Твердый методологический прогресс для науки о Земле."
+    }
+   }
   },
   {
    "id": "sd-bats-europe-origin",
