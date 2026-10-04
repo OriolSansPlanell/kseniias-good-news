@@ -1,12 +1,14 @@
 name: Update site
 
-# Every hour: pick up new run files from the Google Drive folder, update
-# stories.json and feed.xml, commit them, and publish the site.
+# Every hour: pick up new files from the Google Drive folder (news runs, calendar
+# and Nobel updates), update the site's data files, commit them, and publish the site.
 # Any push to main (for example editing a file on GitHub) also republishes it.
 
 on:
   schedule:
     - cron: "23 * * * *"
+    # Nobel announcement days (5-9 and 12 October): check every 10 minutes, 11:00-16:59 Paris time.
+    - cron: "*/10 9-14 5-9,12 10 *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -41,7 +43,7 @@ jobs:
         run: |
           git config user.name "Good News bot"
           git config user.email "goodnews-bot@users.noreply.github.com"
-          git add stories.json feed.xml
+          git add stories.json feed.xml events.json nobel.json
           git diff --cached --quiet || git commit -m "Update stories from Drive"
           git push
 

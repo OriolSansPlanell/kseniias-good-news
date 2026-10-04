@@ -19,7 +19,12 @@ news feeds ──► Claude scheduled task (every 6 h) ──► run file in a G
 
 1. Every six hours a Claude scheduled task runs. Sonnet coordinates: two Haiku helpers read the news feeds in parallel, Sonnet picks and scores the stories and writes the English summaries, and a third Haiku helper translates them into Catalan, French and Russian (and fills in translations missing from older stories). The task then uploads one small file (`run-YYYYMMDDTHHMMZ.json`) to a Google Drive folder. It never needs write access to GitHub.
 2. Every hour a GitHub Action looks in that folder. If there is a newer run file, it merges the stories into `stories.json` and `feed.xml`, commits them, and publishes the site.
-3. The Claude task also deletes run files older than three days, so the folder stays small.
+3. The Claude task also deletes files older than three days, so the folder stays small.
+
+Two more scheduled tasks feed the **Calendar** tab the same way:
+
+- **Calendar refresh** (Mondays): researches notable positive events for the next three months (sky events, space missions, prizes, conferences, UN days) and uploads `events-….json`.
+- **Nobel live** (hourly, 11:55–15:55 Paris time on 5–9 and 12 October): finds each new laureate, writes a short profile and a plain-language explanation of the work, translates it, and uploads `nobel-….json`. On those days the GitHub Action checks Drive every 10 minutes, so updates appear quickly.
 
 ## What's in the repo
 
@@ -27,6 +32,8 @@ news feeds ──► Claude scheduled task (every 6 h) ──► run file in a G
 | --- | --- |
 | `index.html` | The whole reader: four languages, filters by score, topic and continent, the world panel, saved stories, sharing |
 | `world.json` | Simplified continent outlines for the map (from Natural Earth, public domain) |
+| `events.json` | The "Coming up" calendar (next three months) |
+| `nobel.json` | The Nobel live hub: announcement times, laureates, profiles and explanations |
 | `stories.json` | The current stories |
 | `feed.xml` | An RSS feed of stories scoring 6 or more |
 | `sw.js`, `manifest.webmanifest`, `icons/` | Make it installable on phones and readable offline |
@@ -35,7 +42,9 @@ news feeds ──► Claude scheduled task (every 6 h) ──► run file in a G
 | `.github/workflows/update-site.yml` | The hourly Action: import, commit, publish |
 | `site.json` | Site name, address, Drive folder ID and the list of news sources |
 | `scripts/build_map.py` | Rebuilds `world.json` (only needed to change the map) |
-| `UPDATE_PROMPT.md` | The exact instruction the Claude scheduled task follows |
+| `UPDATE_PROMPT.md` | The exact instruction the 6-hour news task follows |
+| `CALENDAR_PROMPT.md`, `NOBEL_PROMPT.md` | Instructions for the weekly calendar task and the Nobel live task |
+| `scripts/calendar_data.py` | Checks calendar and Nobel files before they go live |
 
 ## Setup, step by step
 

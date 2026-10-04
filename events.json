@@ -1,0 +1,605 @@
+{
+ "updated": "2026-10-04T06:43:35Z",
+ "events": [
+  {
+   "id": "saturn-opposition-2026",
+   "date": "2026-10-04",
+   "category": "Sky",
+   "title": "Saturn at its best",
+   "summary": "Saturn sits opposite the Sun, at its brightest and visible all night. Even a small telescope shows its rings.",
+   "link": "https://starwalk.space/en/news/astronomy-calendar-2026",
+   "i18n": {
+    "ca": {
+     "title": "Saturn en el seu millor moment",
+     "summary": "Saturn és en oposició al Sol, més brillant que mai i visible tota la nit. Fins i tot un telescopi petit en mostra els anells."
+    },
+    "fr": {
+     "title": "Saturne au meilleur de sa forme",
+     "summary": "Saturne est à l'opposé du Soleil, au plus brillant et visible toute la nuit. Même un petit télescope montre ses anneaux."
+    },
+    "ru": {
+     "title": "Сатурн в лучшей видимости",
+     "summary": "Сатурн в противостоянии с Солнцем: он ярче всего и виден всю ночь. Кольца различимы даже в небольшой телескоп."
+    }
+   }
+  },
+  {
+   "id": "nobel-week-2026",
+   "date": "2026-10-05",
+   "end": "2026-10-12",
+   "category": "Awards",
+   "title": "Nobel Prize announcements",
+   "summary": "Six days of announcements, from medicine on Monday 5 October to economics on Monday 12 October. Follow them live in the Nobel section above.",
+   "link": "https://www.nobelprize.org/prizes/about/prize-announcement-dates",
+   "i18n": {
+    "ca": {
+     "title": "Anuncis dels premis Nobel",
+     "summary": "Sis dies d'anuncis, de medicina el dilluns 5 d'octubre a economia el dilluns 12 d'octubre. Segueix-los en directe a la secció Nobel de dalt."
+    },
+    "fr": {
+     "title": "Annonces des prix Nobel",
+     "summary": "Six jours d'annonces, de la médecine le lundi 5 octobre à l'économie le lundi 12 octobre. Suivez-les en direct dans la section Nobel ci-dessus."
+    },
+    "ru": {
+     "title": "Объявление Нобелевских премий",
+     "summary": "Шесть дней объявлений: от медицины в понедельник, 5 октября, до экономики в понедельник, 12 октября. Следите в прямом эфире в разделе «Нобель» выше."
+    }
+   }
+  },
+  {
+   "id": "world-mental-health-day-2026",
+   "date": "2026-10-10",
+   "category": "Society",
+   "title": "World Mental Health Day",
+   "summary": "A worldwide day to talk openly about mental health and make support easier to find for everyone.",
+   "link": "https://www.who.int/campaigns/world-mental-health-day",
+   "i18n": {
+    "ca": {
+     "title": "Dia Mundial de la Salut Mental",
+     "summary": "Un dia mundial per parlar obertament de salut mental i fer que tothom trobi ajuda més fàcilment."
+    },
+    "fr": {
+     "title": "Journée mondiale de la santé mentale",
+     "summary": "Une journée mondiale pour parler ouvertement de santé mentale et rendre l'aide plus facile à trouver pour tous."
+    },
+    "ru": {
+     "title": "Всемирный день психического здоровья",
+     "summary": "Всемирный день, чтобы открыто говорить о психическом здоровье и сделать помощь доступнее для всех."
+    }
+   }
+  },
+  {
+   "id": "world-food-day-2026",
+   "date": "2026-10-16",
+   "category": "Society",
+   "title": "World Food Day",
+   "summary": "The UN's food agency marks its founding with events in over 150 countries on ending hunger and growing food sustainably.",
+   "link": "https://www.fao.org/world-food-day/en",
+   "i18n": {
+    "ca": {
+     "title": "Dia Mundial de l'Alimentació",
+     "summary": "L'agència de l'ONU per a l'alimentació celebra la seva fundació amb actes a més de 150 països per acabar amb la fam i produir aliments de manera sostenible."
+    },
+    "fr": {
+     "title": "Journée mondiale de l'alimentation",
+     "summary": "L'agence de l'ONU pour l'alimentation célèbre sa fondation avec des événements dans plus de 150 pays pour en finir avec la faim et produire durablement."
+    },
+    "ru": {
+     "title": "Всемирный день продовольствия",
+     "summary": "Продовольственное агентство ООН отмечает свою годовщину мероприятиями в более чем 150 странах — о борьбе с голодом и устойчивом сельском хозяйстве."
+    }
+   }
+  },
+  {
+   "id": "mmx-launch-2026",
+   "date": "2026-10-19",
+   "at": "2026-10-19T19:41:00Z",
+   "category": "Space",
+   "title": "Japan launches MMX to the moons of Mars",
+   "summary": "JAXA's probe lifts off on an H3 rocket to explore Phobos and Deimos, land the Franco-German rover Idefix, and bring a piece of Phobos back to Earth.",
+   "link": "https://www.mmx.jaxa.jp/en/",
+   "i18n": {
+    "ca": {
+     "title": "El Japó llança MMX cap a les llunes de Mart",
+     "summary": "La sonda de la JAXA s'enlaira en un coet H3 per explorar Fobos i Deimos, fer-hi aterrar el ròver francoalemany Idefix i portar a la Terra un tros de Fobos."
+    },
+    "fr": {
+     "title": "Le Japon lance MMX vers les lunes de Mars",
+     "summary": "La sonde de la JAXA décolle sur une fusée H3 pour explorer Phobos et Déimos, y poser le rover franco-allemand Idefix et rapporter sur Terre un morceau de Phobos."
+    },
+    "ru": {
+     "title": "Япония запускает MMX к спутникам Марса",
+     "summary": "Зонд JAXA стартует на ракете H3, чтобы исследовать Фобос и Деймос, высадить франко-германский ровер Idefix и доставить на Землю образец Фобоса."
+    }
+   }
+  },
+  {
+   "id": "orionids-2026",
+   "date": "2026-10-21",
+   "category": "Sky",
+   "title": "Orionid meteor shower peaks",
+   "summary": "Tiny pieces of Halley's Comet burn up in the sky. Best after midnight, away from city lights.",
+   "link": "https://starwalk.space/en/news/astronomy-calendar-2026",
+   "i18n": {
+    "ca": {
+     "title": "Màxim de la pluja d'estels Oriònides",
+     "summary": "Petits fragments del cometa Halley es cremen al cel. Millor després de mitjanit i lluny dels llums de la ciutat."
+    },
+    "fr": {
+     "title": "Pic des Orionides",
+     "summary": "De minuscules fragments de la comète de Halley se consument dans le ciel. Mieux après minuit, loin des lumières de la ville."
+    },
+    "ru": {
+     "title": "Пик метеорного потока Ориониды",
+     "summary": "Крошечные частицы кометы Галлея сгорают в атмосфере. Лучше наблюдать после полуночи вдали от городских огней."
+    }
+   }
+  },
+  {
+   "id": "cop31-2026",
+   "date": "2026-11-09",
+   "end": "2026-11-20",
+   "category": "Environment",
+   "title": "COP31 climate summit in Antalya",
+   "summary": "Countries meet in Antalya, Türkiye, for the UN's yearly climate conference to agree next steps on cutting emissions and adapting to a warmer world.",
+   "link": "https://unfccc.int/cop31",
+   "i18n": {
+    "ca": {
+     "title": "Cimera del clima COP31 a Antalya",
+     "summary": "Els països es reuneixen a Antalya, Turquia, a la conferència anual del clima de l'ONU per acordar els passos següents per reduir emissions i adaptar-se a un món més càlid."
+    },
+    "fr": {
+     "title": "Sommet climatique COP31 à Antalya",
+     "summary": "Les pays se réunissent à Antalya, en Turquie, pour la conférence annuelle de l'ONU sur le climat afin de convenir des prochaines étapes pour réduire les émissions et s'adapter."
+    },
+    "ru": {
+     "title": "Климатический саммит COP31 в Анталье",
+     "summary": "Страны собираются в Анталье (Турция) на ежегодную климатическую конференцию ООН, чтобы договориться о сокращении выбросов и адаптации к потеплению."
+    }
+   }
+  },
+  {
+   "id": "world-science-day-2026",
+   "date": "2026-11-10",
+   "category": "Science",
+   "title": "World Science Day for Peace and Development",
+   "summary": "UNESCO's day celebrating how science improves lives and why it should be open to everyone.",
+   "link": "https://www.unesco.org/en/days/science-peace-development",
+   "i18n": {
+    "ca": {
+     "title": "Dia Mundial de la Ciència per la Pau i el Desenvolupament",
+     "summary": "El dia de la UNESCO que celebra com la ciència millora la vida de les persones i per què ha d'estar oberta a tothom."
+    },
+    "fr": {
+     "title": "Journée mondiale de la science au service de la paix et du développement",
+     "summary": "La journée de l'UNESCO qui célèbre la façon dont la science améliore nos vies et pourquoi elle doit être ouverte à tous."
+    },
+    "ru": {
+     "title": "Всемирный день науки за мир и развитие",
+     "summary": "День ЮНЕСКО о том, как наука улучшает жизнь людей и почему она должна быть открыта для всех."
+    }
+   }
+  },
+  {
+   "id": "world-kindness-day-2026",
+   "date": "2026-11-13",
+   "category": "Society",
+   "title": "World Kindness Day",
+   "summary": "A day to notice and practise small acts of kindness, marked by groups in dozens of countries.",
+   "link": "https://en.wikipedia.org/wiki/World_Kindness_Day",
+   "i18n": {
+    "ca": {
+     "title": "Dia Mundial de l'Amabilitat",
+     "summary": "Un dia per fixar-se en els petits gestos d'amabilitat i practicar-los, celebrat per grups de desenes de països."
+    },
+    "fr": {
+     "title": "Journée mondiale de la gentillesse",
+     "summary": "Une journée pour remarquer et pratiquer les petits gestes de gentillesse, célébrée dans des dizaines de pays."
+    },
+    "ru": {
+     "title": "Всемирный день доброты",
+     "summary": "День, чтобы замечать и совершать маленькие добрые поступки; его отмечают в десятках стран."
+    }
+   }
+  },
+  {
+   "id": "planets-lineup-2026-11",
+   "date": "2026-11-14",
+   "category": "Sky",
+   "title": "Four planets line up",
+   "summary": "Four planets appear along one arc across the sky; several are easy to see without a telescope.",
+   "link": "https://starwalk.space/en/news/astronomy-calendar-2026",
+   "i18n": {
+    "ca": {
+     "title": "Quatre planetes en filera",
+     "summary": "Quatre planetes apareixen alineades en un arc al cel; diverses es veuen fàcilment sense telescopi."
+    },
+    "fr": {
+     "title": "Quatre planètes alignées",
+     "summary": "Quatre planètes apparaissent le long d'un même arc dans le ciel ; plusieurs se voient facilement sans télescope."
+    },
+    "ru": {
+     "title": "Парад четырёх планет",
+     "summary": "Четыре планеты выстраиваются вдоль одной дуги на небе; несколько из них легко увидеть без телескопа."
+    }
+   }
+  },
+  {
+   "id": "mars-jupiter-2026",
+   "date": "2026-11-16",
+   "category": "Sky",
+   "title": "Mars meets Jupiter",
+   "summary": "The red planet and the giant planet appear very close together in the night sky.",
+   "link": "https://starwalk.space/en/news/astronomy-calendar-2026",
+   "i18n": {
+    "ca": {
+     "title": "Mart es troba amb Júpiter",
+     "summary": "El planeta vermell i el planeta gegant es veuen molt a prop l'un de l'altre al cel nocturn."
+    },
+    "fr": {
+     "title": "Mars rencontre Jupiter",
+     "summary": "La planète rouge et la planète géante apparaissent très proches l'une de l'autre dans le ciel nocturne."
+    },
+    "ru": {
+     "title": "Марс встречается с Юпитером",
+     "summary": "Красная планета и планета-гигант видны на ночном небе совсем рядом друг с другом."
+    }
+   }
+  },
+  {
+   "id": "earthshot-2026",
+   "date": "2026-11-17",
+   "category": "Environment",
+   "title": "Earthshot Prize awards in Mumbai",
+   "summary": "Five winners each receive £1 million to scale up solutions to the planet's biggest environmental problems; the first ceremony held in India.",
+   "link": "https://earthshotprize.org/mumbai2026/",
+   "i18n": {
+    "ca": {
+     "title": "Premis Earthshot a Bombai",
+     "summary": "Cinc guanyadors reben un milió de lliures cadascun per ampliar solucions als grans problemes ambientals del planeta; és la primera cerimònia a l'Índia."
+    },
+    "fr": {
+     "title": "Remise des prix Earthshot à Bombay",
+     "summary": "Cinq lauréats reçoivent chacun un million de livres pour développer des solutions aux grands problèmes environnementaux ; première cérémonie en Inde."
+    },
+    "ru": {
+     "title": "Вручение премии Earthshot в Мумбаи",
+     "summary": "Пять победителей получат по миллиону фунтов на развитие решений главных экологических проблем планеты; церемония впервые проходит в Индии."
+    }
+   }
+  },
+  {
+   "id": "leonids-2026",
+   "date": "2026-11-17",
+   "end": "2026-11-18",
+   "category": "Sky",
+   "title": "Leonid meteor shower peaks",
+   "summary": "Fast, bright meteors from Comet Tempel–Tuttle, best seen in the hours before dawn.",
+   "link": "https://starwalk.space/en/news/astronomy-calendar-2026",
+   "i18n": {
+    "ca": {
+     "title": "Màxim de les Leònides",
+     "summary": "Meteors ràpids i brillants del cometa Tempel-Tuttle, millor visibles les hores abans de l'alba."
+    },
+    "fr": {
+     "title": "Pic des Léonides",
+     "summary": "Des météores rapides et brillants issus de la comète Tempel-Tuttle, à observer de préférence avant l'aube."
+    },
+    "ru": {
+     "title": "Пик метеорного потока Леониды",
+     "summary": "Быстрые яркие метеоры кометы Темпеля — Туттля; лучше всего видны в предрассветные часы."
+    }
+   }
+  },
+  {
+   "id": "world-childrens-day-2026",
+   "date": "2026-11-20",
+   "category": "Society",
+   "title": "World Children's Day",
+   "summary": "UNICEF's day for children's rights, when young people take over spaces usually run by adults and are heard.",
+   "link": "https://www.unicef.org/world-childrens-day",
+   "i18n": {
+    "ca": {
+     "title": "Dia Mundial de la Infància",
+     "summary": "El dia de l'UNICEF pels drets dels infants, en què els joves ocupen espais normalment dirigits per adults i se'ls escolta."
+    },
+    "fr": {
+     "title": "Journée mondiale de l'enfance",
+     "summary": "La journée de l'UNICEF pour les droits de l'enfant, où les jeunes prennent la parole dans des lieux habituellement tenus par des adultes."
+    },
+    "ru": {
+     "title": "Всемирный день ребёнка",
+     "summary": "День ЮНИСЕФ, посвящённый правам детей: молодые люди получают слово там, где обычно решают взрослые."
+    }
+   }
+  },
+  {
+   "id": "bepicolombo-mercury-2026",
+   "date": "2026-11-21",
+   "category": "Space",
+   "title": "BepiColombo reaches Mercury",
+   "summary": "After eight years in space, the European–Japanese mission enters orbit around Mercury to map it and study its magnetic field.",
+   "link": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo",
+   "i18n": {
+    "ca": {
+     "title": "BepiColombo arriba a Mercuri",
+     "summary": "Després de vuit anys a l'espai, la missió europea i japonesa entra en òrbita al voltant de Mercuri per cartografiar-lo i estudiar-ne el camp magnètic."
+    },
+    "fr": {
+     "title": "BepiColombo arrive à Mercure",
+     "summary": "Après huit ans dans l'espace, la mission européenne et japonaise se met en orbite autour de Mercure pour la cartographier et étudier son champ magnétique."
+    },
+    "ru": {
+     "title": "BepiColombo достигает Меркурия",
+     "summary": "После восьми лет в космосе европейско-японская миссия выходит на орбиту Меркурия, чтобы картографировать планету и изучить её магнитное поле."
+    }
+   }
+  },
+  {
+   "id": "supermoon-2026-11",
+   "date": "2026-11-24",
+   "category": "Sky",
+   "title": "Supermoon",
+   "summary": "The full Moon is close to Earth and looks slightly bigger and brighter than usual.",
+   "link": "https://starwalk.space/en/news/astronomy-calendar-2026",
+   "i18n": {
+    "ca": {
+     "title": "Superlluna",
+     "summary": "La lluna plena és a prop de la Terra i es veu una mica més gran i brillant que de costum."
+    },
+    "fr": {
+     "title": "Super Lune",
+     "summary": "La pleine Lune est proche de la Terre et paraît un peu plus grande et plus brillante que d'habitude."
+    },
+    "ru": {
+     "title": "Суперлуние",
+     "summary": "Полная Луна близко к Земле и выглядит чуть крупнее и ярче обычного."
+    }
+   }
+  },
+  {
+   "id": "hera-didymos-2026",
+   "date": "2026-11",
+   "category": "Space",
+   "title": "Hera reaches the Didymos asteroids",
+   "summary": "ESA's planetary-defence probe arrives at the asteroid pair that NASA's DART hit in 2022, to measure how well the nudge worked.",
+   "link": "https://www.esa.int/Space_Safety/Hera/ESA_s_Hera_targets_early_arrival_at_Didymos_asteroids",
+   "i18n": {
+    "ca": {
+     "title": "Hera arriba als asteroides Dídim",
+     "summary": "La sonda de defensa planetària de l'ESA arriba a la parella d'asteroides que DART, de la NASA, va impactar el 2022, per mesurar l'efecte de la desviació."
+    },
+    "fr": {
+     "title": "Hera arrive aux astéroïdes Didymos",
+     "summary": "La sonde de défense planétaire de l'ESA atteint le couple d'astéroïdes percuté par DART (NASA) en 2022, pour mesurer l'effet de la déviation."
+    },
+    "ru": {
+     "title": "Hera прибывает к астероидам Дидим",
+     "summary": "Зонд ЕКА по планетарной защите достигает пары астероидов, в которую в 2022 году врезался DART (NASA), чтобы оценить результат отклонения."
+    }
+   }
+  },
+  {
+   "id": "disability-day-2026",
+   "date": "2026-12-03",
+   "category": "Society",
+   "title": "International Day of Persons with Disabilities",
+   "summary": "A UN day for the rights and inclusion of the more than one billion people living with a disability.",
+   "link": "https://www.un.org/en/observances/day-of-persons-with-disabilities",
+   "i18n": {
+    "ca": {
+     "title": "Dia Internacional de les Persones amb Discapacitat",
+     "summary": "Un dia de l'ONU pels drets i la inclusió de les més de mil milions de persones que viuen amb una discapacitat."
+    },
+    "fr": {
+     "title": "Journée internationale des personnes handicapées",
+     "summary": "Une journée de l'ONU pour les droits et l'inclusion de plus d'un milliard de personnes vivant avec un handicap."
+    },
+    "ru": {
+     "title": "Международный день людей с инвалидностью",
+     "summary": "День ООН, посвящённый правам и инклюзии более миллиарда людей с инвалидностью."
+    }
+   }
+  },
+  {
+   "id": "volunteer-day-2026",
+   "date": "2026-12-05",
+   "category": "Society",
+   "title": "International Volunteer Day",
+   "summary": "A thank-you to the millions of people who give their time to help others and their communities.",
+   "link": "https://www.un.org/en/observances/volunteer-day",
+   "i18n": {
+    "ca": {
+     "title": "Dia Internacional del Voluntariat",
+     "summary": "Un agraïment als milions de persones que dediquen el seu temps a ajudar els altres i les seves comunitats."
+    },
+    "fr": {
+     "title": "Journée internationale des volontaires",
+     "summary": "Un merci aux millions de personnes qui donnent de leur temps pour aider les autres et leur communauté."
+    },
+    "ru": {
+     "title": "Международный день добровольцев",
+     "summary": "Благодарность миллионам людей, которые тратят своё время, помогая другим и своим сообществам."
+    }
+   }
+  },
+  {
+   "id": "nobel-ceremonies-2026",
+   "date": "2026-12-10",
+   "category": "Awards",
+   "title": "Nobel Prize award ceremonies",
+   "summary": "This year's laureates receive their medals and diplomas in Stockholm, and the Peace Prize in Oslo.",
+   "link": "https://www.nobelprize.org/",
+   "i18n": {
+    "ca": {
+     "title": "Cerimònies de lliurament dels premis Nobel",
+     "summary": "Els guardonats d'enguany reben les medalles i els diplomes a Estocolm, i el premi de la Pau, a Oslo."
+    },
+    "fr": {
+     "title": "Cérémonies de remise des prix Nobel",
+     "summary": "Les lauréats de l'année reçoivent médailles et diplômes à Stockholm, et le prix de la paix à Oslo."
+    },
+    "ru": {
+     "title": "Церемонии вручения Нобелевских премий",
+     "summary": "Лауреаты этого года получают медали и дипломы в Стокгольме, а премию мира — в Осло."
+    }
+   }
+  },
+  {
+   "id": "human-rights-day-2026",
+   "date": "2026-12-10",
+   "category": "Society",
+   "title": "Human Rights Day",
+   "summary": "The anniversary of the Universal Declaration of Human Rights, celebrated around the world.",
+   "link": "https://www.un.org/en/observances/human-rights-day",
+   "i18n": {
+    "ca": {
+     "title": "Dia dels Drets Humans",
+     "summary": "L'aniversari de la Declaració Universal dels Drets Humans, celebrat arreu del món."
+    },
+    "fr": {
+     "title": "Journée des droits de l'homme",
+     "summary": "L'anniversaire de la Déclaration universelle des droits de l'homme, célébré dans le monde entier."
+    },
+    "ru": {
+     "title": "День прав человека",
+     "summary": "Годовщина Всеобщей декларации прав человека, которую отмечают по всему миру."
+    }
+   }
+  },
+  {
+   "id": "geminids-2026",
+   "date": "2026-12-13",
+   "end": "2026-12-14",
+   "category": "Sky",
+   "title": "Geminid meteor shower peaks",
+   "summary": "Often the best shower of the year, with up to about 120 meteors an hour under dark skies.",
+   "link": "https://starwalk.space/en/news/astronomy-calendar-2026",
+   "i18n": {
+    "ca": {
+     "title": "Màxim de les Gemínides",
+     "summary": "Sovint la millor pluja d'estels de l'any, amb fins a uns 120 meteors per hora sota cels foscos."
+    },
+    "fr": {
+     "title": "Pic des Géminides",
+     "summary": "Souvent la plus belle pluie d'étoiles filantes de l'année, jusqu'à environ 120 météores par heure sous un ciel sombre."
+    },
+    "ru": {
+     "title": "Пик метеорного потока Геминиды",
+     "summary": "Часто лучший звездопад года: до 120 метеоров в час под тёмным небом."
+    }
+   }
+  },
+  {
+   "id": "solstice-2026",
+   "date": "2026-12-21",
+   "category": "Sky",
+   "title": "December solstice",
+   "summary": "The longest night in the north and the longest day in the south; from here, northern days start getting longer.",
+   "link": "https://starwalk.space/en/news/astronomy-calendar-2026",
+   "i18n": {
+    "ca": {
+     "title": "Solstici de desembre",
+     "summary": "La nit més llarga a l'hemisferi nord i el dia més llarg al sud; a partir d'ara, els dies del nord s'allarguen."
+    },
+    "fr": {
+     "title": "Solstice de décembre",
+     "summary": "La nuit la plus longue dans l'hémisphère nord et le jour le plus long au sud ; ensuite, les jours rallongent au nord."
+    },
+    "ru": {
+     "title": "Декабрьское солнцестояние",
+     "summary": "Самая длинная ночь в Северном полушарии и самый длинный день в Южном; дальше дни на севере начинают расти."
+    }
+   }
+  },
+  {
+   "id": "supermoon-2026-12",
+   "date": "2026-12-24",
+   "category": "Sky",
+   "title": "Christmas Eve supermoon",
+   "summary": "A bright full Moon close to Earth lights up the night before Christmas.",
+   "link": "https://starwalk.space/en/news/astronomy-calendar-2026",
+   "i18n": {
+    "ca": {
+     "title": "Superlluna de Nadal",
+     "summary": "Una lluna plena brillant i propera a la Terra il·lumina la nit de Nadal."
+    },
+    "fr": {
+     "title": "Super Lune de Noël",
+     "summary": "Une pleine Lune brillante et proche de la Terre éclaire la nuit de Noël."
+    },
+    "ru": {
+     "title": "Суперлуние в сочельник",
+     "summary": "Яркая полная Луна, близкая к Земле, освещает ночь перед Рождеством."
+    }
+   }
+  },
+  {
+   "id": "im3-moon-2026",
+   "date": "2026-12",
+   "category": "Space",
+   "title": "IM-3 lander heads for a lunar swirl",
+   "summary": "A NASA-supported robotic lander aims for Reiner Gamma, a mysterious bright swirl on the Moon, to study its local magnetic field.",
+   "link": "https://en.wikipedia.org/wiki/2026_in_spaceflight",
+   "i18n": {
+    "ca": {
+     "title": "El mòdul IM-3 viatja cap a un remolí lunar",
+     "summary": "Un mòdul robòtic amb suport de la NASA vol aterrar a Reiner Gamma, un misteriós remolí brillant de la Lluna, per estudiar-ne el camp magnètic local."
+    },
+    "fr": {
+     "title": "L'atterrisseur IM-3 vise un tourbillon lunaire",
+     "summary": "Un atterrisseur robotique soutenu par la NASA vise Reiner Gamma, un mystérieux tourbillon clair sur la Lune, pour étudier son champ magnétique local."
+    },
+    "ru": {
+     "title": "Посадочный модуль IM-3 летит к лунному «завитку»",
+     "summary": "Робот-модуль при поддержке NASA должен сесть у Райнер-Гаммы — загадочного светлого завитка на Луне — и изучить местное магнитное поле."
+    }
+   }
+  },
+  {
+   "id": "quadrantids-supermoon-2027",
+   "date": "2027-01-03",
+   "end": "2027-01-04",
+   "category": "Sky",
+   "title": "Quadrantid meteors and a supermoon",
+   "summary": "The year's first meteor shower peaks, though a full supermoon on 3 January will wash out the fainter ones.",
+   "link": "https://starwalk.space/en/news/astronomy-calendar-2026",
+   "i18n": {
+    "ca": {
+     "title": "Quadràntides i superlluna",
+     "summary": "Arriba el màxim de la primera pluja d'estels de l'any, tot i que la superlluna del 3 de gener amagarà els meteors més febles."
+    },
+    "fr": {
+     "title": "Quadrantides et super Lune",
+     "summary": "Pic de la première pluie d'étoiles filantes de l'année, mais la super Lune du 3 janvier masquera les météores les plus faibles."
+    },
+    "ru": {
+     "title": "Квадрантиды и суперлуние",
+     "summary": "Пик первого звездопада года, хотя суперлуние 3 января затмит слабые метеоры."
+    }
+   }
+  },
+  {
+   "id": "jupiter-opposition-2027",
+   "date": "2027-01-10",
+   "category": "Sky",
+   "title": "Jupiter at its best",
+   "summary": "Jupiter is opposite the Sun and shines all night; binoculars show its four largest moons.",
+   "link": "https://starwalk.space/en/news/astronomy-calendar-2026",
+   "i18n": {
+    "ca": {
+     "title": "Júpiter en el seu millor moment",
+     "summary": "Júpiter és en oposició al Sol i brilla tota la nit; amb prismàtics se'n veuen les quatre llunes més grans."
+    },
+    "fr": {
+     "title": "Jupiter au meilleur de sa forme",
+     "summary": "Jupiter est à l'opposé du Soleil et brille toute la nuit ; des jumelles montrent ses quatre plus grandes lunes."
+    },
+    "ru": {
+     "title": "Юпитер в лучшей видимости",
+     "summary": "Юпитер в противостоянии с Солнцем и сияет всю ночь; в бинокль видны четыре его крупнейших спутника."
+    }
+   }
+  }
+ ]
+}

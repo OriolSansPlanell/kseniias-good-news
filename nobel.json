@@ -1,0 +1,37 @@
+{
+ "year": 2026,
+ "ceremony": "2026-12-10",
+ "updated": "2026-10-04T06:43:35Z",
+ "prizes": [
+  {
+   "id": "medicine",
+   "at": "2026-10-05T09:30:00Z",
+   "status": "upcoming"
+  },
+  {
+   "id": "physics",
+   "at": "2026-10-06T09:45:00Z",
+   "status": "upcoming"
+  },
+  {
+   "id": "chemistry",
+   "at": "2026-10-07T09:45:00Z",
+   "status": "upcoming"
+  },
+  {
+   "id": "literature",
+   "at": "2026-10-08T11:00:00Z",
+   "status": "upcoming"
+  },
+  {
+   "id": "peace",
+   "at": "2026-10-09T09:00:00Z",
+   "status": "upcoming"
+  },
+  {
+   "id": "economics",
+   "at": "2026-10-12T09:45:00Z",
+   "status": "upcoming"
+  }
+ ]
+}

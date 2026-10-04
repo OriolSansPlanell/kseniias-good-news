@@ -169,6 +169,51 @@ button,select{font:inherit;color:inherit}
 .trend .tick{font-family:var(--f-mono);font-size:.58rem;color:var(--muted);text-align:center;line-height:1;white-space:nowrap;overflow:hidden}
 .trend .val{font-family:var(--f-mono);font-size:.58rem;color:var(--muted);text-align:center;line-height:1}
 
+/* Calendar + Nobel hub */
+.cal{display:grid;gap:16px}
+.hub{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px;display:grid;gap:12px}
+.hub-head{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.hub h2{margin:0;font-family:var(--f-display);font-size:1.3rem;font-weight:800;letter-spacing:-.01em;display:flex;align-items:center;gap:8px}
+.live{display:inline-flex;align-items:center;gap:6px;font-family:var(--f-body);font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#fff;background:#C8372D;border-radius:999px;padding:2px 9px}
+.live::before{content:"";width:7px;height:7px;border-radius:50%;background:#fff;animation:pulse 1.6s infinite}
+@keyframes pulse{50%{opacity:.25}}
+.hub-sub{font-size:.8rem;color:var(--muted);margin:0}
+.prizes{display:grid;gap:10px;grid-template-columns:minmax(0,1fr)}
+@media (min-width:700px){.prizes{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.prize{border:1px solid var(--line);border-radius:12px;padding:12px;display:grid;gap:6px;align-content:start;min-width:0;background:var(--bg)}
+.prize.done{background:linear-gradient(160deg,var(--sun-tint),var(--surface) 70%)}
+.prize.full{grid-column:1/-1}
+.prize .pname{font-family:var(--f-display);font-weight:700;font-size:1.02rem;line-height:1.2}
+.prize .when{font-family:var(--f-mono);font-size:.72rem;color:var(--muted)}
+.prize .state{font-size:.84rem;font-weight:700;color:var(--accent)}
+.prize .state.now{color:#C8372D}
+.laureates{display:grid;gap:6px;margin:2px 0 0;padding:0;list-style:none}
+.laureates li{display:grid;gap:1px}
+.laureates b{font-family:var(--f-display);font-size:1rem}
+.laureates span{font-size:.78rem;color:var(--muted)}
+.motiv{margin:0;font-size:.92rem}
+.motiv em{font-style:normal;font-weight:700;color:var(--muted);font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;display:block}
+.expl{display:grid;gap:8px;border-top:1px solid var(--line);padding-top:8px}
+.expl h4{margin:0;font-family:var(--f-display);font-size:.88rem}
+.expl p{margin:0;font-size:.92rem;max-width:65ch}
+.srclinks{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:.8rem}
+.evfilters{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none}
+.evfilters::-webkit-scrollbar{display:none}
+.chip{flex:none;border:1px solid var(--line);background:var(--surface);padding:5px 12px;border-radius:999px;font-size:.82rem;cursor:pointer;white-space:nowrap}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.month{margin:6px 0 0;font-family:var(--f-display);font-weight:700;font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);display:flex;align-items:center;gap:10px}
+.month::after{content:"";flex:1;height:1px;background:var(--line)}
+.ev{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:12px;display:grid;grid-template-columns:52px 1fr;gap:12px;min-width:0}
+.ev.today{border-color:var(--sun)}
+.evdate{border-radius:10px;background:var(--chip);display:grid;place-items:center;align-content:center;padding:6px 0;text-align:center;height:max-content}
+.evdate b{font-family:var(--f-display);font-size:1.3rem;line-height:1}
+.evdate span{font-size:.66rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.ev h3{margin:0;font-family:var(--f-display);font-size:1rem;line-height:1.25}
+.ev p{margin:0;font-size:.9rem;opacity:.9}
+.ev .meta{margin-bottom:2px}
+.cat-Sky{color:#5B6BD6}.cat-Space{color:#8A55C9}.cat-Awards{color:var(--sun)}.cat-Environment{color:#2F9E5B}.cat-Society{color:#D0577A}.cat-Science{color:#2B8FB3}
+.linkbtn{justify-self:start;border:0;background:none;padding:0;color:var(--accent);font-weight:700;font-size:.8rem;cursor:pointer;text-decoration:underline;text-underline-offset:3px}
+
 /* About */
 .about{display:grid;gap:14px}
 .about section{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px}
@@ -209,6 +254,7 @@ button,select{font:inherit;color:inherit}
       <div id="strip"></div>
       <div id="feed"></div>
     </div>
+    <div id="calview" class="cal" hidden></div>
     <div id="aboutview" class="about" hidden></div>
   </main>
   <aside class="world" id="world" aria-label="World">
@@ -249,7 +295,7 @@ button,select{font:inherit;color:inherit}
   const CONTS = ["Europe","Africa","Asia","North America","South America","Oceania","Antarctica","Global"];
   const T = {
     en:{ name:"{who} Good News", who:"Kseniia's",
-      tabs:{news:"News",world:"World",saved:"Saved",about:"About"},
+      tabs:{news:"News",world:"World",calendar:"Calendar",saved:"Saved",about:"About"},
       updated:"Updated {t}", loading:"Loading…", unreachable:"Can't reach the feed",
       allScores:"All scores", scoreN:"Score {n}+", allTopics:"All topics", allConts:"All continents",
       newest:"Newest first", brightest:"Brightest first", clear:"Clear filters",
@@ -274,7 +320,7 @@ button,select{font:inherit;color:inherit}
         ["On your phone",["On iPhone, open this page in Safari, tap the share button, then Add to Home Screen. On Android, open it in Chrome and tap Install app. It then opens like an app and keeps the last stories for offline reading.","Prefer a news reader? Subscribe to the RSS feed (in English) at feed.xml."]]],
       scale:["Tragic or harmful: lives lost, lasting damage","Bad news with a small silver lining","Mixed, or a warning that may help later","Neutral but interesting","Good news for a community or a field","Real progress that helps many lives","Rare landmark: broad, lasting benefit"]},
     ca:{ name:"Bones notícies {who}", who:"de la Kseniia",
-      tabs:{news:"Notícies",world:"Món",saved:"Desades",about:"Com funciona"},
+      tabs:{news:"Notícies",world:"Món",calendar:"Agenda",saved:"Desades",about:"Com funciona"},
       updated:"Actualitzat {t}", loading:"Carregant…", unreachable:"No es poden carregar les notícies",
       allScores:"Totes les notes", scoreN:"Nota {n}+", allTopics:"Tots els temes", allConts:"Tots els continents",
       newest:"Més recents", brightest:"Millor nota", clear:"Treu els filtres",
@@ -299,7 +345,7 @@ button,select{font:inherit;color:inherit}
         ["Al mòbil",["A l'iPhone, obre aquesta pàgina amb Safari, toca el botó de compartir i després Afegeix a la pantalla d'inici. A Android, obre-la amb Chrome i toca Instal·la l'aplicació. Així s'obre com una app i guarda les últimes notícies per llegir-les sense connexió.","Fas servir un lector de notícies? Subscriu-te al canal RSS (en anglès) a feed.xml."]]],
       scale:["Tràgica o perjudicial: vides perdudes, danys duradors","Mala notícia amb algun aspecte positiu","Ambivalent, o un avís que pot ser útil","Neutra però interessant","Bona notícia per a una comunitat o un àmbit","Un progrés real que millora moltes vides","Una fita excepcional amb un benefici ampli i durador"]},
     fr:{ name:"Les bonnes nouvelles {who}", who:"de Kseniia",
-      tabs:{news:"Actualités",world:"Monde",saved:"Enregistrées",about:"Fonctionnement"},
+      tabs:{news:"Actualités",world:"Monde",calendar:"Agenda",saved:"Enregistrées",about:"Fonctionnement"},
       updated:"Mis à jour {t}", loading:"Chargement…", unreachable:"Impossible de charger les actualités",
       allScores:"Toutes les notes", scoreN:"Note {n}+", allTopics:"Tous les thèmes", allConts:"Tous les continents",
       newest:"Plus récentes", brightest:"Meilleure note", clear:"Effacer les filtres",
@@ -324,7 +370,7 @@ button,select{font:inherit;color:inherit}
         ["Sur votre téléphone",["Sur iPhone, ouvrez cette page dans Safari, touchez le bouton de partage, puis Sur l'écran d'accueil. Sur Android, ouvrez-la dans Chrome et touchez Installer l'application. Elle s'ouvre alors comme une appli et garde les derniers articles pour une lecture hors ligne.","Vous utilisez un lecteur de flux ? Abonnez-vous au flux RSS (en anglais) : feed.xml."]]],
       scale:["Tragique ou nuisible : vies perdues, dégâts durables","Mauvaise nouvelle avec une petite éclaircie","Mitigée, ou un avertissement utile","Neutre mais intéressante","Bonne nouvelle pour une communauté ou un domaine","Un vrai progrès qui aide beaucoup de gens","Étape rare : bénéfice large et durable"]},
     ru:{ name:"Хорошие новости {who}", who:"Ксении",
-      tabs:{news:"Новости",world:"Мир",saved:"Сохранённые",about:"О проекте"},
+      tabs:{news:"Новости",world:"Мир",calendar:"Календарь",saved:"Сохранённые",about:"О проекте"},
       updated:"Обновлено {t}", loading:"Загрузка…", unreachable:"Не удалось загрузить новости",
       allScores:"Любая оценка", scoreN:"Оценка {n}+", allTopics:"Все темы", allConts:"Все континенты",
       newest:"Сначала новые", brightest:"Сначала лучшие", clear:"Сбросить фильтры",
@@ -350,6 +396,40 @@ button,select{font:inherit;color:inherit}
       scale:["Трагично или вредно: гибель людей, долгий ущерб","Плохая новость с небольшим проблеском","Неоднозначно или полезное предупреждение","Нейтрально, но интересно","Хорошая новость для сообщества или отрасли","Настоящий прогресс, полезный многим","Редкая веха: широкая и долгая польза"]}
   };
   const SCALE_N = [[0,"0–1"],[2,"2–3"],[4,"4"],[5,"5"],[6,"6–7"],[8,"8–9"],[10,"10"]];
+  const C = {
+    en:{ calTitle:"Coming up", calIntro:"Notable good things in the next three months: discoveries, sky events, space missions and days worth celebrating.",
+      nobel:"Nobel Prizes {y}", live:"Live", nobelIntro:"Who won, who they are, and their work explained simply. Updated every hour on announcement days.",
+      soon:"Announcement {t}", earliest:"Times are the earliest possible.", now:"Being announced now. Details appear here within the hour.",
+      waiting:"Announced. Details are on their way.", motivation:"Awarded for", explained:"Explained simply", hideExpl:"Hide explanation",
+      why:"Why it matters", laureates:"The laureates", sources:"Sources", addCal:"Add to calendar", more:"More",
+      all:"All", tbc:"Exact date to be confirmed", ceremony:"Award ceremonies: {d}", none:["Nothing coming up","The calendar refreshes every week."],
+      prizes:{medicine:"Physiology or Medicine",physics:"Physics",chemistry:"Chemistry",literature:"Literature",peace:"Peace",economics:"Economic Sciences"},
+      cats:{Sky:"Night sky",Space:"Space",Awards:"Awards",Environment:"Environment",Society:"Society",Science:"Science"}},
+    ca:{ calTitle:"Properament", calIntro:"Coses bones destacades dels pròxims tres mesos: descobriments, fenòmens al cel, missions espacials i dies que val la pena celebrar.",
+      nobel:"Premis Nobel {y}", live:"En directe", nobelIntro:"Qui guanya, qui són i la seva feina explicada de manera senzilla. S'actualitza cada hora els dies d'anunci.",
+      soon:"Anunci {t}", earliest:"Les hores són les més aviat possibles.", now:"S'està anunciant ara. Els detalls apareixeran aquí en menys d'una hora.",
+      waiting:"Anunciat. Els detalls arriben aviat.", motivation:"Guardonat per", explained:"Explicat de manera senzilla", hideExpl:"Amaga l'explicació",
+      why:"Per què és important", laureates:"Els guardonats", sources:"Fonts", addCal:"Afegeix al calendari", more:"Més informació",
+      all:"Tot", tbc:"Data exacta per confirmar", ceremony:"Cerimònies de lliurament: {d}", none:["No hi ha res programat","L'agenda s'actualitza cada setmana."],
+      prizes:{medicine:"Fisiologia o Medicina",physics:"Física",chemistry:"Química",literature:"Literatura",peace:"Pau",economics:"Ciències Econòmiques"},
+      cats:{Sky:"Cel nocturn",Space:"Espai",Awards:"Premis",Environment:"Medi ambient",Society:"Societat",Science:"Ciència"}},
+    fr:{ calTitle:"À venir", calIntro:"Les bonnes choses à noter dans les trois prochains mois : découvertes, phénomènes célestes, missions spatiales et journées à célébrer.",
+      nobel:"Prix Nobel {y}", live:"En direct", nobelIntro:"Qui a gagné, qui sont les lauréats, et leurs travaux expliqués simplement. Mis à jour toutes les heures les jours d'annonce.",
+      soon:"Annonce {t}", earliest:"Les heures indiquées sont les plus tôt possibles.", now:"Annonce en cours. Les détails arrivent ici dans l'heure.",
+      waiting:"Annoncé. Les détails arrivent.", motivation:"Récompensé pour", explained:"Expliqué simplement", hideExpl:"Masquer l'explication",
+      why:"Pourquoi c'est important", laureates:"Les lauréats", sources:"Sources", addCal:"Ajouter à l'agenda", more:"En savoir plus",
+      all:"Tout", tbc:"Date exacte à confirmer", ceremony:"Cérémonies de remise : {d}", none:["Rien de prévu","L'agenda est mis à jour chaque semaine."],
+      prizes:{medicine:"Physiologie ou médecine",physics:"Physique",chemistry:"Chimie",literature:"Littérature",peace:"Paix",economics:"Sciences économiques"},
+      cats:{Sky:"Ciel",Space:"Espace",Awards:"Prix",Environment:"Environnement",Society:"Société",Science:"Science"}},
+    ru:{ calTitle:"Скоро", calIntro:"Заметные хорошие события ближайших трёх месяцев: открытия, небесные явления, космические миссии и дни, которые стоит отметить.",
+      nobel:"Нобелевские премии {y}", live:"В эфире", nobelIntro:"Кто победил, кто эти люди и в чём суть их работы — простыми словами. В дни объявлений обновляется каждый час.",
+      soon:"Объявление {t}", earliest:"Указано самое раннее возможное время.", now:"Объявление идёт сейчас. Подробности появятся здесь в течение часа.",
+      waiting:"Объявлено. Подробности скоро появятся.", motivation:"За что", explained:"Простыми словами", hideExpl:"Скрыть объяснение",
+      why:"Почему это важно", laureates:"Лауреаты", sources:"Источники", addCal:"Добавить в календарь", more:"Подробнее",
+      all:"Все", tbc:"Точная дата уточняется", ceremony:"Церемонии вручения: {d}", none:["Ничего не запланировано","Календарь обновляется каждую неделю."],
+      prizes:{medicine:"Физиология или медицина",physics:"Физика",chemistry:"Химия",literature:"Литература",peace:"Премия мира",economics:"Экономика"},
+      cats:{Sky:"Небо",Space:"Космос",Awards:"Премии",Environment:"Природа",Society:"Общество",Science:"Наука"}}
+  };
 
   function pickLang(){
     const saved = store.get("lang", null);
@@ -366,7 +446,7 @@ button,select{font:inherit;color:inherit}
     lang: pickLang(), stories: [], meta: null, site: null, loaded: false, failed: false,
     min: store.get("min", 6), cat: store.get("cat", "All"), cont: store.get("cont", "All"), sort: store.get("sort", "new"),
     tab: "news", saved: new Set(store.get("saved", [])), read: new Set(store.get("read", [])),
-    open: new Set(), fetchedAt: 0, world: null, prevVisit: store.get("lastVisit", null)
+    open: new Set(), fetchedAt: 0, world: null, events: null, nobel: null, evCat: "All", openPrize: new Set(), prevVisit: store.get("lastVisit", null)
   };
   const L = () => T[st.lang];
   const fmt = (s, o) => String(s).replace(/\{(\w+)\}/g, (_, k) => o[k] ?? "");
@@ -424,13 +504,15 @@ button,select{font:inherit;color:inherit}
     $("#appname").innerHTML = esc(l.name).replace("{who}", `<span class="who">${esc(l.who)}</span>`);
     $("#lang-code").textContent = st.lang.toUpperCase();
     $("#lang-menu").innerHTML = LANGS.map(([c,n]) => `<button role="menuitemradio" aria-checked="${c===st.lang}" data-lang="${c}"><span>${n}</span><span class="code">${c.toUpperCase()}</span></button>`).join("");
-    $("#tabs").innerHTML = ["news","world","saved","about"].map(t =>
+    $("#tabs").innerHTML = ["news","world","calendar","saved","about"].map(t =>
       `<button class="tab" role="tab" data-tab="${t}" aria-selected="${t===st.tab}">${esc(l.tabs[t])}${t==="saved"&&st.saved.size?`<span class="n">${st.saved.size}</span>`:""}</button>`).join("");
     const m = st.meta;
     $("#updated").textContent = st.failed && !st.loaded ? l.unreachable : (m && m.updated) ? fmt(l.updated, {t: rel(m.updated)}) : (st.loaded ? "" : l.loading);
     document.body.dataset.tab = st.tab;
     $("#newsview").hidden = !(st.tab === "news" || st.tab === "saved" || st.tab === "world");
     $("#aboutview").hidden = st.tab !== "about";
+    $("#calview").hidden = st.tab !== "calendar";
+    if(st.tab === "calendar") $("#newsview").hidden = true;
   }
 
   // ---------- render: filters + strip + feed ----------
@@ -480,7 +562,7 @@ button,select{font:inherit;color:inherit}
 
   function renderFeed(){
     const l = L(), feed = $("#feed"), strip = $("#strip");
-    if(st.tab === "about"){ return; }
+    if(st.tab === "about" || st.tab === "calendar"){ return; }
     if(!st.loaded){ strip.innerHTML = ""; feed.innerHTML = empty(st.failed ? l.failed : l.fetching); return; }
     if(!st.stories.length){ strip.innerHTML = ""; feed.innerHTML = empty(l.noStories); return; }
 
@@ -572,7 +654,116 @@ button,select{font:inherit;color:inherit}
       extra==="srcs" ? `<div class="srcs">${srcs.map(s=>`<span>${esc(s)}</span>`).join("")}</div>` : ""}</section>`).join("");
   }
 
-  function render(){ renderHeader(); renderFilters(); renderFeed(); renderWorld(); renderAbout(); }
+  // ---------- render: calendar + Nobel hub ----------
+  const CL = () => C[st.lang];
+  function fmtWhen(iso, opts){ try{ return new Date(iso).toLocaleString(st.lang, opts); }catch(e){ return iso; } }
+  function relLong(iso){
+    const t = Date.parse(iso), sec = (t - Date.now())/1000, a = Math.abs(sec);
+    let rtf; try{ rtf = new Intl.RelativeTimeFormat(st.lang, {numeric:"auto"}); }catch(e){ return ""; }
+    if(a < 3600) return rtf.format(Math.round(sec/60), "minute");
+    if(a < 86400) return rtf.format(Math.round(sec/3600), "hour");
+    return rtf.format(Math.round((startOfDay(t) - startOfDay(Date.now()))/86400000), "day");
+  }
+  function prizeText(p, f){ return (st.lang !== "en" && p.i18n && p.i18n[st.lang] && p.i18n[st.lang][f]) || p[f] || ""; }
+  function laureateText(p, l, f){
+    const tr = st.lang !== "en" && p.i18n && p.i18n[st.lang] && p.i18n[st.lang].profiles && p.i18n[st.lang].profiles[l.name];
+    return (tr && tr[f]) || l[f] || "";
+  }
+  function renderNobel(){
+    const n = st.nobel; if(!n || !Array.isArray(n.prizes) || !n.prizes.length) return "";
+    const end = Date.parse((n.ceremony || "") + "T23:59:59Z") || (Date.parse(n.prizes[n.prizes.length-1].at) + 70*86400000);
+    if(Date.now() > end) return "";
+    const c = CL(), now = Date.now();
+    const isLive = n.prizes.some(p => { const t = Date.parse(p.at); return now >= t - 3600e3 && now <= t + 8*3600e3; });
+    const cards = n.prizes.map(p => {
+      const t = Date.parse(p.at), name = c.prizes[p.id] || p.id, open = st.openPrize.has(p.id);
+      const when = fmtWhen(p.at, {weekday:"short", day:"numeric", month:"short", hour:"2-digit", minute:"2-digit"});
+      let body = "";
+      if(p.status === "announced" && p.laureates){
+        const expl = prizeText(p,"explainer"), why = prizeText(p,"why");
+        body = `<ul class="laureates">${p.laureates.map(l => `<li><b>${esc(l.name)}</b>${laureateText(p,l,"info") ? `<span>${esc(laureateText(p,l,"info"))}</span>` : ""}</li>`).join("")}</ul>
+          <p class="motiv"><em>${esc(c.motivation)}</em>${esc(prizeText(p,"motivation"))}</p>
+          ${(expl || why || p.laureates.some(l=>l.profile)) ? `<button class="linkbtn" data-prize="${esc(p.id)}" aria-expanded="${open}">${esc(open ? c.hideExpl : c.explained)}</button>` : ""}
+          ${open ? `<div class="expl">
+            ${expl ? `<p>${esc(expl)}</p>` : ""}
+            ${why ? `<h4>${esc(c.why)}</h4><p>${esc(why)}</p>` : ""}
+            ${p.laureates.some(l=>laureateText(p,l,"profile")) ? `<h4>${esc(c.laureates)}</h4>${p.laureates.map(l => laureateText(p,l,"profile") ? `<p><b>${esc(l.name)}.</b> ${esc(laureateText(p,l,"profile"))}</p>` : "").join("")}` : ""}
+            ${(p.sources||[]).length ? `<div class="srclinks"><span class="hint">${esc(c.sources)}:</span>${p.sources.map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a>`).join("")}</div>` : ""}
+          </div>` : ""}`;
+      } else if(p.status === "announced"){
+        body = `<div class="state">${esc(c.waiting)}</div>`;
+      } else if(now >= t){
+        body = `<div class="state now">${esc(c.now)}</div>`;
+      } else {
+        body = `<div class="state">${esc(fmt(c.soon, {t: relLong(p.at)}))}</div><div><button class="linkbtn" data-ics-prize="${esc(p.id)}">${esc(c.addCal)}</button></div>`;
+      }
+      return `<article class="prize${p.status==="announced"?" done":""}${open?" full":""}" id="prize-${esc(p.id)}"><div class="pname">${esc(name)}</div><div class="when">${esc(when)}</div>${body}</article>`;
+    }).join("");
+    const cer = n.ceremony ? fmt(c.ceremony, {d: fmtWhen(n.ceremony + "T12:00:00Z", {day:"numeric", month:"long"})}) : "";
+    return `<section class="hub" aria-labelledby="hub-h">
+      <div class="hub-head"><h2 id="hub-h">${esc(fmt(c.nobel, {y: n.year}))}${isLive ? `<span class="live">${esc(c.live)}</span>` : ""}</h2>
+      <span class="updated">${n.updated ? esc(fmt(L().updated, {t: rel(n.updated)})) : ""}</span></div>
+      <p class="hub-sub">${esc(c.nobelIntro)} ${esc(c.earliest)}${cer ? " " + esc(cer) + "." : ""}</p>
+      <div class="prizes">${cards}</div></section>`;
+  }
+  function evText(e, f){ return (st.lang !== "en" && e.i18n && e.i18n[st.lang] && e.i18n[st.lang][f]) || e[f]; }
+  function evLastDay(e){
+    if(e.end) return e.end;
+    if(/^\d{4}-\d{2}$/.test(e.date)){ const [y,m] = e.date.split("-").map(Number); return new Date(Date.UTC(y, m, 0)).toISOString().slice(0,10); }
+    return e.date;
+  }
+  function renderCalendar(){
+    if(st.tab !== "calendar") return;
+    const c = CL(), box = $("#calview");
+    const today = new Date(); const todayStr = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,"0")}-${String(today.getDate()).padStart(2,"0")}`;
+    const evs = ((st.events && st.events.events) || []).filter(e => evLastDay(e) >= todayStr);
+    const cats = ["All", ...Array.from(new Set(evs.map(e => e.category)))];
+    if(!cats.includes(st.evCat)) st.evCat = "All";
+    const shown = evs.filter(e => st.evCat === "All" || e.category === st.evCat);
+    let html = renderNobel();
+    html += `<div class="day" style="margin-top:4px">${esc(c.calTitle)}</div><p class="hint">${esc(c.calIntro)}</p>`;
+    html += `<div class="evfilters">${cats.map(k => `<button class="chip" data-evcat="${esc(k)}" aria-pressed="${k===st.evCat}">${esc(k==="All" ? c.all : (c.cats[k]||k))}</button>`).join("")}</div>`;
+    if(!st.events){ html += empty(L().fetching); }
+    else if(!shown.length){ html += empty(c.none); }
+    else {
+      let cur = null;
+      html += `<div class="list">`;
+      for(const e of shown){
+        const monthOnly = /^\d{4}-\d{2}$/.test(e.date);
+        const d = new Date((monthOnly ? e.date + "-15" : e.date) + "T12:00:00");
+        const mKey = e.date.slice(0,7);
+        if(mKey !== cur){ html += `<div class="month">${esc(cap(d.toLocaleDateString(st.lang, {month:"long", year:"numeric"})))}</div>`; cur = mKey; }
+        let range = "";
+        if(monthOnly) range = c.tbc;
+        else if(e.end){ const d2 = new Date(e.end + "T12:00:00"); range = `${d.toLocaleDateString(st.lang,{day:"numeric",month:"short"})} – ${d2.toLocaleDateString(st.lang,{day:"numeric",month:"short"})}`; }
+        else if(e.at){ range = fmtWhen(e.at, {weekday:"long", day:"numeric", month:"long", hour:"2-digit", minute:"2-digit"}); }
+        else range = cap(d.toLocaleDateString(st.lang, {weekday:"long", day:"numeric", month:"long"}));
+        const isToday = e.date <= todayStr && evLastDay(e) >= todayStr;
+        html += `<article class="ev${isToday?" today":""}">
+          <div class="evdate">${monthOnly ? `<b>·</b><span>${esc(d.toLocaleDateString(st.lang,{month:"short"}))}</span>` : `<b>${d.getDate()}</b><span>${esc(d.toLocaleDateString(st.lang,{weekday:"short"}))}</span>`}</div>
+          <div class="body"><div class="meta"><span class="cat cat-${esc(e.category)}">${esc(c.cats[e.category]||e.category)}</span><span class="dot">·</span>${esc(range)}</div>
+          <h3>${esc(evText(e,"title"))}</h3><p>${esc(evText(e,"summary"))}</p>
+          <div class="actions"><a class="linkbtn" href="${esc(e.link)}" target="_blank" rel="noopener">${esc(c.more)}</a>${monthOnly ? "" : `<button class="linkbtn" data-ics="${esc(e.id)}">${esc(c.addCal)}</button>`}</div></div></article>`;
+      }
+      html += `</div>`;
+    }
+    box.innerHTML = html;
+  }
+  function icsDate(d){ return d.toISOString().replace(/[-:]/g,"").replace(/\.\d{3}/,""); }
+  function icsEsc(s){ return String(s||"").replace(/[\;,]/g, m => "\\" + m).replace(/\n/g, "\\n"); }
+  function downloadIcs(name, title, desc, url, start, end, allDay){
+    const lines = ["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Kseniia's Good News//EN","BEGIN:VEVENT",
+      "UID:" + name + "@kseniias-good-news", "DTSTAMP:" + icsDate(new Date()),
+      allDay ? "DTSTART;VALUE=DATE:" + start.replace(/-/g,"") : "DTSTART:" + icsDate(new Date(start)),
+      allDay ? "DTEND;VALUE=DATE:" + end.replace(/-/g,"") : "DTEND:" + icsDate(new Date(end)),
+      "SUMMARY:" + icsEsc(title), "DESCRIPTION:" + icsEsc(desc + (url ? "\n" + url : "")), url ? "URL:" + url : "", "END:VEVENT","END:VCALENDAR"].filter(Boolean);
+    const blob = new Blob([lines.join("\r\n")], {type:"text/calendar"});
+    const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = name + ".ics";
+    document.body.appendChild(a); a.click(); setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 1000);
+  }
+  function nextDay(s){ const d = new Date(s + "T12:00:00Z"); d.setUTCDate(d.getUTCDate()+1); return d.toISOString().slice(0,10); }
+
+  function render(){ renderHeader(); renderFilters(); renderFeed(); renderWorld(); renderAbout(); renderCalendar(); }
 
   // ---------- events ----------
   function setTab(t){
@@ -592,6 +783,15 @@ button,select{font:inherit;color:inherit}
     if(lb){ st.lang = lb.dataset.lang; store.set("lang", st.lang); closeLang(); render(); return; }
     if(!e.target.closest(".lang")) closeLang();
     const tab = e.target.closest(".tab"); if(tab){ setTab(tab.dataset.tab); return; }
+    const ec = e.target.closest("[data-evcat]"); if(ec){ st.evCat = ec.dataset.evcat; renderCalendar(); return; }
+    const pz = e.target.closest("[data-prize]");
+    if(pz){ const id = pz.dataset.prize; st.openPrize.has(id) ? st.openPrize.delete(id) : st.openPrize.add(id); renderCalendar(); document.getElementById("prize-"+id)?.scrollIntoView({block:"nearest", behavior:"smooth"}); return; }
+    const ip = e.target.closest("[data-ics-prize]");
+    if(ip && st.nobel){ const p = st.nobel.prizes.find(x => x.id === ip.dataset.icsPrize); if(p){ const c = CL(); downloadIcs("nobel-"+p.id, fmt(c.nobel,{y:st.nobel.year}) + " · " + (c.prizes[p.id]||p.id), c.nobelIntro, "https://www.nobelprize.org/", p.at, new Date(Date.parse(p.at)+3600e3).toISOString(), false); } return; }
+    const ie = e.target.closest("[data-ics]");
+    if(ie && st.events){ const ev = st.events.events.find(x => x.id === ie.dataset.ics); if(ev){
+      if(ev.at) downloadIcs(ev.id, evText(ev,"title"), evText(ev,"summary"), ev.link, ev.at, new Date(Date.parse(ev.at)+3600e3).toISOString(), false);
+      else downloadIcs(ev.id, evText(ev,"title"), evText(ev,"summary"), ev.link, ev.date, nextDay(ev.end || ev.date), true); } return; }
     if(e.target.closest("#f-clear")){ st.min = 6; st.cat = "All"; st.cont = "All"; ["min","cat","cont"].forEach(k=>store.set(k, st[k])); render(); return; }
     const cb = e.target.closest("[data-cont]"); if(cb){ setCont(cb.dataset.cont); return; }
     const j = e.target.closest("[data-jump]");
@@ -653,6 +853,18 @@ button,select{font:inherit;color:inherit}
   render(); load();
   getJSON("world.json").then(w => { st.world = w; renderWorld(); }).catch(()=>{});
   getJSON("site.json").then(s => { st.site = s; renderAbout(); }).catch(()=>{});
+  function loadCalendar(){
+    getJSON("events.json?t="+Date.now()).then(d => { st.events = d; renderCalendar(); }).catch(()=>{ st.events = {events:[]}; renderCalendar(); });
+    getJSON("nobel.json?t="+Date.now()).then(d => { st.nobel = d; renderCalendar(); }).catch(()=>{});
+  }
+  loadCalendar();
+  // During Nobel announcement days, refresh the hub every 5 minutes while the Calendar tab is open.
+  setInterval(() => {
+    if(document.hidden || st.tab !== "calendar" || !st.nobel) return;
+    const now = Date.now();
+    if(st.nobel.prizes.some(p => now >= Date.parse(p.at) - 3600e3 && now <= Date.parse(p.at) + 12*3600e3)) loadCalendar();
+    else renderCalendar();
+  }, 5*60000);
 
   if("serviceWorker" in navigator){ window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(()=>{})); }
 })();

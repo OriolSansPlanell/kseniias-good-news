@@ -1,8 +1,8 @@
 // Offline support: the page shell is cached; data files (stories.json, site.json)
 // are always fetched fresh when online, with the last copy kept for offline reading.
-const CACHE = "kgn-v2";
+const CACHE = "kgn-v3";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "world.json", "icons/icon.svg", "icons/icon-192.png"];
-const FRESH = ["stories.json", "site.json"];
+const FRESH = ["stories.json", "site.json", "events.json", "nobel.json"];
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
