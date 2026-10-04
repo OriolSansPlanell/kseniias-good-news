@@ -1,14 +1,398 @@
 {
- "updated": "2026-10-03T16:44:16Z",
+ "updated": "2026-10-04T06:15:40Z",
  "sources": [
   "Positive News",
   "Good News Network",
   "Reasons to be Cheerful",
-  "ScienceDaily"
+  "ScienceDaily",
+  "Mongabay",
+  "The Optimist Daily",
+  "The Better India",
+  "Anthropocene Magazine",
+  "Grist",
+  "Africanews"
  ],
- "count": 28,
- "note": "0 new, 0 skipped, 0 pruned, failed feeds: none",
+ "count": 79,
+ "last_run": "run-20261004T0615Z.json",
+ "note": "52 new, 17 skipped, 1 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "gnn-underwater-shades-protect-caribbean-corals",
+   "title": "Temporary shades over Caribbean corals reduce heat damage",
+   "summary": "Researchers in Florida found that shades placed over vulnerable corals limited harm from warm seawater and partly reversed bleaching.",
+   "why": "Promising field result, but still small-scale.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/underwater-umbrellas-could-protect-coral-reefs-from-heat-damage/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Florida, USA",
+   "published": "2026-10-03T21:13:54Z",
+   "continent": "North America",
+   "added": "2026-10-04T06:15:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Ombres temporals sobre corals dels Carib redueixen danys per calor",
+     "summary": "Investigadors de Florida van descobrir que ombres col·locades sobre corals vulnerables van limitar el dany de l'aigua marina càlida i van revertir parcialment el blanqueig.",
+     "why": "Resultat promissor en el camp, però encara a petita escala."
+    },
+    "fr": {
+     "title": "Des parasols temporaires sur les coraux des Caraïbes réduisent les dommages causés par la chaleur",
+     "summary": "Des chercheurs en Floride ont découvert que des parasols placés sur les coraux vulnérables limitaient les dommages causés par l'eau de mer chaude et inversaient partiellement le blanchissement.",
+     "why": "Résultat prometteur sur le terrain, mais toujours à petite échelle."
+    },
+    "ru": {
+     "title": "Временные защитные экраны над карибскими кораллами снижают тепловые повреждения",
+     "summary": "Исследователи из Флориды обнаружили, что экраны, установленные над уязвимыми кораллами, ограничивали ущерб от теплой морской воды и частично обращали отбеливание.",
+     "why": "Многообещающий полевой результат, но пока еще в небольших масштабах."
+    }
+   }
+  },
+  {
+   "id": "gnn-aleppo-christian-complex-reopens",
+   "title": "Ancient Christian complex in Aleppo reopens after 14 years",
+   "summary": "A fifth-century Christian heritage site in Aleppo has reopened after landmines were cleared and war and earthquake damage was repaired.",
+   "why": "Heritage restored, benefiting one community.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/ancient-christian-site-reopens-in-syria-after-14-years-a-war-and-an-earthquake/",
+   "score": 6,
+   "category": "Culture",
+   "region": "Aleppo, Syria",
+   "published": "2026-10-03T17:18:47Z",
+   "continent": "Asia",
+   "added": "2026-10-04T06:15:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Antic complex cristià a Alep reabre després de 14 anys",
+     "summary": "Un lloc de patrimoni cristià del segle V a Alep ha reabert després de desactivar mines terrestres i reparar danys de la guerra i el terratrèmol.",
+     "why": "Patrimoni restaurat, beneficiant una comunitat."
+    },
+    "fr": {
+     "title": "Un ancien complexe chrétien à Alep rouvre après 14 ans",
+     "summary": "Un site du patrimoine chrétien du 5ème siècle à Alep a rouvert après l'enlèvement des mines terrestres et la réparation des dommages causés par la guerre et le tremblement de terre.",
+     "why": "Patrimoine restauré, bénéficiant à une communauté."
+    },
+    "ru": {
+     "title": "Древний христианский комплекс в Алеппо вновь открыт спустя 14 лет",
+     "summary": "Христианский объект наследия V века в Алеппо вновь открыт после очистки от мин и ремонта ущерба от войны и землетрясения.",
+     "why": "Восстановленное наследие, приносящее пользу одному сообществу."
+    }
+   }
+  },
+  {
+   "id": "sd-ube2n-fatty-liver",
+   "title": "Enzyme UBE2N may protect against worsening fatty liver disease",
+   "summary": "Researchers found the enzyme UBE2N helps liver cells clear damaged mitochondria and break down fat, which could guard against inflammation and scarring.",
+   "why": "Promising target for a common disease, but still early research.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm",
+   "score": 6,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-03T13:46:11Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:10:05Z"
+  },
+  {
+   "id": "sd-juice-earth-flyby",
+   "title": "ESA's Juice probe swings past Earth on its way to Jupiter",
+   "summary": "The Juice spacecraft used an Earth gravity assist on 28 September to gain 3.5 km/s and change course, testing its instruments on Earth and the Moon.",
+   "why": "A smooth milestone for a major science mission.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+   "score": 6,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-10-03T13:34:11Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:10:05Z"
+  },
+  {
+   "id": "sd-change6-magnetic-mineral",
+   "title": "Chang'e-6 moon samples hold a new magnetic iron mineral",
+   "summary": "Scientists found a previously unknown nanoscale iron mineral inside impact glass from far-side lunar samples, which may preserve a record of the Moon's ancient magnetic field.",
+   "why": "Neat discovery for planetary science with no direct human impact.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-10-03T13:12:14Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:10:05Z"
+  },
+  {
+   "id": "sd-megatron-first-stars",
+   "title": "Simulations trace how the first stars seeded the universe with heavy elements",
+   "summary": "The MEGATRON simulations model how early stars spread carbon, oxygen and iron, helping link JWST observations to chemical traces in ancient stars.",
+   "why": "Interesting cosmology without direct human impact.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-10-03T12:50:57Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:11:20Z"
+  },
+  {
+   "id": "sd-leucine-cell-energy",
+   "title": "Amino acid leucine found to boost cells' energy production",
+   "summary": "Researchers showed leucine protects mitochondrial proteins from being broken down, raising cellular energy output and suggesting a nutritional angle on metabolic disorders.",
+   "why": "Useful basic insight, still far from treatment.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261001095319.htm",
+   "score": 5,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-03T12:33:15Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:11:20Z"
+  },
+  {
+   "id": "sd-gut-imp-alzheimers",
+   "title": "Gut bacterial compound ImP linked to higher Alzheimer's risk",
+   "summary": "A study tied the gut-made molecule ImP to greater Alzheimer's risk and faster cognitive decline, pointing to a possible prevention target.",
+   "why": "A warning paired with a potential new target; early stage.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260930225459.htm",
+   "score": 5,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-03T12:13:21Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:11:20Z"
+  },
+  {
+   "id": "sd-vacuum-boosts-superconductor",
+   "title": "Vacuum fluctuations strengthened superconductivity in a thin material",
+   "summary": "Engineering the surrounding vacuum raised superconductivity by up to 5.4 percent in an ultrathin material, hinting at new ways to tune quantum materials.",
+   "why": "Modest lab result with long-term potential.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-10-03T12:03:23Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:11:20Z"
+  },
+  {
+   "id": "an-drc-ebola-post-exposure-drug-trial",
+   "title": "Trial of post-exposure drug begins in DR Congo for Bundibugyo Ebola",
+   "summary": "A clinical trial has started with 250 people exposed to the rare Bundibugyo variant to test whether a preventive drug can stop infection.",
+   "why": "Response effort under way, with results still to come.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/03/dr-congo-trial-of-post-ebola-exposure-drug-underway/",
+   "score": 6,
+   "category": "Health",
+   "region": "DR Congo",
+   "published": "2026-10-03T11:01:09Z",
+   "continent": "Africa",
+   "added": "2026-10-04T04:47:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Comença una prova d'un fàrmac post-exposició a la República Democràtica del Congo per a l'Ebola Bundibugyo",
+     "summary": "Un assaig clínic ha iniciat amb 250 persones exposades a la variant rara de Bundibugyo per provar si un fàrmac preventiu pot aturar la infecció.",
+     "why": "Esforç de resposta en marxa, amb resultats encara per venir."
+    },
+    "fr": {
+     "title": "L'essai d'un médicament post-exposition commence en République démocratique du Congo pour Ebola Bundibugyo",
+     "summary": "Un essai clinique a commencé avec 250 personnes exposées à la variante rare de Bundibugyo pour tester si un médicament préventif peut arrêter l'infection.",
+     "why": "Effort de réponse en cours, avec des résultats encore à venir."
+    },
+    "ru": {
+     "title": "Испытание препарата постконтактной профилактики начинается в ДР Конго против Эболы Бундибугьо",
+     "summary": "Клиническое испытание началось с 250 людьми, подвергшимися воздействию редкого варианта Бундибугьо, чтобы проверить, может ли профилактический препарат предотвратить инфекцию.",
+     "why": "Работают меры реагирования, результаты ещё впереди."
+    }
+   }
+  },
+  {
+   "id": "tbi-project-neev-rural-learning",
+   "title": "Project Neev helps 900 rural children catch up in maths and English",
+   "summary": "A former civil-service aspirant founded a programme using tablet-based learning and local women facilitators to improve children's literacy and numeracy.",
+   "why": "Local education help reaching hundreds of children.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/changemakers/upsc-failure-shruti-shrivastava-project-neev-sashaktikaran-foundation-education-employment-12592812",
+   "score": 6,
+   "category": "Society",
+   "region": "India",
+   "published": "2026-10-03T10:30:37Z",
+   "continent": "Asia",
+   "added": "2026-10-04T06:15:40Z",
+   "i18n": {
+    "ca": {
+     "title": "El Projecte Neev ajuda 900 nens rurals a posar-se al dia en matemàtiques i anglès",
+     "summary": "Un antic aspirant a funcionari va fundar un programa utilitzant aprenentatge basat en tauletes i facilitadores dones locals per millorar l'alfabetització i la numerència dels nens.",
+     "why": "Ajut educatiu local que arriba a centenars de nens."
+    },
+    "fr": {
+     "title": "Le projet Neev aide 900 enfants des zones rurales à rattraper en mathématiques et en anglais",
+     "summary": "Un ancien aspirant à la fonction civile a fondé un programme utilisant l'apprentissage basé sur les tablettes et des facilitatrices locales pour améliorer l'alphabétisation et la numératie des enfants.",
+     "why": "Aide éducative locale qui rejoint des centaines d'enfants."
+    },
+    "ru": {
+     "title": "Проект Neev помогает 900 сельским детям подтянуться по математике и английскому",
+     "summary": "Бывший претендент на государственную службу основал программу, использующую обучение на основе планшетов и местных женщин-фасилитаторов для улучшения грамотности и численности детей.",
+     "why": "Местная образовательная помощь, охватывающая сотни детей."
+    }
+   }
+  },
+  {
+   "id": "tbi-up-farmers-turmeric-elephants",
+   "title": "Uttar Pradesh farmers plant turmeric to keep elephants away from crops",
+   "summary": "About 100 farmers near Katarniaghat are growing turmeric beside crops elephants like, as a less-attractive buffer that reduces raids.",
+   "why": "Low-cost way to ease human-wildlife conflict.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/wildlife/uttar-pradesh-farmers-turmeric-elephant-crop-raids-katarniaghat-conflict-solution-12613759",
+   "score": 7,
+   "category": "Animals",
+   "region": "Uttar Pradesh, India",
+   "published": "2026-10-03T07:30:37Z",
+   "continent": "Asia",
+   "added": "2026-10-04T04:47:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Els agricultors d'Uttar Pradesh planten cúrcuma per mantenir els elefants allunyats dels cultius",
+     "summary": "Uns 100 agricultors prop de Katarniaghat cultiven cúrcuma al costat dels cultius que els elefants prefereixen, com a amortidor menys atractiu que redueix els atacs.",
+     "why": "Manera barata de reduir els conflictes humans-vida silvestre."
+    },
+    "fr": {
+     "title": "Les agriculteurs de l'Uttar Pradesh cultivent le curcuma pour éloigner les éléphants des cultures",
+     "summary": "Environ 100 agriculteurs près de Katarniaghat cultivent du curcuma à côté des cultures que préfèrent les éléphants, comme un amortisseur moins attrayant qui réduit les raids.",
+     "why": "Moyen peu coûteux d'atténuer les conflits entre humains et faune."
+    },
+    "ru": {
+     "title": "Фермеры Уттар-Прадеша высаживают куркуму, чтобы отогнать слонов от урожая",
+     "summary": "Около 100 фермеров близ Катарниагхата выращивают куркуму рядом с культурами, которые предпочитают слоны, в качестве менее привлекательного буфера, который снижает набеги.",
+     "why": "Дешевый способ облегчить конфликт между человеком и дикой природой."
+    }
+   }
+  },
+  {
+   "id": "tbi-karnataka-revive-500-lakes",
+   "title": "Karnataka plans to restore 500 lakes with a 150-crore programme",
+   "summary": "The state initiative aims to rejuvenate 500 lakes, and the article outlines what indicators show a lake is truly healthy.",
+   "why": "Large restoration plan, though results depend on delivery.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/conservation/nature/bengaluru-lake-revival-healthy-urban-lakes-12613428",
+   "score": 6,
+   "category": "Environment",
+   "region": "Karnataka, India",
+   "published": "2026-10-03T06:30:37Z",
+   "continent": "Asia",
+   "added": "2026-10-04T04:59:04Z",
+   "i18n": {
+    "ca": {
+     "title": "Karnataka planeja restaurar 500 llacs amb un programa de 150 crores",
+     "summary": "La iniciativa estatal té com a objectiu rejuvenir 500 llacs, i l'article detalla els indicadors que mostren que un llac és realment saludable.",
+     "why": "Gran pla de restauració, encara que els resultats depenen de la implementació."
+    },
+    "fr": {
+     "title": "Le Karnataka prévoit de restaurer 500 lacs avec un programme de 150 crores",
+     "summary": "L'initiative d'État vise à rajeunir 500 lacs, et l'article décrit les indicateurs qui montrent qu'un lac est vraiment sain.",
+     "why": "Grand plan de restauration, bien que les résultats dépendent de la mise en œuvre."
+    },
+    "ru": {
+     "title": "Карнатака планирует восстановить 500 озер с программой на 150 крор",
+     "summary": "Государственная инициатива направлена на омоложение 500 озер, а в статье описаны индикаторы, показывающие, действительно ли озеро здорово.",
+     "why": "Большой план восстановления, хотя результаты зависят от реализации."
+    }
+   }
+  },
+  {
+   "id": "tbi-indian-startups-farm-waste-tableware",
+   "title": "Four Indian startups turn coconut shells and rice husks into household goods",
+   "summary": "Startups in India are turning agricultural by-products such as coconut shells and rice husk ash into consumer products including kitchen bowls.",
+   "why": "Gives farm waste a second use, still at small scale.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/startup/indian-startups-coconut-shells-rice-husks-farm-waste-products-12611411",
+   "score": 6,
+   "category": "Environment",
+   "region": "India",
+   "published": "2026-10-03T05:30:38Z",
+   "continent": "Asia",
+   "added": "2026-10-04T04:59:04Z",
+   "i18n": {
+    "ca": {
+     "title": "Quatre startups indianes converteixen closques de coco i pellofa d'arròs en béns de consum",
+     "summary": "Les startups de l'Índia estan convertint subproductes agrícoles com les closques de coco i la cendra de pellofa d'arròs en productes de consum, incloent-hi bols de cuina.",
+     "why": "Dóna una segona vida als residus agrícoles, encara a petita escala."
+    },
+    "fr": {
+     "title": "Quatre startups indiennes transforment les coquilles de noix de coco et les balles de riz en biens de consommation",
+     "summary": "Les startups de l'Inde transforment les sous-produits agricoles tels que les coquilles de noix de coco et les cendres de balle de riz en produits de consommation, notamment des bols de cuisine.",
+     "why": "Donne une deuxième vie aux déchets agricoles, encore à petite échelle."
+    },
+    "ru": {
+     "title": "Четыре индийских стартапа превращают кокосовые скорлупы и рисовую шелуху в товары для дома",
+     "summary": "Индийские стартапы превращают сельскохозяйственные отходы, такие как кокосовые скорлупы и рисовую золу, в потребительские товары, включая кухонные чаши.",
+     "why": "Дает сельскохозяйственным отходам вторую жизнь, все ещё в малом масштабе."
+    }
+   }
+  },
+  {
+   "id": "gr-colorado-geothermal-heat-pump-neighborhood",
+   "title": "Colorado neighborhood of nearly 100 homes uses ground-source heat pumps",
+   "summary": "Geothermal company Dandelion Energy and homebuilder Lennar completed almost 100 homes with ground-source heat pumps, offering a model for future home energy use.",
+   "why": "Real homes built at scale with efficient clean heating.",
+   "source": "Grist",
+   "url": "https://grist.org/energy/new-colorado-neighborhood-could-offer-glimpse-into-the-future-of-home-energy-use/",
+   "score": 7,
+   "category": "Energy",
+   "region": "Colorado, USA",
+   "published": "2026-10-03T00:00:00Z",
+   "continent": "North America",
+   "added": "2026-10-04T04:59:04Z",
+   "i18n": {
+    "ca": {
+     "title": "Un barri de Colorado amb gairebé 100 cases utilitza bombes de calor de font terrestre",
+     "summary": "La companyia de geotèrmica Dandelion Energy i el constructor de cases Lennar van completar gairebé 100 cases amb bombes de calor de font terrestre, oferint un model per a l'ús futur de l'energia per a cases.",
+     "why": "Cases reals construïdes a escala amb calefacció neta eficient."
+    },
+    "fr": {
+     "title": "Un quartier du Colorado avec près de 100 maisons utilise des pompes à chaleur géothermiques",
+     "summary": "La compagnie géothermique Dandelion Energy et le constructeur de maisons Lennar ont terminé près de 100 maisons avec des pompes à chaleur géothermiques, offrant un modèle pour l'usage futur de l'énergie domestique.",
+     "why": "Maisons réelles construites à l'échelle avec un chauffage propre efficace."
+    },
+    "ru": {
+     "title": "Район Колорадо с почти 100 домами использует геотермальные тепловые насосы",
+     "summary": "Компания геотермальной энергии Dandelion Energy и застройщик Lennar завершили строительство почти 100 домов с геотермальными тепловыми насосами, предлагая модель для будущего использования энергии в домах.",
+     "why": "Настоящие дома, построенные в масштабе с эффективным чистым отоплением."
+    }
+   }
+  },
+  {
+   "id": "mb-satellites-reveal-ocean-oil-pollution",
+   "title": "Satellites reveal large scale of routine oil pollution in oceans",
+   "summary": "Satellite imagery shows oil slicks from ships and platforms covering about 1.6 million square kilometres of ocean, giving a new picture of routine pollution.",
+   "why": "Worrying pollution, but better data can support enforcement.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/satellite-data-reveal-massive-scale-of-routine-oil-pollution-in-oceans-see-the-map/",
+   "score": 3,
+   "category": "Environment",
+   "region": "Global",
+   "published": "2026-10-02T23:11:39Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:47:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Els satèl·lits revelen l'abast a gran escala de la contaminació petrolífera rutinaria als oceans",
+     "summary": "Les imatges de satèl·lit mostren taques de petroli dels vaixells i les plataformes que cobreixen aproximadament 1,6 milions de quilòmetres quadrats d'oceà, donant una nova perspectiva de la contaminació rutinaria.",
+     "why": "Contaminació preocupant, però les dades millors poden recolzar la imposició."
+    },
+    "fr": {
+     "title": "Les satellites révèlent l'ampleur à grande échelle de la pollution pétrolière de routine dans les océans",
+     "summary": "L'imagerie satellite montre des nappes de pétrole provenant de navires et de plateformes couvrant environ 1,6 million de kilomètres carrés d'océan, donnant une nouvelle image de la pollution de routine.",
+     "why": "Pollution préoccupante, mais de meilleures données peuvent soutenir l'application."
+    },
+    "ru": {
+     "title": "Спутники выявили масштабность рутинного загрязнения нефтью в океанах",
+     "summary": "Спутниковые снимки показывают нефтяные пятна с кораблей и платформ, покрывающие около 1,6 миллиона квадратных километров океана, давая новую картину рутинного загрязнения.",
+     "why": "Беспокоящее загрязнение, но лучшие данные могут поддержать соблюдение."
+    }
+   }
+  },
   {
    "id": "gnn-uk-museums-free-entry",
    "title": "UK national museums will stay free for foreign visitors",
@@ -37,6 +421,99 @@
      "title": "Национальные музеи Великобритании останутся бесплатными для иностранцев",
      "summary": "После переговоров с правительством 14 крупных национальных музеев подтвердили, что вход для иностранных посетителей останется бесплатным.",
      "why": "Культура остаётся доступной для всех; скорее сохранение, чем новое достижение."
+    }
+   }
+  },
+  {
+   "id": "an-un-call-dryland-forests",
+   "title": "UN calls for action to protect the world's dryland forests",
+   "summary": "The UN urged stronger protection of dryland forests, which support food security and culture for more than two billion people.",
+   "why": "A call to act rather than an achievement yet.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/02/un-issues-call-to-action-on-worlds-vital-dryland-forests/",
+   "score": 5,
+   "category": "Environment",
+   "region": "Global",
+   "published": "2026-10-02T15:20:05Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:59:04Z",
+   "i18n": {
+    "ca": {
+     "title": "L'ONU demana actuar per protegir els boscos de zones àrides del món",
+     "summary": "L'ONU va instar una protecció més forta dels boscos de zones àrides, que sostenen la seguretat alimentària i la cultura de més de dos mil milions de persones.",
+     "why": "Una crida a actuar, encara no un assoliment."
+    },
+    "fr": {
+     "title": "L'ONU appelle à des mesures pour protéger les forêts sèches du monde",
+     "summary": "L'ONU a exhorté une protection plus forte des forêts sèches, qui soutiennent la sécurité alimentaire et la culture pour plus de deux milliards de personnes.",
+     "why": "Un appel à agir plutôt qu'une réussite pour le moment."
+    },
+    "ru": {
+     "title": "ООН призывает к действиям по защите засушливых лесов мира",
+     "summary": "ООН призвала к более строгой защите засушливых лесов, которые обеспечивают продовольственную безопасность и культуру для более чем двух миллиардов человек.",
+     "why": "Призыв к действию, а не достижение."
+    }
+   }
+  },
+  {
+   "id": "mb-probiotics-protect-corals-red-sea",
+   "title": "Probiotic treatment shielded corals from bleaching in Red Sea heat wave",
+   "summary": "A study found that beneficial bacteria protected corals from bleaching during a marine heat wave, pointing to a possible tool for reef protection.",
+   "why": "Promising result, but still an early study at small scale.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/probiotics-prevented-coral-bleaching-during-a-red-sea-heat-wave-study/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Red Sea",
+   "published": "2026-10-02T15:06:24Z",
+   "continent": "Asia",
+   "added": "2026-10-04T04:47:40Z",
+   "i18n": {
+    "ca": {
+     "title": "El tractament probiótic va protegir els corals de l'blanquejament durant l'onada de calor de la Mar Roja",
+     "summary": "Un estudi va trobar que les bactèries beneficioses protegien els corals de l'blanquejament durant una onada de calor marina, apuntant cap a una possible eina per a la protecció dels arrecifs.",
+     "why": "Resultat prometedor, però encara un estudi primerenc a petita escala."
+    },
+    "fr": {
+     "title": "Le traitement probiotique a protégé les coraux du blanchissement lors de la vague de chaleur en mer Rouge",
+     "summary": "Une étude a découvert que les bactéries bénéfiques protégeaient les coraux du blanchissement lors d'une vague de chaleur marine, ce qui pourrait être un outil de protection des récifs.",
+     "why": "Résultat prometteur, mais encore une étude précoce à petite échelle."
+    },
+    "ru": {
+     "title": "Пробиотическое лечение защитило кораллы от обесцвечивания во время волны тепла в Красном море",
+     "summary": "Исследование показало, что полезные бактерии защищали кораллы от обесцвечивания во время морской волны тепла, что указывает на возможный инструмент защиты рифов.",
+     "why": "Многообещающий результат, но всё ещё раннее исследование в небольшом масштабе."
+    }
+   }
+  },
+  {
+   "id": "mb-mwambao-community-conservation-tanzania",
+   "title": "Tanzanian network grew a $25,000 grant into community-led coastal conservation",
+   "summary": "The Mwambao Coastal Community Network expanded from a small grant made during the 2008 financial crisis into a broader community-led conservation effort on Tanzania's coast.",
+   "why": "Shows local leadership can sustain conservation over time.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/how-to-grow-25k-into-community-led-conservation-interview-with-tanzanias-mwambao/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Tanzania",
+   "published": "2026-10-02T13:58:53Z",
+   "continent": "Africa",
+   "added": "2026-10-04T04:59:04Z",
+   "i18n": {
+    "ca": {
+     "title": "Una xarxa tanzana va convertir una subvenció de 25.000 dòlars en conservació costanera dirigida per la comunitat",
+     "summary": "La Xarxa Comunitària Costanera de Mwambao es va expandir a partir d'una petita subvenció concedida durant la crisi financera de 2008 en un esforç de conservació més ampli dirigit per la comunitat a la costa de Tanzània.",
+     "why": "Demostra que el lideratge local pot mantenir la conservació al llarg del temps."
+    },
+    "fr": {
+     "title": "Un réseau tanzanien a transformé une subvention de 25 000 dollars en conservation côtière dirigée par la communauté",
+     "summary": "Le Réseau communautaire côtier de Mwambao s'est développé à partir d'une petite subvention accordée lors de la crise financière de 2008 en un effort plus large de conservation dirigé par la communauté sur la côte de Tanzanie.",
+     "why": "Montre que le leadership local peut soutenir la conservation au fil du temps."
+    },
+    "ru": {
+     "title": "Танзанийская сеть превратила грант в 25 000 долларов в природоохранную деятельность, возглавляемую общиной",
+     "summary": "Прибрежная общественная сеть Мвамбао расширилась из небольшого гранта, выданного во время финансового кризиса 2008 года, в более широкие усилия по сохранению, возглавляемые общиной на побережье Танзании.",
+     "why": "Показывает, что местное лидерство может поддерживать охрану природы во времени."
     }
    }
   },
@@ -72,6 +549,141 @@
    }
   },
   {
+   "id": "mb-uganda-wcs-co-manage-park-sector",
+   "title": "Uganda and conservation group to co-manage park sector home to tree-climbing lions",
+   "summary": "The Uganda Wildlife Authority and the Wildlife Conservation Society signed a 10-year agreement to jointly manage part of a national park known for its tree-climbing lions.",
+   "why": "Long-term management support for wildlife and habitat.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/uganda-and-ngo-to-co-manage-sector-of-national-park-home-to-tree-climbing-lions/",
+   "score": 6,
+   "category": "Animals",
+   "region": "Uganda",
+   "published": "2026-10-02T12:49:05Z",
+   "continent": "Africa",
+   "added": "2026-10-04T04:47:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Uganda i un grup de conservació cogestionen un sector del parc amb lleons que pugen als arbres",
+     "summary": "L'Autoritat de Fauna de Uganda i la Societat de Conservació de la Vida Silvestre van signar un acord de 10 anys per gestionar conjuntament part d'un parc nacional conegut pels seus lleons que grimpen als arbres.",
+     "why": "Suport a la gestió a llarg termini de la fauna i l'hàbitat."
+    },
+    "fr": {
+     "title": "L'Ouganda et un groupe de conservation cogèrent un secteur du parc abritant des lions qui grimpent aux arbres",
+     "summary": "L'Autorité ougandaise de la faune et la Société de conservation de la faune ont signé un accord de 10 ans pour gérer conjointement une partie d'un parc national connu pour ses lions grimpants.",
+     "why": "Soutien de la gestion à long terme de la faune et de l'habitat."
+    },
+    "ru": {
+     "title": "Уганда и природоохранная организация совместно управляют сектором парка, где обитают лазающие по деревьям львы",
+     "summary": "Управление дикой природы Угаунды и Общество охраны дикой природы подписали 10-летнее соглашение о совместном управлении частью национального парка, известного своими лазающими по деревьям львами.",
+     "why": "Долгосрочная поддержка управления дикой природой и средой обитания."
+    }
+   }
+  },
+  {
+   "id": "sd-roman-telescope-coronagraph",
+   "title": "NASA's Roman telescope passes key pointing and coronagraph tests",
+   "summary": "The Roman Space Telescope showed very stable pointing and captured focused images with its coronagraph, an instrument designed to help image planets around other stars.",
+   "why": "Solid progress for a flagship observatory.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm",
+   "score": 6,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-10-02T12:21:30Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:10:05Z"
+  },
+  {
+   "id": "mb-hong-kong-heat-outdoor-workers",
+   "title": "Calls grow for tougher heat rules to protect Hong Kong outdoor workers",
+   "summary": "As Hong Kong sets record temperatures above 39.8 degrees Celsius, outdoor workers face rising heat stress and advocates want stronger protections.",
+   "why": "Growing heat risk, with some momentum for protection.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/as-hong-kong-heats-up-calls-grow-for-tougher-rules-to-protect-outdoor-workers/",
+   "score": 3,
+   "category": "Society",
+   "region": "Hong Kong",
+   "published": "2026-10-02T12:07:45Z",
+   "continent": "Asia",
+   "added": "2026-10-04T04:59:04Z",
+   "i18n": {
+    "ca": {
+     "title": "Creixen les crides per a normes de calor més dures per protegir els treballadors exteriors de Hong Kong",
+     "summary": "Mentre Hong Kong estableix temperatures rècord per sobre de 39,8 graus Celsius, els treballadors exteriors s'enfronten a l'estrès de calor creixent i els defensors volen proteccions més fortes.",
+     "why": "Risc de calor creixent, amb un cert impuls per a la protecció."
+    },
+    "fr": {
+     "title": "Les appels s'intensifient pour des règles de chaleur plus strictes afin de protéger les travailleurs extérieurs de Hong Kong",
+     "summary": "Alors que Hong Kong établit des records de température au-dessus de 39,8 degrés Celsius, les travailleurs extérieurs font face à un stress thermique croissant et les défenseurs veulent des protections plus fortes.",
+     "why": "Risque de chaleur croissant, avec un certain élan pour la protection."
+    },
+    "ru": {
+     "title": "Растут призывы к более строгим правилам против жары для защиты работников на открытом воздухе Гонконга",
+     "summary": "Поскольку Гонконг устанавливает рекордные температуры выше 39,8 градусов Цельсия, работники на открытом воздухе сталкиваются с растущим тепловым стрессом, и защитники хотят более строгих мер защиты.",
+     "why": "Растущий риск жары с некоторым импульсом для защиты."
+    }
+   }
+  },
+  {
+   "id": "sd-magnetic-fossils-navigation",
+   "title": "97-million-year-old magnetic fossils hint at early animal navigation",
+   "summary": "Ancient magnetic fossils may be the oldest evidence of animals using Earth's magnetic field to navigate, possibly over thousands of kilometres.",
+   "why": "Fascinating insight into evolution with no direct practical effect.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260930020329.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-10-02T11:54:34Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:10:05Z"
+  },
+  {
+   "id": "an-mobile-labs-speed-ebola-testing",
+   "title": "Mobile labs speed up Ebola testing in eastern DR Congo",
+   "summary": "Mobile testing units placed in treatment centres cut waiting times that previously took up to 72 hours, helping care teams act faster.",
+   "why": "Faster diagnosis helps contain outbreaks.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/02/mobile-labs-speed-up-ebola-testing-in-eastern-congo/",
+   "score": 7,
+   "category": "Health",
+   "region": "DR Congo",
+   "published": "2026-10-02T11:06:18Z",
+   "continent": "Africa",
+   "added": "2026-10-04T04:47:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Els laboratoris mòbils acceleren les proves d'Ebola a l'Est de la República Democràtica del Congo",
+     "summary": "Les unitats de prova mòbils col·locades als centres de tractament van reduir els temps d'espera que anteriorment feien fins a 72 hores, ajudant els equips d'atenció a actuar més ràpidament.",
+     "why": "El diagnòstic més ràpid ajuda a contenir els brots."
+    },
+    "fr": {
+     "title": "Les laboratoires mobiles accélèrent les tests d'Ebola dans l'est de la République démocratique du Congo",
+     "summary": "Les unités de test mobiles placées dans les centres de traitement ont réduit les temps d'attente qui prenaient auparavant jusqu'à 72 heures, aidant les équipes de soins à agir plus rapidement.",
+     "why": "Le diagnostic plus rapide aide à contenir les épidémies."
+    },
+    "ru": {
+     "title": "Мобильные лаборатории ускоряют тестирование Эболы в восточной ДР Конго",
+     "summary": "Мобильные тестовые единицы, размещённые в центрах лечения, сократили время ожидания, которое ранее занимало до 72 часов, помогая группам оказания помощи действовать быстрее.",
+     "why": "Более быстрая диагностика помогает сдерживать вспышки."
+    }
+   }
+  },
+  {
+   "id": "sd-mds-stem-cells-nad",
+   "title": "Blood cancer stem cells found to depend on NAD for energy",
+   "summary": "High-risk myelodysplastic syndrome stem cells rely heavily on the molecule NAD, and blocking that pathway weakened them while sparing healthy blood cells in lab tests.",
+   "why": "A selective treatment target, still at the lab stage.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260930020319.htm",
+   "score": 6,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-02T10:37:59Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:10:05Z"
+  },
+  {
    "id": "rtbc-community-lighthouses",
    "title": "Solar-powered 'community lighthouses' keep New Orleans lit in blackouts",
    "summary": "Faith leaders have set up 14 solar-backed community centres that give neighbours power and help during storms and outages, with plans to spread nationwide.",
@@ -99,6 +711,262 @@
      "title": "Солнечные «общественные маяки» дают свет Новому Орлеану во время отключений",
      "summary": "Религиозные лидеры открыли 14 общественных центров на солнечной энергии, где соседи получают электричество и помощь во время штормов и аварий; их хотят распространить по всей стране.",
      "why": "Практическая устойчивость, защищающая уязвимых людей во время бедствий."
+    }
+   }
+  },
+  {
+   "id": "sd-san-andreas-stress-gate",
+   "title": "Simulations show record stress at a Southern California fault junction",
+   "summary": "Thousand-year simulations suggest stress on the San Andreas and San Jacinto faults is unusually high, making the Cajon Pass junction more prone to a linked rupture, timing unknown.",
+   "why": "A sobering warning that can still improve preparedness.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm",
+   "score": 4,
+   "category": "Science",
+   "region": "United States",
+   "published": "2026-10-02T04:58:10Z",
+   "continent": "North America",
+   "added": "2026-10-04T04:10:05Z"
+  },
+  {
+   "id": "sd-chronic-fatigue-shared-networks",
+   "title": "Long COVID, ME/CFS and three other conditions may share biology",
+   "summary": "A study suggests five fatigue-related conditions disrupt common networks tied to immunity and energy production, which could lead to blood tests and treatments.",
+   "why": "Could help many under-served patients, but tests and therapies are not yet here.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260929053543.htm",
+   "score": 6,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-02T01:59:44Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:10:05Z"
+  },
+  {
+   "id": "sd-rna-droplets-origin-life",
+   "title": "RNA's ability to form droplets may help explain how life began",
+   "summary": "Experiments show RNA, unlike DNA, gathers into liquid droplets that concentrate molecules and harden into protective gels, possibly because of one extra oxygen group.",
+   "why": "Intriguing clue to life's origins, purely fundamental.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260929053546.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-10-02T01:21:43Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:11:20Z"
+  },
+  {
+   "id": "od-urine-test-womb-cancer",
+   "title": "Urine test could spare many women invasive womb cancer procedures",
+   "summary": "University of Manchester researchers developed a urine-based screening test that identified most cancers correctly, which could reduce the need for invasive checks.",
+   "why": "Gentler diagnosis for many patients, pending wider validation.",
+   "source": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/10/how-a-simple-urine-test-could-spare-most-women-from-invasive-womb-cancer-procedures/",
+   "score": 7,
+   "category": "Health",
+   "region": "United Kingdom",
+   "published": "2026-10-02T00:00:48Z",
+   "continent": "Europe",
+   "added": "2026-10-04T04:47:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Un test d'orina podria estalviar a moltes dones procediments invasius de càncer de matriu",
+     "summary": "Els investigadors de la Universitat de Manchester van desenvolupar una prova de cribratge basada en orina que va identificar correctament la majoria de càncers, la qual cosa podria reduir la necessitat de control invasiu.",
+     "why": "Diagnòstic més suau per a molts pacients, en espera de validació més ampla."
+    },
+    "fr": {
+     "title": "Un test d'urine pourrait épargner à de nombreuses femmes des procédures invasives contre le cancer de l'utérus",
+     "summary": "Les chercheurs de l'Université de Manchester ont développé un test de dépistage basé sur l'urine qui a correctement identifié la plupart des cancers, ce qui pourrait réduire le besoin de contrôles invasifs.",
+     "why": "Diagnostic plus doux pour de nombreux patients, en attente d'une validation plus large."
+    },
+    "ru": {
+     "title": "Анализ мочи может избавить многих женщин от инвазивных процедур рака матки",
+     "summary": "Исследователи Манчестерского университета разработали тест скрининга, основанный на моче, который правильно выявил большинство видов рака, что может снизить необходимость инвазивного обследования.",
+     "why": "Более мягкий диагноз для многих пациентов, ожидание более широкой валидации."
+    }
+   }
+  },
+  {
+   "id": "od-lisbon-sterile-mosquitoes-dengue",
+   "title": "Lisbon trials sterile male mosquitoes against dengue",
+   "summary": "Portugal released 30,000 sterile male mosquitoes in Lisbon to study how they spread and compete, testing a pesticide-free way to control dengue.",
+   "why": "Promising non-chemical approach, still at trial stage.",
+   "source": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/10/fighting-dengue-with-sterile-insects-lisbons-experimental-approach/",
+   "score": 6,
+   "category": "Health",
+   "region": "Portugal",
+   "published": "2026-10-02T00:00:31Z",
+   "continent": "Europe",
+   "added": "2026-10-04T04:47:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Lisboa prova mosquits mascles estèrils contra el dengue",
+     "summary": "Portugal va alliberar 30.000 mosquits mascles estèrils a Lisboa per estudiar com es propaguen i compiteixen, provant una manera sense pesticides de controlar el dengue.",
+     "why": "Enfocament no químic prometedor, encara en fase de prova."
+    },
+    "fr": {
+     "title": "Lisbonne teste les moustiques mâles stériles contre la dengue",
+     "summary": "Le Portugal a libéré 30 000 moustiques mâles stériles à Lisbonne pour étudier comment ils se propagent et concurrencent, testant une façon sans pesticide de contrôler la dengue.",
+     "why": "Approche non chimique prometteuse, encore au stade de l'essai."
+    },
+    "ru": {
+     "title": "Лиссабон тестирует стерильных комаров-самцов против лихорадки денге",
+     "summary": "Португалия выпустила 30 000 стерильных комаров-самцов в Лиссабон для изучения того, как они распространяются и конкурируют, тестируя способ борьбы с лихорадкой денге без пестицидов.",
+     "why": "Многообещающий подход без химикатов, всё ещё на этапе испытаний."
+    }
+   }
+  },
+  {
+   "id": "gnn-bc-copper-mine-reclamation",
+   "title": "Decades of clean-up at a closed British Columbia copper mine earn a reclamation award",
+   "summary": "British Columbia honoured the operators of a closed copper mine for 30 years of land reclamation and environmental monitoring after the site shut down.",
+   "why": "Sustained repair of a damaged landscape, though limited to one site.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/30-years-of-clean-up-and-monitoring-work-at-closed-copper-mine-wins-honors-for-worlds-top-miner/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Canada",
+   "published": "2026-10-02T00:00:00Z",
+   "continent": "North America",
+   "added": "2026-10-04T04:10:05Z"
+  },
+  {
+   "id": "gnn-hunter-gatherer-sleep",
+   "title": "Sleep scientist studies why hunter-gatherers rarely struggle to sleep",
+   "summary": "A researcher examining sleep in remaining hunter-gatherer societies explains what their habits around light, temperature and routine might teach sleep-deprived modern populations.",
+   "why": "Interesting and potentially useful insight, but no new intervention.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/hunter-gatherers-dont-have-trouble-sleeping-why-and-what-can-we-learn-from-them/",
+   "score": 5,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-02T00:00:00Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:10:05Z"
+  },
+  {
+   "id": "am-ice-cream-waste-recycling-chemistry",
+   "title": "Chemists find cheap way to recycle fats from industrial ice cream waste",
+   "summary": "Researchers developed an inexpensive base treatment that recovers dairy fats from factory ice cream waste, which could be reused instead of discarded.",
+   "why": "Early-stage method that could reduce food-industry waste.",
+   "source": "Anthropocene Magazine",
+   "url": "https://www.anthropocenemagazine.org/2026/10/chemists-hope-to-recycle-mountains-of-industrial-ice-cream-waste/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Global",
+   "published": "2026-10-02T00:00:00Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:59:04Z",
+   "i18n": {
+    "ca": {
+     "title": "Els químics troben una manera barata de reciclar greixos de residus de gelat industrial",
+     "summary": "Els investigadors van desenvolupar un tractament base econòmic que recupera els greixos lactis dels residus de gelat de fàbrica, que podrien ser reutilitzats en lloc de ser descartats.",
+     "why": "Mètode en fase inicial que podria reduir els residus de la indústria alimentària."
+    },
+    "fr": {
+     "title": "Les chimistes trouvent un moyen bon marché de recycler les graisses des déchets de crème glacée industrielle",
+     "summary": "Les chercheurs ont développé un traitement de base peu coûteux qui récupère les matières grasses laitières des déchets de crème glacée d'usine, qui pourraient être réutilisées au lieu d'être jetées.",
+     "why": "Méthode au stade précoce qui pourrait réduire les déchets de l'industrie alimentaire."
+    },
+    "ru": {
+     "title": "Химики нашли дешевый способ переработки жиров из промышленных отходов мороженого",
+     "summary": "Исследователи разработали недорогую базовую обработку, которая извлекает молочные жиры из производственных отходов мороженого, которые можно использовать повторно вместо утилизации.",
+     "why": "Метод на ранней стадии, который может сократить отходы пищевой промышленности."
+    }
+   }
+  },
+  {
+   "id": "mb-mangroves-wave-protection-study",
+   "title": "Study helps predict how well mangroves protect coasts from storm waves",
+   "summary": "New research offers methods to estimate how much mangrove forests reduce wave energy in severe storms, supporting coastal climate adaptation planning.",
+   "why": "Better tools for nature-based coastal protection.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/mangroves-keep-waves-at-bay-a-new-study-helps-scientists-predict-how/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Global",
+   "published": "2026-10-01T23:29:33Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:59:04Z",
+   "i18n": {
+    "ca": {
+     "title": "Un estudi ajuda a predir com els manglars protegeixen les costes de les onades de tempesta",
+     "summary": "La nova recerca ofereix mètodes per estimar quanta energia ondulatòria els boscos de manglars redueixen durant tempestes severes, suportant la planificació de l'adaptació climàtica costanera.",
+     "why": "Millors eines per a la protecció costanera basada en la natura."
+    },
+    "fr": {
+     "title": "Une étude aide à prédire comment les palétuviers protègent les côtes des vagues de tempête",
+     "summary": "Les nouvelles recherches offrent des méthodes pour estimer combien les forêts de palétuviers réduisent l'énergie des vagues lors de tempêtes sévères, soutenant la planification de l'adaptation climatique côtière.",
+     "why": "Meilleurs outils pour la protection côtière basée sur la nature."
+    },
+    "ru": {
+     "title": "Исследование помогает предсказать, как мангры защищают побережья от волн штормов",
+     "summary": "Новые исследования предлагают методы оценки того, сколько энергии волн леса мангров снижают при сильных штормах, поддерживая планирование адаптации побережья к климату.",
+     "why": "Лучшие инструменты для защиты побережья, основанной на природе."
+    }
+   }
+  },
+  {
+   "id": "gr-california-balcony-solar-legal",
+   "title": "California legalizes plug-in balcony solar panels",
+   "summary": "Governor Newsom signed a law allowing residents to use plug-in solar panels on balconies, giving renters and apartment dwellers an affordable way to generate power.",
+   "why": "Opens clean energy to people who cannot install rooftop solar.",
+   "source": "Grist",
+   "url": "https://grist.org/solutions/california-just-made-it-legal-to-turn-balconies-into-tiny-power-plants/",
+   "score": 7,
+   "category": "Energy",
+   "region": "California, USA",
+   "published": "2026-10-01T19:07:38Z",
+   "continent": "North America",
+   "added": "2026-10-04T04:47:40Z",
+   "i18n": {
+    "ca": {
+     "title": "California legalitza els panells solars de balcó endollables",
+     "summary": "El governador Newsom va signar una llei que permet als residents utilitzar panells solars endollables als balcons, donant als llogaters i habitants de blocs d'apartaments una manera asequible de generar energia.",
+     "why": "Obri l'energia neta a les persones que no poden instal·lar energia solar a la teulada."
+    },
+    "fr": {
+     "title": "La Californie légalise les panneaux solaires de balcon enfichables",
+     "summary": "Le gouverneur Newsom a signé une loi permettant aux résidents d'utiliser des panneaux solaires enfichables sur les balcons, donnant aux locataires et aux habitants d'immeubles une façon abordable de générer de l'énergie.",
+     "why": "Ouvre l'énergie propre aux personnes qui ne peuvent pas installer des panneaux solaires sur le toit."
+    },
+    "ru": {
+     "title": "Калифорния легализирует подключаемые солнечные панели на балконах",
+     "summary": "Губернатор Ньюсом подписал закон, позволяющий жителям использовать подключаемые солнечные панели на балконах, предоставляя арендаторам и жильцам квартирных зданий доступный способ выработки энергии.",
+     "why": "Открывает чистую энергию людям, которые не могут установить крышные солнечные панели."
+    }
+   }
+  },
+  {
+   "id": "mb-lion-tamarins-vaccinated",
+   "title": "Endangered black-faced lion tamarins vaccinated against yellow fever in Brazil",
+   "summary": "Researchers have vaccinated black-faced lion tamarins in the Atlantic Forest, a first for this critically endangered primate, to protect it from yellow fever outbreaks.",
+   "why": "A concrete step to protect a species at risk.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/a-first-in-brazil-black-faced-lion-tamarins-vaccinated/",
+   "score": 7,
+   "category": "Animals",
+   "region": "Brazil",
+   "published": "2026-10-01T18:46:16Z",
+   "continent": "South America",
+   "added": "2026-10-04T04:47:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Tamarins de cara negra en perill d'extinció vacunats contra la febre groga al Brasil",
+     "summary": "Investigadors han vacunat tamarins de cara negra a la Selva Atlàntica, una primicia per a aquest primata en perill crític, per protegir-lo dels brots de febre groga.",
+     "why": "Un pas concret per protegir una espècie en risc."
+    },
+    "fr": {
+     "title": "Les tamarins à face noire en danger critique vaccinés contre la fièvre jaune au Brésil",
+     "summary": "Les chercheurs ont vacciné les tamarins à face noire dans la forêt atlantique, une première pour ce primate en danger critique, pour le protéger contre les épidémies de fièvre jaune.",
+     "why": "Une étape concrète pour protéger une espèce menacée."
+    },
+    "ru": {
+     "title": "Находящиеся под угрозой исчезновения чёрнолицые тамарины вакцинированы от жёлтой лихорадки в Бразилии",
+     "summary": "Исследователи вакцинировали чёрнолицых тамаринов в Атлантическом лесу - это первый случай для этого критически находящегося под угрозой исчезновения приматора, чтобы защитить его от вспышек жёлтой лихорадки.",
+     "why": "Конкретный шаг по защите вида, находящегося под угрозой."
     }
    }
   },
@@ -134,6 +1002,37 @@
    }
   },
   {
+   "id": "mb-german-wind-turbine-365-meters",
+   "title": "German prototype wind turbine taller than the Eiffel Tower",
+   "summary": "Germany is testing a 365-metre prototype wind turbine intended to raise electricity output from wind power.",
+   "why": "Useful clean-energy progress, still a prototype.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/wind-turbine-taller-than-the-eiffel-tower-aims-to-boost-german-electricity-production/",
+   "score": 6,
+   "category": "Energy",
+   "region": "Germany",
+   "published": "2026-10-01T18:18:22Z",
+   "continent": "Europe",
+   "added": "2026-10-04T04:47:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Prototip de turbina eòlica alemanya més alta que la Torre Eiffel",
+     "summary": "Alemanya està provant un prototip de turbina eòlica de 365 metres destinat a augmentar la producció d'electricitat de l'energia eòlica.",
+     "why": "Progrés útil en energia neta, encara que sigui un prototip."
+    },
+    "fr": {
+     "title": "Le prototype d'éolienne allemande plus haut que la Tour Eiffel",
+     "summary": "L'Allemagne teste un prototype d'éolienne de 365 mètres destiné à augmenter la production d'électricité à partir de l'énergie éolienne.",
+     "why": "Progrès utile en énergie propre, bien qu'encore un prototype."
+    },
+    "ru": {
+     "title": "Немецкий прототип ветровой турбины выше Эйфелевой башни",
+     "summary": "Германия тестирует прототип ветровой турбины высотой 365 метров, предназначенный для увеличения выработки электроэнергии из ветровой энергии.",
+     "why": "Полезный прогресс в чистой энергии, хотя ещё прототип."
+    }
+   }
+  },
+  {
    "id": "gnn-hydrogen-boron-fusion",
    "title": "Chinese reactor reports fusion using hydrogen-boron fuel",
    "summary": "Engineers at a commercial fusion company say they achieved fusion with hydrogen-boron, a fuel that produces almost no neutron radiation.",
@@ -161,6 +1060,37 @@
      "title": "Китайский реактор сообщил о синтезе на водородно-борном топливе",
      "summary": "Инженеры коммерческой термоядерной компании заявляют, что добились синтеза на водороде и боре — топливе, почти не дающем нейтронного излучения.",
      "why": "Многообещающе для чистой энергетики, но это пока ранний лабораторный этап, далёкий от электростанции."
+    }
+   }
+  },
+  {
+   "id": "mb-brazil-data-centers-renewable-energy",
+   "title": "Renewable energy firms drive Brazil's data centre boom, investigation finds",
+   "summary": "Sixty-five percent of Brazil's 68 data centre grid connection requests come from renewable energy companies.",
+   "why": "Mixed picture of clean-power growth tied to data centre demand.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/renewable-energy-companies-fuel-brazilian-data-center-boom-investigation-finds/",
+   "score": 5,
+   "category": "Energy",
+   "region": "Brazil",
+   "published": "2026-10-01T15:27:38Z",
+   "continent": "South America",
+   "added": "2026-10-04T04:59:04Z",
+   "i18n": {
+    "ca": {
+     "title": "Les empreses d'energia renovable impulsen l'auge de centres de dades al Brasil, descobreix una investigació",
+     "summary": "El seixanta-cinc per cent de les sol·licituds de connexió a la xarxa de 68 centres de dades del Brasil provenen d'empreses d'energia renovable.",
+     "why": "Imatge mixta del creixement d'energia neta vinculada a la demanda de centres de dades."
+    },
+    "fr": {
+     "title": "Les entreprises d'énergie renouvelable stimulent la croissance des centres de données au Brésil, selon une enquête",
+     "summary": "Soixante-cinq pour cent des 68 demandes de connexion au réseau des centres de données du Brésil proviennent d'entreprises d'énergie renouvelable.",
+     "why": "Image mitigée de la croissance de l'énergie propre liée à la demande des centres de données."
+    },
+    "ru": {
+     "title": "Компании возобновляемой энергии способствуют буму центров обработки данных в Бразилии, выявило расследование",
+     "summary": "Шестьдесят пять процентов из 68 запросов на подключение к сети центров обработки данных Бразилии поступают от компаний возобновляемой энергии.",
+     "why": "Смешанная картина роста чистой энергии, связанного со спросом на центры обработки данных."
     }
    }
   },
@@ -196,6 +1126,20 @@
    }
   },
   {
+   "id": "sd-australian-stick-insects",
+   "title": "Two new giant stick insect species described in Australia",
+   "summary": "Researchers identified two new Australian stick insects, one laying unusual lidded eggs, and showed a long-recognised species had been misidentified for decades.",
+   "why": "Adds to knowledge of biodiversity worth protecting.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
+   "score": 6,
+   "category": "Animals",
+   "region": "Australia",
+   "published": "2026-10-01T13:59:22Z",
+   "continent": "Oceania",
+   "added": "2026-10-04T04:10:05Z"
+  },
+  {
    "id": "sd-strawberry-plant-armor",
    "title": "Protective fabric more than triples strawberry yields",
    "summary": "A crop covering raised strawberry harvests up to 3.5 times while keeping pests out and cutting pesticide use.",
@@ -225,6 +1169,20 @@
      "why": "Больше еды при меньшем количестве химии."
     }
    }
+  },
+  {
+   "id": "sd-superfluid-helium-qubit",
+   "title": "Proposed superfluid helium qubit could cut quantum errors a hundredfold",
+   "summary": "Physicists propose a qubit built in superfluid helium that would be shielded from electromagnetic noise, potentially reducing errors about 100 times.",
+   "why": "Interesting theoretical advance, far from practical use.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-10-01T13:17:13Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:10:05Z"
   },
   {
    "id": "gnn-arabian-sea-humpbacks",
@@ -258,6 +1216,20 @@
    }
   },
   {
+   "id": "sd-mind-diet-brain-aging",
+   "title": "MIND diet linked to slower brain shrinkage",
+   "summary": "People who closely followed the MIND diet showed less brain shrinkage and grey matter loss, roughly equal to 2.5 fewer years of brain ageing.",
+   "why": "Accessible, low-cost habit with a measurable brain benefit, though observational.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
+   "score": 7,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-01T12:26:47Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:10:05Z"
+  },
+  {
    "id": "gnn-greek-artifacts-returned",
    "title": "Stolen Greek antiquities spanning 5,000 years go home",
    "summary": "New York authorities returned a large haul of looted Greek objects, including bronze helmets and sculptures as old as 2,700 BCE.",
@@ -285,6 +1257,51 @@
      "title": "Похищенные греческие древности возрастом до 5000 лет вернулись домой",
      "summary": "Власти Нью-Йорка вернули большую партию похищенных греческих предметов, включая бронзовые шлемы и скульптуры возрастом до 2700 года до н. э.",
      "why": "Культурное наследие возвращается на родину."
+    }
+   }
+  },
+  {
+   "id": "sd-ultra-processed-food-depression",
+   "title": "Cutting ultra-processed food eased depression symptoms in a small trial",
+   "summary": "In preliminary testing, people with depression who sharply reduced ultra-processed food reported notable improvements, possibly linked to less gut damage and inflammation.",
+   "why": "Encouraging and practical, but early and small.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260930225448.htm",
+   "score": 6,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-01T06:34:01Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:10:05Z"
+  },
+  {
+   "id": "mb-ganges-dolphins-buriganga-bangladesh",
+   "title": "Endangered river dolphins persist in polluted Bangladeshi river",
+   "summary": "At least 20 Ganges river dolphins survive in the heavily polluted Buriganga River in Bangladesh, a sign of resilience but also of how much clean-up is needed.",
+   "why": "Survival is encouraging, but pollution threatens the animals.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/endangered-dolphins-survive-in-a-bangladesh-river-so-polluted-its-not-livable-for-fish/",
+   "score": 4,
+   "category": "Animals",
+   "region": "Bangladesh",
+   "published": "2026-10-01T05:48:26Z",
+   "continent": "Asia",
+   "added": "2026-10-04T04:59:04Z",
+   "i18n": {
+    "ca": {
+     "title": "Els dofins de riu en perill persisteixen en un riu molt contaminat de Bangladesh",
+     "summary": "Almenys 20 dofins de riu Ganges sobreviuen al riu Buriganga fortament contaminat de Bangladesh, un signe de resiliència però també de quanta neteja és necessària.",
+     "why": "La supervivència és esperançadora, però la contaminació amenaça els animals."
+    },
+    "fr": {
+     "title": "Les dauphins fluviaux en danger persistent dans la rivière très polluée du Bangladesh",
+     "summary": "Au moins 20 dauphins du Gange survivent dans la rivière Buriganga fortement polluée du Bangladesh, un signe de résilience mais aussi de l'ampleur du nettoyage nécessaire.",
+     "why": "La survie est encourageante, mais la pollution menace les animaux."
+    },
+    "ru": {
+     "title": "Исчезающие речные дельфины сохраняются в сильно загрязненной реке Бангладеш",
+     "summary": "По крайней мере 20 гангских речных дельфинов выживают в сильно загрязненной реке Буриганга в Бангладеш, что свидетельствует об устойчивости, но также показывает необходимость масштабной очистки.",
+     "why": "Выживание обнадеживает, но загрязнение угрожает животным."
     }
    }
   },
@@ -320,6 +1337,144 @@
    }
   },
   {
+   "id": "sd-blood-pressure-arm-support",
+   "title": "Unsupported arm can inflate blood pressure readings by about 7 points",
+   "summary": "Johns Hopkins researchers found that leaving the arm unsupported during a check raised systolic readings by around 6.5 mmHg, enough to affect diagnoses.",
+   "why": "Simple, immediately usable fix to improve care for many.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260928100606.htm",
+   "score": 6,
+   "category": "Health",
+   "region": "United States",
+   "published": "2026-10-01T02:11:51Z",
+   "continent": "North America",
+   "added": "2026-10-04T04:10:05Z"
+  },
+  {
+   "id": "od-argentina-solar-powered-train",
+   "title": "Argentina runs Latin America's first solar-powered train",
+   "summary": "A battery-electric train powered by solar energy and regenerative braking now serves the Quebrada de Humahuaca route in the Andes.",
+   "why": "Clean transport on a historic route, on a small scale.",
+   "source": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/10/how-argentinas-battery-powered-tren-solar-is-recharging-an-ancient-andean-route/",
+   "score": 7,
+   "category": "Energy",
+   "region": "Argentina",
+   "published": "2026-10-01T00:00:22Z",
+   "continent": "South America",
+   "added": "2026-10-04T04:47:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Argentina posa en marxa el primer tren propulsat per energia solar d'Amèrica Llatina",
+     "summary": "Un tren alimentat per bateria-elèctrica propulsat per energia solar i frenada regenerativa ara serveix la ruta Quebrada de Humahuaca als Andes.",
+     "why": "Transport net en una ruta històrica, en petita escala."
+    },
+    "fr": {
+     "title": "L'Argentine exploite le premier train alimenté par l'énergie solaire en Amérique latine",
+     "summary": "Un train à batterie électrique alimenté par l'énergie solaire et le freinage régénératif dessert désormais la route Quebrada de Humahuaca dans les Andes.",
+     "why": "Transport propre sur une route historique, à petite échelle."
+    },
+    "ru": {
+     "title": "Аргентина запускает первый поезд на солнечной энергии в Латинской Америке",
+     "summary": "Батарейно-электрический поезд с солнечной энергией и рекуперативным торможением теперь обслуживает маршрут Quebrada de Humahuaca в Андах.",
+     "why": "Чистый транспорт на историческом маршруте в небольшом масштабе."
+    }
+   }
+  },
+  {
+   "id": "am-printable-fabric-cools-heats-generates-power",
+   "title": "Printable fabric can cool, warm and generate power from movement",
+   "summary": "Engineers made a printable textile using zirconium oxide that provides personal cooling and heating and converts body motion into electrical signals.",
+   "why": "Lab prototype with interesting potential for wearables.",
+   "source": "Anthropocene Magazine",
+   "url": "https://www.anthropocenemagazine.org/2026/10/clothes-that-cool-you-warm-youand-make-power-as-you-move/",
+   "score": 5,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-10-01T00:00:00Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:59:04Z",
+   "i18n": {
+    "ca": {
+     "title": "Una tela imprimible pot refredar, escalfar i generar energia del moviment",
+     "summary": "Els enginyers van crear un tèxtil imprimible utilitzant òxid de zirconi que proporciona refrigeració i calefacció personal i converteix el moviment corporal en senyals elèctrics.",
+     "why": "Prototip de laboratori amb potencial interessant per a tèxtils portàtils."
+    },
+    "fr": {
+     "title": "Un tissu imprimable peut refroidir, réchauffer et générer de l'énergie à partir du mouvement",
+     "summary": "Les ingénieurs ont créé un textile imprimable utilisant de l'oxyde de zirconium qui offre un refroidissement et un chauffage personnels et convertit le mouvement corporel en signaux électriques.",
+     "why": "Prototype de laboratoire avec un potentiel intéressant pour les vêtements portables."
+    },
+    "ru": {
+     "title": "Печатная ткань может охлаждать, нагревать и генерировать энергию из движения",
+     "summary": "Инженеры создали печатный текстиль с использованием оксида циркония, который обеспечивает личное охлаждение и нагрев и преобразует движение тела в электрические сигналы.",
+     "why": "Лабораторный прототип с интересным потенциалом для носимых устройств."
+    }
+   }
+  },
+  {
+   "id": "gr-inuit-bear-guards-labrador",
+   "title": "Inuit bear guards use traditional knowledge to protect Arctic communities",
+   "summary": "Training programmes in northern Labrador combine Inuit knowledge with specialised instruction so communities can handle polar bears appearing in new places.",
+   "why": "Community-led safety that also supports coexistence with wildlife.",
+   "source": "Grist",
+   "url": "https://grist.org/indigenous/in-a-warming-arctic-inuit-bear-guards-protect-communities/",
+   "score": 6,
+   "category": "Society",
+   "region": "Labrador, Canada",
+   "published": "2026-10-01T00:00:00Z",
+   "continent": "North America",
+   "added": "2026-10-04T04:59:04Z",
+   "i18n": {
+    "ca": {
+     "title": "Els guardes d'óssos inuits utilitzen el coneixement tradicional per protegir les comunitats àrtiques",
+     "summary": "Els programes de formació al nord del Labrador combinen el coneixement inuit amb instrucció especialitzada perquè les comunitats puguin gestionar els óssos polars que apareixen en nous llocs.",
+     "why": "Seguretat dirigida per la comunitat que també afavoreix la convivència amb la vida silvestre."
+    },
+    "fr": {
+     "title": "Les gardiens d'ours inuits utilisent le savoir traditionnel pour protéger les communautés arctiques",
+     "summary": "Les programmes de formation dans le nord du Labrador combinent le savoir inuit à une instruction spécialisée pour que les communautés puissent gérer les ours polaires qui apparaissent dans de nouveaux endroits.",
+     "why": "Sécurité dirigée par la communauté qui soutient aussi la coexistence avec la faune."
+    },
+    "ru": {
+     "title": "Инуитские охранники медведей используют традиционные знания для защиты арктических сообществ",
+     "summary": "Программы обучения на севере Лабрадора объединяют инуитские знания со специализированным обучением, чтобы сообщества могли справляться с белыми медведями, появляющимися в новых местах.",
+     "why": "Безопасность под руководством сообщества, которая также поддерживает сосуществование с дикой природой."
+    }
+   }
+  },
+  {
+   "id": "gnn-gobi-fossil-mammal-evolution",
+   "title": "Well-preserved Gobi Desert fossil sheds new light on early mammal evolution",
+   "summary": "A fossil found in Mongolia challenges earlier ideas about how mammals evolved while dinosaurs were still alive.",
+   "why": "New knowledge about our deep past, though limited in everyday impact.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/new-gobi-desert-fossil-rewrites-a-chapter-of-mammal-evolution/",
+   "score": 6,
+   "category": "Science",
+   "region": "Mongolia",
+   "published": "2026-09-30T18:00:54Z",
+   "continent": "Asia",
+   "added": "2026-10-04T04:47:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Fòssil ben conservat del desert de Gobi ilumina l'evolució dels primers mamífers",
+     "summary": "Un fòssil descobert a Mongòlia qüestiona les idees anteriors sobre com evolucionaven els mamífers mentre els dinosaures encara vivien.",
+     "why": "Nous coneixements sobre el nostre passat profund, tot i que amb impacte limitat en la vida quotidiana."
+    },
+    "fr": {
+     "title": "Un fossile bien préservé du désert de Gobi éclaire l'évolution des mammifères primitifs",
+     "summary": "Un fossile découvert en Mongolie remet en question les idées antérieures sur la façon dont les mammifères ont évolué alors que les dinosaures étaient encore vivants.",
+     "why": "Nouvelles connaissances sur notre passé lointain, bien que d'impact limité au quotidien."
+    },
+    "ru": {
+     "title": "Хорошо сохранившийся окаменелость из пустыни Гоби проливает новый свет на эволюцию ранних млекопитающих",
+     "summary": "Окаменелость, найденная в Монголии, ставит под сомнение предыдущие представления о том, как млекопитающие развивались, пока динозавры были еще живы.",
+     "why": "Новые знания о нашем далеком прошлом, хотя их влияние на повседневную жизнь ограничено."
+    }
+   }
+  },
+  {
    "id": "sd-cannabis-violence-review",
    "title": "Review links cannabis use to higher rates of violence",
    "summary": "Across 265,000 people, cannabis users were about twice as likely to commit violence, though the study can't show cause.",
@@ -349,6 +1504,34 @@
      "why": "Негативный вывод; приведён для баланса."
     }
    }
+  },
+  {
+   "id": "sd-xray-flash-magnetar",
+   "title": "Long X-ray flashes may mark the birth of magnetars",
+   "summary": "Astronomers found evidence that minutes-long X-ray flashes come from merging neutron stars forming magnetars, with one event glowing for almost ten minutes.",
+   "why": "A new way to spot rare cosmic events; scientific interest only.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-09-30T12:27:27Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:11:20Z"
+  },
+  {
+   "id": "sd-perseverance-jezero-water",
+   "title": "Perseverance finds signs of groundwater, lakes and hot fluids in one Mars area",
+   "summary": "Rocks in Jezero Crater's Margin Unit were altered by water several times, revealing a more complex hydrothermal history than expected.",
+   "why": "Valuable planetary science with no direct effect on daily life.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260928100537.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-09-30T11:34:31Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:11:20Z"
   },
   {
    "id": "gnn-golf-course-wetland",
@@ -382,6 +1565,20 @@
    }
   },
   {
+   "id": "sd-black-hole-jets-galaxies",
+   "title": "Black hole jets heat gas far beyond their galaxies",
+   "summary": "Observations show supermassive black hole jets disturb star-forming gas hundreds of thousands of light-years away, possibly deciding whether galaxies keep making stars.",
+   "why": "Fundamental astronomy with no direct practical effect.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260928100527.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-09-30T10:51:59Z",
+   "continent": "Global",
+   "added": "2026-10-04T04:11:20Z"
+  },
+  {
    "id": "gnn-west-coast-sea-turtle-nests",
    "title": "Sea turtles nest on California beaches for the first time on record",
    "summary": "Olive ridley turtles laid eggs on Southern California sand, the first nesting ever documented on the US West Coast and a sign the species is widening its range.",
@@ -411,6 +1608,20 @@
      "why": "Первое в истории событие для дикой природы, хотя отчасти связанное с потеплением океана."
     }
    }
+  },
+  {
+   "id": "sd-pompeii-dating-benchmark",
+   "title": "Vesuvius eruption of 79 CE used to sharpen geological dating",
+   "summary": "Scientists used the precisely known date of Pompeii's eruption to calibrate a dating method, which could refine timelines of eruptions, impacts and extinctions.",
+   "why": "Solid methodological gain for Earth science.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260928100531.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Italy",
+   "published": "2026-09-30T09:37:41Z",
+   "continent": "Europe",
+   "added": "2026-10-04T04:11:20Z"
   },
   {
    "id": "sd-bats-europe-origin",
@@ -843,37 +2054,6 @@
      "title": "Заброшенные библиотеки Найроби возрождаются как общественные центры",
      "summary": "Некоммерческая организация Book Bunk превращает публичные библиотеки в центры с бесплатным интернетом, компьютерами и обучением.",
      "why": "Расширяет доступ к возможностям для целого города."
-    }
-   }
-  },
-  {
-   "id": "gnn-edinburgh-bikes-outnumber-cars",
-   "title": "Bikes outnumber cars on an Edinburgh rush-hour route",
-   "summary": "Protected bike lanes and e-bike hire pushed cyclists past cars on one morning commute route for the first time.",
-   "why": "Shows infrastructure changing habits; local in scope.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/bikes-outnumbered-cars-on-scottish-rush-hour-route-for-the-first-time-ever/",
-   "score": 7,
-   "category": "Society",
-   "region": "UK",
-   "published": "2026-09-23T18:30:11Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "Europe",
-   "i18n": {
-    "ca": {
-     "title": "A Edimburg, les bicicletes superen els cotxes en una ruta en hora punta",
-     "summary": "Els carrils bici protegits i el lloguer de bicicletes elèctriques han fet que, per primera vegada, hi passin més ciclistes que cotxes en un trajecte del matí.",
-     "why": "Mostra com la infraestructura canvia hàbits; d'abast local."
-    },
-    "fr": {
-     "title": "À Édimbourg, les vélos dépassent les voitures sur un trajet aux heures de pointe",
-     "summary": "Des pistes cyclables protégées et la location de vélos électriques ont fait passer, pour la première fois, plus de cyclistes que de voitures sur un trajet du matin.",
-     "why": "Montre que les infrastructures changent les habitudes ; portée locale."
-    },
-    "ru": {
-     "title": "В Эдинбурге велосипедисты обогнали машины на маршруте в час пик",
-     "summary": "Защищённые велодорожки и прокат электровелосипедов впервые вывели велосипедистов вперёд автомобилей на одном утреннем маршруте.",
-     "why": "Показывает, как инфраструктура меняет привычки; местный масштаб."
     }
    }
   }
