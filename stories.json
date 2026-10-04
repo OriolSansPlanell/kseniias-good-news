@@ -20,7 +20,8 @@
    "category": "Culture",
    "region": "UK",
    "published": "2026-10-02T15:30:56Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Europe"
   },
   {
    "id": "gnn-antarctica-wind-farm",
@@ -33,7 +34,8 @@
    "category": "Energy",
    "region": "Antarctica",
    "published": "2026-10-02T13:00:15Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Antarctica"
   },
   {
    "id": "rtbc-community-lighthouses",
@@ -46,7 +48,8 @@
    "category": "Society",
    "region": "USA",
    "published": "2026-10-02T08:00:29Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "North America"
   },
   {
    "id": "gnn-sycamore-gap-shoots",
@@ -59,7 +62,8 @@
    "category": "Environment",
    "region": "UK",
    "published": "2026-10-01T18:30:18Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Europe"
   },
   {
    "id": "gnn-hydrogen-boron-fusion",
@@ -72,7 +76,8 @@
    "category": "Energy",
    "region": "China",
    "published": "2026-10-01T15:30:26Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Asia"
   },
   {
    "id": "rtbc-la-seed-bombs",
@@ -85,7 +90,8 @@
    "category": "Environment",
    "region": "USA",
    "published": "2026-10-01T14:25:04Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "North America"
   },
   {
    "id": "sd-strawberry-plant-armor",
@@ -98,7 +104,8 @@
    "category": "Science",
    "region": "Global",
    "published": "2026-10-01T13:43:15Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Global"
   },
   {
    "id": "gnn-arabian-sea-humpbacks",
@@ -111,7 +118,8 @@
    "category": "Animals",
    "region": "Arabian Sea",
    "published": "2026-10-01T13:00:21Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Asia"
   },
   {
    "id": "gnn-greek-artifacts-returned",
@@ -124,7 +132,8 @@
    "category": "Culture",
    "region": "Greece / USA",
    "published": "2026-10-01T11:00:34Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Europe"
   },
   {
    "id": "sd-apoe4-reversible",
@@ -137,7 +146,8 @@
    "category": "Health",
    "region": "Global",
    "published": "2026-10-01T04:45:26Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Global"
   },
   {
    "id": "sd-cannabis-violence-review",
@@ -150,7 +160,8 @@
    "category": "Health",
    "region": "Global",
    "published": "2026-09-30T12:49:01Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Global"
   },
   {
    "id": "gnn-golf-course-wetland",
@@ -163,7 +174,8 @@
    "category": "Environment",
    "region": "UK",
    "published": "2026-09-30T11:00:31Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Europe"
   },
   {
    "id": "gnn-west-coast-sea-turtle-nests",
@@ -176,7 +188,8 @@
    "category": "Animals",
    "region": "USA",
    "published": "2026-09-30T09:52:15Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "North America"
   },
   {
    "id": "sd-bats-europe-origin",
@@ -189,7 +202,8 @@
    "category": "Science",
    "region": "Europe",
    "published": "2026-09-30T05:12:36Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Europe"
   },
   {
    "id": "sd-curiosity-5000-days",
@@ -202,7 +216,8 @@
    "category": "Science",
    "region": "Space",
    "published": "2026-09-30T04:34:34Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Global"
   },
   {
    "id": "gnn-indonesia-cash-for-photos",
@@ -215,7 +230,8 @@
    "category": "Animals",
    "region": "Indonesia",
    "published": "2026-09-29T13:00:01Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Asia"
   },
   {
    "id": "gnn-norway-andfjorden-mpa",
@@ -228,7 +244,8 @@
    "category": "Environment",
    "region": "Norway",
    "published": "2026-09-29T11:00:24Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Europe"
   },
   {
    "id": "rtbc-denver-student-housing",
@@ -241,7 +258,8 @@
    "category": "Society",
    "region": "USA",
    "published": "2026-09-29T08:00:24Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "North America"
   },
   {
    "id": "pn-peru-indigenous-wildfires",
@@ -254,7 +272,8 @@
    "category": "Environment",
    "region": "Peru",
    "published": "2026-09-29T08:00:00Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "South America"
   },
   {
    "id": "gnn-vietnam-delacours-langur",
@@ -267,7 +286,8 @@
    "category": "Animals",
    "region": "Vietnam",
    "published": "2026-09-28T15:30:22Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Asia"
   },
   {
    "id": "sd-ancient-peptides-superbugs",
@@ -280,7 +300,8 @@
    "category": "Health",
    "region": "Global",
    "published": "2026-09-28T09:59:57Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Global"
   },
   {
    "id": "sd-stroke-body-clock",
@@ -293,7 +314,8 @@
    "category": "Health",
    "region": "Global",
    "published": "2026-09-28T08:35:12Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Global"
   },
   {
    "id": "sd-glucosamine-alzheimers",
@@ -306,7 +328,8 @@
    "category": "Health",
    "region": "Global",
    "published": "2026-09-27T13:53:39Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Global"
   },
   {
    "id": "sd-crispr-cholesterol-year",
@@ -319,7 +342,8 @@
    "category": "Health",
    "region": "Global",
    "published": "2026-09-27T13:15:21Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Global"
   },
   {
    "id": "gnn-doordash-131m-workers",
@@ -332,7 +356,8 @@
    "category": "Society",
    "region": "USA",
    "published": "2026-09-27T11:00:38Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "North America"
   },
   {
    "id": "gnn-oregon-billion-gift",
@@ -345,7 +370,8 @@
    "category": "Society",
    "region": "USA",
    "published": "2026-09-26T22:29:05Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "North America"
   },
   {
    "id": "rtbc-nairobi-libraries",
@@ -358,7 +384,8 @@
    "category": "Society",
    "region": "Kenya",
    "published": "2026-09-25T08:00:13Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Africa"
   },
   {
    "id": "gnn-edinburgh-bikes-outnumber-cars",
@@ -371,7 +398,8 @@
    "category": "Society",
    "region": "UK",
    "published": "2026-09-23T18:30:11Z",
-   "added": "2026-10-03T15:58:00Z"
+   "added": "2026-10-03T15:58:00Z",
+   "continent": "Europe"
   }
  ]
 }

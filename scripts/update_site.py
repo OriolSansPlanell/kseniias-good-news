@@ -73,7 +73,7 @@ _BY_LENGTH = sorted(REGION_TO_CONTINENT.items(), key=lambda kv: -len(kv[0]))
 
 
 def continent_for(region):
-    """Best-effort continent for a region string such as 'Kenya' or 'Greece / USA'."""
+    """Best-effort continent for a region string such as 'Kenya' or 'Greece / USA' (first place wins)."""
     text = str(region or "").lower()
     parts = [p.strip() for p in re.split(r"[/,;&+]| and ", text) if p.strip()]
     found = []
@@ -82,7 +82,7 @@ def continent_for(region):
             (c for k, c in _BY_LENGTH if re.search(r"\b" + re.escape(k) + r"\b", p)), None)
         if hit and hit not in found:
             found.append(hit)
-    return found[0] if len(found) == 1 else "Global"
+    return found[0] if found else "Global"
 
 
 def now_iso():

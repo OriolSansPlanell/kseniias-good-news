@@ -12,6 +12,7 @@
       <guid isPermaLink="false">gnn-uk-museums-free-entry</guid>
       <pubDate>Fri, 02 Oct 2026 15:30:56 +0000</pubDate>
       <category>Culture</category>
+      <category>Europe</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Good News Network</source>
       <description>After talks with the government, 14 major national museums confirmed they will keep free admission for international visitors. (Goodness 6/10: Keeps culture open to everyone; a continuation rather than a new gain.)</description>
     </item>
@@ -21,6 +22,7 @@
       <guid isPermaLink="false">gnn-antarctica-wind-farm</guid>
       <pubDate>Fri, 02 Oct 2026 13:00:15 +0000</pubDate>
       <category>Energy</category>
+      <category>Antarctica</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Good News Network</source>
       <description>Three turbines on Ross Island have powered McMurdo Station for 15 years, cutting fuel shipments and emissions at the research base. (Goodness 6/10: A long-running, proven clean-energy success at small scale.)</description>
     </item>
@@ -30,6 +32,7 @@
       <guid isPermaLink="false">rtbc-community-lighthouses</guid>
       <pubDate>Fri, 02 Oct 2026 08:00:29 +0000</pubDate>
       <category>Society</category>
+      <category>North America</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Reasons to be Cheerful</source>
       <description>Faith leaders have set up 14 solar-backed community centres that give neighbours power and help during storms and outages, with plans to spread nationwide. (Goodness 8/10: Practical resilience that protects vulnerable people in disasters.)</description>
     </item>
@@ -39,6 +42,7 @@
       <guid isPermaLink="false">gnn-sycamore-gap-shoots</guid>
       <pubDate>Thu, 01 Oct 2026 18:30:18 +0000</pubDate>
       <category>Environment</category>
+      <category>Europe</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Good News Network</source>
       <description>Three years after the famous tree on Hadrian's Wall was cut down, aerial images show a ring of vigorous new shoots already about a metre tall. (Goodness 7/10: A heartening recovery, mostly symbolic in scale.)</description>
     </item>
@@ -48,6 +52,7 @@
       <guid isPermaLink="false">gnn-hydrogen-boron-fusion</guid>
       <pubDate>Thu, 01 Oct 2026 15:30:26 +0000</pubDate>
       <category>Energy</category>
+      <category>Asia</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Good News Network</source>
       <description>Engineers at a commercial fusion company say they achieved fusion with hydrogen-boron, a fuel that produces almost no neutron radiation. (Goodness 6/10: Promising for clean energy, but still an early lab milestone far from a power plant.)</description>
     </item>
@@ -57,6 +62,7 @@
       <guid isPermaLink="false">rtbc-la-seed-bombs</guid>
       <pubDate>Thu, 01 Oct 2026 14:25:04 +0000</pubDate>
       <category>Environment</category>
+      <category>North America</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Reasons to be Cheerful</source>
       <description>Residents who lost homes in the fires made and handed out 10,000 balls of native seeds to help the landscape recover. (Goodness 7/10: Community healing plus ecological recovery.)</description>
     </item>
@@ -66,6 +72,7 @@
       <guid isPermaLink="false">sd-strawberry-plant-armor</guid>
       <pubDate>Thu, 01 Oct 2026 13:43:15 +0000</pubDate>
       <category>Science</category>
+      <category>Global</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">ScienceDaily</source>
       <description>A crop covering raised strawberry harvests up to 3.5 times while keeping pests out and cutting pesticide use. (Goodness 7/10: More food with fewer chemicals.)</description>
     </item>
@@ -75,6 +82,7 @@
       <guid isPermaLink="false">gnn-arabian-sea-humpbacks</guid>
       <pubDate>Thu, 01 Oct 2026 13:00:21 +0000</pubDate>
       <category>Animals</category>
+      <category>Asia</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Good News Network</source>
       <description>Genetic analysis shows the isolated, non-migrating whales of the Arabian Sea are genetically distinct, which strengthens the case for targeted protection. (Goodness 6/10: Useful for conservation, but mainly a scientific finding.)</description>
     </item>
@@ -84,6 +92,7 @@
       <guid isPermaLink="false">gnn-greek-artifacts-returned</guid>
       <pubDate>Thu, 01 Oct 2026 11:00:34 +0000</pubDate>
       <category>Culture</category>
+      <category>Europe</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Good News Network</source>
       <description>New York authorities returned a large haul of looted Greek objects, including bronze helmets and sculptures as old as 2,700 BCE. (Goodness 6/10: Restores cultural heritage to its country of origin.)</description>
     </item>
@@ -93,6 +102,7 @@
       <guid isPermaLink="false">sd-apoe4-reversible</guid>
       <pubDate>Thu, 01 Oct 2026 04:45:26 +0000</pubDate>
       <category>Health</category>
+      <category>Global</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">ScienceDaily</source>
       <description>Researchers found how the APOE4 gene harms brain blood vessels and partly reversed the effect in experiments. (Goodness 7/10: Opens a new treatment path; still early-stage research.)</description>
     </item>
@@ -102,6 +112,7 @@
       <guid isPermaLink="false">gnn-golf-course-wetland</guid>
       <pubDate>Wed, 30 Sep 2026 11:00:31 +0000</pubDate>
       <category>Environment</category>
+      <category>Europe</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Good News Network</source>
       <description>A former coastal golf course has been rewilded into wetland habitat now used by plovers, terns and other birds. (Goodness 7/10: Real habitat gain for threatened coastal birds.)</description>
     </item>
@@ -111,6 +122,7 @@
       <guid isPermaLink="false">gnn-west-coast-sea-turtle-nests</guid>
       <pubDate>Wed, 30 Sep 2026 09:52:15 +0000</pubDate>
       <category>Animals</category>
+      <category>North America</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Good News Network</source>
       <description>Olive ridley turtles laid eggs on Southern California sand, the first nesting ever documented on the US West Coast and a sign the species is widening its range. (Goodness 7/10: A first-ever wildlife milestone, though partly tied to warming seas.)</description>
     </item>
@@ -120,6 +132,7 @@
       <guid isPermaLink="false">gnn-indonesia-cash-for-photos</guid>
       <pubDate>Tue, 29 Sep 2026 13:00:01 +0000</pubDate>
       <category>Animals</category>
+      <category>Asia</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Good News Network</source>
       <description>Villages in Indonesia earn money for camera evidence of living animals instead of hunting them, helping orangutans and rare birds. (Goodness 8/10: A working incentive model that changes behaviour and protects species.)</description>
     </item>
@@ -129,6 +142,7 @@
       <guid isPermaLink="false">gnn-norway-andfjorden-mpa</guid>
       <pubDate>Tue, 29 Sep 2026 11:00:24 +0000</pubDate>
       <category>Environment</category>
+      <category>Europe</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Good News Network</source>
       <description>The Andfjorden reserve covers roughly 714 square miles of rich northern waters used by whales, seabirds and cold-water reefs. (Goodness 8/10: Durable protection over a large area of ocean.)</description>
     </item>
@@ -138,6 +152,7 @@
       <guid isPermaLink="false">rtbc-denver-student-housing</guid>
       <pubDate>Tue, 29 Sep 2026 08:00:24 +0000</pubDate>
       <category>Society</category>
+      <category>North America</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Reasons to be Cheerful</source>
       <description>A nonprofit and local universities now offer up to two years of subsidised housing and support to students without a stable home. (Goodness 7/10: Directly changes the odds for students at risk of dropping out.)</description>
     </item>
@@ -147,6 +162,7 @@
       <guid isPermaLink="false">pn-peru-indigenous-wildfires</guid>
       <pubDate>Tue, 29 Sep 2026 08:00:00 +0000</pubDate>
       <category>Environment</category>
+      <category>South America</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Positive News</source>
       <description>Communities in the Peruvian Amazon pair traditional forest knowledge with new tools to detect and prevent fires. (Goodness 7/10: Protects forest and livelihoods with a model others can copy.)</description>
     </item>
@@ -156,6 +172,7 @@
       <guid isPermaLink="false">gnn-vietnam-delacours-langur</guid>
       <pubDate>Mon, 28 Sep 2026 15:30:22 +0000</pubDate>
       <category>Animals</category>
+      <category>Asia</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Good News Network</source>
       <description>A new 7,500-acre conservation area shields the limestone forest where most of the remaining Delacour's langurs live. (Goodness 8/10: Concrete legal protection for one of the world's rarest primates.)</description>
     </item>
@@ -165,6 +182,7 @@
       <guid isPermaLink="false">sd-ancient-peptides-superbugs</guid>
       <pubDate>Mon, 28 Sep 2026 09:59:57 +0000</pubDate>
       <category>Health</category>
+      <category>Global</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">ScienceDaily</source>
       <description>Scientists rebuilt ancient antimicrobial peptides and found they beat drug-resistant bacteria better than modern human versions. (Goodness 7/10: A new angle on a major health threat; lab stage.)</description>
     </item>
@@ -174,6 +192,7 @@
       <guid isPermaLink="false">sd-stroke-body-clock</guid>
       <pubDate>Mon, 28 Sep 2026 08:35:12 +0000</pubDate>
       <category>Health</category>
+      <category>Global</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">ScienceDaily</source>
       <description>Strengthening circadian rhythms improved recovery after stroke by boosting the brain's waste clearance and lowering inflammation. (Goodness 6/10: Cheap, low-risk idea with real potential; early evidence.)</description>
     </item>
@@ -183,6 +202,7 @@
       <guid isPermaLink="false">sd-crispr-cholesterol-year</guid>
       <pubDate>Sun, 27 Sep 2026 13:15:21 +0000</pubDate>
       <category>Health</category>
+      <category>Global</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">ScienceDaily</source>
       <description>A single gene-editing dose cut LDL cholesterol and triglycerides by about half, and the effect held for 12 months. (Goodness 8/10: Could change heart-disease prevention for millions if it proves safe at scale.)</description>
     </item>
@@ -192,6 +212,7 @@
       <guid isPermaLink="false">gnn-doordash-131m-workers</guid>
       <pubDate>Sun, 27 Sep 2026 11:00:38 +0000</pubDate>
       <category>Society</category>
+      <category>North America</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Good News Network</source>
       <description>The city settled wage violations with DoorDash, and more than $115 million will go directly to delivery workers who were underpaid. (Goodness 7/10: Large, direct payout to low-income workers.)</description>
     </item>
@@ -201,6 +222,7 @@
       <guid isPermaLink="false">gnn-oregon-billion-gift</guid>
       <pubDate>Sat, 26 Sep 2026 22:29:05 +0000</pubDate>
       <category>Society</category>
+      <category>North America</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Good News Network</source>
       <description>The Nike co-founder's gift is the largest single donation ever made to a US public university. (Goodness 6/10: Big boost for public education; benefits concentrated in one institution.)</description>
     </item>
@@ -210,6 +232,7 @@
       <guid isPermaLink="false">rtbc-nairobi-libraries</guid>
       <pubDate>Fri, 25 Sep 2026 08:00:13 +0000</pubDate>
       <category>Society</category>
+      <category>Africa</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Reasons to be Cheerful</source>
       <description>The nonprofit Book Bunk is restoring public libraries into centres with free internet, computers and skills training. (Goodness 7/10: Widens access to opportunity for a whole city.)</description>
     </item>
@@ -219,6 +242,7 @@
       <guid isPermaLink="false">gnn-edinburgh-bikes-outnumber-cars</guid>
       <pubDate>Wed, 23 Sep 2026 18:30:11 +0000</pubDate>
       <category>Society</category>
+      <category>Europe</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Good News Network</source>
       <description>Protected bike lanes and e-bike hire pushed cyclists past cars on one morning commute route for the first time. (Goodness 7/10: Shows infrastructure changing habits; local in scope.)</description>
     </item>
