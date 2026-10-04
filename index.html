@@ -99,6 +99,12 @@ button,select{font:inherit;color:inherit}
 .pill.on::after{color:var(--bg)}
 .clear{flex:none;border:0;background:none;color:var(--accent);font-weight:700;font-size:.82rem;cursor:pointer;padding:6px 4px;text-decoration:underline;text-underline-offset:3px}
 
+/* Goodness slider */
+.slider-row{display:flex;align-items:center;gap:12px;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:6px 14px}
+.slider-row label{font-size:.84rem;font-weight:700;white-space:nowrap}
+.slider-row input{flex:1;min-width:0;accent-color:var(--sun);height:24px;cursor:pointer}
+.slider-row output{font-family:var(--f-mono);font-size:.85rem;font-weight:600;min-width:2.6em;text-align:center;border-radius:6px;padding:1px 4px;color:#10221E}
+
 /* Brightest strip */
 .strip-wrap{display:grid;gap:6px}
 .eyebrow{font-size:.7rem;text-transform:uppercase;letter-spacing:.1em;font-weight:700;color:var(--sun)}
@@ -250,6 +256,7 @@ button,select{font:inherit;color:inherit}
 <div class="layout">
   <main class="main" id="main">
     <div id="newsview" class="main">
+      <div class="slider-row" id="sliderrow"><label for="min" id="min-lbl">Minimum goodness</label><input type="range" id="min" min="0" max="10" step="1" value="6"><output id="min-val" for="min">6+</output></div>
       <div class="filters" id="filters"></div>
       <div id="strip"></div>
       <div id="feed"></div>
@@ -297,7 +304,7 @@ button,select{font:inherit;color:inherit}
     en:{ name:"{who} Good News", who:"Kseniia's",
       tabs:{news:"News",world:"World",calendar:"Calendar",saved:"Saved",about:"About"},
       updated:"Updated {t}", loading:"Loading…", unreachable:"Can't reach the feed",
-      allScores:"All scores", scoreN:"Score {n}+", allTopics:"All topics", allConts:"All continents",
+      minGood:"Minimum goodness", allScores:"All scores", scoreN:"Score {n}+", allTopics:"All topics", allConts:"All continents",
       newest:"Newest first", brightest:"Brightest first", clear:"Clear filters",
       stripLbl:"Brightest of the last two days", byGood:"By goodness",
       read:"Read at source", why:"Why this score?", whyShort:"Why?", whyN:"Why {n}:", hideWhy:"Hide reason",
@@ -322,7 +329,7 @@ button,select{font:inherit;color:inherit}
     ca:{ name:"Bones notícies {who}", who:"de la Kseniia",
       tabs:{news:"Notícies",world:"Món",calendar:"Agenda",saved:"Desades",about:"Com funciona"},
       updated:"Actualitzat {t}", loading:"Carregant…", unreachable:"No es poden carregar les notícies",
-      allScores:"Totes les notes", scoreN:"Nota {n}+", allTopics:"Tots els temes", allConts:"Tots els continents",
+      minGood:"Nota mínima", allScores:"Totes les notes", scoreN:"Nota {n}+", allTopics:"Tots els temes", allConts:"Tots els continents",
       newest:"Més recents", brightest:"Millor nota", clear:"Treu els filtres",
       stripLbl:"El millor dels últims dos dies", byGood:"Per nota",
       read:"Llegeix a la font", why:"Per què aquesta nota?", whyShort:"Per què?", whyN:"Per què {n}:", hideWhy:"Amaga el motiu",
@@ -347,7 +354,7 @@ button,select{font:inherit;color:inherit}
     fr:{ name:"Les bonnes nouvelles {who}", who:"de Kseniia",
       tabs:{news:"Actualités",world:"Monde",calendar:"Agenda",saved:"Enregistrées",about:"Fonctionnement"},
       updated:"Mis à jour {t}", loading:"Chargement…", unreachable:"Impossible de charger les actualités",
-      allScores:"Toutes les notes", scoreN:"Note {n}+", allTopics:"Tous les thèmes", allConts:"Tous les continents",
+      minGood:"Note minimale", allScores:"Toutes les notes", scoreN:"Note {n}+", allTopics:"Tous les thèmes", allConts:"Tous les continents",
       newest:"Plus récentes", brightest:"Meilleure note", clear:"Effacer les filtres",
       stripLbl:"Le meilleur des deux derniers jours", byGood:"Par note",
       read:"Lire à la source", why:"Pourquoi cette note ?", whyShort:"Pourquoi ?", whyN:"Pourquoi {n} :", hideWhy:"Masquer",
@@ -372,7 +379,7 @@ button,select{font:inherit;color:inherit}
     ru:{ name:"Хорошие новости {who}", who:"Ксении",
       tabs:{news:"Новости",world:"Мир",calendar:"Календарь",saved:"Сохранённые",about:"О проекте"},
       updated:"Обновлено {t}", loading:"Загрузка…", unreachable:"Не удалось загрузить новости",
-      allScores:"Любая оценка", scoreN:"Оценка {n}+", allTopics:"Все темы", allConts:"Все континенты",
+      minGood:"Минимальная оценка", allScores:"Любая оценка", scoreN:"Оценка {n}+", allTopics:"Все темы", allConts:"Все континенты",
       newest:"Сначала новые", brightest:"Сначала лучшие", clear:"Сбросить фильтры",
       stripLbl:"Лучшее за последние два дня", byGood:"По оценке",
       read:"Читать в источнике", why:"Почему такая оценка?", whyShort:"Почему?", whyN:"Почему {n}:", hideWhy:"Скрыть",
@@ -519,17 +526,24 @@ button,select{font:inherit;color:inherit}
   function sel(id, value, opts, on){
     return `<label class="pill${on?' on':''}"><select id="${id}" aria-label="${esc(opts[0][1])}">${opts.map(([v,t])=>`<option value="${esc(v)}"${String(v)===String(value)?" selected":""}>${esc(t)}</option>`).join("")}</select></label>`;
   }
+  function renderSlider(){
+    const l = L(), inp = $("#min"), out = $("#min-val");
+    $("#min-lbl").textContent = l.minGood;
+    if(document.activeElement !== inp) inp.value = st.min;
+    out.textContent = st.min > 0 ? st.min + "+" : "0+";
+    out.style.background = scoreColor(st.min);
+    inp.setAttribute("aria-valuetext", st.min > 0 ? fmt(l.scoreN, {n: st.min}) : l.allScores);
+  }
   function renderFilters(){
     const box = $("#filters");
-    if(st.tab !== "news"){ box.hidden = true; return; }
-    box.hidden = false;
+    if(st.tab !== "news"){ box.hidden = true; $("#sliderrow").hidden = true; return; }
+    box.hidden = false; $("#sliderrow").hidden = false;
     const l = L();
+    renderSlider();
     const cats = Array.from(new Set(st.stories.map(s=>s.category).filter(Boolean))).sort((a,b)=>catName(a).localeCompare(catName(b), st.lang));
     if(st.loaded && st.cat !== "All" && !cats.includes(st.cat)) st.cat = "All";
-    const scoreOpts = [[0,l.allScores],...[4,5,6,7,8].map(n=>[n, fmt(l.scoreN,{n})])];
     const active = st.min !== 6 || st.cat !== "All" || st.cont !== "All";
     box.innerHTML =
-      sel("f-min", st.min, scoreOpts, st.min > 0) +
       sel("f-cat", st.cat, [["All",l.allTopics],...cats.map(c=>[c,catName(c)])], st.cat !== "All") +
       sel("f-cont", st.cont, [["All",l.allConts],...CONTS.map(c=>[c,contName(c)])], st.cont !== "All") +
       sel("f-sort", st.sort, [["new",l.newest],["best",l.brightest]], false) +
@@ -822,9 +836,13 @@ button,select{font:inherit;color:inherit}
     const p = e.target.closest && e.target.closest("path[data-cont]");
     if(p && (e.key === "Enter" || e.key === " ")){ e.preventDefault(); setCont(p.dataset.cont); }
   });
+  $("#min").addEventListener("input", e => {
+    st.min = Number(e.target.value); store.set("min", st.min);
+    renderSlider(); renderFeed(); renderWorld();
+  });
   document.addEventListener("change", e => {
     const id = e.target.id;
-    if(id === "f-min"){ st.min = Number(e.target.value); store.set("min", st.min); }
+    if(id === "min"){ render(); return; }
     else if(id === "f-cat"){ st.cat = e.target.value; store.set("cat", st.cat); }
     else if(id === "f-cont"){ st.cont = e.target.value; store.set("cont", st.cont); }
     else if(id === "f-sort"){ st.sort = e.target.value; store.set("sort", st.sort); }
