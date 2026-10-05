@@ -5,7 +5,7 @@
     <link>https://oriolsansplanell.github.io/kseniias-good-news/</link>
     <description>Positive news from several sources, scored 0-10 for goodness and refreshed every six hours.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 18:14:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 00:15:10 +0000</lastBuildDate>
     <item>
       <title>Delhi volunteer group clears large amounts of waste from parks and waterways [6/10]</title>
       <link>https://thebetterindia.com/videos/society/350-volunteers-thousands-of-tonnes-of-waste-removed-12623415</link>
@@ -25,6 +25,26 @@
       <category>Asia</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">The Better India</source>
       <description>Fishermen saved a newborn elephant calf carried away by the Teesta River in Jalpaiguri. A veterinarian says the viral embrace was normal elephant social behaviour. (Goodness 6/10: Successful wildlife rescue of one animal.)</description>
+    </item>
+    <item>
+      <title>Psychologists advise families on telling children about a rare disease [6/10]</title>
+      <link>https://thebetterindia.com/health-care/rare-disease-diagnosis-child-parents-psychologist-12613003</link>
+      <guid isPermaLink="false">tbi-telling-children-rare-disease</guid>
+      <pubDate>Sun, 04 Oct 2026 03:30:37 +0000</pubDate>
+      <category>Health</category>
+      <category>Asia</category>
+      <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">The Better India</source>
+      <description>Child psychologists suggest parents first absorb the shock, then match their language to the child's age and build a support network around the family. (Goodness 6/10: Practical help for families, benefiting a small group.)</description>
+    </item>
+    <item>
+      <title>Why Haryana produces so many of India's top wrestlers [6/10]</title>
+      <link>https://thebetterindia.com/videos/professional-wrestling/15-wrestlers-one-state-why-haryana-dominates-wrestling-12621431</link>
+      <guid isPermaLink="false">tbi-haryana-wrestling-dominance</guid>
+      <pubDate>Sun, 04 Oct 2026 03:30:07 +0000</pubDate>
+      <category>Culture</category>
+      <category>Asia</category>
+      <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">The Better India</source>
+      <description>Traditional akharas and kushti culture, plus the example of Olympic champions, have built a training ecosystem in Haryana that draws wrestlers from across India. (Goodness 6/10: A strong community sporting tradition, though local in scope.)</description>
     </item>
     <item>
       <title>Temporary shades over Caribbean corals reduce heat damage [7/10]</title>
@@ -585,26 +605,6 @@
       <category>Global</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">ScienceDaily</source>
       <description>A single gene-editing dose cut LDL cholesterol and triglycerides by about half, and the effect held for 12 months. (Goodness 8/10: Could change heart-disease prevention for millions if it proves safe at scale.)</description>
-    </item>
-    <item>
-      <title>New York recovers $131 million for DoorDash delivery workers [7/10]</title>
-      <link>https://www.goodnewsnetwork.org/nyc-collects-131-million-from-doordash-for-delivery-workers-unfairly-paid/</link>
-      <guid isPermaLink="false">gnn-doordash-131m-workers</guid>
-      <pubDate>Sun, 27 Sep 2026 11:00:38 +0000</pubDate>
-      <category>Society</category>
-      <category>North America</category>
-      <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Good News Network</source>
-      <description>The city settled wage violations with DoorDash, and more than $115 million will go directly to delivery workers who were underpaid. (Goodness 7/10: Large, direct payout to low-income workers.)</description>
-    </item>
-    <item>
-      <title>Phil Knight gives $1 billion to the University of Oregon [6/10]</title>
-      <link>https://www.goodnewsnetwork.org/nike-founder-phil-knight-donates-1-billion-to-oregon-university/</link>
-      <guid isPermaLink="false">gnn-oregon-billion-gift</guid>
-      <pubDate>Sat, 26 Sep 2026 22:29:05 +0000</pubDate>
-      <category>Society</category>
-      <category>North America</category>
-      <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Good News Network</source>
-      <description>The Nike co-founder's gift is the largest single donation ever made to a US public university. (Goodness 6/10: Big boost for public education; benefits concentrated in one institution.)</description>
     </item>
   </channel>
 </rss>

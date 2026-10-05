@@ -1,20 +1,20 @@
 {
- "updated": "2026-10-04T18:14:33Z",
+ "updated": "2026-10-05T00:15:10Z",
  "sources": [
   "Positive News",
+  "Good News Network",
+  "Reasons to be Cheerful",
+  "ScienceDaily",
   "Mongabay",
   "The Optimist Daily",
   "The Better India",
-  "Grist",
   "Anthropocene Magazine",
-  "Africanews",
-  "Good News Network",
-  "Reasons to be Cheerful",
-  "ScienceDaily"
+  "Grist",
+  "Africanews"
  ],
- "count": 94,
- "last_run": "run-20261004T1814Z.json",
- "note": "4 new, 80 skipped, 0 pruned, 0 translations added, failed feeds: none",
+ "count": 100,
+ "last_run": "run-20261005T0015Z.json",
+ "note": "6 new, 84 skipped, 0 pruned, 0 translations added, failed feeds: none",
  "stories": [
   {
    "id": "tbi-delhi-volunteers-clean-parks-canals",
@@ -44,6 +44,37 @@
      "title": "Группа добровольцев в Дели очищает большое количество отходов из парков и водных путей",
      "summary": "Инициатива по очистке сообщества в Дели теперь насчитывает 350 активных добровольцев, которые удалили тысячи тонн отходов из парков, каналов и берегов рек. Они планируют открыть экологическую школу для детей.",
      "why": "Локальное, инициированное гражданами усилие с реальными результатами, но ограниченное одним городом."
+    }
+   }
+  },
+  {
+   "id": "gr-texas-data-centers-community-funds",
+   "title": "Data center firms fund rural Texas community projects",
+   "summary": "Data center companies have put over $340 million into rural Texas towns, paying for infrastructure repairs, school programs and emergency services while seeking local support.",
+   "why": "Tangible local benefits, but tied to contested industrial expansion.",
+   "source": "Grist",
+   "url": "https://grist.org/accountability/to-win-over-locals-data-centers-pump-340m-into-rural-texas-projects/",
+   "score": 5,
+   "category": "Society",
+   "region": "Texas, USA",
+   "published": "2026-10-04T13:00:00Z",
+   "continent": "North America",
+   "added": "2026-10-05T00:15:10Z",
+   "i18n": {
+    "ca": {
+     "title": "Les empreses de centres de dades financen projectes comunitaris de Texas rural",
+     "summary": "Les empreses de centres de dades han invertit més de 340 milions de dòlars en pobles de Texas rural, pagant reparacions d'infraestructura, programes escolars i serveis d'emergència mentre cerquen suport local.",
+     "why": "Beneficis locals tangibles, però lligats a l'expansió industrial contestada."
+    },
+    "fr": {
+     "title": "Les entreprises de centres de données financent les projets communautaires du Texas rural",
+     "summary": "Les entreprises de centres de données ont investi plus de 340 millions de dollars dans les villes rurales du Texas, payant les réparations d'infrastructure, les programmes scolaires et les services d'urgence tout en cherchant le soutien local.",
+     "why": "Avantages locaux tangibles, mais liés à l'expansion industrielle contestée."
+    },
+    "ru": {
+     "title": "Компании центров обработки данных финансируют проекты сельских сообществ в Техасе",
+     "summary": "Компании центров обработки данных инвестировали более 340 миллионов долларов в сельские города Техаса, оплачивая ремонт инфраструктуры, школьные программы и службы экстренной помощи, одновременно добиваясь местной поддержки.",
+     "why": "Ощутимые местные выгоды, но связанные с оспариваемым промышленным расширением."
     }
    }
   },
@@ -106,6 +137,68 @@
      "title": "Краска, поглощающая смог, тестируется для снижения загрязнения воздуха города",
      "summary": "Покрытия, содержащие диоксид титана, используют солнечный свет для расщепления загрязняющих веществ. IIT Madras тестирует, смогут ли они уменьшить диоксид азота на городских поверхностях.",
      "why": "Многообещающее, но все еще на стадии тестирования."
+    }
+   }
+  },
+  {
+   "id": "tbi-telling-children-rare-disease",
+   "title": "Psychologists advise families on telling children about a rare disease",
+   "summary": "Child psychologists suggest parents first absorb the shock, then match their language to the child's age and build a support network around the family.",
+   "why": "Practical help for families, benefiting a small group.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/health-care/rare-disease-diagnosis-child-parents-psychologist-12613003",
+   "score": 6,
+   "category": "Health",
+   "region": "India",
+   "published": "2026-10-04T03:30:37Z",
+   "continent": "Asia",
+   "added": "2026-10-05T00:15:10Z",
+   "i18n": {
+    "ca": {
+     "title": "Psicòlegs aconsellen les famílies sobre com explicar als nens una malaltia rara",
+     "summary": "Els psicòlegs infantils suggereixen que els pares primer absorbeixin el xoc, després adaptin el seu llenguatge a l'edat del nen i construeixin una xarxa de suport al voltant de la família.",
+     "why": "Ajuda pràctica per a les famílies, beneficiant un petit grup."
+    },
+    "fr": {
+     "title": "Les psychologues conseillent les familles sur comment parler aux enfants d'une maladie rare",
+     "summary": "Les psychologues pour enfants suggèrent aux parents d'abord d'absorber le choc, puis d'adapter leur langage à l'âge de l'enfant et de construire un réseau de soutien autour de la famille.",
+     "why": "Aide pratique pour les familles, bénéficiant à un petit groupe."
+    },
+    "ru": {
+     "title": "Психологи дают советы семьям о том, как рассказать детям о редком заболевании",
+     "summary": "Детские психологи предлагают родителям сначала принять шок, затем адаптировать свой язык к возрасту ребёнка и построить сеть поддержки вокруг семьи.",
+     "why": "Практическая помощь для семей, приносящая пользу небольшой группе."
+    }
+   }
+  },
+  {
+   "id": "tbi-haryana-wrestling-dominance",
+   "title": "Why Haryana produces so many of India's top wrestlers",
+   "summary": "Traditional akharas and kushti culture, plus the example of Olympic champions, have built a training ecosystem in Haryana that draws wrestlers from across India.",
+   "why": "A strong community sporting tradition, though local in scope.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/videos/professional-wrestling/15-wrestlers-one-state-why-haryana-dominates-wrestling-12621431",
+   "score": 6,
+   "category": "Culture",
+   "region": "Haryana, India",
+   "published": "2026-10-04T03:30:07Z",
+   "continent": "Asia",
+   "added": "2026-10-05T00:15:10Z",
+   "i18n": {
+    "ca": {
+     "title": "Per què Haryana produeix tants lluitadors de primera categoria de l'Índia",
+     "summary": "Les akharas tradicionals i la cultura del kushti, més l'exemple dels campions olímpics, han construït un ecosistema d'entrenament a Haryana que atrau lluitadors de tot l'Índia.",
+     "why": "Una forta tradició esportiva comunitària, tot i que local."
+    },
+    "fr": {
+     "title": "Pourquoi le Haryana produit autant des meilleurs lutteurs de l'Inde",
+     "summary": "Les akharas traditionnelles et la culture du kushti, ainsi que l'exemple des champions olympiques, ont construit un écosystème d'entraînement au Haryana qui attire des lutteurs de toute l'Inde.",
+     "why": "Une forte tradition sportive communautaire, bien que locale."
+    },
+    "ru": {
+     "title": "Почему Харьяна производит столько лучших борцов Индии",
+     "summary": "Традиционные акхары и культура кушти, а также пример олимпийских чемпионов, создали экосистему тренировок в Харьяне, которая привлекает борцов со всей Индии.",
+     "why": "Сильная традиция спорта в сообществе, хотя и локальная."
     }
    }
   },
@@ -1040,6 +1133,37 @@
    }
   },
   {
+   "id": "mb-maleo-trafficking-indonesia",
+   "title": "Traffickers begin targeting Indonesia's endangered maleo birds",
+   "summary": "Illegal live-animal trade for exotic pet markets is a new threat to the maleo, whose population is down to roughly 4,000-7,000 breeding pairs.",
+   "why": "A warning that gives conservationists a chance to act early.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/wildlife-traffickers-are-now-targeting-indonesias-critically-endangered-maleo-birds/",
+   "score": 3,
+   "category": "Animals",
+   "region": "Indonesia",
+   "published": "2026-10-02T11:33:44Z",
+   "continent": "Asia",
+   "added": "2026-10-05T00:15:10Z",
+   "i18n": {
+    "ca": {
+     "title": "Els traficants comencen a dirigir-se als ocells maleo en perill d'extinció d'Indonèsia",
+     "summary": "El comerç il·legal d'animals vius per als mercats exòtics de mascotes és una nova amenaça per al maleo, la seva població es redueix a aproximadament 4.000-7.000 parelles reproductores.",
+     "why": "Un avís que dóna als conservacionistes l'oportunitat d'actuar aviat."
+    },
+    "fr": {
+     "title": "Les trafiquants commencent à cibler les oiseaux maleo en danger d'extinction d'Indonésie",
+     "summary": "Le commerce illégal d'animaux vivants pour les marchés exotiques des animaux de compagnie est une nouvelle menace pour le maleo, dont la population est réduite à environ 4 000-7 000 couples reproducteurs.",
+     "why": "Un avertissement qui donne aux conservateurs une chance d'agir tôt."
+    },
+    "ru": {
+     "title": "Торговцы начинают охотиться на исчезающих птиц малео Индонезии",
+     "summary": "Незаконная торговля живыми животными для экзотических рынков домашних животных представляет новую угрозу для малео, численность которых снизилась примерно до 4000-7000 размножающихся пар.",
+     "why": "Предупреждение, которое даёт природоохранникам шанс действовать рано."
+    }
+   }
+  },
+  {
    "id": "mb-indonesia-rubber-growers-traditional-fire-fighting",
    "title": "Indonesian rubber growers use traditional methods to fight wildfires",
    "summary": "Rubber farmers in Indonesia are using traditional techniques and simple equipment to protect their land during an El Niño-intensified fire season.",
@@ -1439,6 +1563,68 @@
      "title": "Исследование помогает предсказать, как мангры защищают побережья от волн штормов",
      "summary": "Новые исследования предлагают методы оценки того, сколько энергии волн леса мангров снижают при сильных штормах, поддерживая планирование адаптации побережья к климату.",
      "why": "Лучшие инструменты для защиты побережья, основанной на природе."
+    }
+   }
+  },
+  {
+   "id": "mb-andaman-tribes-autonomy",
+   "title": "Scholar says Andaman and Nicobar tribes need autonomy to survive",
+   "summary": "A scholar argues that isolated island communities face pressure from illegal fishing and development, and that tribal reserves hold richer biodiversity than official protected areas.",
+   "why": "Highlights a useful path for protection but warns of rising threats.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/indias-isolated-island-tribes-need-autonomy-to-survive-rising-threats-says-scholar/",
+   "score": 4,
+   "category": "Society",
+   "region": "Andaman and Nicobar Islands, India",
+   "published": "2026-10-01T20:55:30Z",
+   "continent": "Asia",
+   "added": "2026-10-05T00:15:10Z",
+   "i18n": {
+    "ca": {
+     "title": "Un erudit diu que les tribus de les Illes Andaman i Nicobar necessiten autonomia per sobreviure",
+     "summary": "Un erudit argumenta que les comunitats aïllades de l'illa enfronten pressió de la pesca il·legal i el desenvolupament, i que les reserves tribals contenen una biodiversitat més rica que les àrees protegides oficials.",
+     "why": "Destaca un camí útil per a la protecció però adverteix de les amenaces creixents."
+    },
+    "fr": {
+     "title": "Un érudit dit que les tribus des îles Andaman et Nicobar ont besoin d'autonomie pour survivre",
+     "summary": "Un érudit affirme que les communautés insulaires isolées font face à la pression de la pêche illégale et du développement, et que les réserves tribales contiennent une biodiversité plus riche que les zones protégées officielles.",
+     "why": "Souligne un chemin utile pour la protection mais met en garde contre les menaces croissantes."
+    },
+    "ru": {
+     "title": "Учёный говорит, что племена Андаманских и Никобарских островов нуждаются в автономии для выживания",
+     "summary": "Учёный утверждает, что изолированные островные сообщества сталкиваются с давлением незаконного рыболовства и развития, и что племенные резервы содержат более богатую биоразнообразие, чем официальные защищённые территории.",
+     "why": "Подчёркивает полезный путь защиты, но предостерегает о растущих угрозах."
+    }
+   }
+  },
+  {
+   "id": "gr-california-clean-car-rules",
+   "title": "California's clean car rules remain key as federal limits are rolled back",
+   "summary": "With federal vehicle emission rules dismantled, California's stricter standards are now the main US policy on car emissions, though they face legal challenges.",
+   "why": "Important protection that is legally vulnerable.",
+   "source": "Grist",
+   "url": "https://grist.org/transportation/trump-california-ev-clean-car-rules-fuel-economy-lawsuits/",
+   "score": 4,
+   "category": "Environment",
+   "region": "California, USA",
+   "published": "2026-10-01T19:08:55Z",
+   "continent": "North America",
+   "added": "2026-10-05T00:15:10Z",
+   "i18n": {
+    "ca": {
+     "title": "Les normes de cotxes nets de Califòrnia romanen clau mentre els límits federals es desfan",
+     "summary": "Amb les normes federals d'emissions de vehicles desmantelades, els estàndards més estrictes de Califòrnia són ara la política principal dels EUA sobre emissions de cotxes, tot i que enfronten desafiaments legals.",
+     "why": "Protecció important que és legalment vulnerable."
+    },
+    "fr": {
+     "title": "Les règles des voitures propres de la Californie restent clés tandis que les limites fédérales sont révoquées",
+     "summary": "Avec les règles fédérales d'émissions des véhicules démantélées, les normes plus strictes de la Californie sont maintenant la politique principale des États-Unis sur les émissions automobiles, bien qu'elles fassent face à des défis légaux.",
+     "why": "Protection importante qui est légalement vulnérable."
+    },
+    "ru": {
+     "title": "Правила чистых автомобилей Калифорнии остаются ключевыми, поскольку федеральные ограничения отменяются",
+     "summary": "При демонтаже федеральных правил выбросов транспортных средств более строгие стандарты Калифорнии теперь являются основной политикой США в отношении выбросов автомобилей, хотя они сталкиваются с юридическими проблемами.",
+     "why": "Важная защита, которая юридически уязвима."
     }
    }
   },
