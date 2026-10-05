@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T06:18:29Z",
+ "updated": "2026-10-05T12:15:58Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,10 +12,134 @@
   "Grist",
   "Africanews"
  ],
- "count": 113,
- "last_run": "run-20261005T0618Z.json",
- "note": "14 new, 90 skipped, 1 pruned, 0 translations added, failed feeds: none",
+ "count": 123,
+ "last_run": "run-20261005T1215Z.json",
+ "note": "10 new, 104 skipped, 0 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "tbi-areca-sheath-plates",
+   "title": "Farmers in India turn fallen areca sheaths into biodegradable plates",
+   "summary": "Tribal women in Mizoram make plates from areca palm sheaths, and other farmers use palm by-products as livestock feed, creating extra income from waste.",
+   "why": "Local, low-waste livelihoods, though the scale is still modest.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/sustainability/areca-palm-one-plan-100-uses-india-beyond-the-nuts-sustainable-plates-everyday-benefits-farming-12592642",
+   "score": 6,
+   "category": "Environment",
+   "region": "Mizoram, India",
+   "published": "2026-10-05T11:30:37Z",
+   "continent": "Asia",
+   "added": "2026-10-05T12:15:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Els agricultors de l'Índia converteixen les beines caigudes de l'areca en plats biodegradables",
+     "summary": "Les dones tribals de Mizoram fan plats a partir de beines de palmera d'areca, i altres agricultors utilitzen els residus de palmera com a aliment per al bestiar, generant ingressos addicionals a partir de residus.",
+     "why": "Mitjans de vida locals i amb poc residu, tot i que l'escala és encara modesta."
+    },
+    "fr": {
+     "title": "Les agriculteurs en Inde transforment les gaines d'areca tombées en assiettes biodégradables",
+     "summary": "Les femmes tribales du Mizoram fabriquent des assiettes à partir des gaines de palmier d'areca, et d'autres agriculteurs utilisent les sous-produits du palmier comme aliment pour le bétail, créant des revenus supplémentaires à partir des déchets.",
+     "why": "Moyens de subsistance locaux et peu gourmands en ressources, bien que l'échelle soit encore modeste."
+    },
+    "ru": {
+     "title": "Фермеры в Индии превращают опавшие листовые влагалища ареки в биоразлагаемые тарелки",
+     "summary": "Туземные женщины в Мизораме делают тарелки из листовых влагалищ пальмы ареки, а другие фермеры используют побочные продукты пальмы в качестве корма для скота, создавая дополнительный доход из отходов.",
+     "why": "Местные средства к существованию с низким отходом, хотя масштабы по-прежнему скромны."
+    }
+   }
+  },
+  {
+   "id": "tbi-chirgaon-vultures-dj-ban",
+   "title": "Maharashtra village's 24-year ban on DJs and fireworks helps vultures recover",
+   "summary": "Chirgaon has kept weddings free of DJs and fireworks to protect nesting vultures. The local vulture population has grown from 22 to 347 birds.",
+   "why": "Community-led conservation produced a large, measurable recovery of a threatened species.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/wildlife/chirgaon-maharashtra-village-vulture-conservation-nesting-noise-protection-12625259",
+   "score": 8,
+   "category": "Animals",
+   "region": "Maharashtra, India",
+   "published": "2026-10-05T09:43:40Z",
+   "continent": "Asia",
+   "added": "2026-10-05T12:15:58Z",
+   "i18n": {
+    "ca": {
+     "title": "El poble de Maharashtra prohibeix els DJs i els focs artificials durant 24 anys per protegir els voltors",
+     "summary": "Chirgaon ha mantingut els matrimonis lliures de DJs i focs artificials per protegir els voltors nidificants. La població local de voltors ha crescut de 22 a 347 ocells.",
+     "why": "La conservació dirigida per la comunitat ha produït una recuperació gran i mesurable d'una espècie amenaçada."
+    },
+    "fr": {
+     "title": "L'interdiction de 24 ans des DJ et feux d'artifice dans un village du Maharashtra aide les vautours à se rétablir",
+     "summary": "Chirgaon a maintenu les mariages sans DJ ni feux d'artifice pour protéger les vautours nicheurs. La population locale de vautours a augmenté de 22 à 347 oiseaux.",
+     "why": "La conservation menée par la communauté a produit une récupération importante et mesurable d'une espèce menacée."
+    },
+    "ru": {
+     "title": "Запрет диджеев и фейерверков в деревне Махараштра в течение 24 лет помогает грифам восстановиться",
+     "summary": "Чиргаон запретил диджеев и фейерверки на свадьбах для защиты гнездящихся грифов. Местная популяция грифов выросла с 22 до 347 птиц.",
+     "why": "Природоохранная деятельность, возглавляемая сообществом, привела к значительному и измеримому восстановлению исчезающего вида."
+    }
+   }
+  },
+  {
+   "id": "rtbc-cornwall-hospital-noise-pilot",
+   "title": "Cornish hospital pilots a way to cut alarm noise on wards",
+   "summary": "Royal Cornwall Hospitals NHS Trust is treating ward noise as data that can be routed, rather than muffled, to reduce alarm fatigue.",
+   "why": "Could improve patient rest and staff focus, but it is only a pilot.",
+   "source": "Reasons to be Cheerful",
+   "url": "https://reasonstobecheerful.world/the-hospital-that-silenced-the-machines/",
+   "score": 6,
+   "category": "Health",
+   "region": "Cornwall, United Kingdom",
+   "published": "2026-10-05T08:00:28Z",
+   "continent": "Europe",
+   "added": "2026-10-05T12:15:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Un hospital de Cornualla posa a prova una manera de reduir el soroll de les alarmes en les sales",
+     "summary": "Royal Cornwall Hospitals NHS Trust tracta el soroll de la sala com a dades que es poden enrutar, en lloc de ser silenciades, per reduir la fatiga de les alarmes.",
+     "why": "Podria millorar el descans dels pacients i la concentració del personal, però només és una prova pilot."
+    },
+    "fr": {
+     "title": "Un hôpital cornouaillais teste un moyen de réduire le bruit des alarmes dans les salles",
+     "summary": "Royal Cornwall Hospitals NHS Trust traite le bruit de la salle comme des données qui peuvent être acheminées, plutôt que d'être étouffées, pour réduire la fatigue des alarmes.",
+     "why": "Pourrait améliorer le repos des patients et la concentration du personnel, mais ce n'est qu'un essai pilote."
+    },
+    "ru": {
+     "title": "Больница в Корнуолле тестирует способ снижения шума сигналов в палатах",
+     "summary": "Королевский корнуальский фонд NHS рассматривает шум палаты как данные, которые можно маршрутизировать, а не приглушать, чтобы снизить усталость от сигналов.",
+     "why": "Может улучшить отдых пациентов и концентрацию персонала, но это только пилотный проект."
+    }
+   }
+  },
+  {
+   "id": "mb-malta-hunters-stranded-migratory-birds",
+   "title": "Hunters reportedly kill hundreds of storm-stranded migratory birds in Malta",
+   "summary": "After a thunderstorm grounded migrating birds on 14 September, hunters reportedly shot hundreds of protected birds, including European turtle doves.",
+   "why": "Harm to protected wildlife; the reporting may prompt enforcement.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/hunters-reportedly-kill-hundreds-of-migratory-birds-stranded-by-thunderstorm-in-malta/",
+   "score": 1,
+   "category": "Animals",
+   "region": "Malta",
+   "published": "2026-10-05T04:23:50Z",
+   "continent": "Europe",
+   "added": "2026-10-05T12:15:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Segons els informes, els caçadors maten centenars d'ocells migratoris afectats per la tempesta a Malta",
+     "summary": "Després que una tempesta de trons va tirar a terra els ocells migratoris el 14 de setembre, els caçadors aparentment van disparar centenars d'ocells protegits, incloent tortorelles turtades europees.",
+     "why": "Dany a la vida silvestre protegida; l'informe pot provocar l'aplicació de la llei."
+    },
+    "fr": {
+     "title": "Les chasseurs auraient tué des centaines d'oiseaux migrateurs bloqués par une tempête à Malte",
+     "summary": "Après qu'un orage a immobilisé les oiseaux migrateurs le 14 septembre, les chasseurs auraient tiré sur des centaines d'oiseaux protégés, notamment des tourterelles des bois européennes.",
+     "why": "Dommages à la faune protégée ; le signalement peut encourager l'application de la loi."
+    },
+    "ru": {
+     "title": "Охотники якобы убили сотни перелетных птиц, оставленных без сил бурей на Мальте",
+     "summary": "После грозы, которая приземлила мигрирующих птиц 14 сентября, охотники якобы расстреляли сотни защищенных птиц, включая европейских горлиц.",
+     "why": "Вред защищенной дикой природе; сообщение может побудить к правоприменению."
+    }
+   }
+  },
   {
    "id": "tbi-elephant-routes-india-nepal",
    "title": "Villagers help protect elephant migration routes across the India-Nepal border",
@@ -75,6 +199,68 @@
      "title": "Бывший врач организует представление Бхаратанатьям с 40 танцорами на пляже Гоа",
      "summary": "Художник привёл 40 классических танцоров Бхаратанатьям на пляж Морджим в Гоа, объединив традиционный танец с прибрежным ландшафтом.",
      "why": "Приятное культурное событие с местным воздействием."
+    }
+   }
+  },
+  {
+   "id": "od-wisconsin-forest-bathing-trail",
+   "title": "Wisconsin opens its first certified forest-bathing trail",
+   "summary": "Eagle River now has a one-mile trail designed for slow, meditative walks in nature, open to everyone and linked to lower stress.",
+   "why": "A small but accessible wellbeing benefit for one community.",
+   "source": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/10/wisconsins-first-certified-shinrin-yoku-trail-is-open-to-everyone/",
+   "score": 6,
+   "category": "Health",
+   "region": "Wisconsin, United States",
+   "published": "2026-10-05T00:00:00Z",
+   "continent": "North America",
+   "added": "2026-10-05T12:15:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Wisconsin obri la seva primera pista de bany forestal certificada",
+     "summary": "Eagle River ara té un camí de una milla dissenyat per a passeigs lents i meditatius en la natura, obert a tothom i relacionat amb menys estrès.",
+     "why": "Un petit però accessible benefici per al benestar d'una comunitat."
+    },
+    "fr": {
+     "title": "Le Wisconsin ouvre son premier sentier de bain de forêt certifié",
+     "summary": "Eagle River dispose désormais d'un sentier d'un mile conçu pour des promenades lentes et méditatives dans la nature, ouvert à tous et associé à un stress réduit.",
+     "why": "Un petit avantage accessible pour le bien-être d'une communauté."
+    },
+    "ru": {
+     "title": "Висконсин открывает свой первый сертифицированный тропу лесных ванн",
+     "summary": "Игл-Ривер теперь имеет тропу в одну милю, предназначенную для медленных медитативных прогулок в природе, открытую для всех и связанную со снижением стресса.",
+     "why": "Небольшое, но доступное преимущество для здоровья одного сообщества."
+    }
+   }
+  },
+  {
+   "id": "od-deafcity-hub-sign-language-space",
+   "title": "DeafCity Hub plans a cultural centre for Britain's Deaf community",
+   "summary": "Urban planner Amanprit Arnold is developing a gathering space built on DeafSpace architecture principles, where sign language can thrive.",
+   "why": "A promising community project, still in the planning stage.",
+   "source": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/10/deafcity-hub-and-the-fight-to-build-a-space-where-sign-language-can-live-and-thrive/",
+   "score": 6,
+   "category": "Culture",
+   "region": "United Kingdom",
+   "published": "2026-10-05T00:00:00Z",
+   "continent": "Europe",
+   "added": "2026-10-05T12:15:58Z",
+   "i18n": {
+    "ca": {
+     "title": "DeafCity Hub planifica un centre cultural per a la comunitat sorda de Gran Bretanya",
+     "summary": "La planificadora urbana Amanprit Arnold està desenvolupant un espai de reunió basat en els principis de l'arquitectura DeafSpace, on la llengua de signes pot prosperar.",
+     "why": "Un projecte comunitari prometedor, encara en la fase de planificació."
+    },
+    "fr": {
+     "title": "DeafCity Hub prévoit un centre culturel pour la communauté sourde de la Grande-Bretagne",
+     "summary": "L'urbaniste Amanprit Arnold développe un espace de rassemblement basé sur les principes de l'architecture DeafSpace, où la langue des signes peut prospérer.",
+     "why": "Un projet communautaire prometteur, encore en phase de planification."
+    },
+    "ru": {
+     "title": "DeafCity Hub планирует культурный центр для глухого сообщества Британии",
+     "summary": "Градостроитель Амаприт Арнольд разрабатывает пространство для собраний на основе принципов архитектуры DeafSpace, где язык жестов может процветать.",
+     "why": "Многообещающий общественный проект, еще на стадии планирования."
     }
    }
   },
@@ -389,6 +575,37 @@
    }
   },
   {
+   "id": "gnn-poll-ai-cannot-replace-elders",
+   "title": "Most Britons say AI cannot replace advice from elders, poll finds",
+   "summary": "A British survey found 71% believe chatbots cannot replace wisdom from lived experience, even though 21% use them weekly.",
+   "why": "Interesting snapshot of values, with no direct benefit.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/ai-chatbots-will-never-replace-advice-from-elders-say-seven-of-10-in-new-poll/",
+   "score": 5,
+   "category": "Society",
+   "region": "United Kingdom",
+   "published": "2026-10-04T11:00:36Z",
+   "continent": "Europe",
+   "added": "2026-10-05T12:15:58Z",
+   "i18n": {
+    "ca": {
+     "title": "La majoria dels britànics diuen que l'IA no pot reemplaçar els consells dels avis, troba l'enquesta",
+     "summary": "Una enquesta britànica va trobar que el 71% creu que els chatbots no poden reemplaçar la saviesa de l'experiència viscuda, tot i que el 21% els utilitza setmanalment.",
+     "why": "Una fotografia interessant dels valors, sense benefici directe."
+    },
+    "fr": {
+     "title": "La plupart des Britanniques disent que l'IA ne peut pas remplacer les conseils des aînés, selon un sondage",
+     "summary": "Un sondage britannique a révélé que 71% croient que les chatbots ne peuvent pas remplacer la sagesse acquise par l'expérience, même si 21% les utilisent hebdomadairement.",
+     "why": "Un aperçu intéressant des valeurs, sans avantage direct."
+    },
+    "ru": {
+     "title": "Большинство британцев говорят, что ИИ не может заменить советы пожилых людей, выяснено в опросе",
+     "summary": "Британское исследование показало, что 71% верят, что чат-боты не могут заменить мудрость, полученную из личного опыта, хотя 21% используют их еженедельно.",
+     "why": "Интересный снимок ценностей, без прямой пользы."
+    }
+   }
+  },
+  {
    "id": "tbi-newborn-elephant-calf-rescued-teesta",
    "title": "Fishermen rescue newborn elephant calf swept into Teesta River",
    "summary": "Fishermen saved a newborn elephant calf carried away by the Teesta River in Jalpaiguri. A veterinarian says the viral embrace was normal elephant social behaviour.",
@@ -416,6 +633,68 @@
      "title": "Рыбаки спасают новорожденного слоненка, вынесенного в реку Тиста",
      "summary": "Рыбаки спасли новорожденного слоненка, унесенного рекой Тиста в Джальпайгури. Ветеринар говорит, что вирусный момент объятия был обычным социальным поведением слонов.",
      "why": "Успешное спасение дикой природы одного животного."
+    }
+   }
+  },
+  {
+   "id": "an-oromo-irreecha-festival-addis-ababa",
+   "title": "Tens of thousands of Oromo celebrate Irreecha in Addis Ababa and call for peace",
+   "summary": "The annual thanksgiving festival drew huge crowds on Saturday, with participants asking for peace as fighting continues in Tigray.",
+   "why": "A large cultural celebration, set against ongoing conflict.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/04/ethiopias-oromo-celebrate-irreecha-and-call-for-peace-as-federal-forces-enter-mekelle/",
+   "score": 5,
+   "category": "Culture",
+   "region": "Ethiopia",
+   "published": "2026-10-04T08:35:45Z",
+   "continent": "Africa",
+   "added": "2026-10-05T12:15:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Desenes de milers d'oromos celebren Irreecha a Addis Ababa i demanen pau",
+     "summary": "El festival d'acció de gràcies anual va atreure grans multituds el dissabte, amb participants demanant pau mentre els combats continuen a Tigray.",
+     "why": "Una gran celebració cultural, situada en el context d'un conflicte continu."
+    },
+    "fr": {
+     "title": "Des dizaines de milliers d'Oromos célèbrent Irreecha à Addis-Abeba et demandent la paix",
+     "summary": "Le festival d'action de grâces annuel a attiré de grandes foules samedi, les participants demandant la paix alors que les combats se poursuivent au Tigré.",
+     "why": "Une grande célébration culturelle, sur fond de conflit continu."
+    },
+    "ru": {
+     "title": "Десятки тысяч оромо празднуют Иррече в Аддис-Абебе и призывают к миру",
+     "summary": "Ежегодный фестиваль благодарения привлек огромные толпы в субботу, участники призывали к миру, пока боевые действия продолжаются в Тиграе.",
+     "why": "Крупное культурное празднество, происходящее на фоне продолжающегося конфликта."
+    }
+   }
+  },
+  {
+   "id": "sd-magnetic-fields-universe-expansion",
+   "title": "Primordial magnetic fields may help explain mismatched universe expansion rates",
+   "summary": "A study suggests early magnetic fields affected hydrogen formation and the cosmic microwave background, which could reconcile conflicting measurements of cosmic expansion.",
+   "why": "An interesting theoretical clue that still needs confirmation.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-10-04T08:05:54Z",
+   "continent": "Global",
+   "added": "2026-10-05T12:15:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Els camps magnètics primordials podrien ajudar a explicar les velocitats de expansió de l'univers que no coincideixen",
+     "summary": "Un estudi suggereix que els camps magnètics primordials van afectar la formació de l'hidrogen i el fons de microones còsmics, que podrien reconciliar les mesuracions conflictives de l'expansió còsmica.",
+     "why": "Una pista teòrica interessant que encara necessita confirmació."
+    },
+    "fr": {
+     "title": "Les champs magnétiques primordiaux pourraient aider à expliquer les taux d'expansion de l'univers discordants",
+     "summary": "Une étude suggère que les champs magnétiques primordiaux ont affecté la formation de l'hydrogène et le fond diffus cosmologique, ce qui pourrait réconcilier les mesures conflictuelles de l'expansion cosmique.",
+     "why": "Un indice théorique intéressant qui a encore besoin de confirmation."
+    },
+    "ru": {
+     "title": "Первичные магнитные поля могут помочь объяснить несовпадающие скорости расширения Вселенной",
+     "summary": "Исследование предполагает, что ранние магнитные поля влияли на формирование водорода и космического микроволнового фона, что могло бы согласовать противоречивые измерения космического расширения.",
+     "why": "Интересный теоретический намек, который еще нуждается в подтверждении."
     }
    }
   },
@@ -1284,6 +1563,37 @@
      "title": "Пробиотическое лечение защитило кораллы от обесцвечивания во время волны тепла в Красном море",
      "summary": "Исследование показало, что полезные бактерии защищали кораллы от обесцвечивания во время морской волны тепла, что указывает на возможный инструмент защиты рифов.",
      "why": "Многообещающий результат, но всё ещё раннее исследование в небольшом масштабе."
+    }
+   }
+  },
+  {
+   "id": "mb-permafrost-wetland-feedbacks-warming",
+   "title": "Study: natural feedbacks could amplify climate warming by up to 30%",
+   "summary": "Thawing permafrost, wetlands, wildfires and freshwater emissions could add 0.2 to 0.4°C of warming by 2100.",
+   "why": "A useful warning that improves climate projections but is not good news.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/permafrost-wetland-wildfire-and-freshwater-emissions-could-amplify-climate-change-by-up-to-30-study-finds/",
+   "score": 3,
+   "category": "Environment",
+   "region": "Global",
+   "published": "2026-10-02T14:05:37Z",
+   "continent": "Global",
+   "added": "2026-10-05T12:15:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Estudi: els retorns naturals podrien amplificar l'escalfament climàtic fins al 30%",
+     "summary": "El deshielo del permafrost, els aiguamolls, els incendis forestals i les emissions d'aigua dolça podrien afegir 0,2 a 0,4°C d'escalfament per al 2100.",
+     "why": "Un avís útil que millora les projeccions climàtiques però no és bona notícia."
+    },
+    "fr": {
+     "title": "Étude : les rétroactions naturelles pourraient amplifier le réchauffement climatique jusqu'à 30%",
+     "summary": "Le dégel du pergélisol, les zones humides, les feux de forêt et les émissions d'eau douce pourraient ajouter 0,2 à 0,4°C de réchauffement d'ici 2100.",
+     "why": "Un avertissement utile qui améliore les projections climatiques mais n'est pas une bonne nouvelle."
+    },
+    "ru": {
+     "title": "Исследование: естественные обратные связи могут усилить глобальное потепление на 30%",
+     "summary": "Таяние вечной мерзлоты, водно-болотных угодий, лесные пожары и выбросы пресной воды могут добавить 0,2-0,4°C потепления к 2100 году.",
+     "why": "Полезное предупреждение, которое улучшает климатические прогнозы, но не является хорошей новостью."
     }
    }
   },
