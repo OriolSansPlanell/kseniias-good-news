@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T12:15:58Z",
+ "updated": "2026-10-05T18:17:46Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,10 +12,41 @@
   "Grist",
   "Africanews"
  ],
- "count": 123,
- "last_run": "run-20261005T1215Z.json",
- "note": "10 new, 104 skipped, 0 pruned, 0 translations added, failed feeds: none",
+ "count": 126,
+ "last_run": "run-20261005T1817Z.json",
+ "note": "3 new, 114 skipped, 0 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "tbi-pune-teen-glow-guide-burn-survivors",
+   "title": "Pune teenager writes recovery guide for burn and acid attack survivors",
+   "summary": "Sixteen-year-old Sia Domkundwar created The Glow Guide, a 60-page trauma-informed resource answering practical questions on skincare, clothing, cosmetics and daily self-care for survivors.",
+   "why": "A practical resource for a vulnerable group, though reach is still small.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/changemakers/pune-teen-sia-domkundwar-glow-guide-burn-acid-attack-survivors-12626099",
+   "score": 6,
+   "category": "Health",
+   "region": "Pune, India",
+   "published": "2026-10-05T14:30:37Z",
+   "continent": "Asia",
+   "added": "2026-10-05T18:17:46Z",
+   "i18n": {
+    "ca": {
+     "title": "Una adolescent de Pune escriu una guia de recuperació per a supervivents de cremades i atacs amb àcid",
+     "summary": "Sia Domkundwar, de setze anys, va crear The Glow Guide, un recurs de 60 pàgines informat pel trauma que respon preguntes pràctiques sobre cura de la pell, roba, cosmètics i autoacció diària per als supervivents.",
+     "why": "Un recurs pràctic per a un grup vulnerable, encara que l'abast és encara petit."
+    },
+    "fr": {
+     "title": "Une adolescente de Pune rédige un guide de rétablissement pour les survivants de brûlures et d'attaques à l'acide",
+     "summary": "Sia Domkundwar, seize ans, a créé The Glow Guide, une ressource de 60 pages informée par le trauma répondant aux questions pratiques sur les soins de la peau, les vêtements, les cosmétiques et l'auto-soin quotidien pour les survivants.",
+     "why": "Une ressource pratique pour un groupe vulnérable, bien que sa portée soit encore faible."
+    },
+    "ru": {
+     "title": "Подросток из Пуны написала руководство по восстановлению для выживших после ожогов и кислотных атак",
+     "summary": "Сия Домкундвар, шестнадцатилетняя девочка, создала The Glow Guide, 60-страничный ресурс, учитывающий травму, который отвечает на практические вопросы по уходу за кожей, одежде, косметике и ежедневному самоуходу для выживших.",
+     "why": "Практический ресурс для уязвимой группы, хотя охват остаётся небольшим."
+    }
+   }
+  },
   {
    "id": "tbi-areca-sheath-plates",
    "title": "Farmers in India turn fallen areca sheaths into biodegradable plates",
@@ -44,6 +75,37 @@
      "title": "Фермеры в Индии превращают опавшие листовые влагалища ареки в биоразлагаемые тарелки",
      "summary": "Туземные женщины в Мизораме делают тарелки из листовых влагалищ пальмы ареки, а другие фермеры используют побочные продукты пальмы в качестве корма для скота, создавая дополнительный доход из отходов.",
      "why": "Местные средства к существованию с низким отходом, хотя масштабы по-прежнему скромны."
+    }
+   }
+  },
+  {
+   "id": "tbi-smart-irrigation-soil-sensors",
+   "title": "Soil-sensor irrigation systems help Indian farmers water crops only when needed",
+   "summary": "Smart irrigation combines soil moisture sensors, weather data and controllers that open valves automatically, giving crops water responsively rather than on fixed schedules.",
+   "why": "Useful water-saving technology, but this is an explainer rather than a reported rollout.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/technology/smart-irrigation-system-soil-sensors-farming-india-12625078",
+   "score": 5,
+   "category": "Science",
+   "region": "India",
+   "published": "2026-10-05T10:30:37Z",
+   "continent": "Asia",
+   "added": "2026-10-05T18:17:46Z",
+   "i18n": {
+    "ca": {
+     "title": "Els sistemes de reg amb sensors de sòl ajuden els agricultors indis a regar les collites només quan és necessari",
+     "summary": "El reg intel·ligent combina sensors d'humitat del sòl, dades meteorològiques i controladors que obren vàlvules automàticament, donant aigua a les collites de manera responsiva en lloc de segons horaris fixos.",
+     "why": "Una tecnologia útil per estalviar aigua, però es tracta més d'una explicació que d'un desplegament reportat."
+    },
+    "fr": {
+     "title": "Les systèmes d'irrigation par capteurs de sol aident les agriculteurs indiens à arroser les cultures uniquement quand c'est nécessaire",
+     "summary": "L'irrigation intelligente combine des capteurs d'humidité du sol, des données météorologiques et des contrôleurs qui ouvrent automatiquement les vannes, fournissant l'eau aux cultures de manière réactive plutôt que selon des horaires fixes.",
+     "why": "Une technologie utile pour économiser l'eau, mais il s'agit plutôt d'une explication qu'un déploiement rapporté."
+    },
+    "ru": {
+     "title": "Системы полива с датчиками почвы помогают индийским фермерам поливать урожай только при необходимости",
+     "summary": "Умное орошение объединяет датчики влажности почвы, данные о погоде и контроллеры, которые автоматически открывают клапаны, обеспечивая урожай водой реактивно, а не по фиксированному расписанию.",
+     "why": "Полезная технология экономии воды, но это скорее объяснение, чем сообщённое внедрение."
     }
    }
   },
@@ -106,6 +168,37 @@
      "title": "Больница в Корнуолле тестирует способ снижения шума сигналов в палатах",
      "summary": "Королевский корнуальский фонд NHS рассматривает шум палаты как данные, которые можно маршрутизировать, а не приглушать, чтобы снизить усталость от сигналов.",
      "why": "Может улучшить отдых пациентов и концентрацию персонала, но это только пилотный проект."
+    }
+   }
+  },
+  {
+   "id": "pn-teen-mudlark-london-thames",
+   "title": "Teenage mudlark searches the Thames foreshore for London's lost history",
+   "summary": "A 14-year-old with nearly a decade of experience searches the Thames foreshore for fragments of the city's past, recovering objects that tell of earlier Londoners' lives.",
+   "why": "A pleasant heritage story with modest wider impact.",
+   "source": "Positive News",
+   "url": "https://www.positive.news/environment/meet-the-14-year-old-uncovering-londons-lost-history/",
+   "score": 5,
+   "category": "Culture",
+   "region": "London, UK",
+   "published": "2026-10-05T07:00:44Z",
+   "continent": "Europe",
+   "added": "2026-10-05T18:17:46Z",
+   "i18n": {
+    "ca": {
+     "title": "Una adolescent recerca relíquies en la riba del Tàmesi per trobar la història oculta de Londres",
+     "summary": "Una nena de 14 anys amb gairebé una dècada d'experiència busca fragments de la història de la ciutat en la riba del Tàmesi, recuperant objectes que parlen de la vida dels londinents d'altres temps.",
+     "why": "Una agradable història de patrimoni amb un impacte més ampli modest."
+    },
+    "fr": {
+     "title": "Une adolescente explore les rives de la Tamise en quête de l'histoire perdue de Londres",
+     "summary": "Une fille de 14 ans avec près d'une décennie d'expérience explore les rives de la Tamise à la recherche de fragments du passé de la ville, récupérant des objets qui racontent la vie des Londoniens d'autrefois.",
+     "why": "Une agréable histoire patrimoniale avec un impact plus large modeste."
+    },
+    "ru": {
+     "title": "Подросток ищет артефакты на берегу Темзы, чтобы раскрыть утраченную историю Лондона",
+     "summary": "14-летняя девочка с почти десятилетним опытом ищет фрагменты истории города на берегу Темзы, восстанавливая предметы, рассказывающие о жизни лондонцев прошлых времён.",
+     "why": "Приятная историческая история с ограниченным более широким влиянием."
     }
    }
   },
