@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T00:15:10Z",
+ "updated": "2026-10-05T06:18:29Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,10 +12,134 @@
   "Grist",
   "Africanews"
  ],
- "count": 100,
- "last_run": "run-20261005T0015Z.json",
- "note": "6 new, 84 skipped, 0 pruned, 0 translations added, failed feeds: none",
+ "count": 113,
+ "last_run": "run-20261005T0618Z.json",
+ "note": "14 new, 90 skipped, 1 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "tbi-elephant-routes-india-nepal",
+   "title": "Villagers help protect elephant migration routes across the India-Nepal border",
+   "summary": "Elephant herds follow ancestral routes through the Terai passed down across generations, and local communities are working to keep these corridors safe.",
+   "why": "Community-led protection of wildlife corridors, though still ongoing.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/wildlife/elephant-culture-migration-routes-katarniaghat-terai-12613669",
+   "score": 7,
+   "category": "Animals",
+   "region": "Katarniaghat, India",
+   "published": "2026-10-05T00:00:00Z",
+   "continent": "Asia",
+   "added": "2026-10-05T06:18:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Els habitants ajuden a protegir les rutes de migració dels elefants a través de la frontera entre l'Índia i Nepal",
+     "summary": "Els ramats d'elefants segueixen rutes ancestrals a través del Terai transmeses de generació en generació, i les comunitats locals treballen per mantenir aquests corredors segurs.",
+     "why": "Protecció comunitària de corredor de vida silvestre, tot i que continua en curs."
+    },
+    "fr": {
+     "title": "Les habitants aident à protéger les routes de migration des éléphants à travers la frontière Inde-Népal",
+     "summary": "Les troupeaux d'éléphants suivent des routes ancestrales à travers le Terai transmises de générations en générations, et les communautés locales travaillent pour maintenir ces corridors sûrs.",
+     "why": "Protection communautaire des corridors fauniques, bien que toujours en cours."
+    },
+    "ru": {
+     "title": "Жители помогают защитить маршруты миграции слонов через границу Индия-Непал",
+     "summary": "Стада слонов следуют древним маршрутам через Терай, передавшимся поколениями, и местные сообщества работают, чтобы сохранить эти коридоры в безопасности.",
+     "why": "Защита коридоров дикой природы на уровне сообщества, хотя процесс продолжается."
+    }
+   }
+  },
+  {
+   "id": "tbi-bharatanatyam-goa-beach",
+   "title": "Former doctor stages Bharatanatyam performance by 40 dancers on a Goa beach",
+   "summary": "An artist brought 40 classical Bharatanatyam dancers to Morjim beach in Goa, combining traditional dance with the coastal landscape.",
+   "why": "A pleasant cultural event with local impact.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/web-stories/art/subodh-kerkar-bharatanatyam-dancers-morjim-beach-ocean-art-12614766",
+   "score": 6,
+   "category": "Culture",
+   "region": "Goa, India",
+   "published": "2026-10-05T00:00:00Z",
+   "continent": "Asia",
+   "added": "2026-10-05T06:18:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Un antic metge organitza una actuació de Bharatanatyam de 40 balladors en una platja de Goa",
+     "summary": "Un artista va portar 40 balladors clàssics de Bharatanatyam a la platja de Morjim a Goa, combinant dansa tradicional amb el paisatge costaner.",
+     "why": "Un agradable event cultural amb impacte local."
+    },
+    "fr": {
+     "title": "Un ancien médecin organise une performance de Bharatanatyam avec 40 danseurs sur une plage de Goa",
+     "summary": "Un artiste a amené 40 danseurs classiques de Bharatanatyam à la plage de Morjim à Goa, combinant la danse traditionnelle avec le paysage côtier.",
+     "why": "Un événement culturel agréable avec un impact local."
+    },
+    "ru": {
+     "title": "Бывший врач организует представление Бхаратанатьям с 40 танцорами на пляже Гоа",
+     "summary": "Художник привёл 40 классических танцоров Бхаратанатьям на пляж Морджим в Гоа, объединив традиционный танец с прибрежным ландшафтом.",
+     "why": "Приятное культурное событие с местным воздействием."
+    }
+   }
+  },
+  {
+   "id": "gnn-urolithin-a-heart-failure",
+   "title": "Compound from pomegranates and walnuts may help treat heart failure",
+   "summary": "Researchers found that urolithin A, a compound the gut makes after eating pomegranates, walnuts and berries, improved heart function by up to 80% in certain types of heart failure with few treatments.",
+   "why": "Promising early finding for a hard-to-treat condition.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/pomegranates-walnuts-and-berries-could-unlock-heart-failure-treatment-with-urolithin-a/",
+   "score": 6,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-04T23:21:48Z",
+   "continent": "Global",
+   "added": "2026-10-05T06:18:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Un compost de magrana i nous pot ajudar a tractar insuficiència cardíaca",
+     "summary": "Els investigadors van descobrir que l'urolitina A, un compost que l'intestí produeix després de menjar magranes, nous i baies, va millorar la funció cardíaca fins al 80% en certs tipus d'insuficiència cardíaca amb pocs tractaments.",
+     "why": "Una descoberta prometedora per a una condició difícil de tractar."
+    },
+    "fr": {
+     "title": "Un composé de grenades et noix pourrait aider à traiter l'insuffisance cardiaque",
+     "summary": "Les chercheurs ont découvert que l'urolithine A, un composé que l'intestin produit après avoir mangé des grenades, des noix et des baies, a amélioré la fonction cardiaque jusqu'à 80% dans certains types d'insuffisance cardiaque avec peu de traitements.",
+     "why": "Une découverte prometteuse pour une condition difficile à traiter."
+    },
+    "ru": {
+     "title": "Соединение из гранатов и орехов может помочь в лечении сердечной недостаточности",
+     "summary": "Исследователи обнаружили, что уролитин A, соединение, которое кишечник производит после употребления гранатов, орехов и ягод, улучшил функцию сердца на 80% при определённых типах сердечной недостаточности с немногими методами лечения.",
+     "why": "Многообещающее открытие для трудноподдающегося лечению состояния."
+    }
+   }
+  },
+  {
+   "id": "gnn-comedy-wildlife-photo-finalists",
+   "title": "Comedy Wildlife Photography Awards announce 40 finalists",
+   "summary": "The Comedy Wildlife Photography Awards have released 40 finalist images showing amusing moments of animals in the wild.",
+   "why": "Light and cheerful, with no wider impact.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/finalists-win-big-laughs-in-the-comedy-wildlife-photography-awards-look/",
+   "score": 5,
+   "category": "Culture",
+   "region": "Global",
+   "published": "2026-10-04T21:21:40Z",
+   "continent": "Global",
+   "added": "2026-10-05T06:18:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Els Premis de Fotografia de Fauna Còmica anuncien 40 finalistes",
+     "summary": "Els Premis de Fotografia de Fauna Còmica han alliberat 40 imatges finalistes que mostren moments divertits dels animals a la natura.",
+     "why": "Lleuger i alegre, sense repercussió més ampla."
+    },
+    "fr": {
+     "title": "Les prix de photographie de faune comique annoncent 40 finalistes",
+     "summary": "Les prix de photographie de faune comique ont publié 40 images finalistes montrant des moments amusants d'animaux à l'état sauvage.",
+     "why": "Léger et joyeux, sans impact plus large."
+    },
+    "ru": {
+     "title": "Премии комедийной фотографии дикой природы объявили 40 финалистов",
+     "summary": "Премии комедийной фотографии дикой природы выпустили 40 финальных изображений, показывающих забавные моменты животных в дикой природе.",
+     "why": "Лёгкий и весёлый материал, без более широкого воздействия."
+    }
+   }
+  },
   {
    "id": "tbi-delhi-volunteers-clean-parks-canals",
    "title": "Delhi volunteer group clears large amounts of waste from parks and waterways",
@@ -48,6 +172,68 @@
    }
   },
   {
+   "id": "mb-myanmar-mines-thai-rivers",
+   "title": "Myanmar mining pollutes Thai rivers and farmland",
+   "summary": "Mining in Myanmar has contaminated Thai farmland through cross-border rivers, while more than 50 Thai companies import minerals from these mines.",
+   "why": "Reports ongoing harm; attention may push for accountability.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/myanmars-mines-pollute-thai-rivers/",
+   "score": 2,
+   "category": "Environment",
+   "region": "Myanmar and Thailand",
+   "published": "2026-10-04T15:16:53Z",
+   "continent": "Asia",
+   "added": "2026-10-05T06:18:29Z",
+   "i18n": {
+    "ca": {
+     "title": "La mineria de Myanmar contamina rius i terres de conreu tailandesos",
+     "summary": "La mineria a Myanmar ha contaminat terres de conreu tailandeses através dels rius transfronteritzos, mentre que més de 50 empreses tailandeses importen minerals d'aquestes mines.",
+     "why": "Reporta el dany continu; l'atenció pot impulsar la responsabilitat."
+    },
+    "fr": {
+     "title": "L'exploitation minière au Myanmar pollue les rivières et les terres agricoles thaïlandaises",
+     "summary": "L'exploitation minière au Myanmar a contaminé les terres agricoles thaïlandaises par le biais des rivières transfrontalières, tandis que plus de 50 entreprises thaïlandaises importent des minéraux de ces mines.",
+     "why": "Rapporte les dommages continus; l'attention peut impulser la responsabilité."
+    },
+    "ru": {
+     "title": "Горнодобыча в Мьянме загрязняет таиландские реки и сельскохозяйственные угодья",
+     "summary": "Горнодобыча в Мьянме загрязнил таиландские сельскохозяйственные угодья через трансграничные реки, в то время как более 50 тайских компаний импортируют полезные ископаемые из этих шахт.",
+     "why": "Сообщает о продолжающемся вреде; внимание может способствовать подотчётности."
+    }
+   }
+  },
+  {
+   "id": "gnn-ghost-lobster-maine",
+   "title": "Rare white lobster donated to Maine science center for genetic research",
+   "summary": "An extremely rare white lobster, estimated at one in 100 million, has been given to Maine's Marine Science Center to help scientists study the genetics behind its colouring.",
+   "why": "Interesting and harmless, but of limited wider impact.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/100m-ghost-lobster-goes-to-college/",
+   "score": 5,
+   "category": "Animals",
+   "region": "Maine, USA",
+   "published": "2026-10-04T15:04:49Z",
+   "continent": "North America",
+   "added": "2026-10-05T06:18:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Un rar llamàntol blanc donat a un centre de ciència marina del Maine per a recerca genètica",
+     "summary": "Un llamàntol blanc extremadament rar, estimat en un de cada 100 milions, ha estat donat al Marine Science Center del Maine per ajudar els científics a estudiar la genètica del seu color.",
+     "why": "Interessant i inofensiu, però de repercussió limitada més àmplia."
+    },
+    "fr": {
+     "title": "Un rare homard blanc donné à un centre scientifique marin du Maine pour la recherche génétique",
+     "summary": "Un homard blanc extrêmement rare, estimé à un sur 100 millions, a été donné au Marine Science Center du Maine pour aider les scientifiques à étudier la génétique de sa coloration.",
+     "why": "Intéressant et inoffensif, mais d'impact limité plus largement."
+    },
+    "ru": {
+     "title": "Редкого белого омара пожертвовали научному центру морских наук в штате Мэйн для генетических исследований",
+     "summary": "Чрезвычайно редкого белого омара, оценённого в один из 100 миллионов, пожертвовали Морскому научному центру Мэйна, чтобы помочь учёным изучить генетику его окраски.",
+     "why": "Интересный результат, но с ограниченным более широким воздействием."
+    }
+   }
+  },
+  {
    "id": "gr-texas-data-centers-community-funds",
    "title": "Data center firms fund rural Texas community projects",
    "summary": "Data center companies have put over $340 million into rural Texas towns, paying for infrastructure repairs, school programs and emergency services while seeking local support.",
@@ -75,6 +261,130 @@
      "title": "Компании центров обработки данных финансируют проекты сельских сообществ в Техасе",
      "summary": "Компании центров обработки данных инвестировали более 340 миллионов долларов в сельские города Техаса, оплачивая ремонт инфраструктуры, школьные программы и службы экстренной помощи, одновременно добиваясь местной поддержки.",
      "why": "Ощутимые местные выгоды, но связанные с оспариваемым промышленным расширением."
+    }
+   }
+  },
+  {
+   "id": "sd-ames-crater-age",
+   "title": "Oklahoma's Ames impact crater is far younger than thought",
+   "summary": "Zircon crystals show the Ames crater in Oklahoma formed about 370 million years ago, around the time of a major marine extinction.",
+   "why": "Neutral but interesting science.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Oklahoma, USA",
+   "published": "2026-10-04T12:41:43Z",
+   "continent": "North America",
+   "added": "2026-10-05T06:18:29Z",
+   "i18n": {
+    "ca": {
+     "title": "El cràter d'impacte Ames d'Oklahoma és molt més jove del que es creia",
+     "summary": "Els cristalls de zircó mostren que el cràter Ames a Oklahoma es va formar fa aproximadament 370 milions d'anys, al voltant del moment d'una gran extinció marina.",
+     "why": "Ciència neutral però interessant."
+    },
+    "fr": {
+     "title": "Le cratère d'impact d'Ames en Oklahoma est bien plus jeune qu'on ne le pensait",
+     "summary": "Les cristaux de zircon montrent que le cratère d'Ames en Oklahoma s'est formé il y a environ 370 millions d'années, au moment d'une extinction marine majeure.",
+     "why": "Science neutre mais intéressante."
+    },
+    "ru": {
+     "title": "Кратер ударного воздействия Эймс в Оклахоме намного моложе, чем считалось ранее",
+     "summary": "Кристаллы циркона показывают, что кратер Эймс в Оклахоме образовался примерно 370 миллионов лет назад, около времени крупного морского вымирания.",
+     "why": "Нейтральная, но интересная наука."
+    }
+   }
+  },
+  {
+   "id": "sd-forest-thinning-australia",
+   "title": "Long-running Australian forest study shows thinning can serve timber, wildlife and carbon",
+   "summary": "A 30-year Australian experiment found that carefully managed forest thinning can support timber production, wildlife habitat and carbon storage at the same time.",
+   "why": "Long-term evidence for managing forests for several goals at once.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261001214120.htm",
+   "score": 7,
+   "category": "Environment",
+   "region": "Australia",
+   "published": "2026-10-04T11:50:46Z",
+   "continent": "Oceania",
+   "added": "2026-10-05T06:18:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Un estudi australià de llarga durada sobre boscos demostra que l'aclarida pot servir la fusta, la vida silvestre i el carboni",
+     "summary": "Un experiment australià de 30 anys va descobrir que l'aclarida forestal manejat amb cura pot donar suport a la producció de fusta, l'hàbitat de la vida silvestre i l'emmagatzematge de carboni al mateix temps.",
+     "why": "Evidència a llarg termini per a la gestió de boscos per a diversos objectius alhora."
+    },
+    "fr": {
+     "title": "Une étude forestière australienne à long terme montre que l'éclaircie peut servir le bois, la faune et le carbone",
+     "summary": "Une expérience australienne de 30 ans a montré que l'éclaircie forestière gérée avec soin peut soutenir simultanément la production de bois, l'habitat faunique et le stockage du carbone.",
+     "why": "Preuve à long terme de la gestion des forêts pour plusieurs objectifs à la fois."
+    },
+    "ru": {
+     "title": "Долгосрочное австралийское исследование лесов показывает, что прореживание может служить древесине, дикой природе и углероду",
+     "summary": "Тридцатилетний австралийский эксперимент показал, что тщательно управляемое прореживание лесов может одновременно поддерживать производство древесины, среду обитания дикой природы и хранение углерода.",
+     "why": "Долгосрочные доказательства управления лесами с несколькими целями одновременно."
+    }
+   }
+  },
+  {
+   "id": "sd-gut-bacteria-brain-aging",
+   "title": "Gut bacteria may signal how fast the brain is ageing",
+   "summary": "UCLA researchers linked specific gut microbes and their chemical by-products to faster brain ageing and cognitive decline.",
+   "why": "Interesting research that could aid future prevention, no treatment yet.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm",
+   "score": 5,
+   "category": "Health",
+   "region": "California, USA",
+   "published": "2026-10-04T11:28:03Z",
+   "continent": "North America",
+   "added": "2026-10-05T06:18:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Les bacteris intestinals poden indicar quina velocitat està envellint el cervell",
+     "summary": "Els investigadors de UCLA van vincular bacteris intestinals específics i els seus subproductes químics amb un envelliment cerebral més ràpid i declivi cognitiu.",
+     "why": "Investigació interessant que podria ajudar a la prevenció futura, sense tractament actual."
+    },
+    "fr": {
+     "title": "Les bactéries intestinales peuvent signaler la vitesse à laquelle le cerveau vieillit",
+     "summary": "Les chercheurs de l'UCLA ont lié des microbes intestinaux spécifiques et leurs sous-produits chimiques à un vieillissement cérébral plus rapide et au déclin cognitif.",
+     "why": "Recherche intéressante qui pourrait aider à la prévention future, aucun traitement actuellement."
+    },
+    "ru": {
+     "title": "Кишечные бактерии могут указывать на скорость старения мозга",
+     "summary": "Исследователи из UCLA связали специфические кишечные микробы и их химические побочные продукты с более быстрым старением мозга и когнитивным снижением.",
+     "why": "Интересное исследование, которое может помочь будущей профилактике, без лечения на данный момент."
+    }
+   }
+  },
+  {
+   "id": "sd-light-hydrogen-from-water",
+   "title": "New light-activated material makes hydrogen from water without costly metals",
+   "summary": "Researchers developed a sulfur-based, light-activated material that efficiently produces hydrogen from water without expensive metal catalysts.",
+   "why": "Promising for clean fuel, but still a laboratory result.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261001214017.htm",
+   "score": 5,
+   "category": "Energy",
+   "region": "Global",
+   "published": "2026-10-04T11:11:24Z",
+   "continent": "Global",
+   "added": "2026-10-05T06:18:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Un nou material activat per la llum produeix hidrogen de l'aigua sense metalls cars",
+     "summary": "Els investigadors van desenvolupar un material basat en sofre activat per la llum que produeix eficientment hidrogen de l'aigua sense costosos catalitzadors metàl·lics.",
+     "why": "Prometedor per al combustible net, però encara és un resultat de laboratori."
+    },
+    "fr": {
+     "title": "Un nouveau matériau activé par la lumière produit de l'hydrogène à partir de l'eau sans métaux coûteux",
+     "summary": "Les chercheurs ont développé un matériau à base de soufre activé par la lumière qui produit efficacement de l'hydrogène à partir de l'eau sans catalyseurs métalliques coûteux.",
+     "why": "Prometteur pour un carburant propre, mais toujours un résultat de laboratoire."
+    },
+    "ru": {
+     "title": "Новый материал, активированный светом, производит водород из воды без дорогостоящих металлов",
+     "summary": "Исследователи разработали активированный светом материал на основе серы, который эффективно производит водород из воды без дорогостоящих металлических катализаторов.",
+     "why": "Многообещающе для чистого топлива, но остаётся лабораторным результатом."
     }
    }
   },
@@ -199,6 +509,68 @@
      "title": "Почему Харьяна производит столько лучших борцов Индии",
      "summary": "Традиционные акхары и культура кушти, а также пример олимпийских чемпионов, создали экосистему тренировок в Харьяне, которая привлекает борцов со всей Индии.",
      "why": "Сильная традиция спорта в сообществе, хотя и локальная."
+    }
+   }
+  },
+  {
+   "id": "sd-vitamin-d-pancreatic-cancer",
+   "title": "Vitamin D analog may weaken pancreatic tumours' protective shield",
+   "summary": "A vitamin D analog showed promise in clinical trials for breaking down the defences that protect pancreatic tumours from treatment.",
+   "why": "Hopeful for a very hard cancer, but still at trial stage.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260930225501.htm",
+   "score": 6,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-04T03:10:23Z",
+   "continent": "Global",
+   "added": "2026-10-05T06:18:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Un analòg de vitamina D pot debilitar l'escut protector dels tumors pancreàtics",
+     "summary": "Un analòg de vitamina D va mostrar promesa en assaigs clínics per trencar les defenses que protegeixen els tumors pancreàtics del tractament.",
+     "why": "Esperançador per a un càncer molt difícil, però encara en fase d'assaig."
+    },
+    "fr": {
+     "title": "Un analogue de la vitamine D pourrait affaiblir le bouclier protecteur des tumeurs pancréatiques",
+     "summary": "Un analogue de la vitamine D a montré des promesses dans les essais cliniques pour briser les défenses qui protègent les tumeurs pancréatiques du traitement.",
+     "why": "Prometteur pour un cancer très difficile, mais toujours en phase d'essai."
+    },
+    "ru": {
+     "title": "Аналог витамина D может ослабить защитный щит опухолей поджелудочной железы",
+     "summary": "Аналог витамина D показал многообещающие результаты в клинических испытаниях для преодоления защиты, которая защищает опухоли поджелудочной железы от лечения.",
+     "why": "Надежда для очень трудного рака, но пока в стадии испытаний."
+    }
+   }
+  },
+  {
+   "id": "sd-diet-drinks-weight-loss-trial",
+   "title": "Two-year trial finds diet drinks work as well as water for weight loss",
+   "summary": "A two-year clinical trial of 493 adults found that people drinking diet soft drinks lost about as much weight as those drinking water.",
+   "why": "Useful evidence for people managing weight, though not a breakthrough.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm",
+   "score": 5,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-04T02:10:59Z",
+   "continent": "Global",
+   "added": "2026-10-05T06:18:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Un assaig de dos anys demostra que els refrescos de dieta funcionen igual que l'aigua per a la pèrdua de pes",
+     "summary": "Un assaig clínic de dos anys de 493 adults va descobrir que les persones que beuen begudes de dieta suau van perdre aproximadament el mateix pes que les que beuen aigua.",
+     "why": "Evidència útil per a les persones que gestionen el pes, tot i que no és un avenç."
+    },
+    "fr": {
+     "title": "Un essai de deux ans montre que les boissons diététiques fonctionnent aussi bien que l'eau pour la perte de poids",
+     "summary": "Un essai clinique de deux ans portant sur 493 adultes a montré que les personnes buvant des boissons gazeuses diététiques perdaient à peu près autant de poids que celles buvant de l'eau.",
+     "why": "Preuve utile pour les personnes gérant leur poids, bien que ce ne soit pas une percée."
+    },
+    "ru": {
+     "title": "Двухлетнее испытание показывает, что диетические напитки так же эффективны для похудения, как и вода",
+     "summary": "Двухлетнее клиническое испытание 493 взрослых показало, что люди, пьющие диетические безалкогольные напитки, теряли примерно столько же веса, сколько те, кто пил воду.",
+     "why": "Полезные доказательства для людей, управляющих своим весом, хотя это не прорыв."
     }
    }
   },
@@ -1257,6 +1629,37 @@
    }
   },
   {
+   "id": "mb-india-women-wildfire-responders",
+   "title": "Women carry the burden of fighting wildfires in rural Himalayan India",
+   "summary": "In the western Himalayas, rural women are the main wildfire responders, working without formal training, equipment or pay as fires spread.",
+   "why": "Highlights hardship, with some recognition of women's role.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/women-shoulder-the-burden-of-expanding-wildfires-in-rural-india/",
+   "score": 3,
+   "category": "Society",
+   "region": "Western Himalayas, India",
+   "published": "2026-10-02T09:40:01Z",
+   "continent": "Asia",
+   "added": "2026-10-05T06:18:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Les dones porten la càrrega de lluitar contra incendis forestals a l'Índia himalaia rural",
+     "summary": "En la Himalaia occidental, les dones rurals són els principals respondedors als incendis forestals, treballant sense formació formal, equip o sou mentre els incendis es propaguen.",
+     "why": "Destaca la dificultat, amb certa reconeixement del paper de les dones."
+    },
+    "fr": {
+     "title": "Les femmes portent le fardeau de la lutte contre les incendies de forêt dans l'Himalaya rural indien",
+     "summary": "Dans l'Himalaya occidental, les femmes rurales sont les principales intervenantes en cas d'incendie de forêt, travaillant sans formation formelle, équipement ni salaire alors que les incendies se propagent.",
+     "why": "Souligne la difficulté, avec une certaine reconnaissance du rôle des femmes."
+    },
+    "ru": {
+     "title": "Женщины несут бремя борьбы с лесными пожарами в сельской Гималайской Индии",
+     "summary": "На западных Гималаях сельские женщины являются основными респондентами при лесных пожарах, работая без официального обучения, оборудования или оплаты, когда пожары распространяются.",
+     "why": "Подчёркивает трудности и в какой-то мере признаёт роль женщин."
+    }
+   }
+  },
+  {
    "id": "rtbc-community-lighthouses",
    "title": "Solar-powered 'community lighthouses' keep New Orleans lit in blackouts",
    "summary": "Faith leaders have set up 14 solar-backed community centres that give neighbours power and help during storms and outages, with plans to spread nationwide.",
@@ -2121,6 +2524,37 @@
      "title": "Похищенные греческие древности возрастом до 5000 лет вернулись домой",
      "summary": "Власти Нью-Йорка вернули большую партию похищенных греческих предметов, включая бронзовые шлемы и скульптуры возрастом до 2700 года до н. э.",
      "why": "Культурное наследие возвращается на родину."
+    }
+   }
+  },
+  {
+   "id": "mb-cuba-spider-man-dies",
+   "title": "Cuban arachnologist Giraldo Alayón García dies",
+   "summary": "Giraldo Alayón García, known as Cuba's 'spider man', died on 24 September; he documented around 95 endemic spider and scorpion species.",
+   "why": "A loss, but a lasting scientific legacy.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/giraldo-alayon-garcia-cubas-spider-man-died-on-sept-24/",
+   "score": 4,
+   "category": "Science",
+   "region": "Cuba",
+   "published": "2026-10-01T10:33:29Z",
+   "continent": "North America",
+   "added": "2026-10-05T06:18:29Z",
+   "i18n": {
+    "ca": {
+     "title": "El aracnòleg cubà Giraldo Alayón García mor",
+     "summary": "Giraldo Alayón García, conegut com l'home aranya de Cuba, va morir el 24 de setembre; va documentar al voltant de 95 espècies endèmiques d'aranya i escorpi.",
+     "why": "Una pèrdua, però un llegat científic durador."
+    },
+    "fr": {
+     "title": "L'arachnologue cubain Giraldo Alayón García décède",
+     "summary": "Giraldo Alayón García, connu comme l'homme araignée de Cuba, est décédé le 24 septembre; il a documenté environ 95 espèces d'araignées et de scorpions endémiques.",
+     "why": "Une perte, mais un legs scientifique durable."
+    },
+    "ru": {
+     "title": "Кубинский арахнолог Хиральдо Алайон Гарсия умер",
+     "summary": "Хиральдо Алайон Гарсия, известный как кубинский «человек-паук», умер 24 сентября; он документировал около 95 эндемичных видов пауков и скорпионов.",
+     "why": "Потеря, но длительное научное наследие."
     }
    }
   },
@@ -3082,37 +3516,6 @@
      "title": "Фил Найт пожертвовал 1 млрд долларов Орегонскому университету",
      "summary": "Дар сооснователя Nike — крупнейшее единовременное пожертвование государственному университету в истории США.",
      "why": "Большая поддержка государственного образования, но польза сосредоточена в одном вузе."
-    }
-   }
-  },
-  {
-   "id": "rtbc-nairobi-libraries",
-   "title": "Nairobi's neglected libraries reborn as civic hubs",
-   "summary": "The nonprofit Book Bunk is restoring public libraries into centres with free internet, computers and skills training.",
-   "why": "Widens access to opportunity for a whole city.",
-   "source": "Reasons to be Cheerful",
-   "url": "https://reasonstobecheerful.world/nairobi-libraries-civic-hubs/",
-   "score": 7,
-   "category": "Society",
-   "region": "Kenya",
-   "published": "2026-09-25T08:00:13Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "Africa",
-   "i18n": {
-    "ca": {
-     "title": "Les biblioteques oblidades de Nairobi renaixen com a centres cívics",
-     "summary": "L'entitat Book Bunk està convertint biblioteques públiques en centres amb internet gratuït, ordinadors i formació.",
-     "why": "Amplia les oportunitats de tota una ciutat."
-    },
-    "fr": {
-     "title": "Les bibliothèques délaissées de Nairobi renaissent en lieux de vie citoyenne",
-     "summary": "L'association Book Bunk transforme des bibliothèques publiques en centres offrant internet gratuit, ordinateurs et formations.",
-     "why": "Élargit l'accès aux opportunités pour toute une ville."
-    },
-    "ru": {
-     "title": "Заброшенные библиотеки Найроби возрождаются как общественные центры",
-     "summary": "Некоммерческая организация Book Bunk превращает публичные библиотеки в центры с бесплатным интернетом, компьютерами и обучением.",
-     "why": "Расширяет доступ к возможностям для целого города."
     }
    }
   }

@@ -1,28 +1,6 @@
 {
- "updated": "2026-10-04T06:43:35Z",
+ "updated": "2026-10-05T09:11:38Z",
  "events": [
-  {
-   "id": "saturn-opposition-2026",
-   "date": "2026-10-04",
-   "category": "Sky",
-   "title": "Saturn at its best",
-   "summary": "Saturn sits opposite the Sun, at its brightest and visible all night. Even a small telescope shows its rings.",
-   "link": "https://starwalk.space/en/news/astronomy-calendar-2026",
-   "i18n": {
-    "ca": {
-     "title": "Saturn en el seu millor moment",
-     "summary": "Saturn és en oposició al Sol, més brillant que mai i visible tota la nit. Fins i tot un telescopi petit en mostra els anells."
-    },
-    "fr": {
-     "title": "Saturne au meilleur de sa forme",
-     "summary": "Saturne est à l'opposé du Soleil, au plus brillant et visible toute la nuit. Même un petit télescope montre ses anneaux."
-    },
-    "ru": {
-     "title": "Сатурн в лучшей видимости",
-     "summary": "Сатурн в противостоянии с Солнцем: он ярче всего и виден всю ночь. Кольца различимы даже в небольшой телескоп."
-    }
-   }
-  },
   {
    "id": "nobel-week-2026",
    "date": "2026-10-05",
@@ -136,6 +114,50 @@
    }
   },
   {
+   "id": "un-day-2026",
+   "date": "2026-10-24",
+   "category": "Society",
+   "title": "United Nations Day",
+   "summary": "Marks the 1945 entry into force of the UN Charter and celebrates cooperation between nations for peace and development.",
+   "link": "https://www.un.org/en/observances/un-day",
+   "i18n": {
+    "ca": {
+     "title": "Dia de les Nacions Unides",
+     "summary": "Marca l'entrada en vigor de la Carta de les Nacions Unides el 1945 i celebra la cooperació entre nacions per a la pau i el desenvolupament."
+    },
+    "fr": {
+     "title": "Journée des Nations unies",
+     "summary": "Marque l'entrée en vigueur de la Charte des Nations unies en 1945 et célèbre la coopération entre les nations pour la paix et le développement."
+    },
+    "ru": {
+     "title": "День Организации Объединённых Наций",
+     "summary": "Отмечает вступление в силу Устава ООН в 1945 году и празднует сотрудничество между странами ради мира и развития."
+    }
+   }
+  },
+  {
+   "id": "diwali-2026",
+   "date": "2026-11-08",
+   "category": "Society",
+   "title": "Diwali, the festival of lights",
+   "summary": "Millions around the world light lamps to celebrate the victory of light over darkness, with family gatherings, sweets and shared joy.",
+   "link": "https://www.timeanddate.com/holidays/india/diwali",
+   "i18n": {
+    "ca": {
+     "title": "Diwali, el festival de la llum",
+     "summary": "Milions de persones al món encenen llanterns per celebrar la victòria de la llum sobre la foscor, amb trobades familiars, dolços i alegria compartida."
+    },
+    "fr": {
+     "title": "Diwali, le festival des lumières",
+     "summary": "Des millions de personnes dans le monde allument des lampes pour célébrer la victoire de la lumière sur l'obscurité, avec des réunions familiales, des friandises et une joie partagée."
+    },
+    "ru": {
+     "title": "Дивали, фестиваль огней",
+     "summary": "Миллионы людей по всему миру зажигают лампы, чтобы отметить победу света над тьмой, с семейными собраниями, сладостями и совместной радостью."
+    }
+   }
+  },
+  {
    "id": "cop31-2026",
    "date": "2026-11-09",
    "end": "2026-11-20",
@@ -243,6 +265,28 @@
     "ru": {
      "title": "Марс встречается с Юпитером",
      "summary": "Красная планета и планета-гигант видны на ночном небе совсем рядом друг с другом."
+    }
+   }
+  },
+  {
+   "id": "tolerance-day-2026",
+   "date": "2026-11-16",
+   "category": "Society",
+   "title": "International Day for Tolerance",
+   "summary": "A UN day encouraging mutual understanding and respect between cultures, peoples and beliefs.",
+   "link": "https://www.un.org/en/observances/tolerance-day",
+   "i18n": {
+    "ca": {
+     "title": "Dia Internacional de la Tolerància",
+     "summary": "Un dia de les Nacions Unides que fomenta la comprensió i el respecte mutu entre cultures, pobles i creences."
+    },
+    "fr": {
+     "title": "Journée internationale de la tolérance",
+     "summary": "Une journée de l'ONU encourageant la compréhension mutuelle et le respect entre les cultures, les peuples et les croyances."
+    },
+    "ru": {
+     "title": "Международный день толерантности",
+     "summary": "День ООН, поощряющий взаимное понимание и уважение между культурами, народами и убеждениями."
     }
    }
   },
@@ -601,5 +645,6 @@
     }
    }
   }
- ]
+ ],
+ "source_file": "events-20261005T0555Z.json"
 }
