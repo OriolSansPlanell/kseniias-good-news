@@ -1,12 +1,102 @@
 {
  "year": 2026,
  "ceremony": "2026-12-10",
- "updated": "2026-10-04T06:43:35Z",
+ "updated": "2026-10-05T10:05:29Z",
  "prizes": [
   {
    "id": "medicine",
    "at": "2026-10-05T09:30:00Z",
-   "status": "upcoming"
+   "status": "announced",
+   "laureates": [
+    {
+     "name": "Karl Deisseroth",
+     "info": "born 1972, United States · Stanford University",
+     "profile": "Deisseroth is a psychiatrist and neuroscientist who leads a laboratory at Stanford. He built on the discovery of light-sensitive channel proteins and turned them into a practical tool, delivering them into chosen nerve cells in living animals so that brain circuits could be switched on and off with light."
+    },
+    {
+     "name": "Peter Hegemann",
+     "info": "born 1955, Germany · Humboldt University of Berlin",
+     "profile": "Hegemann is a German biophysicist who studied how single-celled green algae sense light. His work on the light-sensitive proteins behind that ability helped reveal channels that open when light hits them, which later became central to optogenetics."
+    },
+    {
+     "name": "Georg Nagel",
+     "info": "born 1953, Germany · University of Würzburg",
+     "profile": "Nagel is a German biophysicist who researches how light-sensitive proteins move ions across cell membranes. Working on algae proteins, he and colleagues showed that some of them are channels that open in response to light, a discovery that opened the way to controlling nerve cells with light."
+    }
+   ],
+   "motivation": "The prize honours discoveries about light-gated ion channels and optogenetics, a method that lets scientists switch the activity of chosen nerve cells on or off using light.",
+   "explainer": "Your brain is made of billions of nerve cells that talk to each other using tiny electrical signals. For a long time, scientists could only watch these signals or stimulate them with electrodes, which is a bit like trying to understand a city by flipping the power on a whole neighbourhood at once. Hegemann and Nagel studied green algae, which use light-sensitive proteins to find the sun. They discovered that some of these proteins are channels: tiny doors in the cell's skin that swing open when light hits them, letting charged particles flow in. Deisseroth then worked out how to put such light-gated doors into specific nerve cells in living animals. Once they are in place, shining light through a thin fibre can turn those cells on or off at the exact moment researchers choose. Think of it as fitting individual cells with light switches, so you can flip just the one you want and see what changes in behaviour. This method is called optogenetics. It lets scientists test which cells and circuits are involved in things like movement, memory, fear or sleep, and it is now used in laboratories around the world to study how the brain works and what goes wrong in brain disorders.",
+   "why": "Optogenetics lets researchers see which brain circuits cause which behaviours, helping them understand conditions such as Parkinson's disease, depression and epilepsy and look for better treatments.",
+   "sources": [
+    {
+     "title": "Prothom Alo: Deisseroth, Hegemann and Nagel win 2026 Nobel medicine prize",
+     "url": "https://en.prothomalo.com/international/pxhfa3w1of"
+    },
+    {
+     "title": "UNN: The 2026 Nobel Prize in Physiology or Medicine was awarded for discoveries in optogenetics",
+     "url": "https://unn.ua/en/news/the-2026-nobel-prize-in-physiology-or-medicine-was-awarded-for-discoveries-in-optogenetics"
+    }
+   ],
+   "updated": "2026-10-05T09:57Z",
+   "i18n": {
+    "ca": {
+     "motivation": "El premi reconeix descobriments sobre els canals iònics sensibles a la llum i l'optogenètica, un mètode que permet als científics activar o desactivar amb llum l'activitat de neurones concretes.",
+     "explainer": "El teu cervell està format per milers de milions de neurones que es comuniquen mitjançant minúsculs senyals elèctrics. Durant molt de temps, els científics només podien observar aquests senyals o estimular-los amb elèctrodes, cosa semblant a voler entendre una ciutat tallant el corrent a tot un barri alhora. Hegemann i Nagel van estudiar algues verdes, que fan servir proteïnes sensibles a la llum per trobar el sol. Van descobrir que algunes d'aquestes proteïnes són canals: petites portes a la pell de la cèl·lula que s'obren quan hi arriba la llum i deixen entrar partícules amb càrrega. Deisseroth va esbrinar després com col·locar aquestes portes sensibles a la llum en neurones concretes d'animals vius. Quan hi són, il·luminar amb una fibra fina pot activar o apagar aquestes cèl·lules just en el moment que els investigadors decideixen. És com posar interruptors de llum a cada cèl·lula per accionar només la que vols i veure què canvia en el comportament. Aquest mètode s'anomena optogenètica. Permet comprovar quines cèl·lules i circuits intervenen en coses com el moviment, la memòria, la por o el son, i s'utilitza arreu del món per estudiar com funciona el cervell i què falla en els trastorns cerebrals.",
+     "why": "L'optogenètica permet als investigadors veure quins circuits cerebrals provoquen quines conductes, i ajuda a entendre malalties com el Parkinson, la depressió i l'epilèpsia i a buscar millors tractaments.",
+     "profiles": {
+      "Karl Deisseroth": {
+       "info": "nascut el 1972, Estats Units · Universitat Stanford",
+       "profile": "Deisseroth és psiquiatre i neurocientífic i dirigeix un laboratori a Stanford. Va partir del descobriment de proteïnes de canal sensibles a la llum i en va fer una eina pràctica: les va introduir en neurones triades d'animals vius perquè es poguessin activar i apagar circuits cerebrals amb llum."
+      },
+      "Peter Hegemann": {
+       "info": "nascut el 1955, Alemanya · Universitat Humboldt de Berlín",
+       "profile": "Hegemann és un biofísic alemany que va estudiar com les algues verdes unicel·lulars detecten la llum. La seva feina sobre les proteïnes sensibles a la llum que ho fan possible va ajudar a revelar canals que s'obren quan hi toca la llum, i que després van ser clau per a l'optogenètica."
+      },
+      "Georg Nagel": {
+       "info": "nascut el 1953, Alemanya · Universitat de Würzburg",
+       "profile": "Nagel és un biofísic alemany que investiga com les proteïnes sensibles a la llum mouen ions a través de les membranes cel·lulars. Treballant amb proteïnes d'algues, ell i els seus col·legues van mostrar que algunes són canals que s'obren en resposta a la llum, un descobriment que va obrir el camí per controlar neurones amb llum."
+      }
+     }
+    },
+    "fr": {
+     "motivation": "Le prix récompense des découvertes sur les canaux ioniques activés par la lumière et l'optogénétique, une méthode qui permet aux scientifiques d'activer ou d'éteindre à l'aide de la lumière l'activité de neurones choisis.",
+     "explainer": "Votre cerveau est fait de milliards de neurones qui communiquent grâce à de minuscules signaux électriques. Pendant longtemps, les scientifiques ne pouvaient qu'observer ces signaux ou les stimuler avec des électrodes, ce qui revient à vouloir comprendre une ville en coupant le courant d'un quartier entier d'un seul coup. Hegemann et Nagel ont étudié des algues vertes, qui utilisent des protéines sensibles à la lumière pour repérer le soleil. Ils ont découvert que certaines de ces protéines sont des canaux : de minuscules portes dans la peau de la cellule qui s'ouvrent quand la lumière les touche et laissent entrer des particules chargées. Deisseroth a ensuite trouvé comment placer ces portes sensibles à la lumière dans des neurones précis d'animaux vivants. Une fois en place, un faisceau lumineux envoyé par une fine fibre peut allumer ou éteindre ces cellules au moment exact choisi par les chercheurs. C'est comme équiper chaque cellule d'un interrupteur : on actionne seulement celui qu'on veut et on observe ce qui change dans le comportement. Cette méthode s'appelle l'optogénétique. Elle permet de tester quelles cellules et quels circuits interviennent dans le mouvement, la mémoire, la peur ou le sommeil, et elle est aujourd'hui utilisée dans des laboratoires du monde entier pour étudier le fonctionnement du cerveau et les troubles cérébraux.",
+     "why": "L'optogénétique permet aux chercheurs de voir quels circuits cérébraux provoquent quels comportements, ce qui aide à comprendre des maladies comme Parkinson, la dépression et l'épilepsie et à chercher de meilleurs traitements.",
+     "profiles": {
+      "Karl Deisseroth": {
+       "info": "né en 1972, États-Unis · Université Stanford",
+       "profile": "Deisseroth est psychiatre et neuroscientifique et dirige un laboratoire à Stanford. S'appuyant sur la découverte de protéines-canaux sensibles à la lumière, il en a fait un outil pratique : il les a introduites dans des neurones choisis chez des animaux vivants afin d'activer et d'éteindre des circuits cérébraux avec de la lumière."
+      },
+      "Peter Hegemann": {
+       "info": "né en 1955, Allemagne · Université Humboldt de Berlin",
+       "profile": "Hegemann est un biophysicien allemand qui a étudié comment les algues vertes unicellulaires détectent la lumière. Ses travaux sur les protéines sensibles à la lumière à l'origine de cette capacité ont contribué à révéler des canaux qui s'ouvrent sous l'effet de la lumière, devenus centraux pour l'optogénétique."
+      },
+      "Georg Nagel": {
+       "info": "né en 1953, Allemagne · Université de Wurtzbourg",
+       "profile": "Nagel est un biophysicien allemand qui étudie comment des protéines sensibles à la lumière déplacent des ions à travers les membranes cellulaires. En travaillant sur des protéines d'algues, lui et ses collègues ont montré que certaines sont des canaux qui s'ouvrent en réponse à la lumière, une découverte qui a ouvert la voie au contrôle des neurones par la lumière."
+      }
+     }
+    },
+    "ru": {
+     "motivation": "Премия отмечает открытия, связанные со светочувствительными ионными каналами и оптогенетикой — методом, который позволяет с помощью света включать и выключать активность выбранных нервных клеток.",
+     "explainer": "Ваш мозг состоит из миллиардов нервных клеток, которые общаются с помощью крошечных электрических сигналов. Долгое время учёные могли лишь наблюдать эти сигналы или стимулировать их электродами — это похоже на попытку понять устройство города, отключая электричество сразу во всём районе. Хегеманн и Нагель изучали зелёные водоросли, которые используют светочувствительные белки, чтобы находить солнце. Они обнаружили, что некоторые из этих белков — каналы: крошечные дверцы в оболочке клетки, которые открываются под действием света и пропускают внутрь заряженные частицы. Затем Дайссерот придумал, как помещать такие светочувствительные дверцы в определённые нервные клетки живых животных. Когда они на месте, свет, поданный по тонкому волокну, может включить или выключить эти клетки в точно выбранный исследователями момент. Это как снабдить отдельные клетки выключателями: нажимаешь только нужный и смотришь, как меняется поведение. Метод называется оптогенетикой. Он позволяет проверять, какие клетки и цепи отвечают за движение, память, страх или сон, и сегодня используется в лабораториях по всему миру, чтобы изучать работу мозга и его нарушения.",
+     "why": "Оптогенетика помогает исследователям увидеть, какие цепи мозга вызывают те или иные формы поведения, лучше понять такие болезни, как болезнь Паркинсона, депрессия и эпилепсия, и искать более эффективные методы лечения.",
+     "profiles": {
+      "Karl Deisseroth": {
+       "info": "родился в 1972 году, США · Стэнфордский университет",
+       "profile": "Дайссерот — психиатр и нейробиолог, руководит лабораторией в Стэнфорде. Опираясь на открытие светочувствительных белков-каналов, он превратил их в практический инструмент: вводил их в выбранные нервные клетки живых животных, чтобы включать и выключать мозговые цепи с помощью света."
+      },
+      "Peter Hegemann": {
+       "info": "родился в 1955 году, Германия · Берлинский университет имени Гумбольдта",
+       "profile": "Хегеманн — немецкий биофизик, изучавший, как одноклеточные зелёные водоросли воспринимают свет. Его работа о светочувствительных белках, лежащих в основе этой способности, помогла обнаружить каналы, которые открываются под действием света и позже стали ключевыми для оптогенетики."
+      },
+      "Georg Nagel": {
+       "info": "родился в 1953 году, Германия · Вюрцбургский университет",
+       "profile": "Нагель — немецкий биофизик, исследующий, как светочувствительные белки перемещают ионы через клеточные мембраны. Работая с белками водорослей, он и его коллеги показали, что некоторые из них — каналы, открывающиеся под действием света, и это открытие проложило путь к управлению нервными клетками с помощью света."
+      }
+     }
+    }
+   }
   },
   {
    "id": "physics",
@@ -33,5 +123,6 @@
    "at": "2026-10-12T09:45:00Z",
    "status": "upcoming"
   }
- ]
+ ],
+ "source_file": "nobel-20261005T0957Z.json"
 }
