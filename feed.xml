@@ -5,7 +5,17 @@
     <link>https://oriolsansplanell.github.io/kseniias-good-news/</link>
     <description>Positive news from several sources, scored 0-10 for goodness and refreshed every six hours.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 18:17:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:16:26 +0000</lastBuildDate>
+    <item>
+      <title>Aid groups give orphaned children in Goma schooling and support [6/10]</title>
+      <link>http://www.africanews.com/2026/10/05/gomas-orphaned-children-find-hope-through-education-and-solidarity/</link>
+      <guid isPermaLink="false">an-goma-orphans-education-support</guid>
+      <pubDate>Mon, 05 Oct 2026 14:31:56 +0000</pubDate>
+      <category>Society</category>
+      <category>Africa</category>
+      <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Africanews</source>
+      <description>Organizations in Goma, eastern Congo, are providing education and community support to children orphaned by the conflict, offering them stability and a path forward. (Goodness 6/10: Real help for vulnerable children, but the conflict that caused the need continues.)</description>
+    </item>
     <item>
       <title>Pune teenager writes recovery guide for burn and acid attack survivors [6/10]</title>
       <link>https://thebetterindia.com/changemakers/pune-teen-sia-domkundwar-glow-guide-burn-acid-attack-survivors-12626099</link>
@@ -25,6 +35,16 @@
       <category>Asia</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">The Better India</source>
       <description>Tribal women in Mizoram make plates from areca palm sheaths, and other farmers use palm by-products as livestock feed, creating extra income from waste. (Goodness 6/10: Local, low-waste livelihoods, though the scale is still modest.)</description>
+    </item>
+    <item>
+      <title>Three scientists share Nobel Prize in Medicine for brain cell research [6/10]</title>
+      <link>http://www.africanews.com/2026/10/05/nobel-prize-in-medicine-awarded-to-three-scientists-for-breakthrough-research/</link>
+      <guid isPermaLink="false">an-nobel-medicine-neuron-research</guid>
+      <pubDate>Mon, 05 Oct 2026 11:27:49 +0000</pubDate>
+      <category>Science</category>
+      <category>Global</category>
+      <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Africanews</source>
+      <description>The Nobel Prize in Physiology or Medicine went to three scientists for work on the mechanisms that control the activity of individual nerve cells. (Goodness 6/10: Recognizes fundamental research that can inform future brain treatments, though benefits are still indirect.)</description>
     </item>
     <item>
       <title>Maharashtra village's 24-year ban on DJs and fireworks helps vultures recover [8/10]</title>
@@ -585,26 +605,6 @@
       <category>South America</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">The Optimist Daily</source>
       <description>A battery-electric train powered by solar energy and regenerative braking now serves the Quebrada de Humahuaca route in the Andes. (Goodness 7/10: Clean transport on a historic route, on a small scale.)</description>
-    </item>
-    <item>
-      <title>Inuit bear guards use traditional knowledge to protect Arctic communities [6/10]</title>
-      <link>https://grist.org/indigenous/in-a-warming-arctic-inuit-bear-guards-protect-communities/</link>
-      <guid isPermaLink="false">gr-inuit-bear-guards-labrador</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Society</category>
-      <category>North America</category>
-      <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Grist</source>
-      <description>Training programmes in northern Labrador combine Inuit knowledge with specialised instruction so communities can handle polar bears appearing in new places. (Goodness 6/10: Community-led safety that also supports coexistence with wildlife.)</description>
-    </item>
-    <item>
-      <title>Well-preserved Gobi Desert fossil sheds new light on early mammal evolution [6/10]</title>
-      <link>https://www.goodnewsnetwork.org/new-gobi-desert-fossil-rewrites-a-chapter-of-mammal-evolution/</link>
-      <guid isPermaLink="false">gnn-gobi-fossil-mammal-evolution</guid>
-      <pubDate>Wed, 30 Sep 2026 18:00:54 +0000</pubDate>
-      <category>Science</category>
-      <category>Asia</category>
-      <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">Good News Network</source>
-      <description>A fossil found in Mongolia challenges earlier ideas about how mammals evolved while dinosaurs were still alive. (Goodness 6/10: New knowledge about our deep past, though limited in everyday impact.)</description>
     </item>
   </channel>
 </rss>

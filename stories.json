@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T18:17:46Z",
+ "updated": "2026-10-06T00:16:26Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,10 +12,41 @@
   "Grist",
   "Africanews"
  ],
- "count": 126,
- "last_run": "run-20261005T1817Z.json",
- "note": "3 new, 114 skipped, 0 pruned, 0 translations added, failed feeds: none",
+ "count": 129,
+ "last_run": "run-20261006T0016Z.json",
+ "note": "3 new, 117 skipped, 0 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "an-goma-orphans-education-support",
+   "title": "Aid groups give orphaned children in Goma schooling and support",
+   "summary": "Organizations in Goma, eastern Congo, are providing education and community support to children orphaned by the conflict, offering them stability and a path forward.",
+   "why": "Real help for vulnerable children, but the conflict that caused the need continues.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/05/gomas-orphaned-children-find-hope-through-education-and-solidarity/",
+   "score": 6,
+   "category": "Society",
+   "region": "Goma, DR Congo",
+   "published": "2026-10-05T14:31:56Z",
+   "continent": "Africa",
+   "added": "2026-10-06T00:16:26Z",
+   "i18n": {
+    "ca": {
+     "title": "Organitzacions ofereixen escolarització i suport als orfes de Goma",
+     "summary": "Organitzacions de Goma, a l'est del Congo, proporcionen educació i suport comunitari als infants orfes pel conflicte, donant-los estabilitat i un camí cap endavant.",
+     "why": "Ajuda real per a infants vulnerables, però el conflicte que va causar la necessitat continua."
+    },
+    "fr": {
+     "title": "Des organisations offrent scolarité et soutien aux orphelins de Goma",
+     "summary": "À Goma, dans l'est du Congo, des organisations apportent éducation et soutien communautaire aux enfants orphelins à cause du conflit, leur offrant stabilité et perspectives.",
+     "why": "Une aide concrète pour des enfants vulnérables, mais le conflit à l'origine du besoin continue."
+    },
+    "ru": {
+     "title": "Организации обеспечивают сирот Гомы школой и поддержкой",
+     "summary": "Организации в Гоме на востоке Конго дают образование и общинную поддержку детям, осиротевшим из-за конфликта, помогая им обрести стабильность и перспективу.",
+     "why": "Реальная помощь уязвимым детям, но конфликт, породивший эту нужду, продолжается."
+    }
+   }
+  },
   {
    "id": "tbi-pune-teen-glow-guide-burn-survivors",
    "title": "Pune teenager writes recovery guide for burn and acid attack survivors",
@@ -75,6 +106,68 @@
      "title": "Фермеры в Индии превращают опавшие листовые влагалища ареки в биоразлагаемые тарелки",
      "summary": "Туземные женщины в Мизораме делают тарелки из листовых влагалищ пальмы ареки, а другие фермеры используют побочные продукты пальмы в качестве корма для скота, создавая дополнительный доход из отходов.",
      "why": "Местные средства к существованию с низким отходом, хотя масштабы по-прежнему скромны."
+    }
+   }
+  },
+  {
+   "id": "an-nobel-medicine-neuron-research",
+   "title": "Three scientists share Nobel Prize in Medicine for brain cell research",
+   "summary": "The Nobel Prize in Physiology or Medicine went to three scientists for work on the mechanisms that control the activity of individual nerve cells.",
+   "why": "Recognizes fundamental research that can inform future brain treatments, though benefits are still indirect.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/05/nobel-prize-in-medicine-awarded-to-three-scientists-for-breakthrough-research/",
+   "score": 6,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-10-05T11:27:49Z",
+   "continent": "Global",
+   "added": "2026-10-06T00:16:26Z",
+   "i18n": {
+    "ca": {
+     "title": "Tres científics comparteixen el Nobel de Medicina per investigar les cèl·lules cerebrals",
+     "summary": "El Premi Nobel de Fisiologia o Medicina ha estat per a tres científics pel seu treball sobre els mecanismes que controlen l'activitat de cada cèl·lula nerviosa.",
+     "why": "Reconeix investigació fonamental que pot orientar futurs tractaments cerebrals, tot i que els beneficis encara són indirectes."
+    },
+    "fr": {
+     "title": "Trois scientifiques se partagent le Nobel de médecine pour leurs travaux sur les cellules cérébrales",
+     "summary": "Le prix Nobel de physiologie ou médecine récompense trois scientifiques pour leurs travaux sur les mécanismes qui contrôlent l'activité de chaque cellule nerveuse.",
+     "why": "Reconnaît une recherche fondamentale qui peut guider de futurs traitements cérébraux, mais les bénéfices restent indirects."
+    },
+    "ru": {
+     "title": "Три учёных разделили Нобелевскую премию по медицине за исследования клеток мозга",
+     "summary": "Нобелевскую премию по физиологии и медицине получили трое учёных за работу о механизмах, управляющих активностью отдельных нервных клеток.",
+     "why": "Отмечена фундаментальная работа, которая может помочь будущему лечению мозга, но польза пока косвенная."
+    }
+   }
+  },
+  {
+   "id": "an-guinea-aliou-bah-pardoned",
+   "title": "Guinea opposition politician Aliou Bah freed after presidential pardon",
+   "summary": "Opposition politician Aliou Bah has been released after nearly two years in prison, following a pardon from Guinea's president.",
+   "why": "Release of a jailed politician is welcome, though the original imprisonment remains a concern.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/05/guinea-opposition-leader-aliou-bah-freed-after-presidential-pardon/",
+   "score": 5,
+   "category": "Society",
+   "region": "Guinea",
+   "published": "2026-10-05T11:20:18Z",
+   "continent": "Africa",
+   "added": "2026-10-06T00:16:26Z",
+   "i18n": {
+    "ca": {
+     "title": "L'opositor guineà Aliou Bah, alliberat després d'un indult presidencial",
+     "summary": "El polític opositor Aliou Bah ha estat alliberat després de gairebé dos anys de presó, arran d'un indult del president de Guinea.",
+     "why": "L'alliberament d'un polític empresonat és positiu, tot i que l'empresonament inicial continua sent preocupant."
+    },
+    "fr": {
+     "title": "L'opposant guinéen Aliou Bah libéré après une grâce présidentielle",
+     "summary": "L'homme politique d'opposition Aliou Bah a été libéré après près de deux ans de prison, à la suite d'une grâce accordée par le président de la Guinée.",
+     "why": "La libération d'un opposant emprisonné est positive, même si son incarcération initiale reste préoccupante."
+    },
+    "ru": {
+     "title": "Оппозиционер Гвинеи Алиу Ба освобождён после помилования президентом",
+     "summary": "Оппозиционный политик Алиу Ба вышел на свободу после почти двух лет заключения благодаря помилованию президента Гвинеи.",
+     "why": "Освобождение заключённого политика — хорошая новость, хотя само заключение остаётся поводом для тревоги."
     }
    }
   },
