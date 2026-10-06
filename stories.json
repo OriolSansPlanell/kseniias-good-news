@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T06:16:29Z",
+ "updated": "2026-10-06T12:14:48Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,10 +12,134 @@
   "Grist",
   "Africanews"
  ],
- "count": 142,
- "last_run": "run-20261006T0616Z.json",
- "note": "13 new, 120 skipped, 0 pruned, 0 translations added, failed feeds: none",
+ "count": 152,
+ "last_run": "run-20261006T1214Z.json",
+ "note": "10 new, 133 skipped, 0 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "tbi-bihar-village-school-offline-smart-classes",
+   "title": "Bihar village school teaches 660 students with offline digital lessons",
+   "summary": "A government secondary school in Sarai Tand, Bihar, uses a smart classroom with offline digital content, so 660 students across grades can learn without needing internet access.",
+   "why": "Low-cost technology widens access to learning for hundreds of rural pupils.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/education/digital-education-in-bihar-sarai-tand-smartclass-india-classrooms-12628782",
+   "score": 7,
+   "category": "Society",
+   "region": "Bihar, India",
+   "published": "2026-10-06T10:43:35Z",
+   "continent": "Asia",
+   "added": "2026-10-06T12:14:48Z",
+   "i18n": {
+    "ca": {
+     "title": "Escola de poble de Bihar ensenya a 660 estudiants amb lliçons digitals offline",
+     "summary": "Una escola secundària estatal a Sarai Tand, Bihar, utilitza una aula intel·ligent amb contingut digital offline, de manera que 660 estudiants de diversos graus poden aprendre sense necessitat d'accés a Internet.",
+     "why": "La tecnologia de baix cost amplia l'accés a l'aprenentatge per a centenars d'alumnes rurals."
+    },
+    "fr": {
+     "title": "Une école de village du Bihar enseigne à 660 élèves avec des cours numériques hors ligne",
+     "summary": "Une école secondaire gouvernementale à Sarai Tand, Bihar, utilise une salle de classe intelligente avec du contenu numérique hors ligne, de sorte que 660 élèves de différents niveaux puissent apprendre sans avoir besoin d'un accès à Internet.",
+     "why": "La technologie à faible coût élargit l'accès à l'apprentissage pour des centaines d'élèves ruraux."
+    },
+    "ru": {
+     "title": "Деревенская школа Бихара обучает 660 учеников с помощью автономных цифровых уроков",
+     "summary": "Государственная средняя школа в Сарай Танде, Бихар, использует смарт-класс с автономным цифровым контентом, так что 660 студентов разных классов могут учиться без необходимости доступа в Интернет.",
+     "why": "Недорогая технология расширяет доступ к обучению для сотен сельских учеников."
+    }
+   }
+  },
+  {
+   "id": "tbi-gujarat-92-year-old-crochet-business",
+   "title": "92-year-old Gujarat grandmother starts crochet business with granddaughters",
+   "summary": "A 92-year-old woman in Gujarat has turned her lifelong love of crochet into a handmade business, run together with her granddaughters.",
+   "why": "A heartening story for one family and a model of working later in life.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/senior-citizens/gujarat-handmade-crochet-business-pb-handmades-nani-senior-citizen-12629040",
+   "score": 6,
+   "category": "Society",
+   "region": "Gujarat, India",
+   "published": "2026-10-06T10:37:14Z",
+   "continent": "Asia",
+   "added": "2026-10-06T12:14:48Z",
+   "i18n": {
+    "ca": {
+     "title": "Àvia de Gujarat de 92 anys comença negoci de crochet amb les seves netes",
+     "summary": "Una dona de 92 anys a Gujarat ha convertit el seu amor de tota la vida pel crochet en un negoci artesanal, administrat juntament amb les seves netes.",
+     "why": "Una història encoratjadora per a una família i un model de treballar més tard en la vida."
+    },
+    "fr": {
+     "title": "Une grand-mère du Gujarat de 92 ans lance une entreprise de crochet avec ses petites-filles",
+     "summary": "Une femme de 92 ans au Gujarat a transformé son amour de toute une vie pour le crochet en une entreprise artisanale, gérée avec ses petites-filles.",
+     "why": "Une histoire réconfortante pour une famille et un modèle de travail plus tard dans la vie."
+    },
+    "ru": {
+     "title": "92-летняя бабушка из Гуджарата начинает бизнес по вязанию крючком со своими внучками",
+     "summary": "92-летняя женщина из Гуджарата превратила свою пожизненную любовь к вязанию крючком в ремесленный бизнес, управляемый со своими внучками.",
+     "why": "Воодушевляющая история для одной семьи и модель работы в более позднем возрасте жизни."
+    }
+   }
+  },
+  {
+   "id": "tbi-gurugram-fery-rides-women-drivers",
+   "title": "Gurugram startup offers women-only rides with female drivers",
+   "summary": "Fery Rides, founded by three people in Gurugram, runs electric vehicles driven by women for women passengers, with no surge pricing, responding to safety concerns on commutes.",
+   "why": "Safer, cleaner transport for women, though still a small local service.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/startup/womens-safety-mobility-gurugram-fery-rides-women-drivers-india-12628870",
+   "score": 7,
+   "category": "Society",
+   "region": "Gurugram, India",
+   "published": "2026-10-06T09:53:47Z",
+   "continent": "Asia",
+   "added": "2026-10-06T12:14:48Z",
+   "i18n": {
+    "ca": {
+     "title": "Startup de Gurugram ofereix passatges exclusius per a dones amb conductores",
+     "summary": "Fery Rides, fundada per tres persones a Gurugram, gestiona vehicles elèctrics conduïts per dones per a passatgeres dones, sense preus dinàmics, responent a les preocupacions de seguretat en els desplaçaments.",
+     "why": "Transport més segur i més net per a les dones, tot i que encara és un servei local petit."
+    },
+    "fr": {
+     "title": "Une startup de Gurugram offre des trajets réservés aux femmes avec des conductrices",
+     "summary": "Fery Rides, fondée par trois personnes à Gurugram, exploite des véhicules électriques conduits par des femmes pour des passagères, sans tarification dynamique, répondant aux préoccupations de sécurité lors des trajets.",
+     "why": "Un transport plus sûr et plus propre pour les femmes, bien qu'il s'agisse encore d'un petit service local."
+    },
+    "ru": {
+     "title": "Стартап из Гургаона предлагает поездки только для женщин с водителями-женщинами",
+     "summary": "Fery Rides, основанная тремя людьми в Гургаоне, управляет электромобилями, управляемыми женщинами для женщин-пассажиров, без динамического ценообразования, отвечая на проблемы безопасности при поездках.",
+     "why": "Более безопасный и чистый транспорт для женщин, хотя всё еще это небольшой местный сервис."
+    }
+   }
+  },
+  {
+   "id": "mb-new-hampshire-salamander-brigades",
+   "title": "Volunteers help 100,000 amphibians cross roads in New Hampshire",
+   "summary": "New Hampshire's Salamander Brigades, volunteer groups that help salamanders and frogs cross roads during their yearly migration, have now assisted around 100,000 animals.",
+   "why": "Community action is directly protecting amphibian populations.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/helping-100000-amphibians-safely-cross-the-road/",
+   "score": 7,
+   "category": "Animals",
+   "region": "New Hampshire, United States",
+   "published": "2026-10-06T09:08:18Z",
+   "continent": "North America",
+   "added": "2026-10-06T12:14:48Z",
+   "i18n": {
+    "ca": {
+     "title": "Els voluntaris ajuden 100.000 amfibis a creuar carreteres a New Hampshire",
+     "summary": "Els Salamander Brigades de New Hampshire, grups de voluntaris que ajuden salamandres i granotes a creuar carreteres durant la seva migració anual, han ajudat ara aproximadament 100.000 animals.",
+     "why": "L'acció comunitària protegeix directament les poblacions d'amfibis."
+    },
+    "fr": {
+     "title": "Les bénévoles aident 100 000 amphibiens à traverser les routes dans le New Hampshire",
+     "summary": "Les Salamander Brigades du New Hampshire, des groupes de bénévoles qui aident les salamandres et les grenouilles à traverser les routes pendant leur migration annuelle, ont maintenant assisté environ 100 000 animaux.",
+     "why": "L'action communautaire protège directement les populations d'amphibiens."
+    },
+    "ru": {
+     "title": "Волонтеры помогают 100 000 амфибий переходить дороги в Нью-Гэмпшире",
+     "summary": "Саламандровые бригады Нью-Гэмпшира, группы волонтеров, которые помогают саламандрам и лягушкам переходить дороги во время их ежегодной миграции, теперь помощали около 100 000 животных.",
+     "why": "Действие сообщества напрямую защищает популяции амфибий."
+    }
+   }
+  },
   {
    "id": "tbi-bihar-migratory-birds-ramsar-reservoirs",
    "title": "Two Bihar reservoirs host thousands of migratory birds",
@@ -79,6 +203,68 @@
    }
   },
   {
+   "id": "tbi-bengaluru-engineer-bosphorus-swim",
+   "title": "Bengaluru cybersecurity engineer swims from Asia to Europe across the Bosphorus",
+   "summary": "Akshay Sharma, who began with a 1 km run, completed the 6.5 km Bosphorus Cross-Continental Swimming Race in August 2026 while keeping a demanding full-time job.",
+   "why": "Inspiring personal achievement with limited wider impact.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/changemakers/it-professional-akshay-sharma-bosphorus-swim-asia-europe-ironman-endurance-athlete-marathon-12623954",
+   "score": 5,
+   "category": "Culture",
+   "region": "Bengaluru, India",
+   "published": "2026-10-06T02:30:38Z",
+   "continent": "Asia",
+   "added": "2026-10-06T12:14:48Z",
+   "i18n": {
+    "ca": {
+     "title": "Enginyer de ciberseguretat de Bengaluru neda d'Àsia a Europa pel Bòsfor",
+     "summary": "Akshay Sharma, que va començar amb una carrera de 1 km, va completar la cursa de natació transcontinental del Bòsfor de 6,5 km en agost de 2026 mentre mantenia un treball a temps complet exigent.",
+     "why": "Un assoliment personal inspirador amb impacte general limitat."
+    },
+    "fr": {
+     "title": "Un ingénieur en cybersécurité de Bengaluru nage d'Asie à l'Europe à travers le Bosphore",
+     "summary": "Akshay Sharma, qui a commencé par une course de 1 km, a terminé la course de nage transcontinentale du Bosphore de 6,5 km en août 2026 tout en maintenant un emploi à temps plein exigeant.",
+     "why": "Une réalisation personnelle inspirante avec un impact global limité."
+    },
+    "ru": {
+     "title": "Инженер по кибербезопасности из Бангалора плывет из Азии в Европу через Босфор",
+     "summary": "Акшай Шарма, начавший с бега на 1 км, завершил трансконтинентальную гонку плавания через Босфор на расстояние 6,5 км в августе 2026 года, сохраняя требовательную работу на полный рабочий день.",
+     "why": "Вдохновляющее личное достижение с ограниченным более широким влиянием."
+    }
+   }
+  },
+  {
+   "id": "mb-sabine-schoppe-palawan-turtle-refuge",
+   "title": "Conservationist who built Palawan forest turtle refuge dies",
+   "summary": "Sabine Schoppe, who founded a sanctuary for the endangered Palawan forest turtle in the Philippines, has died; her refuge continues as part of her legacy.",
+   "why": "A loss, softened by the lasting conservation work she leaves behind.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/sabine-schoppe-who-built-a-refuge-for-palawans-forest-turtles-has-died/",
+   "score": 3,
+   "category": "Animals",
+   "region": "Palawan, Philippines",
+   "published": "2026-10-05T22:14:56Z",
+   "continent": "Asia",
+   "added": "2026-10-06T12:14:48Z",
+   "i18n": {
+    "ca": {
+     "title": "Mor la conservacionista que va crear un refugi per a les tortugues de bosc de Palawan",
+     "summary": "Sabine Schoppe, que va fundar un santuari per a la tortuga forestal en perill de Palawan a les Filipines, ha mort; el seu refugi continua com a part del seu llegat.",
+     "why": "Una pèrdua, mitigada pel treball de conservació durador que deixa enrere."
+    },
+    "fr": {
+     "title": "La conservationniste qui a construit un refuge pour tortues forestières de Palawan est décédée",
+     "summary": "Sabine Schoppe, qui a fondé un sanctuaire pour la tortue forestière en danger du Palawan aux Philippines, est décédée; son refuge continue dans le cadre de son héritage.",
+     "why": "Une perte, adoucie par le travail de conservation durable qu'elle laisse derrière elle."
+    },
+    "ru": {
+     "title": "Умерла защитница окружающей среды, которая построила убежище для черепах лесов Палавана",
+     "summary": "Сабине Шоппе, которая основала святилище для находящейся под угрозой исчезновения палаванской лесной черепахи на Филиппинах, скончалась; её убежище продолжает существовать как часть её наследия.",
+     "why": "Потеря, смягченная продолжительной природоохранной работой, которую она оставляет позади."
+    }
+   }
+  },
+  {
    "id": "gnn-prison-wildfire-crews-fire-dept-jobs",
    "title": "California opens fire service jobs to former inmate firefighters",
    "summary": "A new California law lets people who fought wildfires while incarcerated move into paid state fire department jobs after release.",
@@ -137,6 +323,37 @@
      "title": "Фонд Гейтса обсуждает инклюзивный искусственный интеллект для Индии",
      "summary": "Дебджани Гош рассказывает о разработке искусственного интеллекта, который доходит до людей на последней миле и сосредоточен на человеческих ценностях.",
      "why": "Обсуждение, а не достигнутый результат."
+    }
+   }
+  },
+  {
+   "id": "gnn-nfl-quarterback-finance-video-series",
+   "title": "NFL quarterback launches financial literacy video series for Gen Z",
+   "summary": "A professional American football quarterback who holds an MBA has started a video series, 'Finance with Fernando', aimed at teaching younger people how to manage money.",
+   "why": "Useful financial education for young people, but a modest, single-initiative story.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/star-quarterback-wants-to-help-gen-z-handle-money-with-new-video-series-finance-with-fernando/",
+   "score": 5,
+   "category": "Society",
+   "region": "United States",
+   "published": "2026-10-05T15:30:35Z",
+   "continent": "North America",
+   "added": "2026-10-06T12:14:48Z",
+   "i18n": {
+    "ca": {
+     "title": "Quarterback de la NFL llança una sèrie de vídeos sobre alfabetització financera per a la Gen Z",
+     "summary": "Un quarterback professional de futbol americà amb MBA ha iniciat una sèrie de vídeos titulada 'Finance with Fernando', adreçada a ensenyar als joves com gestionar diners.",
+     "why": "Educació financera útil per als joves, però és una història modesta i d'una sola iniciativa."
+    },
+    "fr": {
+     "title": "Un quarterback de la NFL lance une série de vidéos sur l'alphabétisation financière pour la Gen Z",
+     "summary": "Un quarterback professionnel de football américain titulaire d'un MBA a lancé une série de vidéos intitulée 'Finance with Fernando', destinée à enseigner aux jeunes comment gérer l'argent.",
+     "why": "Une éducation financière utile pour les jeunes, mais c'est une histoire modeste d'une seule initiative."
+    },
+    "ru": {
+     "title": "Квотербек НФЛ запускает серию видеороликов по финансовой грамотности для поколения Z",
+     "summary": "Профессиональный квотербек американского футбола с MBA запустил серию видеороликов под названием 'Finance with Fernando', предназначенную для обучения молодых людей управлению деньгами.",
+     "why": "Полезное финансовое образование для молодежи, но это скромная история одной инициативы."
     }
    }
   },
@@ -230,6 +447,37 @@
      "title": "Бесплатные уроки музыки достигли более 20 000 студентов Майами",
      "summary": "Некоммерческая организация Young Musicians Unite предоставляет бесплатное музыкальное обучение более чем 20 000 студентам в 131 школе округа Майами-Дейд.",
      "why": "Широкий доступ к художественному образованию для местного сообщества."
+    }
+   }
+  },
+  {
+   "id": "sd-saturn-opposition-orionid-meteors",
+   "title": "Saturn at opposition and Orionid meteors light up October skies",
+   "summary": "Skywatchers can see Saturn at its brightest this month, and the Orionid meteor shower, made of debris from Halley's Comet, peaks around the same time.",
+   "why": "A pleasant, free sky event with no wider impact.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-10-05T11:59:17Z",
+   "continent": "Global",
+   "added": "2026-10-06T12:14:48Z",
+   "i18n": {
+    "ca": {
+     "title": "Saturn en oposició i els meteors de les Oriònides il·luminen el cel d'octubre",
+     "summary": "Els observadors del cel poden veure Saturn al seu moment més brillant aquest mes, i la pluja de meteors de les Oriònides, formada per escombros del cometa Halley, assoleix el seu màxim aproximadament al mateix temps.",
+     "why": "Un agradable event de cel gratuït sense impacte més ampli."
+    },
+    "fr": {
+     "title": "Saturne en opposition et les météores des Orionides illuminent le ciel d'octobre",
+     "summary": "Les observateurs du ciel peuvent voir Saturne à sa plus grande luminosité ce mois-ci, et la pluie de météores des Orionides, composée de débris de la comète de Halley, atteint son pic à peu près au même moment.",
+     "why": "Un événement ciel agréable et gratuit sans impact plus large."
+    },
+    "ru": {
+     "title": "Сатурн в противостоянии и метеоры Ориониды озаряют октябрьское небо",
+     "summary": "Наблюдатели неба смогут увидеть Сатурн в его максимальной яркости в этом месяце, а метеорный поток Ориониды, состоящий из обломков кометы Галлея, достигает пика примерно в одно и то же время.",
+     "why": "Приятное бесплатное небесное событие без более широкого воздействия."
     }
    }
   },
@@ -420,6 +668,37 @@
    }
   },
   {
+   "id": "sd-brain-gene-bc200-jumping-dna",
+   "title": "Brain gene BC200 found to retain ability to move through DNA",
+   "summary": "Researchers report that BC200, a gene active in the human brain, descends from ancient mobile genetic elements and may still be able to copy itself to new places in the genome.",
+   "why": "Interesting basic science with no direct application yet.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261002080013.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-10-05T10:06:28Z",
+   "continent": "Global",
+   "added": "2026-10-06T12:14:48Z",
+   "i18n": {
+    "ca": {
+     "title": "Se descobreix que el gen cerebral BC200 conserva la capacitat de moure's pel DNA",
+     "summary": "Els investigadors informen que BC200, un gen actiu al cervell humà, descendeix d'elements genètics mòbils antics i pot ser que encara sigui capaç de copiar-se a nous llocs del genoma.",
+     "why": "Ciència bàsica interessant sense aplicació directa per ara."
+    },
+    "fr": {
+     "title": "Le gène cérébral BC200 conserve sa capacité à se déplacer dans l'ADN",
+     "summary": "Les chercheurs rapportent que BC200, un gène actif dans le cerveau humain, descend d'anciens éléments génétiques mobiles et pourrait toujours être capable de se copier à de nouveaux endroits du génome.",
+     "why": "Une science fondamentale intéressante sans application directe pour le moment."
+    },
+    "ru": {
+     "title": "Обнаружено, что ген мозга BC200 сохраняет способность перемещаться через ДНК",
+     "summary": "Исследователи сообщают, что BC200, ген, активный в человеческом мозге, происходит из древних подвижных генетических элементов и может все еще иметь способность копировать себя в новые места в геноме.",
+     "why": "Интересная фундаментальная наука без прямого применения пока."
+    }
+   }
+  },
+  {
    "id": "tbi-chirgaon-vultures-dj-ban",
    "title": "Maharashtra village's 24-year ban on DJs and fireworks helps vultures recover",
    "summary": "Chirgaon has kept weddings free of DJs and fireworks to protect nesting vultures. The local vulture population has grown from 22 to 347 birds.",
@@ -447,6 +726,37 @@
      "title": "Запрет диджеев и фейерверков в деревне Махараштра в течение 24 лет помогает грифам восстановиться",
      "summary": "Чиргаон запретил диджеев и фейерверки на свадьбах для защиты гнездящихся грифов. Местная популяция грифов выросла с 22 до 347 птиц.",
      "why": "Природоохранная деятельность, возглавляемая сообществом, привела к значительному и измеримому восстановлению исчезающего вида."
+    }
+   }
+  },
+  {
+   "id": "sd-tumor-t-cells-mek-blocking-energy",
+   "title": "Blocking MEK signalling helps cancer-fighting T cells keep working",
+   "summary": "Scientists found that tumour-attacking T cells burn out from energy exhaustion, and that blocking MEK signalling helped them conserve energy and stay active.",
+   "why": "Promising for immunotherapy, but still early research.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261001214127.htm",
+   "score": 6,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-05T09:24:29Z",
+   "continent": "Global",
+   "added": "2026-10-06T12:14:48Z",
+   "i18n": {
+    "ca": {
+     "title": "Bloquejar la senyalització MEK ajuda les cèl·lules T de lluita contra el càncer a mantenir el funcionament",
+     "summary": "Els científics van descobrir que les cèl·lules T que ataquen els tumors s'esgotan per falta d'energia, i que bloquejar la senyalització MEK les va ajudar a conservar energia i mantenir-se actives.",
+     "why": "Prometedora per a la immunoteràpia, però és encara una investigació primerenca."
+    },
+    "fr": {
+     "title": "Le blocage de la signalisation MEK aide les cellules T de lutte contre le cancer à continuer à fonctionner",
+     "summary": "Les scientifiques ont découvert que les cellules T attaquant les tumeurs s'épuisent de fatigue énergétique, et que le blocage de la signalisation MEK les a aidées à conserver l'énergie et à rester actives.",
+     "why": "Prometteur pour l'immunothérapie, mais toujours une recherche précoce."
+    },
+    "ru": {
+     "title": "Блокирование сигнализации МЕК помогает противораковым Т-клеткам продолжать работу",
+     "summary": "Ученые обнаружили, что Т-клетки, атакующие опухоли, истощаются от энергетического истощения, и что блокирование сигнализации МЕК помогало им сохранять энергию и оставаться активными.",
+     "why": "Многообещающая для иммунотерапии, но всё ещё ранние исследования."
     }
    }
   },
