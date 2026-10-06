@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "ceremony": "2026-12-10",
- "updated": "2026-10-05T10:05:29Z",
+ "updated": "2026-10-06T10:39:46Z",
  "prizes": [
   {
    "id": "medicine",
@@ -101,7 +101,67 @@
   {
    "id": "physics",
    "at": "2026-10-06T09:45:00Z",
-   "status": "upcoming"
+   "status": "announced",
+   "laureates": [
+    {
+     "name": "Francis Halzen",
+     "info": "born 1944, Belgium · University of Wisconsin–Madison, United States",
+     "profile": "Halzen is a Belgian-born particle physicist who has spent his career in the United States. Since the 1980s he has pursued the idea of catching elusive cosmic particles at the South Pole, and he led the international team of researchers and engineers that built and ran the IceCube Neutrino Observatory in Antarctica."
+    }
+   ],
+   "motivation": "The prize honours \"decisive contributions\" to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos that come from outside our solar system.",
+   "explainer": "Neutrinos are tiny particles that are created in huge numbers by violent events in space, such as exploding stars and matter falling into black holes. They barely interact with anything, so they stream through planets, stars and people almost untouched. That makes them perfect messengers: unlike light, they reach us without changing direction or losing energy, so they point straight back to where they were born. The catch is that they are extremely hard to catch. Francis Halzen had the idea of using the Antarctic ice itself as a giant detector. Thousands of sensors were lowered deep into the clear ice at the South Pole. On very rare occasions a neutrino bumps into an atom in the ice and produces a faint flash of light, and the sensors record it. By studying these flashes, the IceCube team showed that high-energy neutrinos really do arrive from far beyond our solar system. Imagine a huge dark theatre where, once in a long while, a single firefly lights up for an instant. If you have enough cameras watching, you can work out where each firefly came from. IceCube does this with the whole sky and gives astronomers a brand new way of looking at the universe.",
+   "why": "Neutrinos offer a view of the most extreme places in the cosmos, such as natural particle accelerators far more powerful than anything on Earth, that other kinds of astronomy cannot show us. This helps us understand how the universe evolved.",
+   "sources": [
+    {
+     "title": "Lindau Nobel Laureate Meetings: Nobel Prize in Physics 2026",
+     "url": "https://www.lindau-nobel.org/news-nobel-prize-in-physics-2026/"
+    },
+    {
+     "title": "WFDD: Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
+     "url": "https://www.wfdd.org/world-news/2026-10-06/francis-halzen-wins-nobel-prize-in-physics-for-work-on-high-energy-neutrinos-from-space"
+    },
+    {
+     "title": "Reuters via StreetInsider: Francis Halzen wins 2026 Nobel Prize in Physics",
+     "url": "https://www.streetinsider.com/Reuters/Francis+Halzen+wins+2026+Nobel+Prize+in+Physics/27151120.html"
+    }
+   ],
+   "updated": "2026-10-06T10:25:16Z",
+   "i18n": {
+    "ca": {
+     "motivation": "El premi honora les \"contribucions decisives\" a l'Observatori de Neutrins IceCube i el descobriment de neutrins d'alta energia que provenen de fora del nostre sistema solar.",
+     "explainer": "Els neutrins són partícules diminutes creades en quantitats enormes per violents esdeveniments a l'espai, com estrelles que exploten i matèria que cau en forats negres. Gairebé no interactuen amb res, de manera que travessen planetes, estrelles i persones gairebé sense alterar-se. Això els fa perfectes missatgers: al contrari que la llum, ens arriben sense canviar de direcció ni perdre energia, de manera que assenyalen directament on van néixer. El problema és que són extremadament difícils de capturar. Francis Halzen va tenir la idea d'utilitzar el gel de l'Antàrtida com a detector gegant. Milers de sensors van ser baixats profundament al gel clar del Pol Sud. En ocasions molt rares, un neutrí xoca contra un àtom del gel i produeix un flash feble de llum, i els sensors la registren. Estudiant aquests flaixos, l'equip d'IceCube va demostrar que els neutrins d'alta energia arriben realment des de molt més enllà del nostre sistema solar. Imagina un teatre negre gegant on, de tant en tant, una sola lluerna s'il·lumina per un instant. Si tens prou càmeres vigilant, pots saber d'on va venir cada lluerna. IceCube fa això amb tot el cel i dóna als astrònoms una manera completament nova de mirar l'univers.",
+     "why": "Els neutrins ofereixen una visió dels llocs més extrems del cosmos, com acceleradors de partícules naturals molt més potents que qualsevol cosa de la Terra, que altres tipus d'astronomia no pot mostrar-nos. Això ens ajuda a comprendre com va evolucionar l'univers.",
+     "profiles": {
+      "Francis Halzen": {
+       "info": "nascut 1944, Bèlgica · University of Wisconsin–Madison, Estats Units",
+       "profile": "Halzen és un físic de partícules nascut a Bèlgica que ha passat la seva carrera als Estats Units. Des dels anys vuitanta ha perseguit la idea de capturar les esquives partícules còsmiques al Pol Sud, i va dirigir l'equip internacional de investigadors i enginyers que van construir i van fer funcionar l'Observatori de Neutrins IceCube a l'Antàrtida."
+      }
+     }
+    },
+    "fr": {
+     "motivation": "Le prix honore les « contributions décisives » à l'Observatoire des neutrinos IceCube et la découverte de neutrinos de haute énergie provenant de l'extérieur de notre système solaire.",
+     "explainer": "Les neutrinos sont de minuscules particules créées en quantités énormes par des événements violents dans l'espace, comme les étoiles qui explosent et la matière tombant dans des trous noirs. Ils interagissent à peine avec quoi que ce soit, ils traversent donc les planètes, les étoiles et les gens presque sans être touchés. Cela les rend parfaits en tant que messagers : contrairement à la lumière, ils nous parviennent sans changer de direction ni perdre d'énergie, ils pointent donc directement vers l'endroit d'où ils proviennent. Le problème est qu'ils sont extrêmement difficiles à capturer. Francis Halzen a eu l'idée d'utiliser la glace antarctique elle-même comme détecteur géant. Des milliers de capteurs ont été abaissés profondément dans la glace claire du Pôle Sud. En de très rares occasions, un neutrino heurte un atome dans la glace et produit un faible éclair de lumière, et les capteurs l'enregistrent. En étudiant ces éclairs, l'équipe IceCube a montré que les neutrinos de haute énergie arrivent réellement de bien au-delà de notre système solaire. Imaginez un énorme théâtre sombre où, de temps en temps, une seule luciole s'illumine pour un instant. Si vous avez assez de caméras qui regardent, vous pouvez déterminer d'où chaque luciole provient. IceCube le fait pour tout le ciel et donne aux astronomes une toute nouvelle façon de regarder l'univers.",
+     "why": "Les neutrinos offrent une vue des endroits les plus extrêmes du cosmos, tels que les accélérateurs de particules naturels beaucoup plus puissants que tout ce qui existe sur Terre, que d'autres types d'astronomie ne peuvent pas nous montrer. Cela nous aide à comprendre comment l'univers a évolué.",
+     "profiles": {
+      "Francis Halzen": {
+       "info": "né en 1944, Belgique · University of Wisconsin–Madison, États-Unis",
+       "profile": "Halzen est un physicien des particules d'origine belge qui a passé sa carrière aux États-Unis. Depuis les années 1980, il a poursuivi l'idée de capturer les insaisissables particules cosmiques au Pôle Sud, et il a dirigé l'équipe internationale de chercheurs et d'ingénieurs qui ont construit et géré l'Observatoire des neutrinos IceCube en Antarctique."
+      }
+     }
+    },
+    "ru": {
+     "motivation": "Премия присуждена за «решающий вклад» в Обсерваторию нейтрино IceCube и открытие высокоэнергетических нейтрино, приходящих из-за пределов нашей Солнечной системы.",
+     "explainer": "Нейтрино — это крошечные частицы, рождаемые в огромном количестве во время бурных событий в космосе, таких как взрывы звёзд и падение материи в чёрные дыры. Они практически не взаимодействуют ни с чем, поэтому проходят сквозь планеты, звёзды и людей почти не затрагивая их. Это делает их идеальными посланцами: в отличие от света, они достигают нас без изменения направления или потери энергии, поэтому указывают прямо на источник их происхождения. Сложность заключается в том, что их чрезвычайно трудно поймать. Фрэнсис Халзен предложил использовать саму антарктическую льдистую толщу как гигантский детектор. Тысячи датчиков были опущены глубоко в чистый лёд на Южном полюсе. В очень редких случаях нейтрино сталкивается с атомом во льду и создаёт слабую вспышку света, которую регистрируют датчики. Изучая эти вспышки, команда IceCube доказала, что высокоэнергетические нейтрино действительно приходят издалека, из-за пределов нашей Солнечной системы. Представьте огромный тёмный театр, где изредка появляется светлячок, светящийся одно мгновение. Если у вас есть достаточно камер, наблюдающих небо, вы сможете определить, откуда прилетел каждый светлячок. IceCube делает это для всего неба и даёт астрономам совершенно новый способ наблюдения Вселенной.",
+     "why": "Нейтрино предоставляют окно в наиболее экстремальные места космоса, такие как естественные ускорители частиц, намного более мощные, чем что-либо на Земле, которые другие виды астрономии не могут показать нам. Это помогает нам понять, как эволюционировала Вселенная.",
+     "profiles": {
+      "Francis Halzen": {
+       "info": "родился в 1944 году, Бельгия · University of Wisconsin–Madison, США",
+       "profile": "Халзен — физик-элементарник родом из Бельгии, который всю карьеру прожил в США. С 1980-х годов он преследовал идею ловить неуловимые космические частицы на Южном полюсе и руководил международной командой учёных и инженеров, которые построили и управляли Обсерваторией нейтрино IceCube в Антарктике."
+      }
+     }
+    }
+   }
   },
   {
    "id": "chemistry",
@@ -124,5 +184,5 @@
    "status": "upcoming"
   }
  ],
- "source_file": "nobel-20261005T0957Z.json"
+ "source_file": "nobel-20261006T1025Z.json"
 }
