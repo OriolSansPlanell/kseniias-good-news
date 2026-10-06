@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T00:16:26Z",
+ "updated": "2026-10-06T06:16:29Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,10 +12,134 @@
   "Grist",
   "Africanews"
  ],
- "count": 129,
- "last_run": "run-20261006T0016Z.json",
- "note": "3 new, 117 skipped, 0 pruned, 0 translations added, failed feeds: none",
+ "count": 142,
+ "last_run": "run-20261006T0616Z.json",
+ "note": "13 new, 120 skipped, 0 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "tbi-bihar-migratory-birds-ramsar-reservoirs",
+   "title": "Two Bihar reservoirs host thousands of migratory birds",
+   "summary": "Nagi and Nakti reservoirs in Bihar, recognised as Ramsar wetlands in 2024, receive thousands of migratory birds each winter from the Arctic and Eurasia.",
+   "why": "Protected wetlands are sustaining bird migration.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/travel/bihar-nagi-nakti-migratory-birds-winter-wetlands-travel-jamui-ramsar-12627454",
+   "score": 7,
+   "category": "Environment",
+   "region": "Bihar, India",
+   "published": "2026-10-06T05:30:37Z",
+   "continent": "Asia",
+   "added": "2026-10-06T06:16:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Dos embassaments de Bihar acollien milers d'ocells migratoris",
+     "summary": "Els embassaments de Nagi i Nakti a Bihar, reconeguts com a aiguamolls de Ramsar el 2024, reben milers d'ocells migratoris cada hivern provinents de l'Àrtic i Euràsia.",
+     "why": "Els aiguamolls protegits mantenen la migració d'ocells."
+    },
+    "fr": {
+     "title": "Deux réservoirs du Bihar accueillent des milliers d'oiseaux migrateurs",
+     "summary": "Les réservoirs de Nagi et Nakti au Bihar, reconnus comme zones humides Ramsar en 2024, reçoivent des milliers d'oiseaux migrateurs chaque hiver en provenance de l'Arctique et d'Eurasie.",
+     "why": "Les zones humides protégées soutiennent la migration des oiseaux."
+    },
+    "ru": {
+     "title": "Два водохранилища в Бихаре принимают тысячи перелётных птиц",
+     "summary": "Водохранилища Наги и Накти в Бихаре, признанные в 2024 году водно-болотными угодьями Рамсар, каждую зиму принимают тысячи перелётных птиц из Арктики и Евразии.",
+     "why": "Защищённые водно-болотные угодья поддерживают миграцию птиц."
+    }
+   }
+  },
+  {
+   "id": "tbi-vithya-ramraj-breaks-42-year-record",
+   "title": "Vithya Ramraj breaks a 42-year-old record at the Asian Games",
+   "summary": "Indian athlete Vithya Ramraj broke a record that had stood for 42 years and won several medals at the Asian Games.",
+   "why": "A sporting achievement that inspires, with limited wider impact.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/videos/sport/vithya-ramraj-broke-a-42-year-old-record-12627673",
+   "score": 6,
+   "category": "Culture",
+   "region": "India",
+   "published": "2026-10-06T03:30:35Z",
+   "continent": "Asia",
+   "added": "2026-10-06T06:16:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Vithya Ramraj trenca un rècord de 42 anys als Jocs Asiàtics",
+     "summary": "L'atleta indi Vithya Ramraj va trencar un rècord que s'havia mantingut durant 42 anys i va guanyar diverses medalles als Jocs Asiàtics.",
+     "why": "Un èxit esportiu que inspira, però amb un impacte més ampli limitat."
+    },
+    "fr": {
+     "title": "Vithya Ramraj brise un record vieux de 42 ans aux Jeux asiatiques",
+     "summary": "L'athlète indien Vithya Ramraj a battu un record qui se maintenait depuis 42 ans et a remporté plusieurs médailles aux Jeux asiatiques.",
+     "why": "Une réussite sportive inspirante, avec un impact plus large limité."
+    },
+    "ru": {
+     "title": "Витья Рамрадж установил рекорд, не побиваемый 42 года, на Азиатских играх",
+     "summary": "Индийская спортсменка Витья Рамрадж побила рекорд, который стоял 42 года, и завоевала несколько медалей на Азиатских играх.",
+     "why": "Спортивное достижение, вдохновляющее, но с ограниченным более широким воздействием."
+    }
+   }
+  },
+  {
+   "id": "gnn-prison-wildfire-crews-fire-dept-jobs",
+   "title": "California opens fire service jobs to former inmate firefighters",
+   "summary": "A new California law lets people who fought wildfires while incarcerated move into paid state fire department jobs after release.",
+   "why": "Gives people a real career path, though it affects a limited group.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/fighting-wildfires-from-prison-a-new-law-gives-ex-cons-route-to-california-fire-dept-jobs-on-release/",
+   "score": 7,
+   "category": "Society",
+   "region": "California, USA",
+   "published": "2026-10-05T18:30:19Z",
+   "continent": "North America",
+   "added": "2026-10-06T06:16:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Califòrnia obri places als bombers que van combatre incendis forestals en presó",
+     "summary": "Una nova llei de Califòrnia permet que les persones que van combatre incendis forestals mentre estaven empresonades es puguin convertir en bombers de departament estatal remunerats després de la llibertat.",
+     "why": "Ofereix una carrera real als exinternos, tot i que afecta un grup limitat."
+    },
+    "fr": {
+     "title": "La Californie ouvre des postes de pompiers aux anciens prisonniers pompiers",
+     "summary": "Une nouvelle loi californienne permet aux personnes qui ont combattu les incendies de forêt durant leur incarcération d'accéder à des emplois rémunérés au sein du service d'incendie de l'État après leur libération.",
+     "why": "Offre une véritable voie professionnelle, bien qu'elle ne touche qu'un groupe limité."
+    },
+    "ru": {
+     "title": "Калифорния открывает места для бывших заключённых пожарных в штатной пожарной службе",
+     "summary": "Новый закон Калифорнии позволяет людям, которые тушили лесные пожары во время отбывания наказания, получить оплачиваемые должности в пожарной части штата после освобождения.",
+     "why": "Предоставляет реальный карьерный путь, хотя это касается ограниченной группы."
+    }
+   }
+  },
+  {
+   "id": "tbi-inclusive-ai-last-mile-india",
+   "title": "Gates Foundation champion discusses inclusive AI for India",
+   "summary": "Debjani Ghosh talks about developing AI that reaches people at the last mile and is centred on human values.",
+   "why": "A discussion rather than a delivered result.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/videos/business/indias-ai-opportunity-starts-with-the-last-mile-12626810",
+   "score": 5,
+   "category": "Science",
+   "region": "India",
+   "published": "2026-10-05T15:32:44Z",
+   "continent": "Asia",
+   "added": "2026-10-06T06:16:29Z",
+   "i18n": {
+    "ca": {
+     "title": "La Fundació Gates parla sobre IA inclusiva per a l'Índia",
+     "summary": "Debjani Ghosh parla sobre el desenvolupament d'IA que arribi a la gent en la darrera milla i estigui centrada en valors humans.",
+     "why": "Una discussió més que un resultat entregat."
+    },
+    "fr": {
+     "title": "La Fondation Gates discute de l'IA inclusive pour l'Inde",
+     "summary": "Debjani Ghosh discute du développement d'une IA qui atteint les personnes au dernier kilomètre et est centrée sur les valeurs humaines.",
+     "why": "Une discussion plutôt qu'un résultat livré."
+    },
+    "ru": {
+     "title": "Фонд Гейтса обсуждает инклюзивный искусственный интеллект для Индии",
+     "summary": "Дебджани Гош рассказывает о разработке искусственного интеллекта, который доходит до людей на последней миле и сосредоточен на человеческих ценностях.",
+     "why": "Обсуждение, а не достигнутый результат."
+    }
+   }
+  },
   {
    "id": "an-goma-orphans-education-support",
    "title": "Aid groups give orphaned children in Goma schooling and support",
@@ -75,6 +199,37 @@
      "title": "Подросток из Пуны написала руководство по восстановлению для выживших после ожогов и кислотных атак",
      "summary": "Сия Домкундвар, шестнадцатилетняя девочка, создала The Glow Guide, 60-страничный ресурс, учитывающий травму, который отвечает на практические вопросы по уходу за кожей, одежде, косметике и ежедневному самоуходу для выживших.",
      "why": "Практический ресурс для уязвимой группы, хотя охват остаётся небольшим."
+    }
+   }
+  },
+  {
+   "id": "gnn-miami-free-music-education-schools",
+   "title": "Free music lessons reach over 20,000 Miami students",
+   "summary": "A nonprofit called Young Musicians Unite provides free music instruction to more than 20,000 students in 131 Miami-Dade schools.",
+   "why": "Broad access to arts education for a local community.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/nonprofit-brings-free-music-education-to-more-than-20000-miami-students-in-131-schools/",
+   "score": 6,
+   "category": "Culture",
+   "region": "Miami, USA",
+   "published": "2026-10-05T13:00:00Z",
+   "continent": "North America",
+   "added": "2026-10-06T06:16:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Classes de música gratuïtes arriben a més de 20.000 estudiants de Miami",
+     "summary": "Una organització sense fins de lucre anomenada Young Musicians Unite proporciona instrucció musical gratuïta a més de 20.000 estudiants en 131 escoles del comtat de Miami-Dade.",
+     "why": "Ampli accés a l'educació artística per a una comunitat local."
+    },
+    "fr": {
+     "title": "Les leçons de musique gratuites atteignent plus de 20 000 élèves de Miami",
+     "summary": "Un organisme à but non lucratif appelé Young Musicians Unite fournit une instruction musicale gratuite à plus de 20 000 élèves dans 131 écoles du comté de Miami-Dade.",
+     "why": "Accès large à l'éducation artistique pour une communauté locale."
+    },
+    "ru": {
+     "title": "Бесплатные уроки музыки достигли более 20 000 студентов Майами",
+     "summary": "Некоммерческая организация Young Musicians Unite предоставляет бесплатное музыкальное обучение более чем 20 000 студентам в 131 школе округа Майами-Дейд.",
+     "why": "Широкий доступ к художественному образованию для местного сообщества."
     }
    }
   },
@@ -172,6 +327,68 @@
    }
   },
   {
+   "id": "mb-orangutans-borneo-fires-el-nino",
+   "title": "Conservationists act as fires threaten Bornean orangutans",
+   "summary": "Wildfires fuelled by El Niño are burning forests that hold over half of the world's Bornean orangutans, prompting urgent protection efforts.",
+   "why": "A serious threat, with some response under way.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/there-could-be-local-extinction-the-fight-to-protect-indonesias-orangutans-as-el-nino-fuels-fires/",
+   "score": 2,
+   "category": "Animals",
+   "region": "Borneo, Indonesia",
+   "published": "2026-10-05T11:08:46Z",
+   "continent": "Asia",
+   "added": "2026-10-06T06:16:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Conservacionistes actuen mentre els incendis amenacen els orangutans de Borneo",
+     "summary": "Els incendis forestals alimentats per El Niño cremen boscos que alberguen més de la meitat dels orangutans de Borneo del món, cosa que provoca esforços de protecció urgents.",
+     "why": "Una amenaça seriosa, amb alguna resposta en marxa."
+    },
+    "fr": {
+     "title": "Les conservationnistes agissent alors que les incendies menacent les orangs-outans de Bornéo",
+     "summary": "Les incendies de forêt alimentés par El Niño brûlent les forêts qui abritent plus de la moitié des orangs-outans de Bornéo du monde, ce qui déclenche des efforts de protection d'urgence.",
+     "why": "Une menace sérieuse, avec une certaine réaction en cours."
+    },
+    "ru": {
+     "title": "Защитники природы принимают меры по защите борнейских орангутанов от пожаров",
+     "summary": "Лесные пожары, вызванные Эль-Ниньо, охватывают леса, в которых обитает более половины мировой популяции борнейских орангутанов, что вызывает срочные защитные меры.",
+     "why": "Серьёзная угроза с некоторыми принимаемыми мерами."
+    }
+   }
+  },
+  {
+   "id": "gnn-gorilla-reintegrated-gives-birth-virunga",
+   "title": "Rewilded orphan gorilla gives birth in Virunga National Park",
+   "summary": "An orphaned eastern lowland gorilla that was rescued and reintegrated into the wild in Virunga National Park gave birth in May, a milestone for conservation.",
+   "why": "Rare proof that a rescued gorilla can return to the wild and breed.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/orphaned-rescued-and-rewilded-female-gorilla-becomes-a-mother-in-historic-conservation-success/",
+   "score": 8,
+   "category": "Animals",
+   "region": "Virunga, DR Congo",
+   "published": "2026-10-05T11:00:53Z",
+   "continent": "Africa",
+   "added": "2026-10-06T06:16:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Una goril·la òrfena reintroduïda a la natura té una cria a Virunga",
+     "summary": "Una goril·la de les terres baixes orientals que va ser rescatada i reintroduïda al bosc al Parc Nacional de Virunga va tenir una cria al maig, un fite per a la conservació.",
+     "why": "Una prova rara que una goril·la rescatada pot tornar al bosc i reproduir-se."
+    },
+    "fr": {
+     "title": "Une femelle gorille réintroduite donne naissance à Virunga",
+     "summary": "Un gorille des plaines orientales orphelin qui a été secouru et réintégré dans la nature au Parc national de Virunga a mis bas en mai, une étape importante pour la conservation.",
+     "why": "Une preuve rare qu'un gorille rescapé peut retourner à l'état sauvage et se reproduire."
+    },
+    "ru": {
+     "title": "Спасённая и выпущенная в дикую природу горилла родила детёныша в Вирунге",
+     "summary": "Восточная низменная горилла, спасённая в раннем возрасте и реинтродуцированная в дикую природу национального парка Вирунга, дала потомство в мае — важная веха в охране вида.",
+     "why": "Редкое доказательство того, что спасённая горилла способна вернуться в дикую природу и размножаться."
+    }
+   }
+  },
+  {
    "id": "tbi-smart-irrigation-soil-sensors",
    "title": "Soil-sensor irrigation systems help Indian farmers water crops only when needed",
    "summary": "Smart irrigation combines soil moisture sensors, weather data and controllers that open valves automatically, giving crops water responsively rather than on fixed schedules.",
@@ -234,6 +451,37 @@
    }
   },
   {
+   "id": "mb-brown-clockfig-critically-endangered",
+   "title": "Rare succulent listed as critically endangered in Namibia and South Africa",
+   "summary": "The brown clockfig, found in only 424 square kilometres, has been classed as critically endangered amid mining threats.",
+   "why": "Formal listing raises attention, but the threat remains.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/rare-southern-african-succulent-listed-as-critically-endangered-amid-mining-threat/",
+   "score": 4,
+   "category": "Environment",
+   "region": "Namibia and South Africa",
+   "published": "2026-10-05T08:53:03Z",
+   "continent": "Africa",
+   "added": "2026-10-06T06:16:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Una rara suculenta és classificada en perill crític a Namibia i Sud-àfrica",
+     "summary": "La figa de rellotge marrona, trobada en només 424 quilòmetres quadrats, ha estat classificada com en perill crític enmig de les amenaces d'extracció minera.",
+     "why": "La classificació formal augmenta l'atenció, però l'amenaça continua."
+    },
+    "fr": {
+     "title": "Une rare succulente classée en danger critique en Namibie et en Afrique du Sud",
+     "summary": "Le figuier d'horloge brun, trouvé dans seulement 424 kilomètres carrés, a été classé en danger critique face aux menaces minières.",
+     "why": "La classification officielle attire l'attention, mais la menace persiste."
+    },
+    "ru": {
+     "title": "Редкий суккулент классифицирован как находящийся в критическом состоянии в Намибии и ЮАР",
+     "summary": "Коричневый часовой инжир, встречаемый только на площади 424 квадратных километров, классифицирован как находящийся в критическом состоянии из-за угрозы добычи полезных ископаемых.",
+     "why": "Официальное внесение в список привлекает внимание, но угроза сохраняется."
+    }
+   }
+  },
+  {
    "id": "rtbc-cornwall-hospital-noise-pilot",
    "title": "Cornish hospital pilots a way to cut alarm noise on wards",
    "summary": "Royal Cornwall Hospitals NHS Trust is treating ward noise as data that can be routed, rather than muffled, to reduce alarm fatigue.",
@@ -292,6 +540,37 @@
      "title": "Подросток ищет артефакты на берегу Темзы, чтобы раскрыть утраченную историю Лондона",
      "summary": "14-летняя девочка с почти десятилетним опытом ищет фрагменты истории города на берегу Темзы, восстанавливая предметы, рассказывающие о жизни лондонцев прошлых времён.",
      "why": "Приятная историческая история с ограниченным более широким влиянием."
+    }
+   }
+  },
+  {
+   "id": "mb-tiger-trafficking-weak-prosecution-sea",
+   "title": "Report finds weak prosecution of tiger trafficking in Southeast Asia",
+   "summary": "An analysis of 259 trafficking cases in seven countries from 2019 to 2024 found fewer than half ended in convictions.",
+   "why": "A useful warning that points to what needs fixing.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/weak-prosecution-leaves-southeast-asias-tigers-vulnerable-to-trafficking-report/",
+   "score": 4,
+   "category": "Animals",
+   "region": "Southeast Asia",
+   "published": "2026-10-05T05:17:49Z",
+   "continent": "Asia",
+   "added": "2026-10-06T06:16:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Un informe adverteix de la feble persecució del tràfic de tigres a l'Àsia del Sud-Est",
+     "summary": "Una anàlisi de 259 casos de tràfic en set països de 2019 a 2024 va trobar que menys de la meitat van acabar en condemnacions.",
+     "why": "Un avís útil que assenyala què cal corregir."
+    },
+    "fr": {
+     "title": "Un rapport révèle des poursuites faibles contre le trafic de tigres en Asie du Sud-Est",
+     "summary": "Une analyse de 259 cas de trafic dans sept pays de 2019 à 2024 a révélé que moins de la moitié se sont terminés par des condamnations.",
+     "why": "Un avertissement utile qui indique ce qui doit être corrigé."
+    },
+    "ru": {
+     "title": "Доклад выявляет слабое преследование торговцев тиграми в Юго-Восточной Азии",
+     "summary": "Анализ 259 случаев торговли тиграми в семи странах с 2019 по 2024 год показал, что менее половины завершились осуждением.",
+     "why": "Полезное предупреждение, указывающее на необходимые исправления."
     }
    }
   },
@@ -881,6 +1160,37 @@
      "title": "Первичные магнитные поля могут помочь объяснить несовпадающие скорости расширения Вселенной",
      "summary": "Исследование предполагает, что ранние магнитные поля влияли на формирование водорода и космического микроволнового фона, что могло бы согласовать противоречивые измерения космического расширения.",
      "why": "Интересный теоретический намек, который еще нуждается в подтверждении."
+    }
+   }
+  },
+  {
+   "id": "an-el-alamein-forum-african-capital",
+   "title": "African leaders urge unlocking domestic capital at Egypt forum",
+   "summary": "At the first El-Alamein forum, officials and business leaders called for mobilising capital within Africa to cut dependence on outside finance.",
+   "why": "Constructive goals, but no concrete results yet.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/04/african-leaders-call-for-continent-to-unlock-capital-at-egypt-business-summit/",
+   "score": 5,
+   "category": "Society",
+   "region": "Egypt",
+   "published": "2026-10-04T07:31:48Z",
+   "continent": "Africa",
+   "added": "2026-10-06T06:16:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Els líders africans reclamen alliberar el capital domèstic al fòrum d'Egipte",
+     "summary": "Al primer fòrum d'El-Alamein, funcionaris i empresaris van demanar la mobilització de capital dins d'Àfrica per reduir la dependència de finances externes.",
+     "why": "Objectius constructius, però sense resultats concrets fins ara."
+    },
+    "fr": {
+     "title": "Les dirigeants africains pressent le déblocage du capital domestique au forum égyptien",
+     "summary": "Au premier forum d'El-Alamein, les responsables et les chefs d'entreprise ont demandé la mobilisation du capital au sein de l'Afrique pour réduire la dépendance à l'égard du financement extérieur.",
+     "why": "Des objectifs constructifs, mais pas de résultats concrets pour le moment."
+    },
+    "ru": {
+     "title": "Африканские лидеры призывают разблокировать отечественный капитал на египетском форуме",
+     "summary": "На первом форуме Эль-Аламейна должностные лица и деловые лидеры призвали мобилизовать капитал в пределах Африки, чтобы снизить зависимость от внешнего финансирования.",
+     "why": "Конструктивные цели, но пока нет конкретных результатов."
     }
    }
   },
@@ -1536,6 +1846,37 @@
    }
   },
   {
+   "id": "sd-moon-pit-cave-gimli-nasa",
+   "title": "NASA selects project to probe a Moon pit that may lead to a cave",
+   "summary": "The GIMLI project will use radar and seismic sensors to test whether the Marius Hills Pit opens into a subsurface cave or lava tube.",
+   "why": "Interesting exploration with no direct benefit yet.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261003234013.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-10-03T00:47:40Z",
+   "continent": "Global",
+   "added": "2026-10-06T06:16:29Z",
+   "i18n": {
+    "ca": {
+     "title": "La NASA selecciona un projecte per sondejar un pou de la Lluna que pot portar a una cova",
+     "summary": "El projecte GIMLI utilitzarà radar i sensors sísmics per provar si el pou de Marius Hills s'obri a una cova subsuperficial o tub de lava.",
+     "why": "Exploració interessant sense benefici directe encara."
+    },
+    "fr": {
+     "title": "La NASA sélectionne un projet pour explorer un puits lunaire qui pourrait mener à une caverne",
+     "summary": "Le projet GIMLI utilisera le radar et les capteurs sismiques pour tester si le puits de Marius Hills débouche sur une caverne souterraine ou un tube de lave.",
+     "why": "Exploration intéressante sans avantage direct pour le moment."
+    },
+    "ru": {
+     "title": "NASA выбирает проект для исследования лунной ямы, которая может привести в пещеру",
+     "summary": "Проект GIMLI будет использовать радар и сейсмические датчики для проверки того, открывается ли Яма Мариуса в подземную пещеру или лавовый туннель.",
+     "why": "Интересное исследование без прямых выгод пока."
+    }
+   }
+  },
+  {
    "id": "gr-colorado-geothermal-heat-pump-neighborhood",
    "title": "Colorado neighborhood of nearly 100 homes uses ground-source heat pumps",
    "summary": "Geothermal company Dandelion Energy and homebuilder Lennar completed almost 100 homes with ground-source heat pumps, offering a model for future home energy use.",
@@ -1563,6 +1904,37 @@
      "title": "Район Колорадо с почти 100 домами использует геотермальные тепловые насосы",
      "summary": "Компания геотермальной энергии Dandelion Energy и застройщик Lennar завершили строительство почти 100 домов с геотермальными тепловыми насосами, предлагая модель для будущего использования энергии в домах.",
      "why": "Настоящие дома, построенные в масштабе с эффективным чистым отоплением."
+    }
+   }
+  },
+  {
+   "id": "sd-ecadherin-second-job-cell-engulfment",
+   "title": "Cell adhesion protein found to help cells clear dead material",
+   "summary": "E-cadherin, known for holding cells together, also helps epithelial cells engulf dead cellular material.",
+   "why": "Basic research that adds to understanding of tissue health.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm",
+   "score": 6,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-10-02T23:12:55Z",
+   "continent": "Global",
+   "added": "2026-10-06T06:16:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Una proteïna d'adhesió cel·lular és útil per eliminar material cel·lular mort",
+     "summary": "E-cadherina, coneguda per mantenir les cèl·lules juntes, també ajuda les cèl·lules epitelials a engolir material cel·lular mort.",
+     "why": "Investigació bàsica que afegeix comprensió sobre la salut dels teixits."
+    },
+    "fr": {
+     "title": "Une protéine d'adhésion cellulaire aide les cellules à éliminer le matériel mort",
+     "summary": "La cadhérine E, connue pour maintenir les cellules ensemble, aide également les cellules épithéliales à absorber les matériaux cellulaires morts.",
+     "why": "La recherche fondamentale qui ajoute à la compréhension de la santé des tissus."
+    },
+    "ru": {
+     "title": "Белок клеточной адгезии помогает клеткам удалять мёртвый материал",
+     "summary": "Е-кадгерин, известный своей ролью в соединении клеток, также помогает эпителиальным клеткам поглощать мёртвый клеточный материал.",
+     "why": "Фундаментальные исследования, расширяющие понимание здоровья тканей."
     }
    }
   },
@@ -2152,6 +2524,37 @@
      "title": "Женщины несут бремя борьбы с лесными пожарами в сельской Гималайской Индии",
      "summary": "На западных Гималаях сельские женщины являются основными респондентами при лесных пожарах, работая без официального обучения, оборудования или оплаты, когда пожары распространяются.",
      "why": "Подчёркивает трудности и в какой-то мере признаёт роль женщин."
+    }
+   }
+  },
+  {
+   "id": "sd-vagus-nerve-stimulation-motor-learning",
+   "title": "Vagus nerve stimulation helped mice retain new motor skills",
+   "summary": "Stimulating the vagus nerve after practice strengthened motor learning in mice, linked to rhythmic changes in brain blood vessels.",
+   "why": "Promising but early animal research.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261002080034.htm",
+   "score": 6,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-02T08:13:07Z",
+   "continent": "Global",
+   "added": "2026-10-06T06:16:29Z",
+   "i18n": {
+    "ca": {
+     "title": "L'estimulació del nervi vagal va ajudar els ratolins a retenir noves habilitats motores",
+     "summary": "L'estimulació del nervi vagal després de la pràctica va reforçar l'aprenentatge motor en ratolins, vinculat a canvis rítmics en els vasos sanguinis cerebrals.",
+     "why": "Investigació animal prometedora però primerenca."
+    },
+    "fr": {
+     "title": "La stimulation du nerf vague a aidé les souris à retenir de nouvelles compétences motrices",
+     "summary": "La stimulation du nerf vague après la pratique a renforcé l'apprentissage moteur chez les souris, lié à des changements rythmiques dans les vaisseaux sanguins du cerveau.",
+     "why": "Recherche animale prometteuse mais précoce."
+    },
+    "ru": {
+     "title": "Стимуляция блуждающего нерва помогла мышам сохранить новые моторные навыки",
+     "summary": "Стимуляция блуждающего нерва после практики укрепила моторное обучение у мышей, что связано с ритмичными изменениями кровеносных сосудов мозга.",
+     "why": "Многообещающее, но ещё ранее исследование на животных."
     }
    }
   },
