@@ -1,21 +1,52 @@
 {
- "updated": "2026-10-06T12:14:48Z",
+ "updated": "2026-10-07T00:16:00Z",
  "sources": [
   "Positive News",
+  "The Optimist Daily",
+  "The Better India",
+  "Mongabay",
   "Good News Network",
   "Reasons to be Cheerful",
   "ScienceDaily",
-  "Mongabay",
-  "The Optimist Daily",
-  "The Better India",
   "Anthropocene Magazine",
   "Grist",
   "Africanews"
  ],
- "count": 152,
- "last_run": "run-20261006T1214Z.json",
- "note": "10 new, 133 skipped, 0 pruned, 0 translations added, failed feeds: none",
+ "count": 159,
+ "last_run": "run-20261007T0016Z.json",
+ "note": "8 new, 143 skipped, 1 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "tbi-kargil-teacher-war-bunker-classrooms",
+   "title": "Kargil teacher turns old war bunkers into history classrooms",
+   "summary": "An educator in Kargil has converted abandoned military bunkers into interactive classrooms where children learn the region's history by experiencing it first-hand.",
+   "why": "Creative local education initiative that benefits a community, though limited in reach.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/web-stories/education/kargil-teacher-mohd-mustafa-kamal-war-bunker-history-classroom-children-12629771",
+   "score": 7,
+   "category": "Society",
+   "region": "Kargil, India",
+   "published": "2026-10-06T13:30:37Z",
+   "continent": "Asia",
+   "added": "2026-10-07T00:16:00Z",
+   "i18n": {
+    "ca": {
+     "title": "Mestre de Kargil converteix búnquers de guerra abandonats en aules d'història",
+     "summary": "Un educador a Kargil ha convertit búnquers militars abandonats en aules interactives on els nens aprenen la història de la regió experimentant-la de primera mà.",
+     "why": "Iniciativa local d'educació creativa que beneficia una comunitat, tot que limitada en abast."
+    },
+    "fr": {
+     "title": "Un enseignant de Kargil transforme d'anciens bunkers de guerre en salles de classe d'histoire",
+     "summary": "Un éducateur à Kargil a transformé des bunkers militaires abandonnés en salles de classe interactives où les enfants apprennent l'histoire de la région en la vivant de première main.",
+     "why": "Initiative locale d'éducation créative qui profite à une communauté, bien que limitée en portée."
+    },
+    "ru": {
+     "title": "Учитель из Каргила превратил старые военные бункеры в классные комнаты истории",
+     "summary": "Преподаватель в Каргиле переоборудовал заброшенные военные бункеры в интерактивные аудитории, где дети изучают историю региона, переживая её на собственном опыте.",
+     "why": "Творческая местная образовательная инициатива, приносящая пользу сообществу, хотя и имеет ограниченный охват."
+    }
+   }
+  },
   {
    "id": "tbi-bihar-village-school-offline-smart-classes",
    "title": "Bihar village school teaches 660 students with offline digital lessons",
@@ -141,6 +172,37 @@
    }
   },
   {
+   "id": "pn-women-elephant-conservation-community",
+   "title": "Women across Africa take leadership roles in community-based elephant conservation",
+   "summary": "Women in several African countries are taking on leadership in elephant protection, challenging traditional assumptions and putting local community engagement at the centre of conservation work.",
+   "why": "Inclusive, community-led conservation is a promising model, though the article describes a trend rather than a measured outcome.",
+   "source": "Positive News",
+   "url": "https://www.positive.news/environment/the-women-putting-community-at-the-heart-of-elephant-conservation/",
+   "score": 7,
+   "category": "Animals",
+   "region": "Africa",
+   "published": "2026-10-06T07:00:43Z",
+   "continent": "Africa",
+   "added": "2026-10-07T00:16:00Z",
+   "i18n": {
+    "ca": {
+     "title": "Dones a l'Àfrica assumeixen rols de lideratge en la conservació comunitària d'elefants",
+     "summary": "Dones en varis països africans s'estan fent càrrec del lideratge en la protecció d'elefants, desafiant assumpcions tradicionals i col·locant la participació de la comunitat local al centre de la feina de conservació.",
+     "why": "La conservació inclusiva liderada per la comunitat és un model promès, tot que l'article descriu una tendència més que un resultat mesurat."
+    },
+    "fr": {
+     "title": "Des femmes en Afrique accèdent à des postes de direction dans la conservation communautaire des éléphants",
+     "summary": "Des femmes dans plusieurs pays africains assument un rôle de direction dans la protection des éléphants, remettant en question les idées reçues et plaçant l'engagement des communautés locales au cœur de la conservation.",
+     "why": "La conservation inclusive menée par la communauté est un modèle prometteur, bien que l'article décrive une tendance plutôt qu'un résultat mesuré."
+    },
+    "ru": {
+     "title": "Женщины Африки занимают лидирующие роли в охране слонов на уровне сообществ",
+     "summary": "Женщины в нескольких африканских странах принимают на себя руководство в защите слонов, бросая вызов традиционным убеждениям и ставя участие местных сообществ в центр природоохранной деятельности.",
+     "why": "Инклюзивная охрана природы, возглавляемая сообществами, является перспективной моделью, хотя в статье описывается скорее тенденция, чем измеримый результат."
+    }
+   }
+  },
+  {
    "id": "tbi-bihar-migratory-birds-ramsar-reservoirs",
    "title": "Two Bihar reservoirs host thousands of migratory birds",
    "summary": "Nagi and Nakti reservoirs in Bihar, recognised as Ramsar wetlands in 2024, receive thousands of migratory birds each winter from the Arctic and Eurasia.",
@@ -168,6 +230,37 @@
      "title": "Два водохранилища в Бихаре принимают тысячи перелётных птиц",
      "summary": "Водохранилища Наги и Накти в Бихаре, признанные в 2024 году водно-болотными угодьями Рамсар, каждую зиму принимают тысячи перелётных птиц из Арктики и Евразии.",
      "why": "Защищённые водно-болотные угодья поддерживают миграцию птиц."
+    }
+   }
+  },
+  {
+   "id": "tbi-ladakh-sustainable-living-lessons",
+   "title": "Ladakh's blend of traditional ecology and modern comforts offers sustainability lessons",
+   "summary": "A feature looks at how people in Ladakh combine traditional ecological knowledge with contemporary conveniences to live more sustainably.",
+   "why": "Inspiring examples of sustainable living, but descriptive rather than a concrete new result.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/web-stories/sustainability/ladakh-sustainable-living-lessons-12626300",
+   "score": 6,
+   "category": "Environment",
+   "region": "Ladakh, India",
+   "published": "2026-10-06T04:30:37Z",
+   "continent": "Asia",
+   "added": "2026-10-07T00:16:00Z",
+   "i18n": {
+    "ca": {
+     "title": "La barreja de Ladakh entre ecologia tradicional i comoditats modernes ofereix lliçons de sostenibilitat",
+     "summary": "Un reportatge examina com les persones a Ladakh combinen el coneixement ecològic tradicional amb les comoditats contemporànies per viure de manera més sostenible.",
+     "why": "Exemples inspiradors de vida sostenible, però descriptius més que un resultat concret nou."
+    },
+    "fr": {
+     "title": "Le mélange du Ladakh entre écologie traditionnelle et confort moderne offre des leçons de durabilité",
+     "summary": "Un reportage examine comment les habitants du Ladakh combinent le savoir écologique traditionnel avec les commodités contemporaines pour vivre de manière plus durable.",
+     "why": "Des exemples inspirants de vie durable, mais plutôt descriptifs qu'un résultat concret nouveau."
+    },
+    "ru": {
+     "title": "Сочетание Ладакхом традиционной экологии и современного комфорта предлагает уроки устойчивости",
+     "summary": "Репортаж рассматривает, как люди в Ладакхе сочетают традиционные экологические знания с современными удобствами для более устойчивого образа жизни.",
+     "why": "Вдохновляющие примеры устойчивого образа жизни, но скорее описательные, чем конкретный новый результат."
     }
    }
   },
@@ -203,6 +296,37 @@
    }
   },
   {
+   "id": "mb-indonesia-forest-data-download-penalties",
+   "title": "Indonesia restricts access to forest data, warning of prison for downloads",
+   "summary": "Indonesia's forestry ministry has limited access to geospatial forest data and warned of prison terms of up to nine years for unauthorised downloads, worrying environmental researchers.",
+   "why": "Restricting forest data could hinder monitoring and research.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/indonesia-threatens-prison-time-for-unauthorized-downloads-of-forest-data/",
+   "score": 3,
+   "category": "Environment",
+   "region": "Indonesia",
+   "published": "2026-10-06T02:59:01Z",
+   "continent": "Asia",
+   "added": "2026-10-07T00:16:00Z",
+   "i18n": {
+    "ca": {
+     "title": "Indonèsia restringeix l'accés a dades forestals, advertint de presó per descarregues",
+     "summary": "El ministeri de silvicultura d'Indonèsia ha limitat l'accés a dades geoespacials forestals i ha advertit de condemnes de presó de fins a nou anys per descarregues no autoritzades, preocupant els investigadors mediambientals.",
+     "why": "Restringir dades forestals podria obstaculitzar la monitorització i la recerca."
+    },
+    "fr": {
+     "title": "L'Indonésie restreint l'accès aux données forestières, menaçant de prison pour les téléchargements",
+     "summary": "Le ministère des forêts indonésien a limité l'accès aux données géospatiales forestières et averti de peines d'emprisonnement pouvant aller jusqu'à neuf ans pour les téléchargements non autorisés, inquiétant les chercheurs en environnement.",
+     "why": "La restriction de l'accès aux données forestières pourrait entraver la surveillance et la recherche."
+    },
+    "ru": {
+     "title": "Индонезия ограничивает доступ к данным о лесах, предупреждая о тюремном заключении за загрузки",
+     "summary": "Министерство лесного хозяйства Индонезии ограничило доступ к геопространственным данным о лесах и предупредило о тюремных сроках до девяти лет за несанкционированные загрузки, вызывая озабоченность экологических исследователей.",
+     "why": "Ограничение доступа к данным о лесах может препятствовать мониторингу и исследованиям."
+    }
+   }
+  },
+  {
    "id": "tbi-bengaluru-engineer-bosphorus-swim",
    "title": "Bengaluru cybersecurity engineer swims from Asia to Europe across the Bosphorus",
    "summary": "Akshay Sharma, who began with a 1 km run, completed the 6.5 km Bosphorus Cross-Continental Swimming Race in August 2026 while keeping a demanding full-time job.",
@@ -234,6 +358,68 @@
    }
   },
   {
+   "id": "od-eating-with-companions-blood-sugar",
+   "title": "Eating with close companions linked to better blood sugar control",
+   "summary": "A Hebrew University study found that people who ate meals with close companions had measurably better blood sugar control than when eating alone, suggesting social closeness affects physiology.",
+   "why": "Useful health insight from a single study, with modest and uncertain real-world impact.",
+   "source": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/10/social-physiology-the-hidden-health-cost-of-eating-alone-according-to-science/",
+   "score": 6,
+   "category": "Health",
+   "region": "Israel",
+   "published": "2026-10-06T00:00:41Z",
+   "continent": "Asia",
+   "added": "2026-10-07T00:16:00Z",
+   "i18n": {
+    "ca": {
+     "title": "Menjar amb acompanyants pròxims està vinculat a un millor control del sucre en sang",
+     "summary": "Un estudi de la Universitat Hebrea va descobrir que les persones que menjaven amb acompanyants pròxims tenien un control del sucre en sang sensiblement millor que quan menjaven soles, suggerint que la proximitat social afecta la fisiologia.",
+     "why": "Informació útil sobre salut d'un sol estudi, amb impacte modest i incert en la realitat."
+    },
+    "fr": {
+     "title": "Manger avec des compagnons proches est lié à un meilleur contrôle du glucose sanguin",
+     "summary": "Une étude de l'Université hébraïque a montré que les personnes qui prenaient leurs repas avec des compagnons proches avaient un meilleur contrôle du glucose sanguin que lorsqu'elles mangeaient seules, suggérant que la proximité sociale affecte la physiologie.",
+     "why": "Information utile en matière de santé provenant d'une seule étude, avec un impact modeste et incertain dans la pratique."
+    },
+    "ru": {
+     "title": "Совместная еда с близкими людьми связана с лучшим контролем уровня сахара в крови",
+     "summary": "Исследование Еврейского университета показало, что люди, которые едят с близкими людьми, имеют значительно лучший контроль уровня сахара в крови, чем когда они едят в одиночку, что предполагает влияние социальной близости на физиологию.",
+     "why": "Полезная информация о здоровье из одного исследования с скромным и неопределённым влиянием на реальную практику."
+    }
+   }
+  },
+  {
+   "id": "od-backyard-birds-autumn-tips",
+   "title": "Ornithologist shares ways to help migrating birds in autumn gardens",
+   "summary": "An ornithologist suggests native plantings, moving water and window safety measures to make residential yards more welcoming and safer for birds passing through during autumn migration.",
+   "why": "Practical, low-cost help for wildlife, but small in scale.",
+   "source": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/10/6-things-that-will-bring-more-birds-to-your-backyard-this-autumn/",
+   "score": 5,
+   "category": "Animals",
+   "region": "Global",
+   "published": "2026-10-06T00:00:21Z",
+   "continent": "Global",
+   "added": "2026-10-07T00:16:00Z",
+   "i18n": {
+    "ca": {
+     "title": "Ornitòleg comparteix maneres d'ajudar ocells migratoris en jardins de tardor",
+     "summary": "Un ornitòleg suggereix plantacions natives, moure aigua i mesures de seguretat de finestres per fer els jardins residencials més acollidors i segurs per a ocells que passen durant la migració de tardor.",
+     "why": "Ajuda pràctica i de baix cost per a la vida salvatge, però reduïda en escala."
+    },
+    "fr": {
+     "title": "Un ornithologue partage des moyens d'aider les oiseaux migrateurs dans les jardins d'automne",
+     "summary": "Un ornithologue suggère des plantations indigènes, le déplacement d'eau et des mesures de sécurité des fenêtres pour rendre les jardins résidentiels plus accueillants et plus sûrs pour les oiseaux qui passent lors de la migration d'automne.",
+     "why": "Une aide pratique et peu coûteuse pour la faune, mais limitée en envergure."
+    },
+    "ru": {
+     "title": "Орнитолог делится способами помощи мигрирующим птицам в осенних садах",
+     "summary": "Орнитолог предлагает высаживать местные растения, создавать источники воды и принимать меры по безопасности окон, чтобы сделать жилые участки более гостеприимными и безопасными для птиц, проходящих через них во время осенней миграции.",
+     "why": "Практическая и недорогая помощь дикой природе, но ограниченная по масштабам."
+    }
+   }
+  },
+  {
    "id": "mb-sabine-schoppe-palawan-turtle-refuge",
    "title": "Conservationist who built Palawan forest turtle refuge dies",
    "summary": "Sabine Schoppe, who founded a sanctuary for the endangered Palawan forest turtle in the Philippines, has died; her refuge continues as part of her legacy.",
@@ -261,6 +447,37 @@
      "title": "Умерла защитница окружающей среды, которая построила убежище для черепах лесов Палавана",
      "summary": "Сабине Шоппе, которая основала святилище для находящейся под угрозой исчезновения палаванской лесной черепахи на Филиппинах, скончалась; её убежище продолжает существовать как часть её наследия.",
      "why": "Потеря, смягченная продолжительной природоохранной работой, которую она оставляет позади."
+    }
+   }
+  },
+  {
+   "id": "mb-suriname-illegal-settlers-eviction",
+   "title": "Suriname struggles to remove illegal settlers from Amazon rainforest",
+   "summary": "Suriname has issued eviction notices and court orders against illegal settlers, including Mennonite farming communities, but is finding enforcement difficult, leaving the rainforest's future uncertain.",
+   "why": "Legal action is a step toward protection, but enforcement is stalling.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/uncertainty-mounts-as-suriname-struggles-to-evict-illegal-settlers-in-the-amazon/",
+   "score": 4,
+   "category": "Environment",
+   "region": "Suriname",
+   "published": "2026-10-05T19:03:50Z",
+   "continent": "South America",
+   "added": "2026-10-07T00:16:00Z",
+   "i18n": {
+    "ca": {
+     "title": "Surinam té dificultats per expulsar colons il·legals de la selva tropical amazònica",
+     "summary": "Surinam ha emès avisos de desallotjament i ordres judicials contra colons il·legals, incloses comunitats de pagesos mennonites, però té dificultats en l'aplicació, deixant el futur de la selva tropical incert.",
+     "why": "L'acció legal és un pas cap a la protecció, però l'aplicació s'està paralitzant."
+    },
+    "fr": {
+     "title": "Le Surinam a du mal à expulser les colons illégaux de la forêt amazonienne",
+     "summary": "Le Surinam a émis des avis d'expulsion et des ordonnances judiciaires contre les colons illégaux, notamment les communautés agricoles mennonites, mais l'exécution s'avère difficile, laissant l'avenir de la forêt tropicale incertain.",
+     "why": "L'action en justice est une étape vers la protection, mais l'application s'arrête."
+    },
+    "ru": {
+     "title": "Суринам испытывает трудности с выселением незаконных поселенцев из амазонских тропических лесов",
+     "summary": "Суринам выдал уведомления об изгнании и судебные приказы в отношении незаконных поселенцев, включая менноритские сельскохозяйственные общины, но сталкивается с трудностями при их исполнении, оставляя будущее тропического леса неопределённым.",
+     "why": "Судебное разбирательство — это шаг к защите, но исполнение замораживается."
     }
    }
   },
@@ -850,6 +1067,37 @@
      "title": "Подросток ищет артефакты на берегу Темзы, чтобы раскрыть утраченную историю Лондона",
      "summary": "14-летняя девочка с почти десятилетним опытом ищет фрагменты истории города на берегу Темзы, восстанавливая предметы, рассказывающие о жизни лондонцев прошлых времён.",
      "why": "Приятная историческая история с ограниченным более широким влиянием."
+    }
+   }
+  },
+  {
+   "id": "mb-latin-american-species-bangkok-market",
+   "title": "Latin American wildlife increasingly turns up in Bangkok pet market",
+   "summary": "Amazonian animals including marmosets, capuchins and rare fish are appearing more often in Southeast Asian exotic pet markets, reportedly laundered through Peru as captive-bred.",
+   "why": "Growing wildlife trafficking is bad, but the reporting helps expose it.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/more-latin-american-species-are-surfacing-at-a-bangkok-wildlife-market/",
+   "score": 3,
+   "category": "Animals",
+   "region": "Thailand",
+   "published": "2026-10-05T06:43:35Z",
+   "continent": "Asia",
+   "added": "2026-10-07T00:16:00Z",
+   "i18n": {
+    "ca": {
+     "title": "La vida silvestre llatinoamericana apareix cada vegada més en el mercat de mascotes de Bangkok",
+     "summary": "Animals amazònics inclosos saimirs, capucins i peixos rars apareixen amb més freqüència en els mercats exòtics de mascotes del sud-est asiàtic, presumptament blanquejats a través del Perú com a reproducció en cautiveri.",
+     "why": "El tràfic de vida silvestre creixent és negatiu, però la informació ajuda a exposar-lo."
+    },
+    "fr": {
+     "title": "La faune latino-américaine réapparaît de plus en plus sur le marché des animaux de compagnie à Bangkok",
+     "summary": "Les animaux amazoniens, notamment les ouistitis, les capucins et les poissons rares, apparaissent de plus en plus souvent sur les marchés d'animaux exotiques du sud-est asiatique, apparemment blanchis via le Pérou en tant qu'élevage en captivité.",
+     "why": "Le trafic de faune sauvage croissant est mauvais, mais le reportage aide à l'exposer."
+    },
+    "ru": {
+     "title": "Латиноамериканская дикая природа всё чаще появляется на рынке домашних животных в Бангкоке",
+     "summary": "Амазонские животные, включая мармозеток, капуцинов и редких рыб, всё чаще появляются на рынках экзотических домашних животных Юго-Восточной Азии, предположительно отмытые через Перу как животные, разводимые в неволе.",
+     "why": "Растущий оборот дикой природы — это плохо, но информирование помогает его разоблачить."
     }
    }
   },
@@ -4694,37 +4942,6 @@
      "title": "Нью-Йорк взыскал 131 млн долларов для курьеров DoorDash",
      "summary": "Город урегулировал с DoorDash нарушения в оплате труда, и более 115 млн долларов получат напрямую курьеры, которым недоплачивали.",
      "why": "Крупная прямая выплата низкооплачиваемым работникам."
-    }
-   }
-  },
-  {
-   "id": "gnn-oregon-billion-gift",
-   "title": "Phil Knight gives $1 billion to the University of Oregon",
-   "summary": "The Nike co-founder's gift is the largest single donation ever made to a US public university.",
-   "why": "Big boost for public education; benefits concentrated in one institution.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/nike-founder-phil-knight-donates-1-billion-to-oregon-university/",
-   "score": 6,
-   "category": "Society",
-   "region": "USA",
-   "published": "2026-09-26T22:29:05Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "North America",
-   "i18n": {
-    "ca": {
-     "title": "Phil Knight dona 1.000 milions de dòlars a la Universitat d'Oregon",
-     "summary": "El cofundador de Nike ha fet la donació individual més gran mai rebuda per una universitat pública dels EUA.",
-     "why": "Gran impuls a l'educació pública, tot i que el benefici es concentra en una sola institució."
-    },
-    "fr": {
-     "title": "Phil Knight donne un milliard de dollars à l'université de l'Oregon",
-     "summary": "Le cofondateur de Nike a fait le plus gros don individuel jamais reçu par une université publique américaine.",
-     "why": "Un grand coup de pouce à l'enseignement public, mais concentré sur un seul établissement."
-    },
-    "ru": {
-     "title": "Фил Найт пожертвовал 1 млрд долларов Орегонскому университету",
-     "summary": "Дар сооснователя Nike — крупнейшее единовременное пожертвование государственному университету в истории США.",
-     "why": "Большая поддержка государственного образования, но польза сосредоточена в одном вузе."
     }
    }
   }
