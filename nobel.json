@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "ceremony": "2026-12-10",
- "updated": "2026-10-06T10:39:46Z",
+ "updated": "2026-10-07T13:34:14Z",
  "prizes": [
   {
    "id": "medicine",
@@ -166,7 +166,84 @@
   {
    "id": "chemistry",
    "at": "2026-10-07T09:45:00Z",
-   "status": "upcoming"
+   "status": "announced",
+   "laureates": [
+    {
+     "name": "Henri B. Kagan",
+     "info": "born 1931, France · Paris-Sud University, Orsay, France",
+     "profile": "Kagan is a French chemist who spent his career at the university in Orsay, near Paris. He studied how reactions can be steered toward only one of two mirror-image forms of a molecule, and showed that the purity of a catalyst and the purity of its product are linked in surprising, non-linear ways."
+    },
+    {
+     "name": "Kenso Soai",
+     "info": "born 1950, Japan · Tokyo University of Science, Japan (professor emeritus)",
+     "profile": "Soai is a Japanese chemist at the Tokyo University of Science. He discovered a reaction in which the product helps to make more of itself, so that a tiny imbalance between mirror-image forms grows until one form almost completely dominates."
+    }
+   ],
+   "motivation": "The prize recognises the \"discovery of non-linear effects and autocatalysis\" in asymmetric organic synthesis: ways to make molecules in just one of their two mirror-image forms.",
+   "explainer": "Many molecules come in two versions that are mirror images of each other, like your left and right hands. They have the same ingredients, but they can behave very differently in the body: one version of a drug may heal while its mirror twin does harm, and the tragedy of thalidomide is the famous example. So chemists want to build only the version they need. Henri Kagan found that this is not as simple as 'a bit of pure catalyst gives a bit of pure product'. In some cases the result changes in unexpected, non-linear ways, which taught chemists how to design better catalysts. Kenso Soai went further. He found a reaction where the product itself speeds up the making of more of the same product. Start with only a minuscule excess of one hand, and the reaction keeps boosting it until almost everything is that one hand. Think of a snowball rolling downhill: a tiny lump at the start picks up more and more snow, and soon it is one huge ball. Their discoveries help industry make medicines, flavours and fragrances in the right form, and they offer clues about how nature ended up favouring one hand in the molecules of life.",
+   "why": "Making only the useful mirror-image form of a molecule helps produce safer and more effective medicines. The work also gives scientists hints about why life on Earth uses molecules of one handedness.",
+   "sources": [
+    {
+     "title": "Open Magazine: Nobel Prize in Chemistry 2026, Henri Kagan and Kenso Soai",
+     "url": "https://openthemagazine.com/world/nobel-prize-in-chemistry-2026-henri-kagan-and-kenso-soai-win-for-solving-a-century-old-molecular-mystery"
+    },
+    {
+     "title": "BigGo Finance: Nobel Prize in Chemistry awarded to Kenso Soai and Henri Kagan",
+     "url": "https://finance.biggo.com/news/139d4cc2-cd94-4dcc-b03a-4ce2b15bd7cd"
+    },
+    {
+     "title": "NPR: Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
+     "url": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry"
+    }
+   ],
+   "updated": "2026-10-07T12:57:09Z",
+   "i18n": {
+    "ca": {
+     "motivation": "El premi reconeix el «descobriment d'efectes no lineals i autocatàlisi» en síntesi orgànica asimètrica: formes de crear molècules en només una de les seves dues formes d'imatge mirall.",
+     "explainer": "Moltes molècules venen en dues versions que són imatges mirall l'una de l'altra, com les teves mans esquerra i dreta. Tenen els mateixos ingredients, però es poden comportar de forma molt diferent en el cos: una versió d'un medicament pot sanar mentre que la seva gèmela mirall fa mal, i la tragèdia de la talidomida és l'exemple famós. Així que els químics volen construir només la versió que necessiten. Henri Kagan va descobrir que no és tan simple com «un poc de catalitzador pur dóna un poc de producte pur». En alguns casos el resultat canvia de formes inesperades, no lineals, que va ensenyar als químics com dissenyar millors catalitzadors. Kenso Soai va anar més lluny. Va trobar una reacció on el producte mateix accelera la creació de més del mateix producte. Comença amb només un excés minúscul d'una mà, i la reacció segueix incrementant-la fins que gairebé tot és d'aquella mà. Pensa en una bola de neu rodant avall: una petita peça al principi agafa més i més neu, i aviat és una bola enorme. Els seus descobriments ajuden la indústria a fabricar medicaments, sabors i fragràncies en la forma correcta, i ofereixen pistes sobre com la natura va acabar afavorint una mà en les molècules de la vida.",
+     "why": "Fer només la forma d'imatge mirall útil d'una molècula ajuda a produir medicaments més segurs i més efectius. El treball també proporciona als científics pistes sobre per què la vida a la Terra utilitza molècules d'una sola direccionalitat.",
+     "profiles": {
+      "Henri B. Kagan": {
+       "info": "nascut 1931, França · Universitat de París-Sud, Orsay, França",
+       "profile": "Kagan és un químic francès que va passar la seva carrera a la universitat d'Orsay, a prop de París. Va estudiar com es poden dirigir les reaccions cap a només una de les dues formes d'imatge mirall d'una molècula, i va mostrar que la puresa d'un catalitzador i la puresa del seu producte estan vinculades de formes sorprenents, no lineals."
+      },
+      "Kenso Soai": {
+       "info": "nascut 1950, Japó · Universitat de Ciència de Tòquio, Japó (professor emèrit)",
+       "profile": "Soai és un químic japonès de la Universitat de Ciència de Tòquio. Va descobrir una reacció en la qual el producte ajuda a fer més de si mateix, de manera que un petit desequilibri entre formes d'imatge mirall creix fins que una forma gairebé completament domina."
+      }
+     }
+    },
+    "fr": {
+     "motivation": "Le prix reconnaît la « découverte d'effets non-linéaires et d'autocatalyse » en synthèse organique asymétrique : des façons de créer des molécules dans une seule de leurs deux formes en miroir.",
+     "explainer": "De nombreuses molécules existent en deux versions qui sont des images miroir l'une de l'autre, comme vos mains gauche et droite. Elles ont les mêmes ingrédients, mais elles peuvent se comporter très différemment dans le corps : une version d'un médicament peut guérir tandis que son jumeau miroir fait du mal, et la tragédie de la thalidomide en est l'exemple célèbre. Ainsi, les chimistes veulent construire uniquement la version dont ils ont besoin. Henri Kagan a découvert que ce n'est pas aussi simple que « un peu de catalyseur pur donne un peu de produit pur ». Dans certains cas, le résultat change de manière inattendue, non-linéaire, ce qui a enseigné aux chimistes comment concevoir de meilleurs catalyseurs. Kenso Soai a été plus loin. Il a découvert une réaction où le produit lui-même accélère la création de plus du même produit. Commencez avec seulement un excès minuscule d'une main, et la réaction continue de l'augmenter jusqu'à ce que presque tout soit de cette main. Pensez à une boule de neige roulant en bas d'une pente : un petit morceau au début ramasse de plus en plus de neige, et bientôt c'est une énorme boule. Leurs découvertes aident l'industrie à fabriquer des médicaments, des saveurs et des parfums sous la bonne forme, et elles offrent des indices sur la façon dont la nature a fini par favoriser une main dans les molécules de la vie.",
+     "why": "Créer uniquement la forme en miroir utile d'une molécule aide à produire des médicaments plus sûrs et plus efficaces. Le travail offre également aux scientifiques des indices sur la raison pour laquelle la vie sur Terre utilise des molécules d'une seule chiralité.",
+     "profiles": {
+      "Henri B. Kagan": {
+       "info": "né en 1931, France · Université Paris-Sud, Orsay, France",
+       "profile": "Kagan est un chimiste français qui a passé sa carrière à l'université d'Orsay, près de Paris. Il a étudié comment les réactions peuvent être dirigées vers une seule des deux formes en miroir d'une molécule, et a montré que la pureté d'un catalyseur et la pureté de son produit sont liées de manière surprenante, non-linéaire."
+      },
+      "Kenso Soai": {
+       "info": "né en 1950, Japon · Université des Sciences de Tokyo, Japon (professeur émérite)",
+       "profile": "Soai est un chimiste japonais à l'Université des Sciences de Tokyo. Il a découvert une réaction dans laquelle le produit aide à créer plus de lui-même, de sorte qu'un léger déséquilibre entre les formes en miroir se renforce jusqu'à ce qu'une forme domine presque complètement."
+      }
+     }
+    },
+    "ru": {
+     "motivation": "Премия признает «открытие нелинейных эффектов и автокатализа» в асимметричном органическом синтезе: способы создания молекул только в одной из двух их зеркальных форм.",
+     "explainer": "Многие молекулы существуют в двух версиях, которые являются зеркальными изображениями друг друга, как ваши левая и правая руки. Они содержат одинаковые компоненты, но могут вести себя совершенно по-разному в организме: одна версия лекарства может исцелять, в то время как её зеркальный двойник вредит, и трагедия талидомида — классический пример. Поэтому химики хотят синтезировать только нужную им версию. Анри Каган обнаружил, что это не так просто, как «немного чистого катализатора дает немного чистого продукта». В некоторых случаях результат изменяется неожиданным образом, нелинейно, что научило химиков проектировать лучшие катализаторы. Кенсо Сои пошел ещё дальше. Он открыл реакцию, в которой сам продукт ускоряет создание большего количества того же продукта. Начните с только микроскопического избытка одной формы, и реакция продолжает его увеличивать, пока почти всё не станет этой формой. Подумайте о снежном коме, катящемся вниз с горы: маленький комок в начале собирает всё больше и больше снега, и вскоре это огромный шар. Их открытия помогают промышленности производить лекарства, ароматизаторы и духи в правильной форме, и они дают учёным подсказки о том, почему жизнь на Земле использует молекулы одной хиральности.",
+     "why": "Создание только полезной зеркальной формы молекулы помогает производить более безопасные и эффективные лекарства. Работа также дает учёным подсказки о том, почему жизнь на Земле использует молекулы одной хиральности.",
+     "profiles": {
+      "Henri B. Kagan": {
+       "info": "родился в 1931 году, Франция · Университет Париж-Юг, Орсе, Франция",
+       "profile": "Каган — французский химик, который провел свою карьеру в университете Орсе, недалеко от Парижа. Он изучал, как реакции можно направить в сторону только одной из двух зеркальных форм молекулы, и показал, что чистота катализатора и чистота его продукта связаны неожиданным, нелинейным образом."
+      },
+      "Kenso Soai": {
+       "info": "родился в 1950 году, Япония · Токийский университет науки, Япония (профессор-эмерит)",
+       "profile": "Сои — японский химик из Токийского университета науки. Он открыл реакцию, в которой продукт помогает создавать большее количество самого себя, так что небольшой дисбаланс между зеркальными формами растет, пока одна форма почти полностью не доминирует."
+      }
+     }
+    }
+   }
   },
   {
    "id": "literature",
@@ -184,5 +261,5 @@
    "status": "upcoming"
   }
  ],
- "source_file": "nobel-20261006T1025Z.json"
+ "source_file": "nobel-20261007T1258Z.json"
 }
