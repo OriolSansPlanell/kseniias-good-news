@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T12:18:40Z",
+ "updated": "2026-10-07T18:13:14Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,10 +12,165 @@
   "Grist",
   "Africanews"
  ],
- "count": 181,
- "last_run": "run-20261007T1218Z.json",
- "note": "24 new, 133 skipped, 2 pruned, 0 translations added, failed feeds: none",
+ "count": 192,
+ "last_run": "run-20261007T1813Z.json",
+ "note": "12 new, 142 skipped, 1 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "tbi-wti-scroll-spot-stop",
+   "title": "Wildlife Trust of India campaign targets online wildlife trafficking",
+   "summary": "An analysis by Wildlife Trust of India shows how illegal wildlife sales move through social media. Its 'Scroll, Spot, Stop' initiative shows the public how to report them.",
+   "why": "Raises awareness and gives people a way to act, but the trade continues.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/wildlife/online-wildlife-trafficking-exotic-pet-trade-india-12634669",
+   "score": 5,
+   "category": "Animals",
+   "region": "India",
+   "published": "2026-10-07T14:30:37Z",
+   "continent": "Asia",
+   "added": "2026-10-07T18:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "La campanya del Wildlife Trust of India contra el tràfic de fauna en línia",
+     "summary": "Una anàlisi del Wildlife Trust of India mostra com es mouen per les xarxes socials les vendes il·legals de fauna. La seva iniciativa 'Scroll, Spot, Stop' ensenya al públic com denunciar-les.",
+     "why": "Sensibilitza i ofereix a la gent una manera d'actuar, però el comerç continua."
+    },
+    "fr": {
+     "title": "Une campagne du Wildlife Trust of India contre le trafic d'animaux sauvages en ligne",
+     "summary": "Une analyse du Wildlife Trust of India montre comment la vente illégale d'animaux sauvages circule sur les réseaux sociaux. Son initiative « Scroll, Spot, Stop » explique au public comment les signaler.",
+     "why": "Elle sensibilise et donne aux gens un moyen d'agir, mais le trafic se poursuit."
+    },
+    "ru": {
+     "title": "Кампания Wildlife Trust of India против онлайн-торговли дикими животными",
+     "summary": "Анализ Wildlife Trust of India показывает, как незаконная торговля дикими животными распространяется через соцсети. Его инициатива «Scroll, Spot, Stop» объясняет людям, как сообщать о таких случаях.",
+     "why": "Повышает осведомлённость и даёт людям возможность действовать, но торговля продолжается."
+    }
+   }
+  },
+  {
+   "id": "tbi-raipur-forest-seeds-business",
+   "title": "Raipur family turns forest seeds into chocolate and cosmetic ingredients",
+   "summary": "A family business in Raipur has grown to about Rs 1,357 crore by processing forest seeds into ingredients for chocolate and cosmetics.",
+   "why": "A local enterprise making use of overlooked natural materials.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/web-stories/startup/raipur-saraf-family-manorama-industries-forest-seeds-chocolate-cosmetics-business-12634629",
+   "score": 6,
+   "category": "Society",
+   "region": "Raipur, India",
+   "published": "2026-10-07T13:46:10Z",
+   "continent": "Asia",
+   "added": "2026-10-07T18:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Una família de Raipur transforma llavors silvestres en ingredients per a xocolata i cosmètics",
+     "summary": "Un negoci familiar de Raipur ha crescut fins a Rs 1,357 crore aproximadament processant llavors silvestres per obtenir ingredients per a xocolata i cosmètics.",
+     "why": "Una empresa local que aprofita materials naturals poc valorats."
+    },
+    "fr": {
+     "title": "Une famille de Raipur transforme des graines forestières en ingrédients pour le chocolat et les cosmétiques",
+     "summary": "Une entreprise familiale de Raipur a grandi pour atteindre environ Rs 1,357 crore en transformant des graines forestières en ingrédients pour le chocolat et les cosmétiques.",
+     "why": "Une entreprise locale qui valorise des matières naturelles négligées."
+    },
+    "ru": {
+     "title": "Семья из Райпура превращает лесные семена в ингредиенты для шоколада и косметики",
+     "summary": "Семейный бизнес из Райпура вырос примерно до Rs 1,357 crore благодаря переработке лесных семян в ингредиенты для шоколада и косметики.",
+     "why": "Местное предприятие, использующее забытые природные материалы."
+    }
+   }
+  },
+  {
+   "id": "tbi-mishmi-takin-arunachal",
+   "title": "Study maps habitat of the little-known Mishmi takin in Arunachal Pradesh",
+   "summary": "Researchers combined Indigenous knowledge with camera-trap surveys to map the seasonal movements and habitat use of the Mishmi takin in the Dibang Valley.",
+   "why": "Useful conservation knowledge built with local communities.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/travel/mishmi-takin-dibang-valley-arunachal-pradesh-12634214",
+   "score": 6,
+   "category": "Animals",
+   "region": "Arunachal Pradesh, India",
+   "published": "2026-10-07T12:26:14Z",
+   "continent": "Asia",
+   "added": "2026-10-07T18:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Un estudi cartografia l'hàbitat del takin de Mishmi, poc conegut, a Arunachal Pradesh",
+     "summary": "Investigadors han combinat el coneixement indígena amb enquestes amb càmeres trampa per cartografiar els moviments estacionals i l'ús de l'hàbitat del takin de Mishmi a la vall de Dibang.",
+     "why": "Coneixement útil per a la conservació, construït amb les comunitats locals."
+    },
+    "fr": {
+     "title": "Une étude cartographie l'habitat du takin de Mishmi, peu connu, dans l'Arunachal Pradesh",
+     "summary": "Des chercheurs ont combiné savoirs autochtones et relevés par pièges photographiques pour cartographier les déplacements saisonniers et l'utilisation de l'habitat du takin de Mishmi dans la vallée de Dibang.",
+     "why": "Des connaissances utiles pour la conservation, élaborées avec les communautés locales."
+    },
+    "ru": {
+     "title": "Исследование картирует ареал малоизученного такина мишми в Аруначал-Прадеше",
+     "summary": "Исследователи сочетали традиционные знания коренных народов с фотоловушками, чтобы отследить сезонные перемещения и использование среды обитания мишмийского такина в долине Дибанг.",
+     "why": "Полезные природоохранные данные, собранные вместе с местными сообществами."
+    }
+   }
+  },
+  {
+   "id": "am-coyotes-thrive-seattle",
+   "title": "Coyotes in Seattle are far denser than in remote forests",
+   "summary": "A Washington State study found coyotes in Seattle at about nine times the density of those in remote forests, partly because predators are fewer in the city.",
+   "why": "Shows wildlife adapting to cities, with mixed implications.",
+   "source": "Anthropocene Magazine",
+   "url": "https://www.anthropocenemagazine.org/2026/10/maybe-wile-e-coyote-would-be-happier-if-he-moved-to-the-city/?utm_source=rss&utm_medium=rss&utm_campaign=maybe-wile-e-coyote-would-be-happier-if-he-moved-to-the-city",
+   "score": 5,
+   "category": "Animals",
+   "region": "Seattle, USA",
+   "published": "2026-10-07T12:00:00Z",
+   "continent": "North America",
+   "added": "2026-10-07T18:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Els coiots de Seattle són molt més densos que els de les forests remotes",
+     "summary": "Un estudi de l'Estat de Washington ha trobat coiots a Seattle amb una densitat unes nou vegades superior a la dels de les forests remotes, en part perquè hi ha menys depredadors a la ciutat.",
+     "why": "Mostra la fauna adaptant-se a les ciutats, amb implicacions diverses."
+    },
+    "fr": {
+     "title": "Les coyotes de Seattle sont beaucoup plus denses que ceux des forêts reculées",
+     "summary": "Une étude de l'État de Washington a relevé à Seattle une densité de coyotes environ neuf fois supérieure à celle des forêts reculées, en partie parce qu'il y a moins de prédateurs en ville.",
+     "why": "Illustre l'adaptation de la faune aux villes, aux conséquences contrastées."
+    },
+    "ru": {
+     "title": "Койоты в Сиэтле гораздо многочисленнее, чем в отдалённых лесах",
+     "summary": "Исследование в штате Вашингтон показало, что плотность койотов в Сиэтле примерно в девять раз выше, чем в отдалённых лесах, отчасти потому, что в городе меньше хищников.",
+     "why": "Показывает, как дикие животные приспосабливаются к городу, с неоднозначными последствиями."
+    }
+   }
+  },
+  {
+   "id": "rtbc-california-balcony-solar",
+   "title": "California allows plug-in balcony solar panels",
+   "summary": "A new California law lets residents install small solar arrays on balconies and plug them into standard outlets. Other states may follow.",
+   "why": "Practical clean-energy access for renters and apartment dwellers, though still a single-state step.",
+   "source": "Reasons to be Cheerful",
+   "url": "https://reasonstobecheerful.world/what-were-reading-california-balcony-solar/",
+   "score": 7,
+   "category": "Energy",
+   "region": "California, USA",
+   "published": "2026-10-07T08:00:46Z",
+   "continent": "North America",
+   "added": "2026-10-07T18:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Califòrnia permet els panells solars de balcó endollables",
+     "summary": "Una nova llei de Califòrnia permet als residents instal·lar petits sistemes solars als balcons i connectar-los a endolls estàndard. Altres estats podrien seguir-ne l'exemple.",
+     "why": "Accés pràctic a l'energia neta per a llogaters i residents de pisos, tot i que encara és un pas en un sol estat."
+    },
+    "fr": {
+     "title": "La Californie autorise les panneaux solaires de balcon branchables",
+     "summary": "Une nouvelle loi californienne permet aux habitants d'installer de petits panneaux solaires sur leurs balcons et de les brancher sur des prises standard. D'autres États pourraient suivre.",
+     "why": "Un accès concret à l'énergie propre pour les locataires et les habitants d'appartements, bien qu'il s'agisse encore d'une mesure limitée à un seul État."
+    },
+    "ru": {
+     "title": "В Калифорнии разрешили подключаемые балконные солнечные панели",
+     "summary": "Новый закон Калифорнии позволяет жителям устанавливать на балконах небольшие солнечные панели и подключать их к обычным розеткам. Другие штаты могут последовать этому примеру.",
+     "why": "Практичный доступ к чистой энергии для арендаторов и жителей квартир, хотя это пока шаг только одного штата."
+    }
+   }
+  },
   {
    "id": "tbi-delhi-students-yamuna-cleanup",
    "title": "Nearly 1,000 Delhi students clear 2,000 kg of waste from the Yamuna",
@@ -110,6 +265,37 @@
    }
   },
   {
+   "id": "gnn-oregon-oldest-man-108",
+   "title": "Oregon's oldest man celebrates his 108th birthday",
+   "summary": "A man believed to be Oregon's oldest resident turned 108 and credits a clean diet and positive outlook for his long life.",
+   "why": "A warm human-interest story with little wider impact.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/oldest-man-in-oregon-credits-clean-diet-and-good-mind-for-reaching-108-years-young/",
+   "score": 5,
+   "category": "Society",
+   "region": "Oregon, USA",
+   "published": "2026-10-06T18:30:43Z",
+   "continent": "North America",
+   "added": "2026-10-07T18:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "El home més vell d'Oregon celebra el seu 108è aniversari",
+     "summary": "Un home considerat el resident més vell d'Oregon ha complert 108 anys i atribueix la seva longevitat a una dieta sana i a una actitud positiva.",
+     "why": "Una història humana càlida amb poc impacte més ampli."
+    },
+    "fr": {
+     "title": "Le plus vieil homme de l'Oregon fête ses 108 ans",
+     "summary": "Un homme considéré comme le plus âgé résident de l'Oregon a eu 108 ans. Il attribue sa longévité à une alimentation saine et à un état d'esprit positif.",
+     "why": "Un récit humain chaleureux, sans grande portée au-delà."
+    },
+    "ru": {
+     "title": "Старейший житель Орегона отметил 108-й день рождения",
+     "summary": "Мужчина, считающийся старейшим жителем Орегона, отпраздновал 108-летие. Долголетие он связывает со здоровым питанием и позитивным настроем.",
+     "why": "Тёплая история о человеке без широких последствий."
+    }
+   }
+  },
+  {
    "id": "an-hermanus-southern-right-whales",
    "title": "Southern right whales return to South African town of Hermanus",
    "summary": "Hundreds of southern right whales migrate from Antarctica each year, drawing visitors to Hermanus between June and November.",
@@ -168,6 +354,68 @@
      "title": "Nokia и NASA планируют сеть 4G на Луне",
      "summary": "НАСА работает с Bell Labs компании Nokia для установки мобильной сети 4G на Луне, чтобы улучшить связь космонавтов и снизить эксплуатационные расходы.",
      "why": "Полезная космическая технология, но это всё ещё проект."
+    }
+   }
+  },
+  {
+   "id": "mb-wet-tropics-restoration-tracking",
+   "title": "Rainforest restoration groups in Australia's Wet Tropics rarely track tree growth",
+   "summary": "A study of 25 restoration organisations in northeastern Australia found many do not monitor trees after planting, making it hard to judge whether restoration goals are met.",
+   "why": "A useful warning that points to a fixable gap in restoration work.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/in-australias-wet-tropics-restoration-misses-the-forest-for-the-tree-cover/",
+   "score": 4,
+   "category": "Environment",
+   "region": "Wet Tropics, Australia",
+   "published": "2026-10-06T15:14:29Z",
+   "continent": "Oceania",
+   "added": "2026-10-07T18:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Pocs grups de restauració de la regió Wet Tropics d'Austràlia fan seguiment del creixement dels arbres",
+     "summary": "Un estudi de 25 organitzacions de restauració del nord-est d'Austràlia ha constatat que moltes no monitoritzen els arbres després de plantar-los, cosa que dificulta saber si s'assoleixen els objectius de restauració.",
+     "why": "Un avís útil que assenyala una mancança corregible en la restauració."
+    },
+    "fr": {
+     "title": "Les projets de restauration des Wet Tropics australiennes suivent rarement la croissance des arbres",
+     "summary": "Une étude portant sur 25 organisations de restauration du nord-est de l'Australie révèle que beaucoup ne surveillent pas les arbres après plantation, ce qui rend difficile l'évaluation de l'atteinte des objectifs de restauration.",
+     "why": "Un avertissement utile qui pointe une lacune corrigeable dans la restauration."
+    },
+    "ru": {
+     "title": "Организации по восстановлению тропических лесов Австралии редко отслеживают рост деревьев",
+     "summary": "Исследование 25 организаций по восстановлению лесов на северо-востоке Австралии показало, что многие не контролируют деревья после посадки, поэтому трудно оценить, достигаются ли цели восстановления.",
+     "why": "Полезное предупреждение, указывающее на устранимый пробел в работе по восстановлению."
+    }
+   }
+  },
+  {
+   "id": "an-unesco-50-million-teachers",
+   "title": "UNESCO says world needs 50 million more teachers by 2030",
+   "summary": "New UNESCO data released on World Teachers' Day projects a global need for 50 million additional teachers by 2030.",
+   "why": "Highlights a large education gap, but draws attention to it.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/06/world-needs-50-million-additional-teachers-by-2030-unesco-says/",
+   "score": 4,
+   "category": "Society",
+   "region": "Global",
+   "published": "2026-10-06T13:40:46Z",
+   "continent": "Global",
+   "added": "2026-10-07T18:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "La UNESCO avisa que el món necessitarà 50 milions de docents més el 2030",
+     "summary": "Les noves dades de la UNESCO, publicades amb motiu del Dia Mundial del Docent, projecten una necessitat global de 50 milions de docents addicionals el 2030.",
+     "why": "Posa de manifest una gran bretxa educativa, i també hi crida l'atenció."
+    },
+    "fr": {
+     "title": "L'UNESCO affirme que le monde aura besoin de 50 millions d'enseignants supplémentaires d'ici 2030",
+     "summary": "De nouvelles données de l'UNESCO, publiées à l'occasion de la Journée mondiale des enseignants, projettent un besoin mondial de 50 millions d'enseignants supplémentaires d'ici 2030.",
+     "why": "Met en lumière un vaste déficit éducatif, tout en attirant l'attention sur lui."
+    },
+    "ru": {
+     "title": "ЮНЕСКО: к 2030 году миру понадобится на 50 миллионов учителей больше",
+     "summary": "Новые данные ЮНЕСКО, опубликованные ко Всемирному дню учителя, прогнозируют глобальную потребность в 50 миллионах дополнительных учителей к 2030 году.",
+     "why": "Подчёркивает серьёзный образовательный разрыв и привлекает к нему внимание."
     }
    }
   },
@@ -292,6 +540,68 @@
      "title": "Шахматы становятся популярны среди заключённых в Кении",
      "summary": "Заключённые берут шахматы как реабилитационную деятельность, участники сообщают о менее импульсивном поведении.",
      "why": "Небольшое, но реальное преимущество реабилитации."
+    }
+   }
+  },
+  {
+   "id": "sd-exercise-together-marriage",
+   "title": "Couples who exercise together report stronger relationships",
+   "summary": "A study found couples who work out together report better communication, conflict resolution and lower marital stress than those who exercise alone. Even walking together may help.",
+   "why": "A simple, accessible habit linked to wellbeing, though the findings are correlational.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261004001843.htm",
+   "score": 6,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-06T12:23:37Z",
+   "continent": "Global",
+   "added": "2026-10-07T18:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Les parelles que fan exercici junts afirmen tenir relacions més sòlides",
+     "summary": "Un estudi ha constatat que les parelles que fan exercici junts diuen tenir millor comunicació, resolen millor els conflictes i tenen menys estrès marital que les que fan exercici per separat. Fins i tot caminar junts podria ajudar.",
+     "why": "Un hàbit senzill i accessible vinculat al benestar, tot i que les conclusions són correlacionals."
+    },
+    "fr": {
+     "title": "Les couples qui font du sport ensemble déclarent des relations plus solides",
+     "summary": "Une étude révèle que les couples qui font du sport ensemble déclarent une meilleure communication, une meilleure résolution des conflits et un stress conjugal moindre que ceux qui font du sport seuls. Même marcher ensemble pourrait aider.",
+     "why": "Une habitude simple et accessible liée au bien-être, bien que les résultats soient corrélationnels."
+    },
+    "ru": {
+     "title": "Пары, которые занимаются спортом вместе, отмечают более крепкие отношения",
+     "summary": "Исследование показало, что пары, занимающиеся спортом вместе, отмечают лучшее общение, более успешное разрешение конфликтов и меньший супружеский стресс, чем те, кто тренируется в одиночку. Даже совместные прогулки могут помочь.",
+     "why": "Простая и доступная привычка, связанная с благополучием, хотя выводы носят корреляционный характер."
+    }
+   }
+  },
+  {
+   "id": "sd-quarks-primordial-soup-waves",
+   "title": "Physicists observe quarks creating ripples in early-universe plasma",
+   "summary": "Researchers at CERN's Large Hadron Collider tracked quarks moving through quark-gluon plasma and saw ripples and wakes, offering a new view of the matter that filled the early universe.",
+   "why": "Interesting fundamental science, without direct benefit yet.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261004002556.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-10-06T12:04:50Z",
+   "continent": "Global",
+   "added": "2026-10-07T18:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Físics observen quarks que generen ondulacions en el plasma de l'univers primitiu",
+     "summary": "Investigadors del Gran Col·lisionador de Hadrons del CERN han seguit quarks que es desplacen pel plasma de quarks i gluons i hi han observat ondulacions i rastres. Ofereix una nova mirada a la matèria que omplia l'univers primitiu.",
+     "why": "Ciència fonamental interessant, però sense beneficis directes encara."
+    },
+    "fr": {
+     "title": "Des physiciens observent des quarks créant des ondulations dans le plasma de l'Univers primitif",
+     "summary": "Des chercheurs du Grand collisionneur de hadrons du CERN ont suivi des quarks se déplaçant dans le plasma de quarks et de gluons, et y ont observé des ondulations et des sillages. Une nouvelle perspective sur la matière qui remplissait l'Univers primitif.",
+     "why": "Une science fondamentale intéressante, sans application directe pour l'instant."
+    },
+    "ru": {
+     "title": "Физики наблюдали, как кварки создают рябь в плазме ранней Вселенной",
+     "summary": "Исследователи Большого адронного коллайдера ЦЕРН проследили за движением кварков в кварк-глюонной плазме и увидели в ней волны и следы. Это даёт новый взгляд на вещество, которое заполняло раннюю Вселенную.",
+     "why": "Интересная фундаментальная наука, но пока без прямой пользы."
     }
    }
   },
@@ -695,6 +1005,68 @@
      "title": "Бостон планирует электропоезда на батареях на линии Fairmount",
      "summary": "Транспортная администрация Бостона намеревается запустить поезда на батареях на линии Fairmount к 2030 году, проверяя электрификацию без воздушных проводов и стремясь к более частому и экологичному обслуживанию.",
      "why": "Более чистый транспорт, но не раньше 2030 года."
+    }
+   }
+  },
+  {
+   "id": "gr-great-plains-woody-encroachment",
+   "title": "Trees spreading across Great Plains grasslands threaten ranching and wildlife",
+   "summary": "An article examines woody encroachment, where trees spread into Great Plains grasslands, affecting ranching and biodiversity.",
+   "why": "Draws attention to an overlooked environmental problem.",
+   "source": "Grist",
+   "url": "https://grist.org/science/great-plains-grasslands-surprising-threat-trees-woody-encroachment/",
+   "score": 4,
+   "category": "Environment",
+   "region": "Great Plains, USA",
+   "published": "2026-10-06T08:30:00Z",
+   "continent": "North America",
+   "added": "2026-10-07T18:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Els arbres s'estenen per les praderies de les Grans Planes i amenacen la ramaderia i la fauna",
+     "summary": "Un article analitza l'encroament llenyós, fenomen pel qual els arbres s'estenen per les praderies de les Grans Planes, i com afecta la ramaderia i la biodiversitat.",
+     "why": "Crida l'atenció sobre un problema ambiental poc notat."
+    },
+    "fr": {
+     "title": "Les arbres gagnent les prairies des Grandes Plaines et menacent l'élevage et la faune",
+     "summary": "Un article examine l'envahissement ligneux, phénomène par lequel les arbres s'étendent dans les prairies des Grandes Plaines, avec des effets sur l'élevage et la biodiversité.",
+     "why": "Attire l'attention sur un problème environnemental peu remarqué."
+    },
+    "ru": {
+     "title": "Деревья наступают на травяные равнины Великих равнин и угрожают скотоводству и дикой природе",
+     "summary": "В статье рассматривается древесная экспансия — распространение деревьев на травяные равнины Великих равнин и её влияние на скотоводство и биоразнообразие.",
+     "why": "Привлекает внимание к малозаметной экологической проблеме."
+    }
+   }
+  },
+  {
+   "id": "sd-ultrafast-xray-energy-transfer",
+   "title": "X-rays reveal how electrons and protons move energy so efficiently",
+   "summary": "Ultrafast X-ray imaging captured steps of a reaction linking electron and proton movement to nearby water rearranging. The method could help design better catalysts.",
+   "why": "Early lab result with possible future uses in clean energy.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261004001841.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-10-06T07:49:51Z",
+   "continent": "Global",
+   "added": "2026-10-07T18:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Els raigs X revelen com els electrons i els protons transfereixen energia amb tanta eficiència",
+     "summary": "La imatge ultraràpida amb raigs X ha captat fases d'una reacció que enllaça el moviment d'electrons i protons amb el reordenament de l'aigua propera. El mètode podria ajudar a dissenyar catalitzadors millors.",
+     "why": "Resultat inicial de laboratori amb possibles usos futurs en energia neta."
+    },
+    "fr": {
+     "title": "Des rayons X révèlent comment électrons et protons transfèrent l'énergie si efficacement",
+     "summary": "L'imagerie ultrarapide par rayons X a capturé des étapes d'une réaction reliant le déplacement des électrons et des protons au réarrangement de l'eau voisine. Cette méthode pourrait aider à concevoir de meilleurs catalyseurs.",
+     "why": "Résultat de laboratoire préliminaire, avec des applications possibles dans l'énergie propre."
+    },
+    "ru": {
+     "title": "Рентгеновские лучи показывают, как электроны и протоны так эффективно переносят энергию",
+     "summary": "Сверхбыстрая рентгеновская визуализация зафиксировала этапы реакции, связывающей движение электронов и протонов с перестройкой соседних молекул воды. Метод может помочь в создании более эффективных катализаторов.",
+     "why": "Ранний лабораторный результат с возможным применением в чистой энергетике."
     }
    }
   },
@@ -5593,37 +5965,6 @@
      "title": "Настройка биологических часов может помочь мозгу восстановиться после инсульта",
      "summary": "Укрепление циркадных ритмов улучшило восстановление после инсульта: мозг лучше очищался от отходов, а воспаление снижалось.",
      "why": "Дешёвая и безопасная идея с реальным потенциалом; первые данные."
-    }
-   }
-  },
-  {
-   "id": "sd-glucosamine-alzheimers",
-   "title": "Joint supplement glucosamine linked to faster Alzheimer's progression",
-   "summary": "People taking glucosamine had about a 25% higher risk of moving from mild impairment towards dementia, through a sugar-protein mechanism.",
-   "why": "Worrying for many supplement users, though useful to know.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
-   "score": 3,
-   "category": "Health",
-   "region": "Global",
-   "published": "2026-09-27T13:53:39Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "Global",
-   "i18n": {
-    "ca": {
-     "title": "El suplement articular glucosamina, vinculat a un Alzheimer més ràpid",
-     "summary": "Les persones que prenien glucosamina tenien un risc un 25% més alt de passar de deteriorament lleu a demència, per un mecanisme de sucres i proteïnes.",
-     "why": "Preocupant per a molts usuaris de suplements, però útil de saber."
-    },
-    "fr": {
-     "title": "La glucosamine, complément pour les articulations, liée à un Alzheimer plus rapide",
-     "summary": "Les personnes prenant de la glucosamine avaient un risque environ 25 % plus élevé d'évoluer d'un déclin léger vers la démence, via un mécanisme sucre-protéine.",
-     "why": "Inquiétant pour de nombreux consommateurs de compléments, mais utile à savoir."
-    },
-    "ru": {
-     "title": "Глюкозамин для суставов связали с более быстрым развитием болезни Альцгеймера",
-     "summary": "У принимавших глюкозамин риск перехода от лёгких когнитивных нарушений к деменции был примерно на 25% выше из-за механизма, связанного с сахарами и белками.",
-     "why": "Тревожно для многих, кто принимает добавки, но полезно знать."
     }
    }
   }
