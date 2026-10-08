@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T00:12:29Z",
+ "updated": "2026-10-08T06:12:35Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,10 +12,41 @@
   "Grist",
   "Africanews"
  ],
- "count": 195,
- "last_run": "run-20261008T0012Z.json",
- "note": "3 new, 109 skipped, 0 pruned, 0 translations added, failed feeds: none",
+ "count": 206,
+ "last_run": "run-20261008T0612Z.json",
+ "note": "11 new, 106 skipped, 0 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "tbi-hesaraghatta-grassland-reserve",
+   "title": "Bengaluru's Hesaraghatta grassland becomes a conservation reserve",
+   "summary": "After nearly two decades of campaigning, Karnataka notified about 5,678 acres of Hesaraghatta grassland as a conservation reserve.",
+   "why": "Lasting habitat protection won by citizens near a big city.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/conservation/nature/hesaraghatta-grassland-conservation-reserve-bengaluru-12635878",
+   "score": 8,
+   "category": "Environment",
+   "region": "Karnataka, India",
+   "published": "2026-10-08T03:00:00Z",
+   "continent": "Asia",
+   "added": "2026-10-08T06:12:35Z",
+   "i18n": {
+    "ca": {
+     "title": "La prada d'Hesaraghatta, a Bengaluru, es converteix en una reserva de conservació",
+     "summary": "Després de gairebé dues dècades de campanya, Karnataka ha declarat unes 5.678 acres de prada d'Hesaraghatta com a reserva de conservació.",
+     "why": "Protecció duradora de l'hàbitat, aconseguida per la ciutadania en una gran ciutat."
+    },
+    "fr": {
+     "title": "La prairie d'Hesaraghatta, à Bengaluru, devient une réserve de conservation",
+     "summary": "Après près de vingt ans de campagne, l'État du Karnataka a déclaré réserve de conservation environ 5 678 acres de prairie d'Hesaraghatta.",
+     "why": "Protection durable d'un habitat, obtenue grâce à la mobilisation citoyenne près d'une grande ville."
+    },
+    "ru": {
+     "title": "Луговые угодья Хесарагатты в Бенгалуру становятся природным резерватом",
+     "summary": "После почти двух десятилетий кампании власти штата Карнатака объявили около 5 678 акров луговых угодий Хесарагатты природным резерватом.",
+     "why": "Долгосрочная защита среды обитания, добытая гражданами вблизи крупного города."
+    }
+   }
+  },
   {
    "id": "tbi-wti-scroll-spot-stop",
    "title": "Wildlife Trust of India campaign targets online wildlife trafficking",
@@ -137,6 +168,285 @@
      "title": "Койоты в Сиэтле гораздо многочисленнее, чем в отдалённых лесах",
      "summary": "Исследование в штате Вашингтон показало, что плотность койотов в Сиэтле примерно в девять раз выше, чем в отдалённых лесах, отчасти потому, что в городе меньше хищников.",
      "why": "Показывает, как дикие животные приспосабливаются к городу, с неоднозначными последствиями."
+    }
+   }
+  },
+  {
+   "id": "gnn-strangers-help-kansas-man-tarp",
+   "title": "Strangers repair storm-damaged Kansas home after TV appeal",
+   "summary": "A Kansas man whose house was hit by a fallen tree asked for a tarp on local TV. Neighbours and strangers who saw it came to cover the roof.",
+   "why": "Small-scale community kindness, limited reach.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/strangers-showed-up-to-mans-destroyed-house-to-put-up-a-tarp-having-seen-his-televised-plea/",
+   "score": 6,
+   "category": "Society",
+   "region": "Kansas, USA",
+   "published": "2026-10-07T12:00:00Z",
+   "continent": "North America",
+   "added": "2026-10-08T06:12:35Z",
+   "i18n": {
+    "ca": {
+     "title": "Desconeguts reparen una casa de Kansas danyada per una tempesta després d'un prec per la televisió",
+     "summary": "Un home de Kansas la casa del qual va ser colpejada per un arbre caigut va demanar una lona a la televisió local. Veïns i desconeguts que ho van veure hi van acudir per cobrir-ne el sostre.",
+     "why": "Petita mostra de solidaritat comunitària, de ressò limitat."
+    },
+    "fr": {
+     "title": "Des inconnus réparent une maison du Kansas endommagée par une tempête après un appel à la télévision",
+     "summary": "Un habitant du Kansas dont la maison avait été frappée par un arbre tombé a demandé une bâche à la télévision locale. Des voisins et des inconnus qui ont vu l'appel sont venus recouvrir le toit.",
+     "why": "Petit geste de solidarité locale, à portée limitée."
+    },
+    "ru": {
+     "title": "Незнакомцы восстановили дом в Канзасе, пострадавший от бури, после обращения на телевидении",
+     "summary": "Житель Канзаса, дом которого был повреждён упавшим деревом, попросил по местному телевидению брезент. Соседи и незнакомые люди, увидевшие обращение, пришли укрыть крышу.",
+     "why": "Небольшой пример общественной солидарности ограниченного масштаба."
+    }
+   }
+  },
+  {
+   "id": "gnn-seven-meteor-showers-october",
+   "title": "Seven meteor showers to light the sky in October",
+   "summary": "Skywatchers can see seven meteor showers this month, with the Orionids peaking on October 21 at up to 15 meteors per hour.",
+   "why": "Pleasant and interesting, but neutral in impact.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/a-swarm-of-seven-meteor-showers-will-light-up-the-night-skies-all-october-long/",
+   "score": 5,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-10-07T12:00:00Z",
+   "continent": "Global",
+   "added": "2026-10-08T06:12:35Z",
+   "i18n": {
+    "ca": {
+     "title": "Set pluges de meteors il·luminaran el cel a l'octubre",
+     "summary": "Els aficionats a l'astronomia podran veure set pluges de meteors aquest mes, amb les Orionides en el seu màxim el 21 d'octubre, amb fins a 15 meteors per hora.",
+     "why": "Agradable i interessant, però de repercussió neutra."
+    },
+    "fr": {
+     "title": "Sept pluies de météores illumineront le ciel en octobre",
+     "summary": "Les observateurs du ciel pourront voir sept pluies de météores ce mois-ci, les Orionides atteignant leur maximum le 21 octobre, avec jusqu'à 15 météores par heure.",
+     "why": "Agréable et intéressant, mais sans effet notable."
+    },
+    "ru": {
+     "title": "Семь метеорных потоков осветят небо в октябре",
+     "summary": "В этом месяце любители наблюдения за небом смогут увидеть семь метеорных потоков. Ориониды достигнут пика 21 октября, до 15 метеоров в час.",
+     "why": "Приятно и интересно, но без заметного влияния."
+    }
+   }
+  },
+  {
+   "id": "gnn-saudi-solar-park-sand-gazelles",
+   "title": "Threatened sand gazelles breed at a Saudi solar park",
+   "summary": "A solar plant near the Red Sea coast, inside a nature reserve in Saudi Arabia, is hosting breeding Arabian sand gazelles, a vulnerable species.",
+   "why": "Renewable energy coexisting with wildlife recovery, though local in scale.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/saudi-solar-park-proves-brilliant-breeding-ground-for-threatened-sand-gazelles/",
+   "score": 7,
+   "category": "Animals",
+   "region": "Saudi Arabia",
+   "published": "2026-10-07T12:00:00Z",
+   "continent": "Asia",
+   "added": "2026-10-08T06:12:35Z",
+   "i18n": {
+    "ca": {
+     "title": "Gasels de sorra amenaçades es reprodueixen en un parc solar a Aràbia Saudita",
+     "summary": "Una planta solar prop de la costa del mar Roig, dins d'una reserva natural de l'Aràbia Saudita, acull la reproducció de gasels d'arena àrabs, una espècie vulnerable.",
+     "why": "Energia renovable i recuperació de la fauna que conviuen, tot i que a escala local."
+    },
+    "fr": {
+     "title": "Des gazelles de sable menacées se reproduisent dans un parc solaire saoudien",
+     "summary": "Une centrale solaire située près de la côte de la mer Rouge, à l'intérieur d'une réserve naturelle d'Arabie saoudite, abrite la reproduction de gazelles arabes, espèce vulnérable.",
+     "why": "Énergie renouvelable et faune qui cohabitent, mais à l'échelle locale."
+    },
+    "ru": {
+     "title": "Находящиеся под угрозой песчаные газели размножаются на солнечной электростанции в Саудовской Аравии",
+     "summary": "Солнечная электростанция недалеко от побережья Красного моря, расположенная на территории природного заповедника в Саудовской Аравии, стала местом размножения аравийских песчаных газелей, уязвимого вида.",
+     "why": "Сочетание возобновляемой энергетики и восстановления популяций диких животных, хотя масштаб местный."
+    }
+   }
+  },
+  {
+   "id": "an-africa-launches-credit-rating-agency",
+   "title": "Africa launches its own credit rating agency",
+   "summary": "A new African credit rating agency aims to offer assessments seen as fairer, with the goal of lowering borrowing costs for African governments.",
+   "why": "Could cut borrowing costs, but results are yet to be seen.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/07/africa-launches-own-credit-agency-in-bid-for-cheaper-borrowing/",
+   "score": 6,
+   "category": "Society",
+   "region": "Africa",
+   "published": "2026-10-07T12:00:00Z",
+   "continent": "Africa",
+   "added": "2026-10-08T06:12:35Z",
+   "i18n": {
+    "ca": {
+     "title": "Àfrica llança la seva pròpia agència de qualificació creditícia",
+     "summary": "Una nova agència africana de qualificació creditícia vol oferir avaluacions considerades més justes, amb l'objectiu de reduir els costos d'endeutament dels governs africans.",
+     "why": "Podria reduir els costos d'endeutament, però els resultats encara no es coneixen."
+    },
+    "fr": {
+     "title": "L'Afrique lance sa propre agence de notation financière",
+     "summary": "Une nouvelle agence africaine de notation de crédit entend proposer des évaluations jugées plus équitables, dans le but de réduire le coût de l'emprunt pour les gouvernements africains.",
+     "why": "Pourrait réduire le coût de l'emprunt, mais les résultats restent à voir."
+    },
+    "ru": {
+     "title": "Африка запускает собственное рейтинговое агентство",
+     "summary": "Новое африканское кредитно-рейтинговое агентство намерено давать оценки, которые считаются более справедливыми, с целью снизить стоимость заимствований для африканских правительств.",
+     "why": "Может снизить стоимость заимствований, но результаты пока неизвестны."
+    }
+   }
+  },
+  {
+   "id": "an-nobel-chemistry-kagan-soai",
+   "title": "Kagan and Soai win Nobel Prize in chemistry",
+   "summary": "Henri Kagan of France and Kenso Soai of Japan won the chemistry prize for explaining the chemical origin of life's asymmetry.",
+   "why": "Recognition of fundamental science with long-term value.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/07/french-and-japanese-scientists-awarded-nobel-chemistry-prize/",
+   "score": 6,
+   "category": "Science",
+   "region": "France and Japan",
+   "published": "2026-10-07T12:00:00Z",
+   "continent": "Global",
+   "added": "2026-10-08T06:12:35Z",
+   "i18n": {
+    "ca": {
+     "title": "Kagan i Soai guanyen el premi Nobel de química",
+     "summary": "Henri Kagan, de França, i Kenso Soai, del Japó, han guanyat el premi de química per haver explicat l'origen químic de l'asimetria de la vida.",
+     "why": "Reconeixement de la ciència fonamental amb valor a llarg termini."
+    },
+    "fr": {
+     "title": "Henri Kagan et Kenso Soai remportent le prix Nobel de chimie",
+     "summary": "Le Français Henri Kagan et le Japonais Kenso Soai ont reçu le prix de chimie pour avoir expliqué l'origine chimique de l'asymétrie du vivant.",
+     "why": "Reconnaissance de la science fondamentale, à la valeur durable."
+    },
+    "ru": {
+     "title": "Нобелевская премия по химии присуждена Кагану и Соаи",
+     "summary": "Анри Каган из Франции и Кенсо Соаи из Японии получили премию по химии за объяснение химического происхождения асимметрии живой материи.",
+     "why": "Признание фундаментальной науки с долгосрочной ценностью."
+    }
+   }
+  },
+  {
+   "id": "an-south-africa-2036-olympics-bid",
+   "title": "South Africa bids to host the 2036 Olympics",
+   "summary": "South Africa is among seven countries formally bidding for the 2036 Games, which would be the first Olympics held in Africa.",
+   "why": "A bid only, with a long way to go.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/07/olympics-south-africa-aims-to-host-the-games-in-2036/",
+   "score": 5,
+   "category": "Culture",
+   "region": "South Africa",
+   "published": "2026-10-07T12:00:00Z",
+   "continent": "Africa",
+   "added": "2026-10-08T06:12:35Z",
+   "i18n": {
+    "ca": {
+     "title": "Sud-àfrica es postula per acollir els Jocs Olímpics de 2036",
+     "summary": "Sud-àfrica és un dels set països que s'han presentat formalment com a candidats als Jocs de 2036, que serien els primers Jocs Olímpics celebrats a Àfrica.",
+     "why": "Només és una candidatura, amb un llarg camí per recórrer."
+    },
+    "fr": {
+     "title": "L'Afrique du Sud candidate à l'organisation des Jeux olympiques de 2036",
+     "summary": "L'Afrique du Sud fait partie des sept pays ayant officiellement déposé leur candidature pour les Jeux de 2036, qui seraient les premiers Jeux olympiques organisés en Afrique.",
+     "why": "Simple candidature, avec encore un long chemin à parcourir."
+    },
+    "ru": {
+     "title": "ЮАР подала заявку на проведение Олимпиады 2036 года",
+     "summary": "ЮАР входит в число семи стран, официально подавших заявку на проведение Игр 2036 года, которые стали бы первыми Олимпийскими играми в Африке.",
+     "why": "Пока это только заявка, и впереди долгий путь."
+    }
+   }
+  },
+  {
+   "id": "an-messi-final-argentina-match",
+   "title": "Messi plays his last game for Argentina",
+   "summary": "Lionel Messi ended his 21-year international career in a friendly against Benin, scoring in the 71st minute.",
+   "why": "Emotional sporting milestone, little wider impact.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/07/emotions-as-argentinas-lionel-messi-plays-his-last-game-for-his-country/",
+   "score": 5,
+   "category": "Culture",
+   "region": "Argentina",
+   "published": "2026-10-07T12:00:00Z",
+   "continent": "South America",
+   "added": "2026-10-08T06:12:35Z",
+   "i18n": {
+    "ca": {
+     "title": "Messi juga el seu últim partit amb l'Argentina",
+     "summary": "Lionel Messi ha posat fi a la seva carrera internacional de 21 anys en un amistós contra Benín, en el qual va marcar al minut 71.",
+     "why": "Un moment esportiu emotiu, amb poc impacte més enllà."
+    },
+    "fr": {
+     "title": "Lionel Messi joue son dernier match avec l'Argentine",
+     "summary": "Lionel Messi a mis fin à sa carrière internationale de 21 ans lors d'un match amical contre le Bénin, au cours duquel il a marqué à la 71e minute.",
+     "why": "Étape sportive émouvante, à l'impact limité."
+    },
+    "ru": {
+     "title": "Месси провёл последний матч за сборную Аргентины",
+     "summary": "Лионель Месси завершил 21-летнюю карьеру в сборной в товарищеском матче против Бенина, забив гол на 71-й минуте.",
+     "why": "Трогательная спортивная веха, без широкого общественного резонанса."
+    }
+   }
+  },
+  {
+   "id": "an-madagascar-prepares-el-nino",
+   "title": "Southern Madagascar prepares for a strong El Niño",
+   "summary": "Residents of southern Madagascar are getting ready for El Niño in the coming months, which experts expect to be among the strongest on record.",
+   "why": "A useful warning with early preparation.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/07/madagascar-residents-gear-up-for-impact-of-el-nino/",
+   "score": 4,
+   "category": "Environment",
+   "region": "Madagascar",
+   "published": "2026-10-07T12:00:00Z",
+   "continent": "Africa",
+   "added": "2026-10-08T06:12:35Z",
+   "i18n": {
+    "ca": {
+     "title": "El sud de Madagascar es prepara per a un fort El Niño",
+     "summary": "Els habitants del sud de Madagascar es preparen per al fenomen El Niño dels propers mesos, que els experts preveuen que estigui entre els més intensos registrats.",
+     "why": "Un avís útil amb preparació anticipada."
+    },
+    "fr": {
+     "title": "Le sud de Madagascar se prépare à un fort El Niño",
+     "summary": "Les habitants du sud de Madagascar se préparent au phénomène El Niño attendu dans les prochains mois, que les experts prévoient parmi les plus forts jamais enregistrés.",
+     "why": "Un avertissement utile, avec une préparation anticipée."
+    },
+    "ru": {
+     "title": "Юг Мадагаскара готовится к сильному Эль-Ниньо",
+     "summary": "Жители южного Мадагаскара готовятся к Эль-Ниньо, которое в ближайшие месяцы, по прогнозам экспертов, станет одним из самых сильных за всю историю наблюдений.",
+     "why": "Полезное предупреждение, позволяющее заранее подготовиться."
+    }
+   }
+  },
+  {
+   "id": "mb-colombia-government-backs-fracking",
+   "title": "Colombia's new government backs fracking",
+   "summary": "The new Colombian government supports fracking, reopening debate over energy security, environmental risk and dependence on fossil fuels.",
+   "why": "Environmental risk, though debate is open.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/colombias-new-government-backs-fracking-as-debate-over-energy-future-heats-up/",
+   "score": 3,
+   "category": "Energy",
+   "region": "Colombia",
+   "published": "2026-10-07T12:00:00Z",
+   "continent": "South America",
+   "added": "2026-10-08T06:12:35Z",
+   "i18n": {
+    "ca": {
+     "title": "El nou govern de Colòmbia dona suport a la fracturació hidràulica",
+     "summary": "El nou govern colombià dona suport a la fracturació hidràulica (fracking), cosa que reobre el debat sobre la seguretat energètica, el risc ambiental i la dependència dels combustibles fòssils.",
+     "why": "Risc ambiental, tot i que el debat és obert."
+    },
+    "fr": {
+     "title": "Le nouveau gouvernement colombien soutient la fracturation hydraulique",
+     "summary": "Le nouveau gouvernement colombien soutient la fracturation hydraulique, ce qui relance le débat sur la sécurité énergétique, les risques environnementaux et la dépendance aux énergies fossiles.",
+     "why": "Risque environnemental, même si le débat reste ouvert."
+    },
+    "ru": {
+     "title": "Новое правительство Колумбии поддерживает фракинг",
+     "summary": "Новое колумбийское правительство поддерживает фракинг, что вновь открывает дискуссию об энергетической безопасности, экологических рисках и зависимости от ископаемого топлива.",
+     "why": "Экологический риск, хотя дискуссия продолжается."
     }
    }
   },
@@ -881,6 +1191,37 @@
      "title": "Солнечные фермы в пустыне Гоби Китая уменьшают пыльные бури",
      "summary": "Солнечные установки в пустыне Гоби сокращают выбросы пыли на более чем 352 000 метрических тонн в месяц, делая местность более шероховатой и стабилизируя почву.",
      "why": "Полезное дополнительное преимущество чистой энергии."
+    }
+   }
+  },
+  {
+   "id": "mb-brazil-election-indigenous-concerns",
+   "title": "Brazil's election results worry Indigenous leaders",
+   "summary": "An Indigenous leader says right-wing gains in Congress are expected to fuel efforts to weaken constitutional protections for Indigenous peoples.",
+   "why": "Mainly a warning about threatened rights.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/far-right-election-results-in-brazil-bleak-for-indigenous-peoples-says-indigenous-leader/",
+   "score": 2,
+   "category": "Society",
+   "region": "Brazil",
+   "published": "2026-10-06T12:00:00Z",
+   "continent": "South America",
+   "added": "2026-10-08T06:12:35Z",
+   "i18n": {
+    "ca": {
+     "title": "Els resultats de les eleccions del Brasil preocupen els líders indígenes",
+     "summary": "Un líder indígena afirma que els guanys de la dreta al Congrés faran augmentar els esforços per debilitar les proteccions constitucionals dels pobles indígenes.",
+     "why": "Sobretot un avís sobre drets amenaçats."
+    },
+    "fr": {
+     "title": "Les résultats des élections brésiliennes inquiètent les dirigeants autochtones",
+     "summary": "Un dirigeant autochtone estime que les gains de la droite au Congrès vont alimenter les efforts visant à affaiblir les protections constitutionnelles des peuples autochtones.",
+     "why": "Avant tout un avertissement sur des droits menacés."
+    },
+    "ru": {
+     "title": "Итоги выборов в Бразилии вызывают тревогу у лидеров коренных народов",
+     "summary": "Лидер коренных народов заявляет, что успехи правых в Конгрессе, вероятно, подстегнут усилия по ослаблению конституционных гарантий прав коренных народов.",
+     "why": "Прежде всего предупреждение об угрозе правам."
     }
    }
   },
