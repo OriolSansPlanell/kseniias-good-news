@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T06:12:35Z",
+ "updated": "2026-10-08T12:13:02Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,9 +12,9 @@
   "Grist",
   "Africanews"
  ],
- "count": 206,
- "last_run": "run-20261008T0612Z.json",
- "note": "11 new, 106 skipped, 0 pruned, 0 translations added, failed feeds: none",
+ "count": 216,
+ "last_run": "run-20261008T1213Z.json",
+ "note": "12 new, 103 skipped, 2 pruned, 0 translations added, failed feeds: none",
  "stories": [
   {
    "id": "tbi-hesaraghatta-grassland-reserve",
@@ -44,6 +44,130 @@
      "title": "Луговые угодья Хесарагатты в Бенгалуру становятся природным резерватом",
      "summary": "После почти двух десятилетий кампании власти штата Карнатака объявили около 5 678 акров луговых угодий Хесарагатты природным резерватом.",
      "why": "Долгосрочная защита среды обитания, добытая гражданами вблизи крупного города."
+    }
+   }
+  },
+  {
+   "id": "sd-stanford-cancer-kill-switch",
+   "title": "Stanford molecule turns a cancer driver protein into a self-destruct trigger",
+   "summary": "Stanford scientists designed a molecule that repurposes a lymphoma-promoting protein to activate cell-death pathways. In mice it eliminated aggressive tumors.",
+   "why": "Promising but only shown in mice so far.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261005071533.htm",
+   "score": 6,
+   "category": "Health",
+   "region": "California, USA",
+   "published": "2026-10-08T00:00:00Z",
+   "continent": "North America",
+   "added": "2026-10-08T12:13:02Z",
+   "i18n": {
+    "ca": {
+     "title": "Una molècula de Stanford converteix una proteïna que impulsa el càncer en un disparador d'autodestrucció",
+     "summary": "Investigadors de Stanford han dissenyat una molècula que reutilitza una proteïna que promou el limfoma per activar les vies de mort cel·lular. En ratolins ha eliminat tumors agressius.",
+     "why": "Prometedor, però només s'ha demostrat en ratolins de moment."
+    },
+    "fr": {
+     "title": "Une molécule de Stanford transforme une protéine moteur du cancer en déclencheur d'autodestruction",
+     "summary": "Des scientifiques de Stanford ont conçu une molécule qui détourne une protéine favorisant le lymphome pour activer les voies de mort cellulaire. Chez la souris, elle a éliminé des tumeurs agressives.",
+     "why": "Prometteur, mais uniquement démontré chez la souris pour l'instant."
+    },
+    "ru": {
+     "title": "Молекула из Стэнфорда превращает белок, способствующий раку, в триггер самоуничтожения клеток",
+     "summary": "Учёные Стэнфорда создали молекулу, которая использует белок, способствующий развитию лимфомы, для запуска путей гибели клеток. У мышей она уничтожила агрессивные опухоли.",
+     "why": "Перспективно, но пока показано только на мышах."
+    }
+   }
+  },
+  {
+   "id": "tbi-olive-ridley-satellite-odisha",
+   "title": "Satellite tags reveal long journeys of Olive Ridley turtles off Odisha",
+   "summary": "A three-year Wildlife Institute of India study tracks Olive Ridley turtles with satellite tags and boat surveys. One turtle was followed for 6,719 km.",
+   "why": "New data can improve turtle protection.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/wildlife/olive-ridley-satellite-telemetry-odisha-12637214",
+   "score": 6,
+   "category": "Animals",
+   "region": "Odisha, India",
+   "published": "2026-10-08T00:00:00Z",
+   "continent": "Asia",
+   "added": "2026-10-08T12:13:02Z",
+   "i18n": {
+    "ca": {
+     "title": "Les etiquetes per satèl·lit revelen els llargs viatges de les tortugues olivàcies davant d'Odisha",
+     "summary": "Un estudi de tres anys de l'Institut de Fauna Salvatge de l'Índia segueix tortugues olivàcies amb etiquetes satel·litàries i enquestes des de barca. Una tortuga va ser seguida durant 6.719 km.",
+     "why": "Les noves dades poden millorar la protecció de les tortugues."
+    },
+    "fr": {
+     "title": "Des balises satellites révèlent les longs périples des tortues olivâtres au large de l'Odisha",
+     "summary": "Une étude de trois ans du Wildlife Institute of India suit des tortues olivâtres grâce à des balises satellites et à des relevés en bateau. Une tortue a été suivie sur 6 719 km.",
+     "why": "Les nouvelles données peuvent améliorer la protection des tortues."
+    },
+    "ru": {
+     "title": "Спутниковые метки раскрывают дальние путешествия черепах оливковая ридли у берегов Одиши",
+     "summary": "Трёхлетнее исследование Института дикой природы Индии отслеживает черепах оливковая ридли со спутниковыми метками и с помощью наблюдений с лодок. Одна черепаха была прослежена на протяжении 6 719 км.",
+     "why": "Новые данные могут улучшить защиту черепах."
+    }
+   }
+  },
+  {
+   "id": "tbi-odisha-woman-tyre-repair",
+   "title": "Odisha woman teaches herself tyre repair to support her family",
+   "summary": "After her husband was injured, Suni Hembram taught herself tyre repair and now runs a roadside repair shop, lifting heavy tyres herself.",
+   "why": "Inspiring for one family and community.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/videos/lifestyle/she-lifts-60-kg-tyres-to-support-her-family-odisha-12636181",
+   "score": 6,
+   "category": "Society",
+   "region": "Odisha, India",
+   "published": "2026-10-08T00:00:00Z",
+   "continent": "Asia",
+   "added": "2026-10-08T12:13:02Z",
+   "i18n": {
+    "ca": {
+     "title": "Una dona d'Odisha s'ensenya a reparar pneumàtics per mantenir la seva família",
+     "summary": "Després que el seu marit resultés ferit, Suni Hembram va aprendre a reparar pneumàtics per si mateixa i ara regenta un taller de reparació a la vora de la carretera, on aixeca ella mateixa els pneumàtics pesants.",
+     "why": "Inspiradora per a una família i una comunitat."
+    },
+    "fr": {
+     "title": "Une femme de l'Odisha apprend seule la réparation de pneus pour faire vivre sa famille",
+     "summary": "Après la blessure de son mari, Suni Hembram a appris seule la réparation de pneus. Elle dirige désormais un atelier au bord de la route et soulève elle-même les pneus lourds.",
+     "why": "Inspirant pour une famille et une communauté."
+    },
+    "ru": {
+     "title": "Женщина из Одиши сама освоила ремонт шин, чтобы содержать семью",
+     "summary": "После травмы мужа Суни Хембрам самостоятельно освоила ремонт шин и теперь держит придорожную мастерскую, где сама поднимает тяжёлые покрышки.",
+     "why": "Вдохновляющая история для одной семьи и общины."
+    }
+   }
+  },
+  {
+   "id": "tbi-padmavati-first-woman-cardiologist",
+   "title": "Profile of Dr Si Padmavati, India's first woman cardiologist",
+   "summary": "The story covers her work treating underprivileged heart patients, which she continued for long hours into her mid-nineties.",
+   "why": "A tribute to lasting service to patients.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/web-stories/changemakers/dr-si-padmavati-india-first-female-cardiologist-delhi-heart-care-pioneer-12637359",
+   "score": 6,
+   "category": "Health",
+   "region": "India",
+   "published": "2026-10-08T00:00:00Z",
+   "continent": "Asia",
+   "added": "2026-10-08T12:13:02Z",
+   "i18n": {
+    "ca": {
+     "title": "Perfil de la doctora Si Padmavati, la primera cardiòloga de l'Índia",
+     "summary": "L'article repassa la seva tasca tractant pacients cardíacs sense recursos, una feina que va continuar durant moltes hores fins gairebé els noranta-cinc anys.",
+     "why": "Un homenatge al servei constant als pacients."
+    },
+    "fr": {
+     "title": "Portrait de la docteure Si Padmavati, première femme cardiologue de l'Inde",
+     "summary": "Ce récit retrace son travail auprès de patients cardiaques démunis, qu'elle a poursuivi de longues heures jusqu'à près de 95 ans.",
+     "why": "Un hommage à un engagement durable auprès des patients."
+    },
+    "ru": {
+     "title": "Доктор Си Падмавати — первая женщина-кардиолог в Индии",
+     "summary": "История рассказывает о её работе с малоимущими пациентами с заболеваниями сердца, которую она продолжала долгие часы почти до девяноста пяти лет.",
+     "why": "Дань уважения долгому служению пациентам."
     }
    }
   },
@@ -633,6 +757,254 @@
      "title": "Марокко впервые назначило женщину премьер-министром",
      "summary": "Король Мухаммед VI назначил главой правительства Фатиму-Эззахру эль-Мансури, бывшего мэра Марракеша и градостроителя, — впервые в истории страны.",
      "why": "Важная веха в представленности женщин, однако практическое влияние на политику пока неясно."
+    }
+   }
+  },
+  {
+   "id": "sd-p2x7-brain-inflammation-target",
+   "title": "Drug target could ease brain inflammation tied to Alzheimer's and Parkinson's",
+   "summary": "Blocking the P2X7 receptor strongly reduced inflammation in human brain tissue. The result may allow existing drugs to be repurposed for these diseases.",
+   "why": "Early tissue-level result, but with a route to repurposed drugs.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261005071515.htm",
+   "score": 6,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-07T00:00:00Z",
+   "continent": "Global",
+   "added": "2026-10-08T12:13:02Z",
+   "i18n": {
+    "ca": {
+     "title": "Una diana farmacològica podria reduir la inflamació cerebral associada a l'Alzheimer i al Parkinson",
+     "summary": "El bloqueig del receptor P2X7 va reduir de manera notable la inflamació en teixit cerebral humà. El resultat podria permetre reutilitzar fàrmacs existents per a aquestes malalties.",
+     "why": "Resultat preliminar a nivell de teixit, però amb una via cap a fàrmacs reutilitzats."
+    },
+    "fr": {
+     "title": "Une cible médicamenteuse pourrait atténuer l'inflammation cérébrale liée à Alzheimer et Parkinson",
+     "summary": "Le blocage du récepteur P2X7 a fortement réduit l'inflammation dans du tissu cérébral humain. Ce résultat pourrait permettre de réutiliser des médicaments existants pour ces maladies.",
+     "why": "Résultat précoce au niveau du tissu, mais ouvrant la voie à des médicaments réutilisés."
+    },
+    "ru": {
+     "title": "Мишень для лекарств может смягчить воспаление в мозге, связанное с болезнями Альцгеймера и Паркинсона",
+     "summary": "Блокирование рецептора P2X7 значительно уменьшило воспаление в ткани человеческого мозга. Результат может позволить использовать существующие препараты для лечения этих заболеваний.",
+     "why": "Ранний результат на уровне тканей, но открывает путь к перепрофилированию лекарств."
+    }
+   }
+  },
+  {
+   "id": "sd-webb-lava-world-atmosphere",
+   "title": "Webb finds strong sign of an atmosphere on a scorching lava world",
+   "summary": "The James Webb telescope found strong evidence that the rocky planet HD 3167 b, which orbits its star every 24 hours, has an atmosphere.",
+   "why": "Interesting discovery, no direct impact on lives.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-10-07T00:00:00Z",
+   "continent": "Global",
+   "added": "2026-10-08T12:13:02Z",
+   "i18n": {
+    "ca": {
+     "title": "Webb detecta un fort indici d'atmosfera en un món de lava abrasador",
+     "summary": "El telescopi James Webb ha trobat indicis sòlids que el planeta rocós HD 3167 b, que orbita la seva estrella cada 24 hores, té atmosfera.",
+     "why": "Descoberta interessant, sense impacte directe en la vida de les persones."
+    },
+    "fr": {
+     "title": "Webb détecte un indice fort d'atmosphère sur un monde de lave brûlant",
+     "summary": "Le télescope James Webb a trouvé de solides indices que la planète rocheuse HD 3167 b, qui orbite autour de son étoile toutes les 24 heures, possède une atmosphère.",
+     "why": "Découverte intéressante, sans effet direct sur la vie quotidienne."
+    },
+    "ru": {
+     "title": "Уэбб обнаружил сильные признаки атмосферы на раскалённом мире из лавы",
+     "summary": "Телескоп Джеймса Уэбба нашёл убедительные свидетельства того, что у скалистой планеты HD 3167 b, которая обращается вокруг своей звезды каждые 24 часа, есть атмосфера.",
+     "why": "Интересное открытие, без прямого влияния на жизнь людей."
+    }
+   }
+  },
+  {
+   "id": "sd-zoo-lions-whole-carcass-feeding",
+   "title": "Feeding zoo lions whole carcasses brings out more natural behavior",
+   "summary": "Zoo lions fed whole carcasses on a feast-and-fast schedule spent about three times longer eating and showed more natural activity rhythms.",
+   "why": "A simple welfare improvement for captive animals.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261005071535.htm",
+   "score": 6,
+   "category": "Animals",
+   "region": "Global",
+   "published": "2026-10-07T00:00:00Z",
+   "continent": "Global",
+   "added": "2026-10-08T12:13:02Z",
+   "i18n": {
+    "ca": {
+     "title": "Alimentar els lleons dels zoos amb carcasses senceres fa aflorar més comportaments naturals",
+     "summary": "Els lleons de zoo alimentats amb carcasses senceres en un règim d'afartament i dejuni van dedicar unes tres vegades més temps a menjar i van mostrar ritmes d'activitat més naturals.",
+     "why": "Una millora senzilla del benestar dels animals captius."
+    },
+    "fr": {
+     "title": "Nourrir les lions de zoo avec des carcasses entières favorise des comportements plus naturels",
+     "summary": "Des lions de zoo nourris avec des carcasses entières, selon un rythme alternant festin et jeûne, ont passé environ trois fois plus de temps à manger et ont montré des rythmes d'activité plus naturels.",
+     "why": "Une amélioration simple du bien-être des animaux captifs."
+    },
+    "ru": {
+     "title": "Кормление львов в зоопарках целыми тушами способствует более естественному поведению",
+     "summary": "Львы из зоопарка, которых кормили целыми тушами по графику «пир и голод», проводили за едой примерно втрое больше времени и демонстрировали более естественные суточные ритмы активности.",
+     "why": "Простое улучшение благополучия содержащихся в неволе животных."
+    }
+   }
+  },
+  {
+   "id": "mb-whaling-commission-rejects-revival",
+   "title": "International Whaling Commission rejects push to revive commercial whaling",
+   "summary": "A proposal to open a path back to commercial whaling was withdrawn at the commission's meeting in Hobart, leaving the 1986 moratorium in place.",
+   "why": "Protects whales from a return to commercial hunting.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/international-whaling-commission-rejects-push-to-revive-commercial-whaling/",
+   "score": 8,
+   "category": "Animals",
+   "region": "Australia",
+   "published": "2026-10-07T00:00:00Z",
+   "continent": "Oceania",
+   "added": "2026-10-08T12:13:02Z",
+   "i18n": {
+    "ca": {
+     "title": "La Comissió Ballenera Internacional rebutja l'intent de reactivar la caça comercial de balenes",
+     "summary": "Una proposta per obrir el camí a la caça comercial de balenes es va retirar a la reunió de la comissió a Hobart, de manera que la moratòria de 1986 continua vigent.",
+     "why": "Protegeix les balenes d'un retorn a la caça comercial."
+    },
+    "fr": {
+     "title": "La Commission baleinière internationale rejette la relance de la chasse commerciale à la baleine",
+     "summary": "Une proposition visant à rouvrir la voie à la chasse commerciale à la baleine a été retirée lors de la réunion de la commission à Hobart, laissant en vigueur le moratoire de 1986.",
+     "why": "Protège les baleines d'un retour à la chasse commerciale."
+    },
+    "ru": {
+     "title": "Международная китобойная комиссия отклонила предложение о возобновлении коммерческого китобойного промысла",
+     "summary": "Предложение, открывавшее путь к возобновлению коммерческого китобойного промысла, было снято на заседании комиссии в Хобарте, и мораторий 1986 года остался в силе.",
+     "why": "Защищает китов от возвращения к коммерческой охоте."
+    }
+   }
+  },
+  {
+   "id": "mb-forest-rights-pledge-exceeded",
+   "title": "Donors exceed pledge to fund Indigenous and local forest land rights",
+   "summary": "Donors delivered about $2.35 billion from 2021 to 2025, above a $1.7 billion pledge. Only a small share goes directly to community organizations.",
+   "why": "Target beaten, but direct funding remains low.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/international-pledge-to-fund-forest-rights-exceeds-target-but-direct-funding-remains-low/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Global",
+   "published": "2026-10-07T00:00:00Z",
+   "continent": "Global",
+   "added": "2026-10-08T12:13:02Z",
+   "i18n": {
+    "ca": {
+     "title": "Els donants superen el compromís de finançar els drets forestals dels pobles indígenes i de les comunitats locals",
+     "summary": "Els donants van aportar uns 2.350 milions de dòlars entre 2021 i 2025, per sobre dels 1.700 milions del compromís. Només una petita part arriba directament a les organitzacions comunitàries.",
+     "why": "L'objectiu s'ha superat, però el finançament directe continua sent baix."
+    },
+    "fr": {
+     "title": "Les donateurs dépassent leur engagement de financer les droits fonciers des peuples autochtones et des communautés locales",
+     "summary": "Les donateurs ont versé environ 2,35 milliards de dollars entre 2021 et 2025, au-delà de l'engagement de 1,7 milliard de dollars. Seule une faible part va directement aux organisations communautaires.",
+     "why": "Objectif atteint, mais le financement direct reste faible."
+    },
+    "ru": {
+     "title": "Доноры превысили обязательство по финансированию прав коренных народов и местных общин на лесные земли",
+     "summary": "В 2021–2025 годах доноры выделили около 2,35 млрд долларов при обязательстве в 1,7 млрд долларов. Лишь небольшая часть напрямую поступает общинным организациям.",
+     "why": "Цель перевыполнена, но прямое финансирование остаётся низким."
+    }
+   }
+  },
+  {
+   "id": "mb-thailand-leopard-cats-rehab",
+   "title": "Thai rescue centre prepares orphaned leopard cats for release",
+   "summary": "A wildlife centre in northeastern Thailand rehabilitates orphaned leopard cats, teaching them behaviors needed to survive before returning them to the wild.",
+   "why": "Rescue and release work, limited in scale.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/a-few-are-afraid-of-the-chicks-preparing-thailands-rescued-leopard-cats-for-life-in-the-wild/",
+   "score": 6,
+   "category": "Animals",
+   "region": "Thailand",
+   "published": "2026-10-07T00:00:00Z",
+   "continent": "Asia",
+   "added": "2026-10-08T12:13:02Z",
+   "i18n": {
+    "ca": {
+     "title": "Un centre de rescat tailandès prepara gats lleopard orfes per a l'alliberament",
+     "summary": "Un centre de fauna del nord-est de Tailàndia rehabilita gats lleopard orfes i els ensenya comportaments necessaris per sobreviure abans de tornar-los a la natura.",
+     "why": "Feina de rescat i alliberament, de dimensió limitada."
+    },
+    "fr": {
+     "title": "Un centre de sauvetage thaïlandais prépare des chats-léopards orphelins à la remise en liberté",
+     "summary": "Un centre de faune du nord-est de la Thaïlande réhabilite des chats-léopards orphelins et leur apprend les comportements nécessaires à leur survie avant de les relâcher dans la nature.",
+     "why": "Travail de sauvetage et de remise en liberté, à une échelle limitée."
+    },
+    "ru": {
+     "title": "Тайский центр спасения готовит осиротевших бенгальских кошек к жизни на воле",
+     "summary": "Центр дикой природы на северо-востоке Таиланда выхаживает осиротевших бенгальских кошек и учит их навыкам, необходимым для выживания, прежде чем вернуть в дикую природу.",
+     "why": "Работа по спасению и выпуску животных, но ограниченного масштаба."
+    }
+   }
+  },
+  {
+   "id": "mb-africa-wildlife-decline-80-percent",
+   "title": "Monitored African wildlife populations down 80% since 1970, report says",
+   "summary": "The Living Planet Report 2026 puts the average decline in monitored African wildlife populations at 80% since 1970.",
+   "why": "Alarming loss, though it informs conservation priorities.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/africas-monitored-wildlife-populations-declined-80-since-1970-new-report-says/",
+   "score": 2,
+   "category": "Environment",
+   "region": "Africa",
+   "published": "2026-10-07T00:00:00Z",
+   "continent": "Africa",
+   "added": "2026-10-08T12:13:02Z",
+   "i18n": {
+    "ca": {
+     "title": "La fauna salvatge africana monitoritzada ha disminuït un 80% des de 1970, segons un informe",
+     "summary": "L'Informe Planeta Viu 2026 situa la disminució mitjana de les poblacions monitoritzades de fauna salvatge africana en un 80% des de 1970.",
+     "why": "Pèrdua alarmant, però ajuda a establir les prioritats de conservació."
+    },
+    "fr": {
+     "title": "Les populations sauvages africaines suivies ont décliné de 80 % depuis 1970, selon un rapport",
+     "summary": "Le Rapport Planète vivante 2026 évalue la baisse moyenne des populations de faune sauvage africaine suivies à 80 % depuis 1970.",
+     "why": "Perte alarmante, mais qui oriente les priorités de conservation."
+    },
+    "ru": {
+     "title": "Численность отслеживаемых диких животных Африки сократилась на 80% с 1970 года, говорится в докладе",
+     "summary": "Доклад «Живая планета 2026» оценивает среднее сокращение численности отслеживаемых популяций диких животных Африки в 80% с 1970 года.",
+     "why": "Тревожная потеря, однако она помогает определить приоритеты сохранения природы."
+    }
+   }
+  },
+  {
+   "id": "mb-bird-flu-reaches-australia-oceania",
+   "title": "Bird flu H5N1 reaches Australia and Oceania",
+   "summary": "H5N1 avian influenza has reached Australia, the last continent free of the virus, killing wild birds and spilling over into endangered sea mammals.",
+   "why": "Harmful spread, but monitoring is under way.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/invading-the-globe-bird-flu-now-threatens-australia-and-oceania/",
+   "score": 1,
+   "category": "Animals",
+   "region": "Australia",
+   "published": "2026-10-07T00:00:00Z",
+   "continent": "Oceania",
+   "added": "2026-10-08T12:13:02Z",
+   "i18n": {
+    "ca": {
+     "title": "La grip aviària H5N1 arriba a Austràlia i Oceania",
+     "summary": "La grip aviària H5N1 ha arribat a Austràlia, l'últim continent lliure del virus, on mata ocells salvatges i ha saltat a mamífers marins amenaçats.",
+     "why": "Propagació perjudicial, però ja s'està fent seguiment."
+    },
+    "fr": {
+     "title": "La grippe aviaire H5N1 atteint l'Australie et l'Océanie",
+     "summary": "La grippe aviaire H5N1 a atteint l'Australie, dernier continent épargné par le virus, où elle tue des oiseaux sauvages et s'est transmise à des mammifères marins menacés.",
+     "why": "Propagation néfaste, mais une surveillance est en cours."
+    },
+    "ru": {
+     "title": "Птичий грипп H5N1 добрался до Австралии и Океании",
+     "summary": "Птичий грипп H5N1 достиг Австралии, последнего континента, свободного от вируса, где он убивает диких птиц и перекинулся на находящихся под угрозой морских млекопитающих.",
+     "why": "Вредное распространение, но ведётся мониторинг."
     }
    }
   },
@@ -6337,68 +6709,6 @@
      "title": "Вьетнам взял под охрану последние леса обезьяны на грани исчезновения",
      "summary": "Новая охраняемая территория площадью 7500 акров защищает известняковый лес, где живёт большинство оставшихся лангуров Делакура.",
      "why": "Конкретная правовая защита одного из самых редких приматов мира."
-    }
-   }
-  },
-  {
-   "id": "sd-ancient-peptides-superbugs",
-   "title": "160-million-year-old proteins fight antibiotic-resistant bacteria",
-   "summary": "Scientists rebuilt ancient antimicrobial peptides and found they beat drug-resistant bacteria better than modern human versions.",
-   "why": "A new angle on a major health threat; lab stage.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260925093155.htm",
-   "score": 7,
-   "category": "Health",
-   "region": "Global",
-   "published": "2026-09-28T09:59:57Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "Global",
-   "i18n": {
-    "ca": {
-     "title": "Proteïnes de fa 160 milions d'anys combaten bacteris resistents als antibiòtics",
-     "summary": "Científics han reconstruït pèptids antimicrobians antics i han vist que vencen els bacteris resistents millor que les versions humanes actuals.",
-     "why": "Un enfocament nou davant una gran amenaça sanitària; en fase de laboratori."
-    },
-    "fr": {
-     "title": "Des protéines vieilles de 160 millions d'années contre les bactéries résistantes",
-     "summary": "Des scientifiques ont reconstitué des peptides antimicrobiens anciens et constaté qu'ils surpassent les versions humaines actuelles contre les bactéries résistantes.",
-     "why": "Une nouvelle approche face à une menace sanitaire majeure ; stade du laboratoire."
-    },
-    "ru": {
-     "title": "Белки возрастом 160 млн лет борются с устойчивыми к антибиотикам бактериями",
-     "summary": "Учёные воссоздали древние антимикробные пептиды и выяснили, что они справляются с устойчивыми бактериями лучше современных человеческих.",
-     "why": "Новый подход к серьёзной угрозе здоровью; пока лабораторная стадия."
-    }
-   }
-  },
-  {
-   "id": "sd-stroke-body-clock",
-   "title": "Resetting the body clock may help the brain heal after stroke",
-   "summary": "Strengthening circadian rhythms improved recovery after stroke by boosting the brain's waste clearance and lowering inflammation.",
-   "why": "Cheap, low-risk idea with real potential; early evidence.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260924020407.htm",
-   "score": 6,
-   "category": "Health",
-   "region": "Global",
-   "published": "2026-09-28T08:35:12Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "Global",
-   "i18n": {
-    "ca": {
-     "title": "Reajustar el rellotge biològic podria ajudar el cervell a recuperar-se d'un ictus",
-     "summary": "Reforçar els ritmes circadians va millorar la recuperació després d'un ictus, ja que augmenta l'eliminació de residus del cervell i redueix la inflamació.",
-     "why": "Idea barata i de poc risc amb potencial real; proves inicials."
-    },
-    "fr": {
-     "title": "Recaler l'horloge biologique pourrait aider le cerveau après un AVC",
-     "summary": "Renforcer les rythmes circadiens a amélioré la récupération après un AVC en stimulant l'élimination des déchets du cerveau et en réduisant l'inflammation.",
-     "why": "Idée peu coûteuse et peu risquée, au vrai potentiel ; premiers résultats."
-    },
-    "ru": {
-     "title": "Настройка биологических часов может помочь мозгу восстановиться после инсульта",
-     "summary": "Укрепление циркадных ритмов улучшило восстановление после инсульта: мозг лучше очищался от отходов, а воспаление снижалось.",
-     "why": "Дешёвая и безопасная идея с реальным потенциалом; первые данные."
     }
    }
   }

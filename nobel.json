@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "ceremony": "2026-12-10",
- "updated": "2026-10-07T13:34:14Z",
+ "updated": "2026-10-08T13:39:25Z",
  "prizes": [
   {
    "id": "medicine",
@@ -248,7 +248,63 @@
   {
    "id": "literature",
    "at": "2026-10-08T11:00:00Z",
-   "status": "upcoming"
+   "status": "announced",
+   "laureates": [
+    {
+     "name": "Anne Carson",
+     "info": "born about 1950, Canada · poet, essayist, translator and classicist",
+     "profile": "Carson is a Canadian writer who moves freely between poetry, essays, translation and classical scholarship. She is known for books such as Autobiography of Red and Nox, and for mixing ancient Greek and Roman themes with modern feelings. She has been tipped for the prize for years; the Academy reached her while she was in Iceland."
+    }
+   ],
+   "motivation": "Awarded for a \"bold and inventive oeuvre\" that, in playful dialogue with the classical tradition, has created new forms for contemporary literature.",
+   "explainer": "Anne Carson is a Canadian writer who started out as a scholar of ancient Greek, and that background shapes everything she writes. Her books do not fit neatly into one box: some are poems, some are essays, some are translations, and many are a mix of all three. She often starts from a single old word and follows its meaning like a trail, asking what it can tell us about love, desire, grief and memory. The Academy singled out Nox, a book made as one long folded sheet of paper that honours her late brother. Instead of ordinary pages, it holds photos, scraps, dictionary entries and her own words, so reading it feels like opening a box of someone's memories. Think of a museum curator who takes statues from ancient Greece and places them in a modern flat, so you see both the old and the new differently. Readers value Carson because she shows that old stories are not dusty; they can speak about heartbreak and loss today, and a book can be a physical object as well as a text.",
+   "why": "Carson's work shows that ancient literature still helps us talk about love and loss today, and that writing can keep inventing new shapes. Her prize also adds a rare woman to the list of laureates.",
+   "sources": [
+    {
+     "title": "The Peninsula Qatar (AFP): Canada's Anne Carson wins Nobel literature prize",
+     "url": "https://thepeninsulaqatar.com/article/08/10/2026/canadas-anne-carson-wins-nobel-literature-prize"
+    },
+    {
+     "title": "Business Today: Nobel Prize in literature 2026, Anne Carson wins",
+     "url": "https://www.businesstoday.in/world/story/nobel-prize-in-literature-2026-anne-carson-wins-for-bold-work-from-autobiography-of-red-to-nox-560454-2026-10-08"
+    }
+   ],
+   "updated": "2026-10-08T12:58:20Z",
+   "i18n": {
+    "ca": {
+     "motivation": "Concedit-se per una obra «audaç i inventiva» que, en un diàleg lúdic amb la tradició clàssica, ha creat noves formes per a la literatura contemporània.",
+     "explainer": "Anne Carson és una escriptora canadenca que va començar com a especialista en grec antic, i aquest bagatge marca tot el que escriu. Els seus llibres no encaixen fàcilment en una sola categoria: n'hi ha que són poemes, n'hi ha que són assaigs, n'hi ha que són traduccions, i molts barregen les tres coses. Sovint parteix d'una sola paraula antiga i en segueix el significat com si fos un camí, i es pregunta què pot dir-nos sobre l'amor, el desig, el dol i la memòria. L'Acadèmia va destacar Nox, un llibre fet com una única fulla de paper llarga i plegada, que honora el seu germà difunt. En lloc de pàgines normals, conté fotos, retalls, entrades de diccionari i paraules seves, de manera que llegir-lo és com obrir una caixa de records d'algú. Imagineu una conservadora de museu que agafa estàtues de l'antiga Grècia i les col·loca en un pis modern: aleshores es veu l'antic i el nou d'una altra manera. Els lectors valoren Carson perquè demostra que les històries antigues no són polsoses: poden parlar avui de desamor i de pèrdua, i un llibre pot ser un objecte físic a més de ser un text.",
+     "why": "L'obra de Carson demostra que la literatura antiga encara ens ajuda a parlar avui de l'amor i de la pèrdua, i que l'escriptura pot seguir inventant noves formes. El premi també afegeix a la llista de guardonats una dona, cosa poc habitual.",
+     "profiles": {
+      "Anne Carson": {
+       "info": "nascuda cap al 1950, Canadà · poeta, assagista, traductora i classicista",
+       "profile": "Carson és una escriptora canadenca que es mou amb llibertat entre la poesia, l'assaig, la traducció i la recerca clàssica. És coneguda per llibres com Autobiography of Red i Nox, i per barrejar temes de l'antiga Grècia i Roma amb sentiments moderns. Feia anys que era apuntada com a favorita per al premi; l'Acadèmia l'va avisar mentre era a Islàndia."
+      }
+     }
+    },
+    "fr": {
+     "motivation": "Décerné pour une œuvre « audacieuse et inventive » qui, dans un dialogue ludique avec la tradition classique, a créé de nouvelles formes pour la littérature contemporaine.",
+     "explainer": "Anne Carson est une écrivaine canadienne qui a d'abord été spécialiste du grec ancien, et cette formation imprègne tout ce qu'elle écrit. Ses livres ne rentrent pas facilement dans une seule case : certains sont des poèmes, d'autres des essais, d'autres des traductions, et beaucoup mêlent les trois. Elle part souvent d'un seul mot ancien et en suit le sens comme une piste, en se demandant ce qu'il peut nous dire de l'amour, du désir, du deuil et de la mémoire. L'Académie a distingué Nox, un livre conçu comme une longue feuille de papier pliée qui rend hommage à son frère défunt. Au lieu de pages ordinaires, il contient des photos, des bribes, des entrées de dictionnaire et ses propres mots, si bien que le lire revient à ouvrir la boîte de souvenirs de quelqu'un. Imaginez une conservatrice de musée qui prend des statues de la Grèce antique et les installe dans un appartement moderne : on regarde alors l'ancien et le nouveau d'un autre œil. Les lecteurs apprécient Carson parce qu'elle montre que les vieilles histoires ne sont pas poussiéreuses : elles peuvent parler aujourd'hui de chagrin et de perte, et un livre peut être un objet physique autant qu'un texte.",
+     "why": "L'œuvre de Carson montre que la littérature antique nous aide encore à parler d'amour et de perte aujourd'hui, et que l'écriture peut continuer à inventer de nouvelles formes. Ce prix ajoute aussi à la liste des lauréats une femme, chose peu fréquente.",
+     "profiles": {
+      "Anne Carson": {
+       "info": "née vers 1950, Canada · poète, essayiste, traductrice et spécialiste des études classiques",
+       "profile": "Carson est une écrivaine canadienne qui circule librement entre la poésie, l'essai, la traduction et la recherche en lettres classiques. Elle est notamment connue pour Autobiography of Red et Nox, et pour mêler des thèmes de la Grèce et de Rome antiques à des sentiments modernes. Elle était pressentie pour le prix depuis des années ; l'Académie l'a prévenue alors qu'elle se trouvait en Islande."
+      }
+     }
+    },
+    "ru": {
+     "motivation": "Присуждена за «смелое и изобретательное творчество», которое в игровом диалоге с классической традицией создало новые формы для современной литературы.",
+     "explainer": "Энн Карсон — канадская писательница, которая начинала как специалист по древнегреческому языку, и это образование определяет всё, что она пишет. Её книги не укладываются в одну рамку: одни — стихи, другие — эссе, третьи — переводы, а многие сочетают всё сразу. Она часто начинает с одного старого слова и идёт по его значению, как по следу, спрашивая, что оно может рассказать о любви, желании, горе и памяти. Академия особо выделила Nox — книгу, которая сделана как одно длинное сложенное бумажное полотно и посвящена её покойному брату. Вместо обычных страниц в ней фотографии, обрывки, словарные статьи и собственные слова автора, поэтому чтение похоже на открытие чьей-то коробки с воспоминаниями. Представьте куратора музея, который берёт статуи Древней Греции и ставит их в современную квартиру: тогда и старое, и новое видишь иначе. Читатели ценят Карсон за то, что она показывает: старые истории не пыльные, они могут говорить о любовных страданиях и утрате сегодня, а книга может быть физическим предметом так же, как текстом.",
+     "why": "Творчество Карсон показывает, что античная литература до сих пор помогает нам говорить о любви и утрате, а письмо может постоянно изобретать новые формы. Премия также пополняет список лауреатов женщиной, что случается нечасто.",
+     "profiles": {
+      "Anne Carson": {
+       "info": "род. около 1950 года, Канада · поэтесса, эссеистка, переводчица и филолог-классик",
+       "profile": "Карсон — канадская писательница, свободно переходящая от поэзии к эссе, переводу и научным исследованиям в области античности. Она известна книгами Autobiography of Red и Nox, а также тем, что соединяет темы Древней Греции и Рима с современными чувствами. Её годами называли среди возможных кандидатов на премию; Академия сообщила ей о награде, когда она находилась в Исландии."
+      }
+     }
+    }
+   }
   },
   {
    "id": "peace",
@@ -261,5 +317,5 @@
    "status": "upcoming"
   }
  ],
- "source_file": "nobel-20261007T1258Z.json"
+ "source_file": "nobel-20261008T1259Z.json"
 }
