@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T12:13:02Z",
+ "updated": "2026-10-08T18:13:21Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,10 +12,289 @@
   "Grist",
   "Africanews"
  ],
- "count": 216,
- "last_run": "run-20261008T1213Z.json",
- "note": "12 new, 103 skipped, 2 pruned, 0 translations added, failed feeds: none",
+ "count": 230,
+ "last_run": "run-20261008T1813Z.json",
+ "note": "15 new, 105 skipped, 1 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "an-zambia-us-health-deal-data-clauses-removed",
+   "title": "Zambia signs US health deal after data-sharing clauses are removed",
+   "summary": "The government says the agreement is not linked to US access to its mineral resources.",
+   "why": "Health funding secured with data protections, details still limited.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/08/zambia-signs-health-deal-with-us-after-removal-of-data-sharing-clauses/",
+   "score": 5,
+   "category": "Health",
+   "region": "Zambia",
+   "published": "2026-10-08T16:52:34Z",
+   "continent": "Africa",
+   "added": "2026-10-08T18:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Zàmbia signa un acord sanitari amb els EUA després de suprimir-ne les clàusules sobre intercanvi de dades",
+     "summary": "El govern afirma que l'acord no està vinculat a l'accés dels EUA als seus recursos minerals.",
+     "why": "Finançament sanitari assegurat amb proteccions de dades, però els detalls encara són limitats."
+    },
+    "fr": {
+     "title": "La Zambie signe un accord de santé avec les États-Unis après la suppression des clauses de partage de données",
+     "summary": "Le gouvernement affirme que l'accord n'est pas lié à l'accès des États-Unis à ses ressources minières.",
+     "why": "Financement de la santé obtenu avec des garanties en matière de données, mais les détails restent limités."
+    },
+    "ru": {
+     "title": "Замбия подписала соглашение с США в сфере здравоохранения после исключения положений об обмене данными",
+     "summary": "Правительство заявляет, что соглашение не связано с доступом США к её минеральным ресурсам.",
+     "why": "Финансирование здравоохранения обеспечено при защите данных, однако подробности пока ограничены."
+    }
+   }
+  },
+  {
+   "id": "tbi-delhi-tutor-vinay-das-park-cleanups",
+   "title": "Delhi tutor's free classes grow into a movement that cleaned 250 public spaces",
+   "summary": "Vinay Das began free classes for migrant children in Wazirpur; weekend clean-up drives since 2018 have cleared around 250 parks and streets.",
+   "why": "Community-led effort helping children and neighborhoods.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/changemakers/delhi-tutor-vinay-das-children-clean-parks-wazirpur-12637405",
+   "score": 7,
+   "category": "Society",
+   "region": "Delhi, India",
+   "published": "2026-10-08T12:30:37Z",
+   "continent": "Asia",
+   "added": "2026-10-08T18:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Les classes gratuïtes d'un professor de Delhi es converteixen en un moviment que ha netejat 250 espais públics",
+     "summary": "Vinay Das va començar a fer classes gratuïtes per a infants migrants a Wazirpur; des del 2018, les jornades de neteja de cap de setmana han netejat uns 250 parcs i carrers.",
+     "why": "Un esforç de la comunitat que ajuda els infants i els barris."
+    },
+    "fr": {
+     "title": "Les cours gratuits d'un professeur de Delhi deviennent un mouvement qui a nettoyé 250 espaces publics",
+     "summary": "Vinay Das a commencé à donner des cours gratuits à des enfants migrants à Wazirpur ; depuis 2018, des opérations de nettoyage le week-end ont permis de dégager environ 250 parcs et rues.",
+     "why": "Une initiative communautaire qui aide les enfants et les quartiers."
+    },
+    "ru": {
+     "title": "Бесплатные занятия репетитора из Дели переросли в движение, которое очистило 250 общественных пространств",
+     "summary": "Винай Дас начал бесплатные занятия для детей мигрантов в Вазирпуре; с 2018 года уборки по выходным помогли очистить около 250 парков и улиц.",
+     "why": "Инициатива местного сообщества, которая помогает детям и районам."
+    }
+   }
+  },
+  {
+   "id": "am-humidity-power-wallpaper",
+   "title": "Wallpaper-style panels generate small amounts of power from indoor humidity",
+   "summary": "Binghamton University engineers built paper-based panels; an array of 1,596 units ran a wireless keyboard in testing.",
+   "why": "Early lab result with very small power output.",
+   "source": "Anthropocene Magazine",
+   "url": "https://www.anthropocenemagazine.org/2026/10/researchers-have-made-wallpaper-that-generates-power-from-indoor-humidity/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-have-made-power-generating-wallpaper",
+   "score": 5,
+   "category": "Energy",
+   "region": "New York, USA",
+   "published": "2026-10-08T12:00:06Z",
+   "continent": "North America",
+   "added": "2026-10-08T18:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Panells com a paper de paret generen petites quantitats d'energia a partir de la humitat interior",
+     "summary": "Enginyers de la Universitat de Binghamton han construït panells de paper; una matriu de 1.596 unitats va fer funcionar un teclat sense fil durant les proves.",
+     "why": "Resultat inicial de laboratori amb una potència molt petita."
+    },
+    "fr": {
+     "title": "Des panneaux en forme de papier peint produisent de petites quantités d'électricité à partir de l'humidité intérieure",
+     "summary": "Des ingénieurs de l'université de Binghamton ont mis au point des panneaux en papier ; un ensemble de 1 596 unités a alimenté un clavier sans fil lors des essais.",
+     "why": "Résultat de laboratoire préliminaire avec une puissance très faible."
+    },
+    "ru": {
+     "title": "Панели в стиле обоев вырабатывают небольшое количество энергии из влажности воздуха в помещении",
+     "summary": "Инженеры Бингемтонского университета создали панели на основе бумаги; в ходе испытаний массив из 1596 элементов питал беспроводную клавиатуру.",
+     "why": "Ранний лабораторный результат с очень небольшой выработкой энергии."
+    }
+   }
+  },
+  {
+   "id": "an-nigeria-solar-alternative-grid",
+   "title": "Solar grows as an alternative to Nigeria's unreliable grid",
+   "summary": "Nigeria's power crisis is creating opportunities for solar energy, according to a Business Africa segment.",
+   "why": "Clean energy growth, though scale and benefit are unclear.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/08/solar-emerges-as-an-alternative-to-nigerias-unreliable-grid-business-africa/",
+   "score": 6,
+   "category": "Energy",
+   "region": "Nigeria",
+   "published": "2026-10-08T11:59:59Z",
+   "continent": "Africa",
+   "added": "2026-10-08T18:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "L'energia solar guanya terreny com a alternativa a la xarxa elèctrica poc fiable de Nigèria",
+     "summary": "Segons un reportatge de Business Africa, la crisi energètica de Nigèria està creant oportunitats per a l'energia solar.",
+     "why": "Creixement de l'energia neta, tot i que l'escala i el benefici no són clars."
+    },
+    "fr": {
+     "title": "Le solaire progresse comme alternative au réseau électrique peu fiable du Nigeria",
+     "summary": "Selon un reportage de Business Africa, la crise énergétique au Nigeria ouvre des opportunités pour l'énergie solaire.",
+     "why": "Essor de l'énergie propre, même si son ampleur et ses bénéfices restent flous."
+    },
+    "ru": {
+     "title": "Солнечная энергетика растёт как альтернатива ненадёжной энергосистеме Нигерии",
+     "summary": "По данным сюжета Business Africa, энергетический кризис в Нигерии открывает возможности для солнечной энергетики.",
+     "why": "Рост чистой энергетики, хотя масштаб и выгоды пока неясны."
+    }
+   }
+  },
+  {
+   "id": "pn-prince-william-community-emergency-kit",
+   "title": "Free kit helps UK communities prepare for emergencies",
+   "summary": "Prince William launched a free how-to resource that helps local communities build resilience and prepare for emergencies.",
+   "why": "A practical, free tool for community preparedness.",
+   "source": "Positive News",
+   "url": "https://www.positive.news/society/prince-william-launches-kit-to-help-communities-prepare-for-emergencies/",
+   "score": 6,
+   "category": "Society",
+   "region": "United Kingdom",
+   "published": "2026-10-08T11:27:24Z",
+   "continent": "Europe",
+   "added": "2026-10-08T18:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Un kit gratuït ajuda les comunitats del Regne Unit a preparar-se per a emergències",
+     "summary": "El príncep Guillem ha presentat un recurs gratuït i pràctic que ajuda les comunitats locals a enfortir-se i a preparar-se per a emergències.",
+     "why": "Una eina pràctica i gratuïta per a la preparació comunitària."
+    },
+    "fr": {
+     "title": "Un kit gratuit aide les communautés britanniques à se préparer aux urgences",
+     "summary": "Le prince William a lancé une ressource gratuite et pratique qui aide les communautés locales à renforcer leur résilience et à se préparer aux situations d'urgence.",
+     "why": "Un outil pratique et gratuit pour la préparation des communautés."
+    },
+    "ru": {
+     "title": "Бесплатный набор помогает британским общинам готовиться к чрезвычайным ситуациям",
+     "summary": "Принц Уильям представил бесплатное практическое руководство, которое помогает местным общинам повышать устойчивость и готовиться к чрезвычайным ситуациям.",
+     "why": "Практичный бесплатный инструмент для подготовки общин."
+    }
+   }
+  },
+  {
+   "id": "an-nigeria-kidnapped-graduates-rescued",
+   "title": "Twenty kidnapped Nigerian graduates found alive after week-long search",
+   "summary": "Graduates abducted while travelling to begin national youth service were rescued, authorities confirmed.",
+   "why": "Safe return for 20 people, though the kidnapping itself was harmful.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/08/nigeria-20-kidnapped-graduates-rescued-after-week-long-search/",
+   "score": 6,
+   "category": "Society",
+   "region": "Nigeria",
+   "published": "2026-10-08T11:22:28Z",
+   "continent": "Africa",
+   "added": "2026-10-08T18:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Troben vius vint graduats nigerians segrestats després d'una cerca d'una setmana",
+     "summary": "Les autoritats han confirmat el rescat dels graduats segrestats mentre viatjaven per començar el servei nacional de joventut.",
+     "why": "Retorn sa i estalvi de 20 persones, tot i que el segrest en si va ser perjudicial."
+    },
+    "fr": {
+     "title": "Vingt diplômés nigérians enlevés retrouvés vivants après une semaine de recherches",
+     "summary": "Les autorités ont confirmé la libération des diplômés enlevés alors qu'ils se rendaient au début de leur service national de jeunesse.",
+     "why": "Retour sain et sauf de 20 personnes, bien que l'enlèvement lui-même ait été néfaste."
+    },
+    "ru": {
+     "title": "Двадцать похищенных нигерийских выпускников найдены живыми после недельных поисков",
+     "summary": "Власти подтвердили освобождение выпускников, похищенных по пути на начало национальной службы молодёжи.",
+     "why": "Благополучное возвращение 20 человек, хотя само похищение причинило вред."
+    }
+   }
+  },
+  {
+   "id": "an-wwf-living-planet-report-hope",
+   "title": "WWF report finds 73% wildlife decline but points to species recoveries",
+   "summary": "The Living Planet Report 2026 shows steep declines in monitored wildlife populations, with recoveries in some species suggesting the trend can be reversed.",
+   "why": "Mixed: grim overall trend with some hopeful examples.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/08/wwf-report-says-reason-for-hope-despite-wildlife-population-decline/",
+   "score": 4,
+   "category": "Animals",
+   "region": "Global",
+   "published": "2026-10-08T10:32:31Z",
+   "continent": "Global",
+   "added": "2026-10-08T18:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Un informe del WWF constata una disminució del 73% de la fauna salvatge, però assenyala recuperacions d'espècies",
+     "summary": "L'Informe Planeta Viu 2026 mostra forts descensos en les poblacions de fauna salvatge monitoritzades, i la recuperació d'algunes espècies suggereix que la tendència es pot revertir.",
+     "why": "Mixt: una tendència global sòrdida amb alguns exemples esperançadors."
+    },
+    "fr": {
+     "title": "Un rapport du WWF constate un déclin de 73 % de la faune sauvage, mais met en avant des rétablissements d'espèces",
+     "summary": "Le Rapport Planète vivante 2026 montre de fortes baisses des populations d'animaux sauvages suivies, et le rétablissement de certaines espèces laisse penser que la tendance peut être inversée.",
+     "why": "Bilan mitigé : une tendance globale sombre, avec quelques exemples porteurs d'espoir."
+    },
+    "ru": {
+     "title": "Доклад WWF фиксирует сокращение численности диких животных на 73%, но указывает на восстановление некоторых видов",
+     "summary": "Доклад «Живая планета 2026» показывает резкое сокращение отслеживаемых популяций диких животных, а восстановление некоторых видов говорит о том, что тенденцию можно переломить.",
+     "why": "Смешанная картина: мрачная общая тенденция с некоторыми обнадёживающими примерами."
+    }
+   }
+  },
+  {
+   "id": "rtbc-nyc-students-saved-school-lunch",
+   "title": "New York students help improve school lunch by surveying classmates",
+   "summary": "Through Youth Food Advocates, a Brooklyn student surveyed classmates on why they skipped the cafeteria and what they wanted to eat.",
+   "why": "Student-led change that can improve meals for many pupils.",
+   "source": "Reasons to be Cheerful",
+   "url": "https://reasonstobecheerful.world/how-nyc-students-saved-school-lunch/",
+   "score": 7,
+   "category": "Society",
+   "region": "New York City, USA",
+   "published": "2026-10-08T08:00:50Z",
+   "continent": "North America",
+   "added": "2026-10-08T18:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Estudiants de Nova York ajuden a millorar el menjador escolar enquestant els companys",
+     "summary": "Mitjançant Youth Food Advocates, una estudiant de Brooklyn va enquestar els companys sobre per què no anaven al menjador i què volien menjar.",
+     "why": "Un canvi impulsat per estudiants que pot millorar els àpats de molts alumnes."
+    },
+    "fr": {
+     "title": "Des élèves new-yorkais contribuent à améliorer la cantine en interrogeant leurs camarades",
+     "summary": "Grâce à Youth Food Advocates, une élève de Brooklyn a interrogé ses camarades sur les raisons pour lesquelles ils ne mangeaient pas à la cantine et sur ce qu'ils voulaient manger.",
+     "why": "Un changement porté par des élèves, qui peut améliorer les repas de nombreux écoliers."
+    },
+    "ru": {
+     "title": "Школьники Нью-Йорка помогают улучшить школьное питание, опросив одноклассников",
+     "summary": "Через организацию Youth Food Advocates ученица из Бруклина опросила одноклассников о том, почему они не ходили в столовую и что хотели бы есть.",
+     "why": "Перемены, инициированные учениками, которые могут улучшить питание многих школьников."
+    }
+   }
+  },
+  {
+   "id": "mb-zambia-kafue-mine-pollution",
+   "title": "Zambia investigates suspected chemical spill that killed fish in Kafue River",
+   "summary": "Authorities are investigating a suspected spill from a Konkola Copper Mines site; residents say discharges are frequent.",
+   "why": "Harm to a river, with only the investigation as a positive.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/despite-legacy-court-case-zambian-vedanta-mine-pollution-continues/",
+   "score": 2,
+   "category": "Environment",
+   "region": "Zambia",
+   "published": "2026-10-08T04:51:31Z",
+   "continent": "Africa",
+   "added": "2026-10-08T18:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Zàmbia investiga un presumpte vessament químic que va matar peixos al riu Kafue",
+     "summary": "Les autoritats investiguen un presumpte vessament procedent d'un lloc de Konkola Copper Mines; els veïns asseguren que les descàrregues són freqüents.",
+     "why": "Dany a un riu, amb la investigació com a única nota positiva."
+    },
+    "fr": {
+     "title": "La Zambie enquête sur un présumé déversement chimique qui a tué des poissons dans la rivière Kafue",
+     "summary": "Les autorités enquêtent sur un présumé déversement provenant d'un site de Konkola Copper Mines ; les riverains affirment que les rejets sont fréquents.",
+     "why": "Atteinte à une rivière, dont le seul point positif est l'enquête en cours."
+    },
+    "ru": {
+     "title": "Замбия расследует предполагаемый химический разлив, погубивший рыбу в реке Кафуэ",
+     "summary": "Власти расследуют предполагаемый разлив с объекта Konkola Copper Mines; местные жители говорят, что сбросы происходят часто.",
+     "why": "Ущерб реке, положительный момент здесь — только расследование."
+    }
+   }
+  },
   {
    "id": "tbi-hesaraghatta-grassland-reserve",
    "title": "Bengaluru's Hesaraghatta grassland becomes a conservation reserve",
@@ -172,6 +451,68 @@
    }
   },
   {
+   "id": "mb-warwilding-poland-bialowieza",
+   "title": "Poland weighs border security against protecting Europe's last ancient forest",
+   "summary": "Security concerns on the Belarus border clash with conservation of the Bialowieza Forest, and border land use might also help protect it.",
+   "why": "Open question; outcome undecided.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/can-warwilding-defend-polands-borders-and-save-europes-last-ancient-forest/",
+   "score": 5,
+   "category": "Environment",
+   "region": "Poland",
+   "published": "2026-10-07T20:13:42Z",
+   "continent": "Europe",
+   "added": "2026-10-08T18:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Polònia sopesa la seguretat fronterera i la protecció de l'últim bosc antic d'Europa",
+     "summary": "Les preocupacions de seguretat a la frontera amb Bielorússia xoquen amb la conservació del bosc de Białowieża, i l'ús del territori fronterer també podria ajudar a protegir-lo.",
+     "why": "Qüestió oberta; el resultat encara no està decidit."
+    },
+    "fr": {
+     "title": "La Pologne pèse la sécurité frontalière face à la protection de la dernière forêt ancienne d'Europe",
+     "summary": "Les préoccupations sécuritaires à la frontière avec la Biélorussie entrent en conflit avec la préservation de la forêt de Białowieża, et l'usage des terres frontalières pourrait aussi contribuer à la protéger.",
+     "why": "Question ouverte ; l'issue n'est pas encore tranchée."
+    },
+    "ru": {
+     "title": "Польша взвешивает пограничную безопасность и защиту последнего древнего леса Европы",
+     "summary": "Опасения по поводу безопасности на границе с Беларусью вступают в конфликт с охраной Беловежской пущи, а использование приграничных земель может также помочь её защитить.",
+     "why": "Открытый вопрос; решение ещё не принято."
+    }
+   }
+  },
+  {
+   "id": "mb-arabian-sea-humpbacks-subspecies",
+   "title": "Arabian Sea humpback whales may be a distinct subspecies at risk of extinction",
+   "summary": "A genetic study suggests these whales split from other populations tens of thousands of years ago and have very low genetic diversity.",
+   "why": "A useful warning that could strengthen protection.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/arabian-sea-humpbacks-may-be-a-unique-subspecies-at-risk-of-extinction/",
+   "score": 3,
+   "category": "Animals",
+   "region": "Arabian Sea",
+   "published": "2026-10-07T18:39:53Z",
+   "continent": "Asia",
+   "added": "2026-10-08T18:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Les balenes jorobades del mar d'Aràbia podrien ser una subespècie diferenciada en risc d'extinció",
+     "summary": "Un estudi genètic suggereix que aquestes balenes es van separar d'altres poblacions fa desenes de milers d'anys i tenen una diversitat genètica molt baixa.",
+     "why": "Un avís útil que podria reforçar la protecció."
+    },
+    "fr": {
+     "title": "Les baleines à bosse de la mer d'Arabie pourraient constituer une sous-espèce distincte menacée d'extinction",
+     "summary": "Une étude génétique suggère que ces baleines se sont séparées d'autres populations il y a des dizaines de milliers d'années et présentent une diversité génétique très faible.",
+     "why": "Un avertissement utile qui pourrait renforcer la protection."
+    },
+    "ru": {
+     "title": "Горбатые киты Аравийского моря могут быть отдельным подвидом, находящимся под угрозой исчезновения",
+     "summary": "Генетическое исследование показывает, что эти киты отделились от других популяций десятки тысяч лет назад и обладают очень низким генетическим разнообразием.",
+     "why": "Полезное предупреждение, которое может усилить защиту."
+    }
+   }
+  },
+  {
    "id": "tbi-wti-scroll-spot-stop",
    "title": "Wildlife Trust of India campaign targets online wildlife trafficking",
    "summary": "An analysis by Wildlife Trust of India shows how illegal wildlife sales move through social media. Its 'Scroll, Spot, Stop' initiative shows the public how to report them.",
@@ -230,6 +571,68 @@
      "title": "Семья из Райпура превращает лесные семена в ингредиенты для шоколада и косметики",
      "summary": "Семейный бизнес из Райпура вырос примерно до Rs 1,357 crore благодаря переработке лесных семян в ингредиенты для шоколада и косметики.",
      "why": "Местное предприятие, использующее забытые природные материалы."
+    }
+   }
+  },
+  {
+   "id": "sd-webb-mars-sized-collisions",
+   "title": "Webb data hint at Mars-sized worlds colliding around young stars",
+   "summary": "Webb observations of 21 dusty debris disks help researchers gauge how common violent planetary collisions are.",
+   "why": "Interesting astronomy with no direct impact on people.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-10-07T13:09:15Z",
+   "continent": "Global",
+   "added": "2026-10-08T18:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Les dades del Webb apunten a col·lisions de mons de la mida de Mart al voltant d'estrelles joves",
+     "summary": "Les observacions del Webb de 21 discs de runa polsosos ajuden els investigadors a calibrar la freqüència de les col·lisions planetàries violentes.",
+     "why": "Astronomia interessant sense un impacte directe en les persones."
+    },
+    "fr": {
+     "title": "Les données de Webb suggèrent des collisions de mondes de la taille de Mars autour de jeunes étoiles",
+     "summary": "Les observations de Webb portant sur 21 disques de débris poussiéreux aident les chercheurs à estimer la fréquence des collisions planétaires violentes.",
+     "why": "Une astronomie intéressante, sans effet direct sur les personnes."
+    },
+    "ru": {
+     "title": "Данные Webb указывают на столкновения миров размером с Марс у молодых звёзд",
+     "summary": "Наблюдения телескопа Webb за 21 пылевым диском обломков помогают учёным оценить, насколько часты яростные столкновения планет.",
+     "why": "Интересная астрономия без прямого влияния на людей."
+    }
+   }
+  },
+  {
+   "id": "sd-superconductivity-ghost-uranium-ditelluride",
+   "title": "Physicists find a trace of superconductivity persisting in uranium ditelluride",
+   "summary": "Electron-pair density waves remain after superconductivity vanishes, suggesting electron pairing may begin before superconductivity appears.",
+   "why": "Early basic physics research with no near-term application.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261005071517.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-10-07T12:34:39Z",
+   "continent": "Global",
+   "added": "2026-10-08T18:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Físics troben un rastre de superconductivitat que persisteix en el ditelurur d'urani",
+     "summary": "Les ones de densitat de parells d'electrons es mantenen després que desaparegui la superconductivitat, cosa que suggereix que l'aparellament d'electrons podria començar abans que aparegui la superconductivitat.",
+     "why": "Recerca bàsica en física en una fase inicial, sense aplicacions a curt termini."
+    },
+    "fr": {
+     "title": "Des physiciens découvrent une trace de supraconductivité persistant dans le ditellurure d'uranium",
+     "summary": "Des ondes de densité de paires d'électrons subsistent après la disparition de la supraconductivité, ce qui suggère que l'appariement des électrons pourrait commencer avant l'apparition de la supraconductivité.",
+     "why": "Recherche fondamentale en physique à ses débuts, sans application à court terme."
+    },
+    "ru": {
+     "title": "Физики обнаружили следы сверхпроводимости, сохраняющиеся в дителлуриде урана",
+     "summary": "После исчезновения сверхпроводимости сохраняются волны плотности электронных пар, что говорит о том, что спаривание электронов может начинаться раньше появления сверхпроводимости.",
+     "why": "Ранние фундаментальные физические исследования без ближайшего применения."
     }
    }
   },
@@ -571,6 +974,68 @@
      "title": "Новое правительство Колумбии поддерживает фракинг",
      "summary": "Новое колумбийское правительство поддерживает фракинг, что вновь открывает дискуссию об энергетической безопасности, экологических рисках и зависимости от ископаемого топлива.",
      "why": "Экологический риск, хотя дискуссия продолжается."
+    }
+   }
+  },
+  {
+   "id": "sd-nasa-tracks-earth-center-of-mass",
+   "title": "NASA measures millimeter shifts in Earth's center of mass",
+   "summary": "NASA developed a more precise method combining satellites, GPS and crust-deformation data to track tiny shifts in Earth's center of mass.",
+   "why": "Better measurement tools, useful mainly to scientists.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261005071520.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-10-07T11:30:51Z",
+   "continent": "Global",
+   "added": "2026-10-08T18:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "La NASA mesura desplaçaments de l'ordre de mil·límetres en el centre de masses de la Terra",
+     "summary": "La NASA ha desenvolupat un mètode més precís que combina satel·lits, GPS i dades de deformació de l'escorça per seguir els petits desplaçaments del centre de masses de la Terra.",
+     "why": "Eines de mesura millors, útils sobretot per a científics."
+    },
+    "fr": {
+     "title": "La NASA mesure des déplacements de l'ordre du millimètre du centre de masse de la Terre",
+     "summary": "La NASA a mis au point une méthode plus précise combinant données satellitaires, GPS et déformations de la croûte terrestre pour suivre les infimes déplacements du centre de masse de la Terre.",
+     "why": "De meilleurs outils de mesure, utiles surtout aux scientifiques."
+    },
+    "ru": {
+     "title": "NASA измеряет смещения центра масс Земли на уровне миллиметров",
+     "summary": "NASA разработало более точный метод, сочетающий данные спутников, GPS и деформаций земной коры, для отслеживания крошечных смещений центра масс Земли.",
+     "why": "Более совершенные инструменты измерения, полезные прежде всего учёным."
+    }
+   }
+  },
+  {
+   "id": "gnn-dad-walks-again-after-brain-injury",
+   "title": "Father walks again three years after a serious brain injury",
+   "summary": "A father who spent three years recovering from a car-accident brain injury surprised his children by walking unaided again.",
+   "why": "A moving recovery, but it concerns one family.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/youre-walking-dad-surprises-children-having-recovered-ability-to-walk-after-serious-brain-injury/",
+   "score": 6,
+   "category": "Health",
+   "region": "Not stated",
+   "published": "2026-10-07T11:00:39Z",
+   "continent": "Global",
+   "added": "2026-10-08T18:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Un pare torna a caminar tres anys després d'una greu lesió cerebral",
+     "summary": "Un pare que va passar tres anys recuperant-se d'una lesió cerebral causada per un accident de cotxe va sorprendre els seus fills en tornar a caminar sense ajuda.",
+     "why": "Una recuperació commovedora, però que afecta una sola família."
+    },
+    "fr": {
+     "title": "Un père remarche trois ans après une grave lésion cérébrale",
+     "summary": "Un père qui a passé trois ans à se remettre d'une lésion cérébrale provoquée par un accident de voiture a surpris ses enfants en marchant de nouveau sans aide.",
+     "why": "Un rétablissement émouvant, mais qui ne concerne qu'une seule famille."
+    },
+    "ru": {
+     "title": "Отец снова ходит через три года после тяжёлой травмы головного мозга",
+     "summary": "Отец, который три года восстанавливался после травмы головного мозга, полученной в автокатастрофе, удивил детей, снова начав ходить без посторонней помощи.",
+     "why": "Трогательное восстановление, но оно касается одной семьи."
     }
    }
   },
@@ -6678,37 +7143,6 @@
      "title": "Коренные общины Перу останавливают лесные пожары",
      "summary": "Общины перуанской Амазонии сочетают традиционные знания о лесе с новыми инструментами, чтобы обнаруживать и предотвращать пожары.",
      "why": "Защищает лес и источники средств к существованию по модели, которую могут перенять другие."
-    }
-   }
-  },
-  {
-   "id": "gnn-vietnam-delacours-langur",
-   "title": "Vietnam protects the last forests of a critically endangered monkey",
-   "summary": "A new 7,500-acre conservation area shields the limestone forest where most of the remaining Delacour's langurs live.",
-   "why": "Concrete legal protection for one of the world's rarest primates.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/vietnam-swiftly-protects-forests-containing-the-last-of-the-worlds-most-endangered-monkey/",
-   "score": 8,
-   "category": "Animals",
-   "region": "Vietnam",
-   "published": "2026-09-28T15:30:22Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "Asia",
-   "i18n": {
-    "ca": {
-     "title": "Vietnam protegeix els últims boscos d'un mico en perill crític",
-     "summary": "Una nova àrea de conservació de 7.500 acres protegeix el bosc calcari on viuen la majoria dels langurs de Delacour que queden.",
-     "why": "Protecció legal concreta per a un dels primats més rars del món."
-    },
-    "fr": {
-     "title": "Le Vietnam protège les dernières forêts d'un singe en danger critique",
-     "summary": "Une nouvelle aire de conservation de 7 500 acres protège la forêt calcaire où vivent la plupart des derniers langurs de Delacour.",
-     "why": "Une protection juridique concrète pour l'un des primates les plus rares au monde."
-    },
-    "ru": {
-     "title": "Вьетнам взял под охрану последние леса обезьяны на грани исчезновения",
-     "summary": "Новая охраняемая территория площадью 7500 акров защищает известняковый лес, где живёт большинство оставшихся лангуров Делакура.",
-     "why": "Конкретная правовая защита одного из самых редких приматов мира."
     }
    }
   }
