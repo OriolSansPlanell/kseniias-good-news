@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T18:13:14Z",
+ "updated": "2026-10-08T00:12:29Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,9 +12,9 @@
   "Grist",
   "Africanews"
  ],
- "count": 192,
- "last_run": "run-20261007T1813Z.json",
- "note": "12 new, 142 skipped, 1 pruned, 0 translations added, failed feeds: none",
+ "count": 195,
+ "last_run": "run-20261008T0012Z.json",
+ "note": "3 new, 109 skipped, 0 pruned, 0 translations added, failed feeds: none",
  "stories": [
   {
    "id": "tbi-wti-scroll-spot-stop",
@@ -261,6 +261,68 @@
      "title": "Волонтёры Мумбаи превращают 18 000 кг пляжного пластика в школьные скамьи",
      "summary": "Более 1500 волонтёров собрали 18 000 кг пластика во время уборки пляжа; его переработают в скамьи для учащихся по всему Махараштре.",
      "why": "Очищает побережья и помогает школам."
+    }
+   }
+  },
+  {
+   "id": "sd-brain-circuit-cannabis-anxiety",
+   "title": "Study in mice identifies how cannabinoids can trigger anxiety",
+   "summary": "In mice, cannabinoids appear to remove an inhibitory brake on certain neurons in the brain's fear center under stress, and silencing those neurons sharply reduced the anxiety.",
+   "why": "Early animal research that could guide future treatments, but it is far from clinical use.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261003234021.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-10-07T01:26:07Z",
+   "continent": "Global",
+   "added": "2026-10-08T00:12:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Un estudi en ratolins identifica com els cannabinoides poden provocar ansietat",
+     "summary": "En ratolins, els cannabinoides semblen eliminar un fre inhibidor de certes neurones del centre de la por del cervell sota estrès, i silenciar aquestes neurones va reduir de manera notable l'ansietat.",
+     "why": "Recerca inicial amb animals que podria orientar tractaments futurs, però encara lluny de l'ús clínic."
+    },
+    "fr": {
+     "title": "Une étude sur des souris identifie comment les cannabinoïdes peuvent déclencher de l'anxiété",
+     "summary": "Chez la souris, les cannabinoïdes semblent lever un frein inhibiteur sur certains neurones du centre de la peur du cerveau sous stress, et faire taire ces neurones réduit fortement l'anxiété.",
+     "why": "Recherche animale préliminaire susceptible d'orienter de futurs traitements, mais encore loin de l'usage clinique."
+    },
+    "ru": {
+     "title": "Исследование на мышах выявило, как каннабиноиды могут вызывать тревожность",
+     "summary": "У мышей каннабиноиды, по-видимому, снимают тормозящее воздействие с определённых нейронов центра страха мозга в условиях стресса, а отключение этих нейронов заметно уменьшало тревожность.",
+     "why": "Ранние исследования на животных, которые могут помочь в будущих методах лечения, но до клинического применения ещё далеко."
+    }
+   }
+  },
+  {
+   "id": "od-morocco-first-woman-prime-minister",
+   "title": "Morocco appoints its first woman prime minister",
+   "summary": "King Mohammed VI named Fatima Ezzahra El Mansouri, a former Marrakesh mayor and urban planner, as head of government, a first for the country.",
+   "why": "A milestone for women's representation, though its practical effect on policy is yet to be seen.",
+   "source": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/10/fatima-ezzahra-el-mansouri-becomes-moroccos-first-woman-prime-minister/",
+   "score": 7,
+   "category": "Society",
+   "region": "Morocco",
+   "published": "2026-10-07T00:00:32Z",
+   "continent": "Africa",
+   "added": "2026-10-08T00:12:29Z",
+   "i18n": {
+    "ca": {
+     "title": "El Marroc nomena la seva primera dona cap de govern",
+     "summary": "El rei Mohammed VI ha nomenat Fatima Ezzahra El Mansouri, antiga alcaldessa de Marràqueix i urbanista, al capdavant del govern, una primícia per al país.",
+     "why": "Una fita per a la representació de les dones, tot i que encara no se sap quin efecte pràctic tindrà en les polítiques."
+    },
+    "fr": {
+     "title": "Le Maroc nomme sa première femme Premier ministre",
+     "summary": "Le roi Mohammed VI a nommé Fatima Ezzahra El Mansouri, ancienne maire de Marrakech et urbaniste, à la tête du gouvernement, une première pour le pays.",
+     "why": "Une étape importante pour la représentation des femmes, dont l'effet concret sur la politique reste à voir."
+    },
+    "ru": {
+     "title": "Марокко впервые назначило женщину премьер-министром",
+     "summary": "Король Мухаммед VI назначил главой правительства Фатиму-Эззахру эль-Мансури, бывшего мэра Марракеша и градостроителя, — впервые в истории страны.",
+     "why": "Важная веха в представленности женщин, однако практическое влияние на политику пока неясно."
     }
    }
   },
@@ -1191,6 +1253,37 @@
      "title": "Витья Рамрадж установил рекорд, не побиваемый 42 года, на Азиатских играх",
      "summary": "Индийская спортсменка Витья Рамрадж побила рекорд, который стоял 42 года, и завоевала несколько медалей на Азиатских играх.",
      "why": "Спортивное достижение, вдохновляющее, но с ограниченным более широким воздействием."
+    }
+   }
+  },
+  {
+   "id": "sd-wasps-take-over-ant-plant-shelters",
+   "title": "Wasps are moving into shelters tropical plants build for ants",
+   "summary": "Predatory wasps are occupying hollow structures that tropical plants provide for defending ants, especially in disturbed habitats, which may weaken this protective partnership.",
+   "why": "Interesting ecological finding, but it points to a pressure on a plant defense system.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261004001832.htm",
+   "score": 4,
+   "category": "Environment",
+   "region": "Tropics",
+   "published": "2026-10-06T03:12:36Z",
+   "continent": "Global",
+   "added": "2026-10-08T00:12:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Les vespes ocupen els refugis que les plantes tropicals construeixen per a les formigues",
+     "summary": "Les vespes depredadores ocupen les estructures buides que les plantes tropicals ofereixen a les formigues defensores, sobretot en hàbitats alterats, cosa que podria debilitar aquesta associació protectora.",
+     "why": "Un descobriment ecològic interessant, però que apunta a una pressió sobre un sistema de defensa de les plantes."
+    },
+    "fr": {
+     "title": "Des guêpes investissent les abris que les plantes tropicales construisent pour les fourmis",
+     "summary": "Des guêpes prédatrices occupent les structures creuses que les plantes tropicales offrent aux fourmis défenseuses, surtout dans les habitats perturbés, ce qui pourrait affaiblir ce partenariat protecteur.",
+     "why": "Une découverte écologique intéressante, qui révèle toutefois une pression sur un système de défense des plantes."
+    },
+    "ru": {
+     "title": "Осы занимают убежища, которые тропические растения создают для муравьёв",
+     "summary": "Хищные осы заселяют полые структуры, которые тропические растения предоставляют защищающим их муравьям, особенно в нарушенных местообитаниях, что может ослабить это защитное партнёрство.",
+     "why": "Интересное экологическое открытие, но оно указывает на давление на систему защиты растений."
     }
    }
   },

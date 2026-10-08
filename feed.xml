@@ -5,7 +5,7 @@
     <link>https://oriolsansplanell.github.io/kseniias-good-news/</link>
     <description>Positive news from several sources, scored 0-10 for goodness and refreshed every six hours.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 18:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:12:29 +0000</lastBuildDate>
     <item>
       <title>Raipur family turns forest seeds into chocolate and cosmetic ingredients [6/10]</title>
       <link>https://thebetterindia.com/web-stories/startup/raipur-saraf-family-manorama-industries-forest-seeds-chocolate-cosmetics-business-12634629</link>
@@ -65,6 +65,16 @@
       <category>Asia</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">The Better India</source>
       <description>More than 1,500 volunteers collected 18,000 kg of plastic in a beach cleanup; it will be recycled into benches for students across Maharashtra. (Goodness 7/10: Cleans coasts and helps schools.)</description>
+    </item>
+    <item>
+      <title>Morocco appoints its first woman prime minister [7/10]</title>
+      <link>https://www.optimistdaily.com/2026/10/fatima-ezzahra-el-mansouri-becomes-moroccos-first-woman-prime-minister/</link>
+      <guid isPermaLink="false">od-morocco-first-woman-prime-minister</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:32 +0000</pubDate>
+      <category>Society</category>
+      <category>Africa</category>
+      <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">The Optimist Daily</source>
+      <description>King Mohammed VI named Fatima Ezzahra El Mansouri, a former Marrakesh mayor and urban planner, as head of government, a first for the country. (Goodness 7/10: A milestone for women's representation, though its practical effect on policy is yet to be seen.)</description>
     </item>
     <item>
       <title>Southern right whales return to South African town of Hermanus [7/10]</title>
@@ -595,16 +605,6 @@
       <category>Asia</category>
       <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">The Better India</source>
       <description>About 100 farmers near Katarniaghat are growing turmeric beside crops elephants like, as a less-attractive buffer that reduces raids. (Goodness 7/10: Low-cost way to ease human-wildlife conflict.)</description>
-    </item>
-    <item>
-      <title>Karnataka plans to restore 500 lakes with a 150-crore programme [6/10]</title>
-      <link>https://thebetterindia.com/conservation/nature/bengaluru-lake-revival-healthy-urban-lakes-12613428</link>
-      <guid isPermaLink="false">tbi-karnataka-revive-500-lakes</guid>
-      <pubDate>Sat, 03 Oct 2026 06:30:37 +0000</pubDate>
-      <category>Environment</category>
-      <category>Asia</category>
-      <source url="https://oriolsansplanell.github.io/kseniias-good-news/feed.xml">The Better India</source>
-      <description>The state initiative aims to rejuvenate 500 lakes, and the article outlines what indicators show a lake is truly healthy. (Goodness 6/10: Large restoration plan, though results depend on delivery.)</description>
     </item>
   </channel>
 </rss>
