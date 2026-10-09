@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "ceremony": "2026-12-10",
- "updated": "2026-10-08T13:39:25Z",
+ "updated": "2026-10-09T15:21:12Z",
  "prizes": [
   {
    "id": "medicine",
@@ -309,7 +309,67 @@
   {
    "id": "peace",
    "at": "2026-10-09T09:00:00Z",
-   "status": "upcoming"
+   "status": "announced",
+   "laureates": [
+    {
+     "name": "Navanethem \"Navi\" Pillay",
+     "info": "born 1941, South Africa · human rights jurist, judge and former UN High Commissioner for Human Rights",
+     "profile": "Pillay grew up in a South African family of Indian Tamil origin and, in 1967, became the first woman to open a law practice in Natal. She defended anti-apartheid activists, including Nelson Mandela, and later became the first woman of colour on South Africa's High Court. She went on to judge at the Rwanda tribunal and the International Criminal Court, then led the UN human rights office."
+    }
+   ],
+   "motivation": "Awarded for her work to promote peace and international law, and for helping make sure that \"war crimes, crimes against humanity and genocide are prosecuted.\"",
+   "explainer": "Navi Pillay is a South African lawyer and judge who has spent her life asking one question: what happens to people who commit the worst crimes against others? Under apartheid she defended activists who were being punished for opposing an unfair system. Later she became a judge at the international tribunal set up after the genocide in Rwanda. There she helped establish that rape and sexual violence can be treated as crimes against humanity and even as acts of genocide, not just as unfortunate side effects of war. She also served on the International Criminal Court and then as the United Nations High Commissioner for Human Rights, the person who speaks up when governments break the rules that protect people. She chaired a UN inquiry on the occupied Palestinian territory, and she sits on the International Court of Justice in the case about the Rohingya in Myanmar. Think of a referee in a game where the strongest players have always been able to ignore the rules. Her work is about making sure that nobody, however powerful, is above the rulebook, and that victims are heard in a courtroom instead of being forgotten.",
+   "why": "Her work supports the idea that even in war, leaders can be held responsible for crimes against civilians. It gives survivors, especially of sexual violence, a chance at justice, and it keeps international law relevant today.",
+   "sources": [
+    {
+     "title": "Al Jazeera: 2026 Nobel Peace Prize awarded to Navi Pillay",
+     "url": "https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay"
+    },
+    {
+     "title": "CNN: Navi Pillay, former UN human rights chief, wins 2026 Nobel Peace Prize",
+     "url": "https://www.cnn.com/2026/10/09/world/live-news/nobel-peace-prize-2026-winner-intl"
+    },
+    {
+     "title": "UN News: Former UN human rights chief Navi Pillay awarded Nobel Peace Prize",
+     "url": "https://news.un.org/en/story/2026/10/1168558"
+    }
+   ],
+   "updated": "2026-10-09T14:12:59Z",
+   "i18n": {
+    "ca": {
+     "motivation": "Concedit per la seva tasca a favor de la pau i del dret internacional, i per ajudar a garantir que «els crims de guerra, els crims contra la humanitat i el genocidi siguin perseguits».",
+     "explainer": "Navi Pillay és una advocada i jutgessa sud-africana que ha dedicat la seva vida a fer-se una pregunta: què passa amb les persones que cometen els pitjors crims contra altres persones? Durant l'apartheid va defensar activistes que eren castigats per oposar-se a un sistema injust. Més tard va esdevenir jutgessa del tribunal internacional creat després del genocidi de Rwanda. Allà va ajudar a establir que la violació i la violència sexual poden ser considerades crims contra la humanitat i fins i tot actes de genocidi, i no només conseqüències lamentables de la guerra. També va formar part de la Corte Penal Internacional i després va ser Alta Comissionada de les Nacions Unides per als Drets Humans, la persona que alça la veu quan els governs trenquen les normes que protegeixen la gent. Va presidir una investigació de l'ONU sobre el territori palestí ocupat i és membre del Tribunal Internacional de Justícia en el cas dels rohingya a Myanmar. Imagineu un àrbitre en un joc on els jugadors més forts sempre han pogut ignorar les regles. La seva feina consisteix a assegurar que ningú, per poderós que sigui, estigui per sobre del reglament, i que les víctimes siguin escoltades en un tribunal en lloc de ser oblidades.",
+     "why": "La seva feina reforça la idea que, fins i tot en guerra, els líders poden ser considerats responsables dels crims contra la població civil. Dona a les persones supervivents, especialment de violència sexual, una oportunitat de justícia, i manté el dret internacional vigent avui.",
+     "profiles": {
+      "Navanethem \"Navi\" Pillay": {
+       "info": "nascuda el 1941, Sud-àfrica · jurista de drets humans, jutgessa i antiga Alta Comissionada de les Nacions Unides per als Drets Humans",
+       "profile": "Pillay va créixer en una família sud-africana d'origen tàmil indi i, el 1967, es va convertir en la primera dona a obrir un despatx d'advocats a Natal. Va defensar activistes antiapartheid, entre ells Nelson Mandela, i més tard es va convertir en la primera dona de color del Tribunal Superior de Sud-àfrica. Després va exercir de jutgessa al tribunal de Rwanda i a la Corte Penal Internacional, i finalment va dirigir l'oficina de drets humans de l'ONU."
+      }
+     }
+    },
+    "fr": {
+     "motivation": "Décernée pour son action en faveur de la paix et du droit international, et pour avoir contribué à faire en sorte que « les crimes de guerre, les crimes contre l'humanité et le génocide soient poursuivis ».",
+     "explainer": "Navi Pillay est une avocate et juge sud-africaine qui a consacré sa vie à une question : que deviennent les personnes qui commettent les pires crimes contre autrui ? Sous l'apartheid, elle a défendu des militants punis pour s'être opposés à un système injuste. Elle est ensuite devenue juge au tribunal international créé après le génocide au Rwanda. Elle a contribué à établir que le viol et les violences sexuelles peuvent être considérés comme des crimes contre l'humanité, voire comme des actes de génocide, et non comme de simples conséquences regrettables de la guerre. Elle a également siégé à la Cour pénale internationale, puis a été Haute-Commissaire des Nations unies aux droits de l'homme, celle qui dénonce les gouvernements qui enfreignent les règles protégeant les populations. Elle a présidé une commission d'enquête de l'ONU sur le territoire palestinien occupé et siège à la Cour internationale de Justice dans l'affaire concernant les Rohingyas au Myanmar. Imaginez un arbitre dans un jeu où les joueurs les plus forts ont toujours pu ignorer les règles. Son travail consiste à faire en sorte que personne, aussi puissant soit-il, ne soit au-dessus du règlement, et que les victimes soient entendues devant un tribunal plutôt qu'oubliées.",
+     "why": "Son travail conforte l'idée que, même en temps de guerre, les dirigeants peuvent être tenus responsables de crimes commis contre des civils. Il offre aux survivants, en particulier de violences sexuelles, une chance d'obtenir justice, et maintient le droit international pertinent aujourd'hui.",
+     "profiles": {
+      "Navanethem \"Navi\" Pillay": {
+       "info": "née en 1941, Afrique du Sud · juriste spécialisée dans les droits humains, juge et ancienne Haute-Commissaire des Nations unies aux droits de l'homme",
+       "profile": "Pillay a grandi dans une famille sud-africaine d'origine tamoule indienne et, en 1967, elle est devenue la première femme à ouvrir un cabinet d'avocats au Natal. Elle a défendu des militants anti-apartheid, dont Nelson Mandela, et est ensuite devenue la première femme de couleur à siéger à la Haute Cour d'Afrique du Sud. Elle a ensuite exercé comme juge au tribunal pour le Rwanda et à la Cour pénale internationale, puis a dirigé le bureau des droits de l'homme de l'ONU."
+      }
+     }
+    },
+    "ru": {
+     "motivation": "Присуждена за её деятельность по продвижению мира и международного права, а также за то, что помогла добиться того, чтобы «военные преступления, преступления против человечности и геноцид преследовались по закону».",
+     "explainer": "Нави Пиллэй — южноафриканский адвокат и судья, которая всю жизнь задаёт себе один вопрос: что происходит с людьми, совершающими самые тяжкие преступления против других? При апартеиде она защищала активистов, которых наказывали за противодействие несправедливой системе. Позже она стала судьёй международного трибунала, созданного после геноцида в Руанде. Там она помогла закрепить положение о том, что изнасилование и сексуальное насилие могут рассматриваться как преступления против человечности и даже как акты геноцида, а не просто как досадные побочные последствия войны. Она также работала в Международном уголовном суде, а затем была Верховным комиссаром ООН по правам человека — той, кто выступает, когда правительства нарушают правила, защищающие людей. Она возглавляла расследование ООН по оккупированной палестинской территории и входит в состав Международного суда ООН по делу о рохинджа в Мьянме. Представьте себе судью на игре, где самые сильные игроки всегда могли игнорировать правила. Её работа направлена на то, чтобы никто, каким бы могущественным он ни был, не стоял выше правил, а жертвы были услышаны в суде, а не забыты.",
+     "why": "Её работа подтверждает идею о том, что даже во время войны лидеры могут нести ответственность за преступления против гражданского населения. Она даёт пережившим, особенно пережившим сексуальное насилие, шанс на справедливость и поддерживает актуальность международного права сегодня.",
+     "profiles": {
+      "Navanethem \"Navi\" Pillay": {
+       "info": "род. в 1941 году, ЮАР · юрист по правам человека, судья и бывший Верховный комиссар ООН по правам человека",
+       "profile": "Пиллэй выросла в южноафриканской семье индийского тамильского происхождения и в 1967 году стала первой женщиной, открывшей адвокатскую практику в провинции Наталь. Она защищала активистов, выступавших против апартеида, в том числе Нельсона Манделу, а позже стала первой небелой женщиной в Верховном суде ЮАР. Затем она работала судьёй в трибунале по Руанде и в Международном уголовном суде, а после возглавила управление ООН по правам человека."
+      }
+     }
+    }
+   }
   },
   {
    "id": "economics",
@@ -317,5 +377,5 @@
    "status": "upcoming"
   }
  ],
- "source_file": "nobel-20261008T1259Z.json"
+ "source_file": "nobel-20261009T1412Z.json"
 }
