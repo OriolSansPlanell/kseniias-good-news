@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T18:13:21Z",
+ "updated": "2026-10-09T04:12:41Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,10 +12,72 @@
   "Grist",
   "Africanews"
  ],
- "count": 230,
- "last_run": "run-20261008T1813Z.json",
- "note": "15 new, 105 skipped, 1 pruned, 0 translations added, failed feeds: none",
+ "count": 235,
+ "last_run": "run-20261009T0412Z.json",
+ "note": "5 new, 114 skipped, 0 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "tbi-goa-homestead-recipes-ten-jars",
+   "title": "Goan mother grows ten jars of home recipes into a global business",
+   "summary": "A woman in Goa who began with ten jars in 2010 now sells traditional Goan masalas and pickles to customers around the world.",
+   "why": "A good small-business story for one family and local food traditions.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/web-stories/changemakers/goa-mother-traditional-goan-recipes-masalas-pickles-the-goan-homestead-12638450",
+   "score": 6,
+   "category": "Culture",
+   "region": "Goa, India",
+   "published": "2026-10-09T03:30:37Z",
+   "continent": "Asia",
+   "added": "2026-10-09T04:12:41Z",
+   "i18n": {
+    "ca": {
+     "title": "Una mare de Goa converteix deu pots de receptes casolanes en un negoci internacional",
+     "summary": "Una dona de Goa que el 2010 va començar amb deu pots ara ven masales i escabetxos goanesos tradicionals a clients de tot el món.",
+     "why": "Una bona història d'empresa petita per a una família i per a les tradicions gastronòmiques locals."
+    },
+    "fr": {
+     "title": "Une mère de Goa transforme dix bocaux de recettes familiales en une entreprise mondiale",
+     "summary": "Une femme de Goa qui a débuté en 2010 avec dix bocaux vend aujourd'hui des masalas et des pickles goanais traditionnels à des clients du monde entier.",
+     "why": "Une belle histoire d'entreprise familiale qui met en valeur les traditions culinaires locales."
+    },
+    "ru": {
+     "title": "Мать из Гоа превратила десять банок с домашними рецептами в бизнес с международными продажами",
+     "summary": "Женщина из Гоа, начавшая в 2010 году с десяти банок, сегодня продаёт традиционные гоанские масала и пикули клиентам по всему миру.",
+     "why": "Хорошая история малого семейного бизнеса и местных кулинарных традиций."
+    }
+   }
+  },
+  {
+   "id": "tbi-chennai-engineer-rti-elephants-lake",
+   "title": "Chennai engineer uses information requests to protect elephants and a lake",
+   "summary": "A civil engineer in Chennai has used Right to Information requests to expose elephant deaths on rail tracks and help clean a lake, and now explains how others can do the same.",
+   "why": "Shows ordinary citizens can drive accountability, though results are local.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/governance/activist-guide-making-rti-work-for-you-12655600",
+   "score": 7,
+   "category": "Society",
+   "region": "Tamil Nadu, India",
+   "published": "2026-10-09T02:30:37Z",
+   "continent": "Asia",
+   "added": "2026-10-09T04:12:41Z",
+   "i18n": {
+    "ca": {
+     "title": "Un enginyer de Chennai usa sol·licituds d'informació per protegir elefants i un llac",
+     "summary": "Un enginyer civil de Chennai ha usat sol·licituds del dret a la informació per denunciar morts d'elefants a les vies del tren i ajudar a netejar un llac, i ara explica com poden fer el mateix altres persones.",
+     "why": "Mostra que la ciutadania pot impulsar la rendició de comptes, tot i que els resultats són locals."
+    },
+    "fr": {
+     "title": "Un ingénieur de Chennai utilise des demandes d'information pour protéger des éléphants et un lac",
+     "summary": "Un ingénieur civil de Chennai a utilisé des demandes au titre du droit à l'information pour révéler la mort d'éléphants sur les voies ferrées et contribuer au nettoyage d'un lac, et explique désormais comment d'autres peuvent faire de même.",
+     "why": "Montre que des citoyens ordinaires peuvent faire progresser la responsabilité publique, même si les résultats restent locaux."
+    },
+    "ru": {
+     "title": "Инженер из Ченнаи использует запросы на получение информации, чтобы защитить слонов и озеро",
+     "summary": "Инженер-строитель из Ченнаи использовал запросы в рамках права на информацию, чтобы выявить гибель слонов на железнодорожных путях и помочь очистить озеро, и теперь объясняет, как это могут сделать другие.",
+     "why": "Показывает, что обычные граждане могут способствовать подотчётности властей, хотя результаты пока локальные."
+    }
+   }
+  },
   {
    "id": "an-zambia-us-health-deal-data-clauses-removed",
    "title": "Zambia signs US health deal after data-sharing clauses are removed",
@@ -323,6 +385,68 @@
      "title": "Луговые угодья Хесарагатты в Бенгалуру становятся природным резерватом",
      "summary": "После почти двух десятилетий кампании власти штата Карнатака объявили около 5 678 акров луговых угодий Хесарагатты природным резерватом.",
      "why": "Долгосрочная защита среды обитания, добытая гражданами вблизи крупного города."
+    }
+   }
+  },
+  {
+   "id": "od-berlin-street-trees-volunteer-watering",
+   "title": "Berlin volunteers water 900,000 mapped street trees",
+   "summary": "Berlin's Giess den Kiez app maps about 900,000 street trees and lets 12,000 volunteers coordinate with city crews to water them during heat waves.",
+   "why": "A working community model that helps city trees survive heat, though local in scale.",
+   "source": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/10/berlin-mapped-900000-street-trees-now-12000-people-water-them/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Berlin, Germany",
+   "published": "2026-10-08T00:00:55Z",
+   "continent": "Europe",
+   "added": "2026-10-09T04:12:41Z",
+   "i18n": {
+    "ca": {
+     "title": "Voluntaris de Berlín reguen 900.000 arbres de carrer cartografiats",
+     "summary": "L'aplicació Giess den Kiez de Berlín cartografia uns 900.000 arbres de carrer i permet que 12.000 voluntaris es coordinin amb les brigades municipals per regar-los durant les onades de calor.",
+     "why": "Un model comunitari que funciona i ajuda els arbres de la ciutat a sobreviure a la calor, tot i que la seva escala és local."
+    },
+    "fr": {
+     "title": "À Berlin, des bénévoles arrosent 900 000 arbres de rue cartographiés",
+     "summary": "L'application Giess den Kiez de Berlin recense environ 900 000 arbres de rue et permet à 12 000 bénévoles de se coordonner avec les équipes municipales pour les arroser pendant les vagues de chaleur.",
+     "why": "Un modèle communautaire efficace qui aide les arbres urbains à survivre à la chaleur, bien que son échelle reste locale."
+    },
+    "ru": {
+     "title": "Волонтёры Берлина поливают 900 000 нанесённых на карту уличных деревьев",
+     "summary": "Приложение Giess den Kiez в Берлине отслеживает около 900 000 уличных деревьев и помогает 12 000 волонтёров координировать полив с городскими службами во время жары.",
+     "why": "Работающая модель участия сообщества, которая помогает городским деревьям пережить жару, хотя её масштаб локальный."
+    }
+   }
+  },
+  {
+   "id": "od-london-oxford-street-pedestrianised",
+   "title": "London's Oxford Street to close to vehicles this month",
+   "summary": "Oxford Street will close to all vehicles between Orchard Street and Great Portland Street this month, creating a large pedestrian zone in central London.",
+   "why": "Cleaner, safer public space for many people, with effects still to be seen.",
+   "source": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/10/londons-oxford-street-gets-fully-pedestrianized-this-month-heres-what-that-means/",
+   "score": 6,
+   "category": "Society",
+   "region": "London, United Kingdom",
+   "published": "2026-10-08T00:00:44Z",
+   "continent": "Europe",
+   "added": "2026-10-09T04:12:41Z",
+   "i18n": {
+    "ca": {
+     "title": "Oxford Street, a Londres, es tancarà als vehicles aquest mes",
+     "summary": "Oxford Street quedarà tancada a tots els vehicles entre Orchard Street i Great Portland Street aquest mes, i crearà una gran zona per a vianants al centre de Londres.",
+     "why": "Un espai públic més net i més segur per a molta gent, amb efectes que encara s'han de veure."
+    },
+    "fr": {
+     "title": "Oxford Street, à Londres, sera fermée à la circulation automobile ce mois-ci",
+     "summary": "Oxford Street sera fermée à tous les véhicules entre Orchard Street et Great Portland Street ce mois-ci, ce qui créera une vaste zone piétonne au cœur de Londres.",
+     "why": "Un espace public plus propre et plus sûr pour de nombreuses personnes, dont les effets restent à observer."
+    },
+    "ru": {
+     "title": "Оксфорд-стрит в Лондоне в этом месяце закроют для автомобилей",
+     "summary": "В этом месяце Оксфорд-стрит будет закрыта для всех транспортных средств на участке между Orchard Street и Great Portland Street, что создаст большую пешеходную зону в центре Лондона.",
+     "why": "Более чистое и безопасное общественное пространство для многих людей, однако последствия ещё предстоит оценить."
     }
    }
   },
@@ -1036,6 +1160,37 @@
      "title": "Отец снова ходит через три года после тяжёлой травмы головного мозга",
      "summary": "Отец, который три года восстанавливался после травмы головного мозга, полученной в автокатастрофе, удивил детей, снова начав ходить без посторонней помощи.",
      "why": "Трогательное восстановление, но оно касается одной семьи."
+    }
+   }
+  },
+  {
+   "id": "mb-wild-tulips-central-asia-threatened",
+   "title": "Nearly half of assessed wild tulip species are threatened with extinction",
+   "summary": "Of 62 wild tulip species assessed for the IUCN Red List, 32 are threatened, mostly in Central Asia, where overgrazing and climate change put pressure on them.",
+   "why": "A conservation warning, but the assessment itself helps target protection.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/wild-tulips-in-central-asia-have-become-rare-expert-says/",
+   "score": 3,
+   "category": "Environment",
+   "region": "Central Asia",
+   "published": "2026-10-07T10:53:31Z",
+   "continent": "Asia",
+   "added": "2026-10-09T04:12:41Z",
+   "i18n": {
+    "ca": {
+     "title": "Gairebé la meitat de les espècies de tulipa silvestre avaluades estan amenaçades d'extinció",
+     "summary": "De 62 espècies de tulipa silvestre avaluades per a la Llista Vermella de la UICN, 32 estan amenaçades, sobretot a Àsia Central, on el sobrepastoreig i el canvi climàtic les posen en perill.",
+     "why": "Un avís de conservació, però l'avaluació en si ajuda a orientar la protecció."
+    },
+    "fr": {
+     "title": "Près de la moitié des espèces de tulipes sauvages évaluées sont menacées d'extinction",
+     "summary": "Sur 62 espèces de tulipes sauvages évaluées pour la Liste rouge de l'UICN, 32 sont menacées, principalement en Asie centrale, où le surpâturage et le changement climatique pèsent sur elles.",
+     "why": "Un avertissement pour la conservation, mais l'évaluation elle-même aide à cibler la protection."
+    },
+    "ru": {
+     "title": "Почти половина оценённых диких видов тюльпанов находится под угрозой исчезновения",
+     "summary": "Из 62 диких видов тюльпанов, оценённых для Красного списка МСОП, 32 находятся под угрозой, в основном в Центральной Азии, где на них давят перевыпас и изменение климата.",
+     "why": "Предупреждение о необходимости сохранения, но сама оценка помогает точнее определить, что нужно защищать."
     }
    }
   },
