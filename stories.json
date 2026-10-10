@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T04:12:41Z",
+ "updated": "2026-10-10T04:14:57Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,10 +12,196 @@
   "Grist",
   "Africanews"
  ],
- "count": 235,
- "last_run": "run-20261009T0412Z.json",
- "note": "5 new, 114 skipped, 0 pruned, 0 translations added, failed feeds: none",
+ "count": 244,
+ "last_run": "run-20261010T0414Z.json",
+ "note": "15 new, 88 skipped, 6 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "an-zimbabwe-mobile-clinic",
+   "title": "Mobile clinic in Zimbabwe gives teenagers private access to contraception",
+   "summary": "A mobile clinic near Harare offers teenage girls confidential contraception as aid cuts strain health services.",
+   "why": "Local help, but set against funding cuts.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/09/zimbabwes-mobile-clinic-helps-teenagers-access-contraception-amid-aid-cuts/",
+   "score": 5,
+   "category": "Health",
+   "region": "Zimbabwe",
+   "published": "2026-10-09T15:37:06Z",
+   "continent": "Africa",
+   "added": "2026-10-10T04:14:57Z",
+   "i18n": {
+    "ca": {
+     "title": "Una clínica mòbil a Zimbabwe ofereix als adolescents accés privat a anticonceptius",
+     "summary": "Una clínica mòbil als voltants de Harare ofereix a les adolescents anticoncepció confidencial mentre les retallades d'ajuda posen a prova els serveis sanitaris.",
+     "why": "Ajuda local, però en un context de retallades de finançament."
+    },
+    "fr": {
+     "title": "Au Zimbabwe, une clinique mobile offre aux adolescents un accès confidentiel à la contraception",
+     "summary": "Une clinique mobile située près d'Harare propose aux adolescentes une contraception confidentielle, alors que les coupes dans l'aide pèsent sur les services de santé.",
+     "why": "Aide locale, mais face à des coupes de financement."
+    },
+    "ru": {
+     "title": "Мобильная клиника в Зимбабве обеспечивает подросткам конфиденциальный доступ к контрацепции",
+     "summary": "Мобильная клиника под Хараре предлагает девушкам-подросткам конфиденциальную контрацепцию, в то время как сокращение помощи создаёт нагрузку на систему здравоохранения.",
+     "why": "Местная помощь, но на фоне сокращения финансирования."
+    }
+   }
+  },
+  {
+   "id": "tbi-bustard-release",
+   "title": "India releases two captive-bred Great Indian Bustards into the wild",
+   "summary": "Two captive-bred male Great Indian Bustards were released into Desert National Park in Rajasthan as an experiment to rebuild the critically endangered species.",
+   "why": "Hopeful step for a critically endangered bird; outcome uncertain.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/wildlife/great-indian-bustard-captive-bred-rewilding-rajasthan-12660681",
+   "score": 7,
+   "category": "Animals",
+   "region": "Rajasthan, India",
+   "published": "2026-10-09T13:30:37Z",
+   "continent": "Asia",
+   "added": "2026-10-10T04:14:57Z",
+   "i18n": {
+    "ca": {
+     "title": "L'Índia allibera a la natura dues outardes índies criades en captivitat",
+     "summary": "Dos mascles d'outarda índia criats en captivitat han estat alliberats al Parc Nacional del Desert, a Rajasthan, com a experiment per recuperar aquesta espècie en perill crític.",
+     "why": "Pas esperançador per a un ocell en perill crític; el resultat és incert."
+    },
+    "fr": {
+     "title": "L'Inde relâche dans la nature deux Outardes indiennes élevées en captivité",
+     "summary": "Deux mâles d'Outarde indienne élevés en captivité ont été relâchés dans le parc national du Désert, au Rajasthan, dans le cadre d'une expérience visant à reconstituer cette espèce en danger critique d'extinction.",
+     "why": "Étape porteuse d'espoir pour un oiseau en danger critique ; l'issue reste incertaine."
+    },
+    "ru": {
+     "title": "В Индии выпустили на волю двух дроф, выращенных в неволе",
+     "summary": "Два самца большой индийской дрофы, выращенные в неволе, выпущены в национальный парк Дезерт в штате Раджастан в рамках эксперимента по восстановлению вида, находящегося под критической угрозой исчезновения.",
+     "why": "Обнадёживающий шаг для птицы, находящейся под угрозой исчезновения; результат неясен."
+    }
+   }
+  },
+  {
+   "id": "am-purple-bacteria-fertilizer",
+   "title": "Purple bacteria powder matched synthetic fertilizer in crop trials",
+   "summary": "Dried powder from the purple bacterium Rhodovulum sulfidophilum matched synthetic fertilizers in a two-year trial, hinting at a lower-impact option.",
+   "why": "Promising alternative, but early-stage.",
+   "source": "Anthropocene Magazine",
+   "url": "https://www.anthropocenemagazine.org/2026/10/the-green-revolution-may-be-turning-purple/?utm_source=rss&utm_medium=rss&utm_campaign=the-green-revolution-may-be-turning-purple",
+   "score": 6,
+   "category": "Environment",
+   "region": "Global",
+   "published": "2026-10-09T12:00:20Z",
+   "continent": "Global",
+   "added": "2026-10-10T04:14:57Z",
+   "i18n": {
+    "ca": {
+     "title": "Una pols de bacteris porpres va igualar els fertilitzants sintètics en assaigs de cultius",
+     "summary": "La pols dessecada del bacteri porpre Rhodovulum sulfidophilum va igualar els fertilitzants sintètics en un assaig de dos anys, cosa que apunta a una opció de menor impacte.",
+     "why": "Alternativa prometedora, però en una fase inicial."
+    },
+    "fr": {
+     "title": "Une poudre à base de bactéries pourpres égale les engrais de synthèse dans des essais agricoles",
+     "summary": "La poudre séchée de la bactérie pourpre Rhodovulum sulfidophilum a donné des résultats équivalents à ceux des engrais de synthèse lors d'un essai de deux ans, ce qui laisse entrevoir une option à moindre impact.",
+     "why": "Alternative prometteuse, mais encore au stade précoce."
+    },
+    "ru": {
+     "title": "Порошок из пурпурных бактерий не уступил синтетическим удобрениям в испытаниях на культурах",
+     "summary": "Сухой порошок из пурпурной бактерии Rhodovulum sulfidophilum показал такие же результаты, как синтетические удобрения, в двухлетнем испытании, что указывает на более экологичный вариант.",
+     "why": "Перспективная альтернатива, но на ранней стадии."
+    }
+   }
+  },
+  {
+   "id": "an-pillay-nobel",
+   "title": "South African jurist Navi Pillay wins the 2026 Nobel Peace Prize",
+   "summary": "The Nobel Committee awarded the 2026 Peace Prize to Navi Pillay, a South African judge, for her work promoting peace and international justice.",
+   "why": "Major recognition for human rights work.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/09/navanethem-navi-pillay-wins-the-nobel-peace-prize/",
+   "score": 7,
+   "category": "Society",
+   "region": "South Africa",
+   "published": "2026-10-09T10:17:21Z",
+   "continent": "Africa",
+   "added": "2026-10-10T04:14:57Z",
+   "i18n": {
+    "ca": {
+     "title": "La jurista sud-africana Navi Pillay guanya el Premi Nobel de la Pau de 2026",
+     "summary": "El Comitè Nobel ha concedit el Premi de la Pau de 2026 a Navi Pillay, jutgessa sud-africana, per la seva tasca en la promoció de la pau i la justícia internacional.",
+     "why": "Reconeixement important de la tasca en favor dels drets humans."
+    },
+    "fr": {
+     "title": "La juriste sud-africaine Navi Pillay remporte le prix Nobel de la paix 2026",
+     "summary": "Le comité Nobel a décerné le prix Nobel de la paix 2026 à Navi Pillay, juge sud-africaine, pour son action en faveur de la paix et de la justice internationale.",
+     "why": "Reconnaissance majeure du travail en faveur des droits humains."
+    },
+    "ru": {
+     "title": "Юристка из ЮАР Нави Пиллей получила Нобелевскую премию мира 2026 года",
+     "summary": "Нобелевский комитет присудил Премию мира 2026 года Нави Пиллей, южноафриканской судье, за её работу по продвижению мира и международного правосудия.",
+     "why": "Важное признание работы в области прав человека."
+    }
+   }
+  },
+  {
+   "id": "rtbc-genz-medical-supplies",
+   "title": "A teenager's project redirects surplus hospital supplies abroad",
+   "summary": "Project MedBridge, started by 16-year-old Ben Kurian, sends surplus medical supplies from Ohio hospitals to places that need them, rescuing millions of dollars of items.",
+   "why": "Practical waste-to-aid model with measurable results.",
+   "source": "Reasons to be Cheerful",
+   "url": "https://reasonstobecheerful.world/gen-z-is-rescuing-millions-in-medical-supplies/",
+   "score": 7,
+   "category": "Health",
+   "region": "Ohio, USA",
+   "published": "2026-10-09T08:00:14Z",
+   "continent": "North America",
+   "added": "2026-10-10T04:14:57Z",
+   "i18n": {
+    "ca": {
+     "title": "Un projecte d'un adolescent redirigeix el material hospitalari sobrant cap a l'estranger",
+     "summary": "El projecte MedBridge, iniciat pel Ben Kurian de 16 anys, envia material mèdic sobrant d'hospitals d'Ohio a llocs que el necessiten, i recupera articles per valor de milions de dòlars.",
+     "why": "Model pràctic per convertir el malbaratament en ajuda, amb resultats mesurables."
+    },
+    "fr": {
+     "title": "Le projet d'un adolescent redirige le matériel hospitalier excédentaire vers l'étranger",
+     "summary": "Le projet MedBridge, lancé par Ben Kurian, 16 ans, achemine du matériel médical excédentaire d'hôpitaux de l'Ohio vers les lieux qui en ont besoin, et sauve ainsi des articles représentant plusieurs millions de dollars.",
+     "why": "Modèle concret de valorisation des déchets au service de l'aide, aux résultats mesurables."
+    },
+    "ru": {
+     "title": "Проект подростка направляет излишки больничных расходных материалов за границу",
+     "summary": "Проект MedBridge, основанный 16-летним Беном Курианом, отправляет излишки медицинских материалов из больниц штата Огайо туда, где они нужны, спасая предметы на миллионы долларов.",
+     "why": "Практичная модель, которая превращает отходы в помощь, с измеримыми результатами."
+    }
+   }
+  },
+  {
+   "id": "mb-ethiopia-egg-eater",
+   "title": "New species of egg-eating snake found in Ethiopian highlands",
+   "summary": "A new nonvenomous egg-eating snake, the white-throated egg-eater, has been documented in Ethiopia's Harenna Forest.",
+   "why": "A new species adds to knowledge and the case for protecting the forest.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/ethiopian-highlands-yield-a-new-species-of-egg-eating-snake/",
+   "score": 6,
+   "category": "Animals",
+   "region": "Ethiopia",
+   "published": "2026-10-09T07:54:09Z",
+   "continent": "Africa",
+   "added": "2026-10-10T04:14:57Z",
+   "i18n": {
+    "ca": {
+     "title": "Trobada una nova espècie de serp menjaovos a les terres altes d'Etiòpia",
+     "summary": "S'ha documentat al bosc d'Harenna, a Etiòpia, una nova serp menjaovos no verinosa, el menjaovos de gola blanca.",
+     "why": "Una nova espècie amplia el coneixement i reforça els arguments per protegir el bosc."
+    },
+    "fr": {
+     "title": "Une nouvelle espèce de serpent mangeur d'œufs découverte dans les hauts plateaux éthiopiens",
+     "summary": "Un nouveau serpent mangeur d'œufs non venimeux, le mangeur d'œufs à gorge blanche, a été documenté dans la forêt de Harenna, en Éthiopie.",
+     "why": "Une nouvelle espèce enrichit les connaissances et renforce l'argument en faveur de la protection de la forêt."
+    },
+    "ru": {
+     "title": "В эфиопском нагорье найден новый вид змеи, питающейся яйцами",
+     "summary": "Новая неядовитая змея, питающаяся яйцами, белогорлый яйцеед, задокументирована в лесу Харенна в Эфиопии.",
+     "why": "Новый вид расширяет знания и усиливает аргументы в пользу защиты леса."
+    }
+   }
+  },
   {
    "id": "tbi-goa-homestead-recipes-ten-jars",
    "title": "Goan mother grows ten jars of home recipes into a global business",
@@ -79,6 +265,99 @@
    }
   },
   {
+   "id": "od-seabird-scarecrow",
+   "title": "Floating scarecrow cuts seabird deaths in fishing nets by up to 71 percent",
+   "summary": "A bird-shaped kite and a spinning, eyed buoy reduced seabird bycatch in Cornish gillnets by up to 71 percent in trials.",
+   "why": "Cheap, effective tool that could spread to other fisheries.",
+   "source": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/10/the-floating-scarecrow-saving-seabirds-from-fishing-nets/",
+   "score": 8,
+   "category": "Animals",
+   "region": "Cornwall, UK",
+   "published": "2026-10-09T00:00:41Z",
+   "continent": "Europe",
+   "added": "2026-10-10T04:14:57Z",
+   "i18n": {
+    "ca": {
+     "title": "Un espantaocells flotant redueix fins a un 71 % la mort d'ocells marins a les xarxes de pesca",
+     "summary": "Un estel en forma d'ocell i una boia giratòria amb ulls han reduït en els assajos fins a un 71 % les captures accidentals d'ocells marins a les xarxes d'enmalla de Cornualla.",
+     "why": "Eina barata i eficaç que podria estendre's a altres pesqueries."
+    },
+    "fr": {
+     "title": "Un épouvantail flottant réduit de jusqu'à 71 % la mortalité des oiseaux de mer dans les filets de pêche",
+     "summary": "Un cerf-volant en forme d'oiseau et une bouée tournante dotée d'yeux ont réduit de jusqu'à 71 % les captures accessoires d'oiseaux de mer dans les filets maillants de Cornouailles lors d'essais.",
+     "why": "Outil peu coûteux et efficace, susceptible de se répandre à d'autres pêcheries."
+    },
+    "ru": {
+     "title": "Плавающее пугало сокращает гибель морских птиц в рыболовных сетях до 71 процента",
+     "summary": "Воздушный змей в форме птицы и вращающийся поплавок с «глазами» в ходе испытаний сократили прилов морских птиц в жаберных сетях Корнуолла до 71 процента.",
+     "why": "Дешёвый и эффективный инструмент, который может распространиться на другие промыслы."
+    }
+   }
+  },
+  {
+   "id": "gnn-tortoise-epigenome",
+   "title": "Jonathan the tortoise, about 194, contributes first epigenome to aging research",
+   "summary": "Researchers ran genetic tests on Jonathan, an estimated 194-year-old giant tortoise, to learn about aging; it is the first epigenome from such a long-lived animal.",
+   "why": "Interesting aging research from a single animal; benefits are still distant.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/nearly-200-year-old-tortoise-becomes-first-to-contribute-extraordinary-epigenome-to-aging-research/",
+   "score": 6,
+   "category": "Science",
+   "region": "Saint Helena",
+   "published": "2026-10-08T18:30:07Z",
+   "continent": "Africa",
+   "added": "2026-10-10T04:14:57Z",
+   "i18n": {
+    "ca": {
+     "title": "Jonathan, la tortuga d'uns 194 anys, aporta el primer epigenoma a la recerca sobre l'envelliment",
+     "summary": "Investigadors han fet proves genètiques a Jonathan, una tortuga gegant d'uns 194 anys, per estudiar l'envelliment; és el primer epigenoma obtingut d'un animal tan longeu.",
+     "why": "Recerca interessant sobre l'envelliment a partir d'un sol animal; els beneficis encara són llunyans."
+    },
+    "fr": {
+     "title": "Jonathan, la tortue d'environ 194 ans, apporte le premier épigénome à la recherche sur le vieillissement",
+     "summary": "Des chercheurs ont réalisé des tests génétiques sur Jonathan, une tortue géante âgée d'environ 194 ans, pour étudier le vieillissement ; il s'agit du premier épigénome issu d'un animal aussi longévif.",
+     "why": "Recherche intéressante sur le vieillissement à partir d'un seul animal ; les bénéfices restent lointains."
+    },
+    "ru": {
+     "title": "Черепаха Джонатан, которой около 194 лет, впервые внесла вклад в изучение старения через эпигеном",
+     "summary": "Исследователи провели генетические тесты на Джонатане, гигантской черепахе, которой по оценкам около 194 лет, чтобы изучить старение; это первый эпигеном, полученный от такого долгоживущего животного.",
+     "why": "Интересное исследование старения на основе одного животного; практическая польза пока далека."
+    }
+   }
+  },
+  {
+   "id": "mb-madre-tierra",
+   "title": "Interpol operation in Latin America leads to hundreds of arrests",
+   "summary": "Interpol's Operation Madre Tierra across nine countries led to hundreds of arrests and the recovery of over 1,000 animals from wildlife and timber trafficking.",
+   "why": "Meaningful enforcement success, though trafficking persists.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/crackdown-reveals-industrial-scale-wildlife-and-timber-trafficking-across-latin-america/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Latin America",
+   "published": "2026-10-08T17:55:58Z",
+   "continent": "South America",
+   "added": "2026-10-10T04:14:57Z",
+   "i18n": {
+    "ca": {
+     "title": "Una operació d'Interpol a Amèrica Llatina porta a centenars de detencions",
+     "summary": "L'operació Madre Tierra d'Interpol, en nou països, ha portat a centenars de detencions i a la recuperació de més de 1.000 animals del tràfic de fauna salvatge i de fusta.",
+     "why": "Èxit significatiu en l'aplicació de la llei, tot i que el tràfic persisteix."
+    },
+    "fr": {
+     "title": "Une opération d'Interpol en Amérique latine aboutit à des centaines d'arrestations",
+     "summary": "L'opération Madre Tierra d'Interpol, menée dans neuf pays, a conduit à des centaines d'arrestations et à la récupération de plus de 1 000 animaux, dans le cadre du trafic d'espèces sauvages et de bois.",
+     "why": "Succès important dans l'application de la loi, même si le trafic persiste."
+    },
+    "ru": {
+     "title": "Операция Интерпола в Латинской Америке привела к сотням арестов",
+     "summary": "Операция Интерпола «Мадре Тьерра» в девяти странах привела к сотням арестов и возвращению более 1000 животных, изъятых при торговле дикой природой и древесиной.",
+     "why": "Заметный успех правоохранительных органов, хотя торговля продолжается."
+    }
+   }
+  },
+  {
    "id": "an-zambia-us-health-deal-data-clauses-removed",
    "title": "Zambia signs US health deal after data-sharing clauses are removed",
    "summary": "The government says the agreement is not linked to US access to its mineral resources.",
@@ -110,6 +389,130 @@
    }
   },
   {
+   "id": "mb-australia-eco-police",
+   "title": "Australia's new environmental agency busts wildlife trafficking ring",
+   "summary": "Australia's National Environmental Protection Agency seized 28 native animals and about A$300,000 in alleged trafficking proceeds in a major operation.",
+   "why": "Shows new enforcement capacity working.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/australias-new-eco-police-flexes-muscles-with-major-wildlife-trafficking-bust/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Australia",
+   "published": "2026-10-08T14:41:57Z",
+   "continent": "Oceania",
+   "added": "2026-10-10T04:14:57Z",
+   "i18n": {
+    "ca": {
+     "title": "La nova agència ambiental d'Austràlia desmantella una xarxa de tràfic de fauna",
+     "summary": "L'Agència Nacional de Protecció Ambiental d'Austràlia ha confiscat 28 animals autòctons i uns 300.000 dòlars australians presumptament procedents del tràfic, en una operació important.",
+     "why": "Mostra que la nova capacitat d'aplicació de la llei funciona."
+    },
+    "fr": {
+     "title": "La nouvelle agence environnementale australienne démantèle un réseau de trafic d'animaux sauvages",
+     "summary": "L'Agence nationale de protection de l'environnement d'Australie a saisi 28 animaux indigènes et environ 300 000 dollars australiens de produits présumés du trafic, dans le cadre d'une opération majeure.",
+     "why": "Montre que la nouvelle capacité d'application de la loi porte ses fruits."
+    },
+    "ru": {
+     "title": "Новое экологическое ведомство Австралии разоблачило сеть торговцев дикими животными",
+     "summary": "Национальное агентство по охране окружающей среды Австралии в ходе крупной операции изъяло 28 местных животных и около 300 000 австралийских долларов, предположительно полученных от незаконной торговли.",
+     "why": "Показывает, что новые правоохранительные возможности работают."
+    }
+   }
+  },
+  {
+   "id": "sd-lacosamide-osteoarthritis",
+   "title": "Approved epilepsy drug may help reverse osteoarthritis damage",
+   "summary": "In preclinical Yale studies, the epilepsy drug lacosamide blocked a protein involved in pain and joint damage, pointing to a possible osteoarthritis treatment.",
+   "why": "Promising but early results from preclinical work.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261006234528.htm",
+   "score": 5,
+   "category": "Health",
+   "region": "USA",
+   "published": "2026-10-08T13:52:56Z",
+   "continent": "North America",
+   "added": "2026-10-10T04:14:57Z",
+   "i18n": {
+    "ca": {
+     "title": "Un fàrmac aprovat contra l'epilèpsia podria ajudar a revertir el dany de l'artrosi",
+     "summary": "En estudis preclínics de la Universitat de Yale, el fàrmac contra l'epilèpsia lacosamida va bloquejar una proteïna implicada en el dolor i el dany articular, cosa que apunta a un possible tractament de l'artrosi.",
+     "why": "Resultats prometedors però inicials, procedents de treball preclínic."
+    },
+    "fr": {
+     "title": "Un médicament anti-épileptique déjà approuvé pourrait aider à inverser les lésions de l'arthrose",
+     "summary": "Dans des études précliniques menées à Yale, le lacosamide, médicament contre l'épilepsie, a bloqué une protéine impliquée dans la douleur et les lésions articulaires, ce qui laisse entrevoir un traitement possible de l'arthrose.",
+     "why": "Résultats prometteurs mais encore précoces, issus de travaux précliniques."
+    },
+    "ru": {
+     "title": "Одобренный противоэпилептический препарат может помочь обратить вспять повреждения при остеоартрозе",
+     "summary": "В доклинических исследованиях в Йельском университете противоэпилептический препарат лакозамид блокировал белок, участвующий в боли и повреждении суставов, что указывает на возможное лечение остеоартроза.",
+     "why": "Перспективные, но пока предварительные результаты доклинической работы."
+    }
+   }
+  },
+  {
+   "id": "sd-golden-coral",
+   "title": "A strange yellow coral off Costa Rica forms a new evolutionary lineage",
+   "summary": "Scientists found a yellow coral off Costa Rica that fits no known family, so they created a new one for it, adding to knowledge of deep-sea life.",
+   "why": "New knowledge about marine biodiversity.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261007042116.htm",
+   "score": 6,
+   "category": "Animals",
+   "region": "Costa Rica",
+   "published": "2026-10-08T13:18:54Z",
+   "continent": "North America",
+   "added": "2026-10-10T04:14:57Z",
+   "i18n": {
+    "ca": {
+     "title": "Un coral groc estrany al llarg de Costa Rica dona lloc a un nou llinatge evolutiu",
+     "summary": "Científics han trobat un coral groc al llarg de Costa Rica que no encaixa en cap família coneguda, i per això n'han creat una de nova, cosa que amplia el coneixement de la vida d'aigües profundes.",
+     "why": "Nou coneixement sobre la biodiversitat marina."
+    },
+    "fr": {
+     "title": "Un étrange corail jaune au large du Costa Rica forme une nouvelle lignée évolutive",
+     "summary": "Des scientifiques ont découvert au large du Costa Rica un corail jaune qui n'appartient à aucune famille connue ; ils ont donc créé une nouvelle famille pour l'accueillir, enrichissant les connaissances sur la vie des grands fonds.",
+     "why": "Nouvelles connaissances sur la biodiversité marine."
+    },
+    "ru": {
+     "title": "Необычный жёлтый коралл у побережья Коста-Рики образует новую эволюционную линию",
+     "summary": "Учёные обнаружили у побережья Коста-Рики жёлтый коралл, который не относится ни к одному известному семейству, и создали для него новое, что дополняет знания о глубоководной жизни.",
+     "why": "Новые знания о морском биоразнообразии."
+    }
+   }
+  },
+  {
+   "id": "sd-homo-erectus-drimolen",
+   "title": "Homo erectus fossils in South Africa are 200,000 years older than expected",
+   "summary": "Fossils from Drimolen Cave, including a skull fragment dated to about 2 million years, push back the known age of Homo erectus.",
+   "why": "Notable scientific discovery with no direct practical benefit.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261007042113.htm",
+   "score": 6,
+   "category": "Science",
+   "region": "South Africa",
+   "published": "2026-10-08T12:47:46Z",
+   "continent": "Africa",
+   "added": "2026-10-10T04:14:57Z",
+   "i18n": {
+    "ca": {
+     "title": "Els fòssils d'Homo erectus de Sud-àfrica són 200.000 anys més antics del que es pensava",
+     "summary": "Els fòssils de la cova de Drimolen, inclosa una resta de crani datada d'uns 2 milions d'anys, endarrereixen l'antiguitat coneguda d'Homo erectus.",
+     "why": "Descobriment científic notable, sense un benefici pràctic directe."
+    },
+    "fr": {
+     "title": "Des fossiles d'Homo erectus en Afrique du Sud sont 200 000 ans plus anciens que prévu",
+     "summary": "Des fossiles de la grotte de Drimolen, dont un fragment de crâne daté d'environ 2 millions d'années, repoussent l'âge connu d'Homo erectus.",
+     "why": "Découverte scientifique notable, sans bénéfice pratique direct."
+    },
+    "ru": {
+     "title": "Ископаемые остатки Homo erectus в ЮАР на 200 000 лет старше, чем предполагалось",
+     "summary": "Ископаемые из пещеры Дримолен, включая фрагмент черепа возрастом около 2 миллионов лет, отодвигают известную датировку Homo erectus.",
+     "why": "Заметное научное открытие без прямой практической пользы."
+    }
+   }
+  },
+  {
    "id": "tbi-delhi-tutor-vinay-das-park-cleanups",
    "title": "Delhi tutor's free classes grow into a movement that cleaned 250 public spaces",
    "summary": "Vinay Das began free classes for migrant children in Wazirpur; weekend clean-up drives since 2018 have cleared around 250 parks and streets.",
@@ -137,6 +540,37 @@
      "title": "Бесплатные занятия репетитора из Дели переросли в движение, которое очистило 250 общественных пространств",
      "summary": "Винай Дас начал бесплатные занятия для детей мигрантов в Вазирпуре; с 2018 года уборки по выходным помогли очистить около 250 парков и улиц.",
      "why": "Инициатива местного сообщества, которая помогает детям и районам."
+    }
+   }
+  },
+  {
+   "id": "sd-moon-caves",
+   "title": "NASA searches for lunar caves to shelter a future Moon base",
+   "summary": "NASA is running three investigations to find underground shelters, map hidden ice and track hazards on the lunar surface ahead of its first Moon base.",
+   "why": "Interesting planning step, with benefits far in the future.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-10-08T12:19:20Z",
+   "continent": "Global",
+   "added": "2026-10-10T04:14:57Z",
+   "i18n": {
+    "ca": {
+     "title": "La NASA busca coves lunars per aixoplugar una futura base a la Lluna",
+     "summary": "La NASA duu a terme tres investigacions per trobar refugis subterranis, cartografiar gel amagat i fer el seguiment dels riscos a la superfície lunar, abans de la seva primera base a la Lluna.",
+     "why": "Pas de planificació interessant, amb beneficis encara molt lluny en el temps."
+    },
+    "fr": {
+     "title": "La NASA cherche des grottes lunaires pour abriter une future base sur la Lune",
+     "summary": "La NASA mène trois études pour trouver des abris souterrains, cartographier la glace cachée et suivre les dangers à la surface lunaire, en amont de sa première base sur la Lune.",
+     "why": "Étape de planification intéressante, dont les bénéfices sont encore très lointains."
+    },
+    "ru": {
+     "title": "NASA ищет лунные пещеры, чтобы укрыть будущую базу на Луне",
+     "summary": "NASA проводит три исследования, чтобы найти подземные убежища, нанести на карту скрытый лёд и отслеживать опасности на поверхности Луны до создания первой лунной базы.",
+     "why": "Интересный этап планирования, но выгоды ожидаются в далёком будущем."
     }
    }
   },
@@ -261,6 +695,37 @@
      "title": "Двадцать похищенных нигерийских выпускников найдены живыми после недельных поисков",
      "summary": "Власти подтвердили освобождение выпускников, похищенных по пути на начало национальной службы молодёжи.",
      "why": "Благополучное возвращение 20 человек, хотя само похищение причинило вред."
+    }
+   }
+  },
+  {
+   "id": "gnn-libya-explosives",
+   "title": "More than 14,000 explosives cleared from a Libyan city and nearby farmland",
+   "summary": "Demining teams backed by the UN and others cleared over 14,000 leftover explosives this year, making homes and farmland safer in a coastal Libyan city.",
+   "why": "Real safety gain for a community, though much clearance remains.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/more-than-14000-derelict-explosives-cleared-from-libyan-city-and-nearby-farmland/",
+   "score": 7,
+   "category": "Society",
+   "region": "Libya",
+   "published": "2026-10-08T11:00:03Z",
+   "continent": "Africa",
+   "added": "2026-10-10T04:14:57Z",
+   "i18n": {
+    "ca": {
+     "title": "Més de 14.000 explosius retirats d'una ciutat libia i de les terres de cultiu del voltant",
+     "summary": "Equips de desminatge amb el suport de l'ONU i d'altres organitzacions han retirat més de 14.000 explosius abandonats aquest any, cosa que fa més segures les llars i les terres de cultiu d'una ciutat costanera libia.",
+     "why": "Millora real de la seguretat per a una comunitat, tot i que encara queda molta feina per fer."
+    },
+    "fr": {
+     "title": "Plus de 14 000 explosifs déblayés d'une ville libyenne et de ses terres agricoles voisines",
+     "summary": "Des équipes de déminage soutenues par l'ONU et d'autres acteurs ont retiré plus de 14 000 explosifs résiduels cette année, rendant plus sûrs les foyers et les terres agricoles d'une ville côtière libyenne.",
+     "why": "Gain réel de sécurité pour une communauté, même si le déminage reste considérable."
+    },
+    "ru": {
+     "title": "Более 14 000 взрывоопасных предметов удалено из ливийского города и прилегающих сельхозугодий",
+     "summary": "Группы разминирования при поддержке ООН и других организаций в этом году обезвредили более 14 000 оставшихся взрывоопасных предметов, сделав дома и сельскохозяйственные земли в прибрежном ливийском городе безопаснее.",
+     "why": "Реальное повышение безопасности для общины, хотя работы по расчистке ещё предстоит много."
     }
    }
   },
@@ -7112,192 +7577,6 @@
      "title": "Извержение Везувия 79 года н.э., используемое для улучшения геологического датирования",
      "summary": "Ученые использовали точно известную дату извержения Помпеи для калибровки метода датирования, который может уточнить сроки извержений, воздействий и вымираний.",
      "why": "Твердый методологический прогресс для науки о Земле."
-    }
-   }
-  },
-  {
-   "id": "sd-bats-europe-origin",
-   "title": "Bats may have first evolved in Europe",
-   "summary": "Genetic and fossil evidence suggests bats appeared in Europe 60 to 65 million years ago before spreading worldwide.",
-   "why": "Interesting science, neutral for wellbeing.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260929053531.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Europe",
-   "published": "2026-09-30T05:12:36Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "Europe",
-   "i18n": {
-    "ca": {
-     "title": "Els ratpenats podrien haver aparegut primer a Europa",
-     "summary": "Proves genètiques i fòssils indiquen que els ratpenats van sorgir a Europa fa entre 60 i 65 milions d'anys i després es van estendre pel món.",
-     "why": "Ciència interessant, neutra pel que fa al benestar."
-    },
-    "fr": {
-     "title": "Les chauves-souris seraient apparues en Europe",
-     "summary": "Des données génétiques et fossiles suggèrent que les chauves-souris sont apparues en Europe il y a 60 à 65 millions d'années avant de se répandre dans le monde.",
-     "why": "Science intéressante, neutre pour le bien-être."
-    },
-    "ru": {
-     "title": "Летучие мыши, возможно, впервые появились в Европе",
-     "summary": "Генетические и ископаемые данные указывают, что летучие мыши возникли в Европе 60–65 млн лет назад, а затем распространились по миру.",
-     "why": "Интересная наука, нейтральная для благополучия людей."
-    }
-   }
-  },
-  {
-   "id": "sd-curiosity-5000-days",
-   "title": "Curiosity rover marks 5,000 days on Mars",
-   "summary": "NASA's rover celebrated the milestone with a new panorama of Mount Sharp and Gale Crater.",
-   "why": "A pleasant milestone with little effect on daily life.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260928100556.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Space",
-   "published": "2026-09-30T04:34:34Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "Global",
-   "i18n": {
-    "ca": {
-     "title": "El ròver Curiosity compleix 5.000 dies a Mart",
-     "summary": "El ròver de la NASA ho ha celebrat amb una nova panoràmica del mont Sharp i el cràter Gale.",
-     "why": "Una fita agradable amb poc efecte en la vida diària."
-    },
-    "fr": {
-     "title": "Le rover Curiosity fête ses 5 000 jours sur Mars",
-     "summary": "Le rover de la NASA a marqué l'événement avec un nouveau panorama du mont Sharp et du cratère Gale.",
-     "why": "Une étape sympathique, sans grand effet sur la vie quotidienne."
-    },
-    "ru": {
-     "title": "Марсоход Curiosity провёл на Марсе 5000 дней",
-     "summary": "Марсоход NASA отметил это событие новой панорамой горы Шарп и кратера Гейл.",
-     "why": "Приятная веха, мало влияющая на повседневную жизнь."
-    }
-   }
-  },
-  {
-   "id": "gnn-indonesia-cash-for-photos",
-   "title": "Paying for wildlife photos turns hunters into protectors",
-   "summary": "Villages in Indonesia earn money for camera evidence of living animals instead of hunting them, helping orangutans and rare birds.",
-   "why": "A working incentive model that changes behaviour and protects species.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/a-strategy-of-cash-for-photos-turns-animal-hunters-into-animal-protectors-in-indonesia/",
-   "score": 8,
-   "category": "Animals",
-   "region": "Indonesia",
-   "published": "2026-09-29T13:00:01Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "Asia",
-   "i18n": {
-    "ca": {
-     "title": "Pagar per fotos d'animals converteix caçadors en protectors",
-     "summary": "Pobles d'Indonèsia cobren per proves fotogràfiques d'animals vius en lloc de caçar-los, cosa que ajuda els orangutans i ocells rars.",
-     "why": "Un incentiu que funciona, canvia comportaments i protegeix espècies."
-    },
-    "fr": {
-     "title": "Payer pour des photos d'animaux transforme des chasseurs en protecteurs",
-     "summary": "Des villages d'Indonésie sont payés pour des preuves photographiques d'animaux vivants plutôt que de les chasser, ce qui aide les orangs-outans et des oiseaux rares.",
-     "why": "Un modèle d'incitation efficace qui change les comportements et protège les espèces."
-    },
-    "ru": {
-     "title": "Плата за фото животных превращает охотников в защитников",
-     "summary": "Деревни в Индонезии получают деньги за снимки живых животных с фотоловушек вместо охоты на них, что помогает орангутанам и редким птицам.",
-     "why": "Работающая модель стимулов, которая меняет поведение и защищает виды."
-    }
-   }
-  },
-  {
-   "id": "gnn-norway-andfjorden-mpa",
-   "title": "Norway creates a large new marine protected area for whales and seabirds",
-   "summary": "The Andfjorden reserve covers roughly 714 square miles of rich northern waters used by whales, seabirds and cold-water reefs.",
-   "why": "Durable protection over a large area of ocean.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/norways-newest-marine-protected-area-shelters-rich-marine-habitat-whales-and-seabirds/",
-   "score": 8,
-   "category": "Environment",
-   "region": "Norway",
-   "published": "2026-09-29T11:00:24Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "Europe",
-   "i18n": {
-    "ca": {
-     "title": "Noruega crea una gran àrea marina protegida per a balenes i ocells marins",
-     "summary": "La reserva d'Andfjorden abasta uns 714 milles quadrades d'aigües riques del nord, on hi ha balenes, ocells marins i esculls d'aigua freda.",
-     "why": "Protecció duradora d'una gran extensió d'oceà."
-    },
-    "fr": {
-     "title": "La Norvège crée une grande aire marine protégée pour les baleines et les oiseaux marins",
-     "summary": "La réserve d'Andfjorden couvre environ 714 milles carrés d'eaux nordiques riches, fréquentées par des baleines, des oiseaux marins et des récifs d'eau froide.",
-     "why": "Une protection durable sur une grande étendue d'océan."
-    },
-    "ru": {
-     "title": "Норвегия создала крупную морскую охраняемую зону для китов и морских птиц",
-     "summary": "Заповедник Андфьорден охватывает около 714 квадратных миль богатых северных вод, где обитают киты, морские птицы и холодноводные рифы.",
-     "why": "Долгосрочная защита большой акватории."
-    }
-   }
-  },
-  {
-   "id": "rtbc-denver-student-housing",
-   "title": "Denver opens housing for homeless college students",
-   "summary": "A nonprofit and local universities now offer up to two years of subsidised housing and support to students without a stable home.",
-   "why": "Directly changes the odds for students at risk of dropping out.",
-   "source": "Reasons to be Cheerful",
-   "url": "https://reasonstobecheerful.world/home-for-denver-homeless-college-students/",
-   "score": 7,
-   "category": "Society",
-   "region": "USA",
-   "published": "2026-09-29T08:00:24Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "North America",
-   "i18n": {
-    "ca": {
-     "title": "Denver obre habitatges per a estudiants universitaris sense llar",
-     "summary": "Una entitat sense ànim de lucre i universitats locals ofereixen fins a dos anys d'habitatge subvencionat i suport a estudiants sense una llar estable.",
-     "why": "Canvia directament les possibilitats dels estudiants en risc d'abandonar."
-    },
-    "fr": {
-     "title": "Denver ouvre des logements pour les étudiants sans abri",
-     "summary": "Une association et des universités locales proposent jusqu'à deux ans de logement subventionné et d'accompagnement aux étudiants sans domicile stable.",
-     "why": "Change directement les chances des étudiants menacés de décrocher."
-    },
-    "ru": {
-     "title": "В Денвере открыли жильё для бездомных студентов",
-     "summary": "Некоммерческая организация и местные университеты предлагают студентам без постоянного жилья до двух лет льготного проживания и поддержки.",
-     "why": "Напрямую повышает шансы студентов, которым грозит отчисление."
-    }
-   }
-  },
-  {
-   "id": "pn-peru-indigenous-wildfires",
-   "title": "Indigenous communities in Peru are stopping wildfires",
-   "summary": "Communities in the Peruvian Amazon pair traditional forest knowledge with new tools to detect and prevent fires.",
-   "why": "Protects forest and livelihoods with a model others can copy.",
-   "source": "Positive News",
-   "url": "https://www.positive.news/environment/the-forest-is-life-how-indigenous-communities-in-peru-are-preventing-wildfires/",
-   "score": 7,
-   "category": "Environment",
-   "region": "Peru",
-   "published": "2026-09-29T08:00:00Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "South America",
-   "i18n": {
-    "ca": {
-     "title": "Comunitats indígenes del Perú aturen els incendis forestals",
-     "summary": "Comunitats de l'Amazònia peruana combinen el coneixement tradicional del bosc amb eines noves per detectar i prevenir incendis.",
-     "why": "Protegeix el bosc i els mitjans de vida amb un model que altres poden copiar."
-    },
-    "fr": {
-     "title": "Au Pérou, des communautés autochtones stoppent les incendies de forêt",
-     "summary": "Des communautés de l'Amazonie péruvienne associent savoirs forestiers traditionnels et nouveaux outils pour détecter et prévenir les incendies.",
-     "why": "Protège la forêt et les moyens de subsistance avec un modèle reproductible."
-    },
-    "ru": {
-     "title": "Коренные общины Перу останавливают лесные пожары",
-     "summary": "Общины перуанской Амазонии сочетают традиционные знания о лесе с новыми инструментами, чтобы обнаруживать и предотвращать пожары.",
-     "why": "Защищает лес и источники средств к существованию по модели, которую могут перенять другие."
     }
    }
   }
