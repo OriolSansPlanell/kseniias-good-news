@@ -1,21 +1,205 @@
 {
- "updated": "2026-10-10T04:14:57Z",
+ "updated": "2026-10-11T04:15:34Z",
  "sources": [
   "Positive News",
   "Good News Network",
-  "Reasons to be Cheerful",
   "ScienceDaily",
   "Mongabay",
   "The Optimist Daily",
   "The Better India",
-  "Anthropocene Magazine",
   "Grist",
   "Africanews"
  ],
- "count": 244,
- "last_run": "run-20261010T0414Z.json",
- "note": "15 new, 88 skipped, 6 pruned, 0 translations added, failed feeds: none",
+ "count": 242,
+ "last_run": "run-20261011T0415Z.json",
+ "note": "15 new, 58 skipped, 17 pruned, 0 translations added, failed feeds: Reasons to be Cheerful, Anthropocene Magazine",
  "stories": [
+  {
+   "id": "tbi-solar-truck-processes-waste-india",
+   "title": "Solar-powered truck processes waste before it reaches landfill",
+   "summary": "A 22-foot solar-powered mobile unit sorts, shreds and processes waste on site, reducing what goes to landfills.",
+   "why": "Practical local waste solution, small scale.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/videos/this-truck-eats-garbage-before-it-reaches-landfills-12664348",
+   "score": 6,
+   "category": "Environment",
+   "region": "India",
+   "published": "2026-10-10T15:30:04Z",
+   "continent": "Asia",
+   "added": "2026-10-11T04:15:34Z",
+   "i18n": {
+    "ca": {
+     "title": "Un camió solar tracta els residus abans que arribin a l'abocador",
+     "summary": "Una unitat mòbil solar de 22 peus classifica, tritura i tracta els residus al mateix lloc, cosa que redueix la quantitat que va a parar a l'abocador.",
+     "why": "Una solució local i pràctica per als residus, a petita escala."
+    },
+    "fr": {
+     "title": "Un camion solaire traite les déchets avant qu'ils n'atteignent la décharge",
+     "summary": "Une unité mobile alimentée à l'énergie solaire, longue de 22 pieds, trie, broie et traite les déchets sur place, réduisant la quantité envoyée en décharge.",
+     "why": "Une solution locale et pratique pour les déchets, à petite échelle."
+    },
+    "ru": {
+     "title": "Грузовик на солнечной энергии перерабатывает отходы до попадания на свалку",
+     "summary": "Мобильная установка длиной 22 фута на солнечной энергии сортирует, измельчает и перерабатывает отходы на месте, сокращая объём мусора, отправляемого на свалки.",
+     "why": "Практичное местное решение проблемы отходов, небольшого масштаба."
+    }
+   }
+  },
+  {
+   "id": "mb-darwins-rheas-chile-patagonia",
+   "title": "Women rangers prepare to release Darwin's rheas in Chilean Patagonia",
+   "summary": "A women-led ranger team is preparing to release 13 Darwin's rheas at Patagonia National Park in Chile to help restore the species.",
+   "why": "Local restoration effort for a native bird.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/these-women-are-bringing-darwins-rheas-back-to-chilean-patagonia/",
+   "score": 7,
+   "category": "Animals",
+   "region": "Patagonia, Chile",
+   "published": "2026-10-10T07:40:19Z",
+   "continent": "South America",
+   "added": "2026-10-11T04:15:34Z",
+   "i18n": {
+    "ca": {
+     "title": "Guardaparcs dones es preparen per alliberar ñandús de Darwin a la Patagònia xilena",
+     "summary": "Un equip de guardaparcs liderat per dones es prepara per alliberar 13 ñandús de Darwin al Parc Nacional Patagonia, a Xile, per ajudar a restaurar l'espècie.",
+     "why": "Un esforç de restauració local per a un ocell autòcton."
+    },
+    "fr": {
+     "title": "Des gardes-parc préparent le relâcher de nandous de Darwin en Patagonie chilienne",
+     "summary": "Une équipe de gardes-parc dirigée par des femmes se prépare à relâcher 13 nandous de Darwin dans le parc national Patagonia, au Chili, afin de contribuer à la restauration de l'espèce.",
+     "why": "Un effort local de restauration d'un oiseau indigène."
+    },
+    "ru": {
+     "title": "Женщины-рейнджеры готовятся выпустить нанду Дарвина в чилийской Патагонии",
+     "summary": "Команда рейнджеров во главе с женщинами готовится выпустить 13 нанду Дарвина в национальном парке «Патагония» в Чили, чтобы помочь восстановить вид.",
+     "why": "Местные усилия по восстановлению коренной птицы."
+    }
+   }
+  },
+  {
+   "id": "tbi-mumbai-beach-18000-kg-waste",
+   "title": "Volunteers remove 18,000 kg of plastic from a Mumbai beach in a day",
+   "summary": "More than 1,500 volunteers cleared 18,000 kilograms of marine plastic from a Mumbai shoreline in one day.",
+   "why": "Large community clean-up with visible results.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/videos/society/inside-mumbais-dirtiest-beach-18000-kg-of-waste-shocking-12662259",
+   "score": 7,
+   "category": "Environment",
+   "region": "Mumbai, India",
+   "published": "2026-10-10T03:30:14Z",
+   "continent": "Asia",
+   "added": "2026-10-11T04:15:34Z",
+   "i18n": {
+    "ca": {
+     "title": "Voluntaris retiren 18.000 kg de plàstic d'una platja de Mumbai en un dia",
+     "summary": "Més de 1.500 voluntaris han recollit 18.000 quilograms de plàstic marí d'una platja de Mumbai en un sol dia.",
+     "why": "Una gran neteja comunitària amb resultats visibles."
+    },
+    "fr": {
+     "title": "Des bénévoles retirent 18 000 kg de plastique d'une plage de Mumbai en une journée",
+     "summary": "Plus de 1 500 bénévoles ont ramassé 18 000 kilogrammes de plastique marin sur le littoral de Mumbai en une seule journée.",
+     "why": "Un grand nettoyage communautaire aux résultats visibles."
+    },
+    "ru": {
+     "title": "Волонтёры за один день вывезли с пляжа Мумбаи 18 000 кг пластика",
+     "summary": "Более 1500 волонтёров за один день очистили береговую линию Мумбаи от 18 000 килограммов морского пластика.",
+     "why": "Масштабная общественная уборка с заметными результатами."
+    }
+   }
+  },
+  {
+   "id": "mb-paraguay-chaco-biosphere-governance",
+   "title": "Paraguay submits governance plans for Chaco Biosphere Reserve",
+   "summary": "Paraguay met a UNESCO deadline by submitting updated management and zoning information for the Chaco Biosphere Reserve.",
+   "why": "Procedural step; outcomes still to be seen.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/paraguay-meets-un-deadline-for-improving-governance-in-chaco-biosphere-reserve/",
+   "score": 5,
+   "category": "Environment",
+   "region": "Paraguay",
+   "published": "2026-10-09T23:58:15Z",
+   "continent": "South America",
+   "added": "2026-10-11T04:15:34Z",
+   "i18n": {
+    "ca": {
+     "title": "Paraguai presenta els plans de gestió de la reserva de la biosfera del Chaco",
+     "summary": "Paraguai ha complert un termini de la UNESCO en presentar informació actualitzada sobre la gestió i la zonificació de la reserva de la biosfera del Chaco.",
+     "why": "Un pas de procediment; els resultats encara s'han de veure."
+    },
+    "fr": {
+     "title": "Le Paraguay soumet des plans de gouvernance pour la réserve de biosphère du Chaco",
+     "summary": "Le Paraguay a respecté une échéance de l'UNESCO en soumettant des informations actualisées sur la gestion et le zonage de la réserve de biosphère du Chaco.",
+     "why": "Étape de procédure ; les résultats restent à voir."
+    },
+    "ru": {
+     "title": "Парагвай представил планы управления биосферным резерватом Чако",
+     "summary": "Парагвай выполнил срок ЮНЕСКО, представив обновлённую информацию об управлении и зонировании биосферного резервата Чако.",
+     "why": "Процедурный шаг; результаты ещё предстоит оценить."
+    }
+   }
+  },
+  {
+   "id": "mb-painted-turbine-blade-bird-deaths",
+   "title": "Painting one wind turbine blade black sharply cut bird deaths",
+   "summary": "A long-term study at a Spanish wind farm found that painting a single turbine blade black greatly reduced annual bird fatalities.",
+   "why": "Cheap, practical fix for wind power's wildlife impact.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/painted-wind-turbines-can-dramatically-reduce-bird-deaths-study-finds/",
+   "score": 7,
+   "category": "Energy",
+   "region": "Spain",
+   "published": "2026-10-09T19:42:23Z",
+   "continent": "Europe",
+   "added": "2026-10-11T04:15:34Z",
+   "i18n": {
+    "ca": {
+     "title": "Pintar de negre una sola pala d'aerogenerador redueix molt les morts d'ocells",
+     "summary": "Un estudi a llarg termini en un parc eòlic espanyol ha constatat que pintar de negre una sola pala d'un aerogenerador redueix molt la mortalitat anual d'ocells.",
+     "why": "Una solució barata i pràctica per a l'impacte de l'energia eòlica sobre la fauna."
+    },
+    "fr": {
+     "title": "Peindre une seule pale d'éolienne en noir réduit fortement la mortalité des oiseaux",
+     "summary": "Une étude de long terme menée dans un parc éolien espagnol a montré que peindre en noir une seule pale d'éolienne réduit considérablement le nombre annuel d'oiseaux tués.",
+     "why": "Une solution peu coûteuse et pratique à l'impact de l'éolien sur la faune."
+    },
+    "ru": {
+     "title": "Покраска одной лопасти ветротурбины в чёрный цвет резко сократила гибель птиц",
+     "summary": "Долгосрочное исследование на испанской ветроэлектростанции показало, что покраска одной лопасти ветротурбины в чёрный цвет значительно снизила ежегодную гибель птиц.",
+     "why": "Дешёвое и практичное решение проблемы влияния ветроэнергетики на дикую природу."
+    }
+   }
+  },
+  {
+   "id": "an-navi-pillay-nobel-peace-prize",
+   "title": "Navi Pillay wins the Nobel Peace Prize",
+   "summary": "South African-born jurist Navi Pillay has been awarded the Nobel Peace Prize, recognising her work in international justice.",
+   "why": "Major recognition for human rights work.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/09/navi-pillay-wins-nobel-peace-prize-as-us-sanctions-threaten-international-justice/",
+   "score": 7,
+   "category": "Society",
+   "region": "South Africa",
+   "published": "2026-10-09T18:49:16Z",
+   "continent": "Africa",
+   "added": "2026-10-11T04:15:34Z",
+   "i18n": {
+    "ca": {
+     "title": "Navi Pillay guanya el Premi Nobel de la Pau",
+     "summary": "La jurista nascuda a Sud-àfrica Navi Pillay ha rebut el Premi Nobel de la Pau, en reconeixement a la seva tasca en la justícia internacional.",
+     "why": "Un reconeixement important per a la tasca en defensa dels drets humans."
+    },
+    "fr": {
+     "title": "Navi Pillay remporte le prix Nobel de la paix",
+     "summary": "La juriste née en Afrique du Sud Navi Pillay a reçu le prix Nobel de la paix, en reconnaissance de son travail en faveur de la justice internationale.",
+     "why": "Une reconnaissance majeure pour le travail en faveur des droits humains."
+    },
+    "ru": {
+     "title": "Нави Пиллэй получила Нобелевскую премию мира",
+     "summary": "Юристка, родившаяся в ЮАР, Нави Пиллэй удостоена Нобелевской премии мира в знак признания её работы в области международного правосудия.",
+     "why": "Важное признание работы в сфере прав человека."
+    }
+   }
+  },
   {
    "id": "an-zimbabwe-mobile-clinic",
    "title": "Mobile clinic in Zimbabwe gives teenagers private access to contraception",
@@ -44,6 +228,68 @@
      "title": "Мобильная клиника в Зимбабве обеспечивает подросткам конфиденциальный доступ к контрацепции",
      "summary": "Мобильная клиника под Хараре предлагает девушкам-подросткам конфиденциальную контрацепцию, в то время как сокращение помощи создаёт нагрузку на систему здравоохранения.",
      "why": "Местная помощь, но на фоне сокращения финансирования."
+    }
+   }
+  },
+  {
+   "id": "gnn-australia-three-new-victoria-parks",
+   "title": "Victoria, Australia creates three new national parks",
+   "summary": "About 650 square kilometres of forest in Victoria becomes three national parks, including the large Wombat-Lerderderg park, protecting gliders, owls and other wildlife.",
+   "why": "Large new protected habitat for wildlife.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/australia-announces-3-new-national-parks-to-protect-gliders-owls-and-other-victoria-wildlife/",
+   "score": 8,
+   "category": "Environment",
+   "region": "Victoria, Australia",
+   "published": "2026-10-09T15:30:11Z",
+   "continent": "Oceania",
+   "added": "2026-10-11T04:15:34Z",
+   "i18n": {
+    "ca": {
+     "title": "Victòria (Austràlia) crea tres nous parcs nacionals",
+     "summary": "Uns 650 quilòmetres quadrats de bosc de Victòria es converteixen en tres parcs nacionals, entre els quals el gran parc Wombat-Lerderderg, que protegeix planadors, mussols i altra fauna.",
+     "why": "Un hàbitat protegit nou i extens per a la fauna."
+    },
+    "fr": {
+     "title": "Victoria, en Australie, crée trois nouveaux parcs nationaux",
+     "summary": "Environ 650 kilomètres carrés de forêt dans l'État de Victoria deviennent trois parcs nationaux, dont le vaste parc Wombat-Lerderderg, qui protège les planeurs, les hiboux et d'autres espèces sauvages.",
+     "why": "Un vaste nouvel habitat protégé pour la faune."
+    },
+    "ru": {
+     "title": "Виктория (Австралия) создаёт три новых национальных парка",
+     "summary": "Около 650 квадратных километров лесов в штате Виктория превращены в три национальных парка, включая обширный парк Вомбат-Лердерг, который защищает сумчатых летяг, сов и другую дикую природу.",
+     "why": "Большая новая охраняемая среда обитания для дикой природы."
+    }
+   }
+  },
+  {
+   "id": "an-ethiopian-airlines-resumes-mekelle",
+   "title": "Ethiopian Airlines to resume flights to Mekelle",
+   "summary": "Ethiopian Airlines will restart flights to Mekelle, the capital of Tigray, from Sunday.",
+   "why": "Restored connection, amid regional tensions.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/09/ethiopian-airlines-to-resume-flights-to-tigrays-capital-from-sunday/",
+   "score": 6,
+   "category": "Society",
+   "region": "Tigray, Ethiopia",
+   "published": "2026-10-09T13:59:25Z",
+   "continent": "Africa",
+   "added": "2026-10-11T04:15:34Z",
+   "i18n": {
+    "ca": {
+     "title": "Ethiopian Airlines reprendrà els vols a Mekele",
+     "summary": "Ethiopian Airlines reprendrà els vols a Mekele, capital del Tigray, a partir del diumenge.",
+     "why": "Connexió restablerta, en un context de tensions regionals."
+    },
+    "fr": {
+     "title": "Ethiopian Airlines reprendra ses vols vers Mekele",
+     "summary": "Ethiopian Airlines reprendra ses vols vers Mekele, capitale du Tigré, à partir de dimanche.",
+     "why": "Liaison rétablie, dans un contexte de tensions régionales."
+    },
+    "ru": {
+     "title": "Ethiopian Airlines возобновит рейсы в Мекеле",
+     "summary": "Ethiopian Airlines возобновит полёты в Мекеле, столицу Тиграя, с воскресенья.",
+     "why": "Восстановленное транспортное сообщение на фоне региональной напряжённости."
     }
    }
   },
@@ -79,6 +325,37 @@
    }
   },
   {
+   "id": "gnn-local-involvement-conservation-success",
+   "title": "Study finds local involvement drives conservation success",
+   "summary": "Researchers examining conservation successes worldwide found that the actions and views of local people mattered more than funding in whether nature recovered.",
+   "why": "Useful insight that can improve future projects.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/local-opinion-and-involvement-found-as-key-determinant-in-worlds-conservation-success-stories/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Global",
+   "published": "2026-10-09T13:00:08Z",
+   "continent": "Global",
+   "added": "2026-10-11T04:15:34Z",
+   "i18n": {
+    "ca": {
+     "title": "Un estudi constata que la implicació local impulsa l'èxit de la conservació",
+     "summary": "Investigadors que han analitzat casos d'èxit en conservació arreu del món han constatat que les accions i les opinions de la gent local importaven més que el finançament perquè la natura es recuperés.",
+     "why": "Una visió útil que pot millorar projectes futurs."
+    },
+    "fr": {
+     "title": "Une étude montre que l'implication locale favorise la réussite de la conservation",
+     "summary": "Des chercheurs ayant examiné des succès de conservation dans le monde entier ont constaté que les actions et les points de vue des populations locales comptaient davantage que le financement pour le rétablissement de la nature.",
+     "why": "Un enseignement utile pour améliorer les projets futurs."
+    },
+    "ru": {
+     "title": "Исследование: участие местных жителей определяет успех природоохранных проектов",
+     "summary": "Исследователи, изучившие успешные природоохранные проекты по всему миру, выяснили, что для восстановления природы действия и позиция местных жителей были важнее финансирования.",
+     "why": "Полезный вывод, который может улучшить будущие проекты."
+    }
+   }
+  },
+  {
    "id": "am-purple-bacteria-fertilizer",
    "title": "Purple bacteria powder matched synthetic fertilizer in crop trials",
    "summary": "Dried powder from the purple bacterium Rhodovulum sulfidophilum matched synthetic fertilizers in a two-year trial, hinting at a lower-impact option.",
@@ -106,6 +383,68 @@
      "title": "Порошок из пурпурных бактерий не уступил синтетическим удобрениям в испытаниях на культурах",
      "summary": "Сухой порошок из пурпурной бактерии Rhodovulum sulfidophilum показал такие же результаты, как синтетические удобрения, в двухлетнем испытании, что указывает на более экологичный вариант.",
      "why": "Перспективная альтернатива, но на ранней стадии."
+    }
+   }
+  },
+  {
+   "id": "gnn-norway-glacier-arrowheads",
+   "title": "Glacier survey in Norway recovers 48 Stone Age arrowheads",
+   "summary": "A 20-year survey of melting glaciers in southern Norway has recovered 48 arrowheads and shafts of different eras and materials.",
+   "why": "Interesting find, linked to ice melt.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/worlds-largest-glacial-archeology-expedition-recovers-48-stone-age-arrowheads-and-shafts/",
+   "score": 5,
+   "category": "Science",
+   "region": "Southern Norway",
+   "published": "2026-10-09T11:00:30Z",
+   "continent": "Europe",
+   "added": "2026-10-11T04:15:34Z",
+   "i18n": {
+    "ca": {
+     "title": "Un estudi de glaceres a Noruega recupera 48 puntes de fletxa de l'Edat de Pedra",
+     "summary": "Un estudi de vint anys sobre glaceres en retrocés al sud de Noruega ha recuperat 48 puntes de fletxa i fusts de fletxa d'èpoques i materials diferents.",
+     "why": "Una troballa interessant, vinculada al desglaç."
+    },
+    "fr": {
+     "title": "Un relevé de glaciers en Norvège permet de récupérer 48 pointes de flèche de l'âge de pierre",
+     "summary": "Un relevé de vingt ans sur les glaciers en fonte du sud de la Norvège a permis de récupérer 48 pointes et hampes de flèches, d'époques et de matériaux différents.",
+     "why": "Une découverte intéressante, liée à la fonte des glaces."
+    },
+    "ru": {
+     "title": "Обследование ледников в Норвегии нашло 48 наконечников стрел каменного века",
+     "summary": "Двадцатилетнее обследование тающих ледников на юге Норвегии позволило найти 48 наконечников и древков стрел разных эпох и из разных материалов.",
+     "why": "Интересная находка, связанная с таянием льдов."
+    }
+   }
+  },
+  {
+   "id": "mb-colombia-giant-water-lily-new-species",
+   "title": "Giant water lily in Colombia confirmed as a new, endangered species",
+   "summary": "Researchers confirmed that a giant water lily in Colombia's Inírida region is a new species, and assessed it as critically endangered.",
+   "why": "New discovery, but the species is threatened.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/an-instafamous-giant-water-lily-is-confirmed-as-a-new-species-and-critically-endangered/",
+   "score": 4,
+   "category": "Environment",
+   "region": "Colombia",
+   "published": "2026-10-09T10:24:42Z",
+   "continent": "South America",
+   "added": "2026-10-11T04:15:34Z",
+   "i18n": {
+    "ca": {
+     "title": "Confirmen que un nenúfar gegant de Colòmbia és una espècie nova i amenaçada",
+     "summary": "Investigadors han confirmat que un nenúfar gegant de la regió colombiana d'Inírida és una espècie nova, i l'han avaluat com a en perill crític d'extinció.",
+     "why": "Un descobriment nou, però l'espècie està amenaçada."
+    },
+    "fr": {
+     "title": "Un nénuphar géant de Colombie confirmé comme nouvelle espèce menacée",
+     "summary": "Des chercheurs ont confirmé qu'un nénuphar géant de la région d'Inírida, en Colombie, est une nouvelle espèce, évaluée comme étant en danger critique d'extinction.",
+     "why": "Une nouvelle découverte, mais une espèce menacée."
+    },
+    "ru": {
+     "title": "Гигантская кувшинка из Колумбии признана новым, находящимся под угрозой видом",
+     "summary": "Исследователи подтвердили, что гигантская кувшинка из региона Инирида в Колумбии является новым видом, и оценили его как находящийся под критической угрозой исчезновения.",
+     "why": "Новое открытие, но вид находится под угрозой."
     }
    }
   },
@@ -199,6 +538,37 @@
      "title": "В эфиопском нагорье найден новый вид змеи, питающейся яйцами",
      "summary": "Новая неядовитая змея, питающаяся яйцами, белогорлый яйцеед, задокументирована в лесу Харенна в Эфиопии.",
      "why": "Новый вид расширяет знания и усиливает аргументы в пользу защиты леса."
+    }
+   }
+  },
+  {
+   "id": "sd-crew-12-splashdown",
+   "title": "NASA's Crew-12 astronauts return after eight months in orbit",
+   "summary": "SpaceX Crew-12 splashed down after about eight months in space, during which they carried out research for future lunar and Mars missions.",
+   "why": "Successful mission and return.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
+   "score": 6,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-10-09T03:56:28Z",
+   "continent": "Global",
+   "added": "2026-10-11T04:15:34Z",
+   "i18n": {
+    "ca": {
+     "title": "Els astronautes de la Crew-12 de la NASA tornen després de vuit mesos en òrbita",
+     "summary": "La Crew-12 de SpaceX ha amarat després de gairebé vuit mesos a l'espai, durant els quals ha dut a terme recerca per a futures missions a la Lluna i a Mart.",
+     "why": "Missió i retorn reeixits."
+    },
+    "fr": {
+     "title": "Les astronautes de la mission Crew-12 de la NASA reviennent après huit mois en orbite",
+     "summary": "La mission Crew-12 de SpaceX a amerri après environ huit mois dans l'espace, au cours desquels elle a mené des recherches en vue des futures missions vers la Lune et Mars.",
+     "why": "Mission réussie et retour."
+    },
+    "ru": {
+     "title": "Астронавты NASA из экипажа Crew-12 вернулись после восьми месяцев на орбите",
+     "summary": "Корабль SpaceX с экипажем Crew-12 приводнился после около восьми месяцев в космосе, в течение которых астронавты проводили исследования для будущих миссий к Луне и Марсу.",
+     "why": "Успешная миссия и возвращение."
     }
    }
   },
@@ -389,6 +759,37 @@
    }
   },
   {
+   "id": "gnn-nyc-late-night-soccer-workers",
+   "title": "New York keeps five soccer fields lit late for night workers",
+   "summary": "New York City Parks extended late-night hours at five soccer fields so people working night shifts can play.",
+   "why": "Small but real benefit for a community.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/nyc-parks-extends-late-night-soccer-at-5-fields-for-night-workers-and-their-reactions-are-awesome-watch/",
+   "score": 6,
+   "category": "Society",
+   "region": "New York City, USA",
+   "published": "2026-10-08T15:30:39Z",
+   "continent": "North America",
+   "added": "2026-10-11T04:15:34Z",
+   "i18n": {
+    "ca": {
+     "title": "Nova York manté cinc camps de futbol il·luminats fins tard per a treballadors nocturns",
+     "summary": "Els Parcs de la ciutat de Nova York han ampliat l'horari nocturn de cinc camps de futbol perquè les persones que treballen de nit hi puguin jugar.",
+     "why": "Un benefici petit però real per a una comunitat."
+    },
+    "fr": {
+     "title": "New York maintient cinq terrains de football éclairés tard le soir pour les travailleurs de nuit",
+     "summary": "Le service des parcs de la ville de New York a prolongé les horaires nocturnes de cinq terrains de football afin que les personnes travaillant de nuit puissent y jouer.",
+     "why": "Un bénéfice modeste mais réel pour une communauté."
+    },
+    "ru": {
+     "title": "В Нью-Йорке пять футбольных полей остаются открытыми допоздна для работающих ночью",
+     "summary": "Управление парков Нью-Йорка продлило ночные часы работы пяти футбольных полей, чтобы люди, работающие в ночные смены, могли играть.",
+     "why": "Небольшая, но реальная польза для местного сообщества."
+    }
+   }
+  },
+  {
    "id": "mb-australia-eco-police",
    "title": "Australia's new environmental agency busts wildlife trafficking ring",
    "summary": "Australia's National Environmental Protection Agency seized 28 native animals and about A$300,000 in alleged trafficking proceeds in a major operation.",
@@ -447,6 +848,37 @@
      "title": "Одобренный противоэпилептический препарат может помочь обратить вспять повреждения при остеоартрозе",
      "summary": "В доклинических исследованиях в Йельском университете противоэпилептический препарат лакозамид блокировал белок, участвующий в боли и повреждении суставов, что указывает на возможное лечение остеоартроза.",
      "why": "Перспективные, но пока предварительные результаты доклинической работы."
+    }
+   }
+  },
+  {
+   "id": "sd-protist-genetic-code-rule-broken",
+   "title": "Pond microbe found to use an unusual genetic code",
+   "summary": "A freshwater protist from an Oxford pond uses two stop signals to code for amino acids, challenging a rule thought nearly universal.",
+   "why": "Interesting basic science with no direct benefit yet.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Oxford, UK",
+   "published": "2026-10-08T13:31:39Z",
+   "continent": "Europe",
+   "added": "2026-10-11T04:15:34Z",
+   "i18n": {
+    "ca": {
+     "title": "Un microbi d'un estany fa servir un codi genètic inusual",
+     "summary": "Un protista d'aigua dolça d'un estany d'Oxford utilitza dos codons d'aturada per codificar aminoàcids, cosa que qüestiona una regla considerada gairebé universal.",
+     "why": "Ciència bàsica interessant, però encara sense benefici directe."
+    },
+    "fr": {
+     "title": "Un microbe d'étang utilise un code génétique inhabituel",
+     "summary": "Un protiste d'eau douce provenant d'un étang d'Oxford utilise deux codons stop pour coder des acides aminés, ce qui remet en question une règle considérée comme presque universelle.",
+     "why": "Science fondamentale intéressante, sans bénéfice direct pour le moment."
+    },
+    "ru": {
+     "title": "У микроба из пруда обнаружен необычный генетический код",
+     "summary": "Пресноводный протист из пруда в Оксфорде использует два стоп-кодона для кодирования аминокислот, что ставит под сомнение правило, считавшееся почти универсальным.",
+     "why": "Интересная фундаментальная наука, пока без прямой пользы."
     }
    }
   },
@@ -757,6 +1189,37 @@
      "title": "Доклад WWF фиксирует сокращение численности диких животных на 73%, но указывает на восстановление некоторых видов",
      "summary": "Доклад «Живая планета 2026» показывает резкое сокращение отслеживаемых популяций диких животных, а восстановление некоторых видов говорит о том, что тенденцию можно переломить.",
      "why": "Смешанная картина: мрачная общая тенденция с некоторыми обнадёживающими примерами."
+    }
+   }
+  },
+  {
+   "id": "sd-strength-training-fat-cells-mice",
+   "title": "One week of strength training shrank fat cells in obese mice",
+   "summary": "Seven strength-training sessions reduced visceral fat cell size and reactivated fat-burning pathways in obese mice; human confirmation is still needed.",
+   "why": "Promising but only shown in mice.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261006234509.htm",
+   "score": 5,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-08T08:33:40Z",
+   "continent": "Global",
+   "added": "2026-10-11T04:15:34Z",
+   "i18n": {
+    "ca": {
+     "title": "Una setmana d'entrenament de força redueix les cèl·lules de greix de ratolins obesos",
+     "summary": "Set sessions d'entrenament de força han reduït la mida de les cèl·lules de greix visceral i han reactivat les vies de cremada de greix en ratolins obesos; encara cal confirmar-ho en humans.",
+     "why": "Prometedor, però només demostrat en ratolins."
+    },
+    "fr": {
+     "title": "Une semaine d'entraînement de force a réduit les cellules graisseuses de souris obèses",
+     "summary": "Sept séances d'entraînement de force ont réduit la taille des cellules graisseuses viscérales et réactivé les voies de combustion des graisses chez des souris obèses ; une confirmation chez l'humain reste nécessaire.",
+     "why": "Prometteur, mais démontré uniquement chez la souris."
+    },
+    "ru": {
+     "title": "Неделя силовых тренировок уменьшила жировые клетки у мышей с ожирением",
+     "summary": "Семь силовых тренировок уменьшили размер висцеральных жировых клеток и вновь активировали пути сжигания жира у мышей с ожирением; подтверждение на людях пока требуется.",
+     "why": "Перспективно, но пока показано только на мышах."
     }
    }
   },
@@ -7050,533 +7513,6 @@
      "title": "Скотоводы и консервативные ученые поддерживают климатический иск Боулдера в Верховном суде США",
      "summary": "Скотоводы Колорадо, консервативные правоведы и бывшие республиканские чиновники EPA выступили в поддержку иска Боулдера о взыскании климатических убытков у нефтяных компаний, образовав необычную коалицию.",
      "why": "Широкая поддержка обнадеживает, но исход дела неопределен."
-    }
-   }
-  },
-  {
-   "id": "sd-ultra-processed-food-depression",
-   "title": "Cutting ultra-processed food eased depression symptoms in a small trial",
-   "summary": "In preliminary testing, people with depression who sharply reduced ultra-processed food reported notable improvements, possibly linked to less gut damage and inflammation.",
-   "why": "Encouraging and practical, but early and small.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260930225448.htm",
-   "score": 6,
-   "category": "Health",
-   "region": "Global",
-   "published": "2026-10-01T06:34:01Z",
-   "continent": "Global",
-   "added": "2026-10-04T04:10:05Z",
-   "i18n": {
-    "ca": {
-     "title": "Reduir la comida ultraprocessada va alleujar els símptomes de depressió en un petit ensaig",
-     "summary": "En proves preliminars, les persones amb depressió que van reduir dràsticament la comida ultraprocessada van informar de millories notables, possiblement relacionades amb menys dany intestinal i inflamació.",
-     "why": "Encoratjador i pràctic, però primerenc i petit."
-    },
-    "fr": {
-     "title": "Réduire la malbouffe ultratraitée a soulagé les symptômes de dépression dans un petit essai",
-     "summary": "Dans les tests préliminaires, les personnes déprimées qui ont fortement réduit les aliments ultratraités ont signalé des améliorations notables, possiblement liées à moins de dommages intestinaux et d'inflammation.",
-     "why": "Encourageant et pratique, mais précoce et petit."
-    },
-    "ru": {
-     "title": "Сокращение ультраобработанной пищи облегчило симптомы депрессии в небольшом испытании",
-     "summary": "В предварительных тестах люди с депрессией, которые резко снизили потребление ультраобработанной пищи, сообщили об улучшении, возможно связанном с меньшим повреждением кишечника и воспалением.",
-     "why": "Обнадеживающее и практическое, но раннее и небольшое."
-    }
-   }
-  },
-  {
-   "id": "mb-ganges-dolphins-buriganga-bangladesh",
-   "title": "Endangered river dolphins persist in polluted Bangladeshi river",
-   "summary": "At least 20 Ganges river dolphins survive in the heavily polluted Buriganga River in Bangladesh, a sign of resilience but also of how much clean-up is needed.",
-   "why": "Survival is encouraging, but pollution threatens the animals.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/10/endangered-dolphins-survive-in-a-bangladesh-river-so-polluted-its-not-livable-for-fish/",
-   "score": 4,
-   "category": "Animals",
-   "region": "Bangladesh",
-   "published": "2026-10-01T05:48:26Z",
-   "continent": "Asia",
-   "added": "2026-10-04T04:59:04Z",
-   "i18n": {
-    "ca": {
-     "title": "Els dofins de riu en perill persisteixen en un riu molt contaminat de Bangladesh",
-     "summary": "Almenys 20 dofins de riu Ganges sobreviuen al riu Buriganga fortament contaminat de Bangladesh, un signe de resiliència però també de quanta neteja és necessària.",
-     "why": "La supervivència és esperançadora, però la contaminació amenaça els animals."
-    },
-    "fr": {
-     "title": "Les dauphins fluviaux en danger persistent dans la rivière très polluée du Bangladesh",
-     "summary": "Au moins 20 dauphins du Gange survivent dans la rivière Buriganga fortement polluée du Bangladesh, un signe de résilience mais aussi de l'ampleur du nettoyage nécessaire.",
-     "why": "La survie est encourageante, mais la pollution menace les animaux."
-    },
-    "ru": {
-     "title": "Исчезающие речные дельфины сохраняются в сильно загрязненной реке Бангладеш",
-     "summary": "По крайней мере 20 гангских речных дельфинов выживают в сильно загрязненной реке Буриганга в Бангладеш, что свидетельствует об устойчивости, но также показывает необходимость масштабной очистки.",
-     "why": "Выживание обнадеживает, но загрязнение угрожает животным."
-    }
-   }
-  },
-  {
-   "id": "sd-apoe4-reversible",
-   "title": "Damage from the main Alzheimer's risk gene may be reversible",
-   "summary": "Researchers found how the APOE4 gene harms brain blood vessels and partly reversed the effect in experiments.",
-   "why": "Opens a new treatment path; still early-stage research.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260930225450.htm",
-   "score": 7,
-   "category": "Health",
-   "region": "Global",
-   "published": "2026-10-01T04:45:26Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "Global",
-   "i18n": {
-    "ca": {
-     "title": "El dany del principal gen de risc de l'Alzheimer podria ser reversible",
-     "summary": "Investigadors han descobert com el gen APOE4 malmet els vasos sanguinis del cervell i n'han revertit parcialment l'efecte en experiments.",
-     "why": "Obre una nova via de tractament; encara és recerca inicial."
-    },
-    "fr": {
-     "title": "Les dégâts du principal gène de risque d'Alzheimer pourraient être réversibles",
-     "summary": "Des chercheurs ont découvert comment le gène APOE4 abîme les vaisseaux sanguins du cerveau et ont partiellement inversé cet effet lors d'expériences.",
-     "why": "Ouvre une nouvelle piste de traitement ; recherche encore précoce."
-    },
-    "ru": {
-     "title": "Вред от главного гена риска болезни Альцгеймера может быть обратим",
-     "summary": "Исследователи выяснили, как ген APOE4 повреждает сосуды мозга, и в экспериментах частично обратили этот эффект.",
-     "why": "Открывает новый путь к лечению; исследования пока на ранней стадии."
-    }
-   }
-  },
-  {
-   "id": "mb-indonesia-new-peatland-agency-questions",
-   "title": "Indonesia sets up new peatland agency after severe fires, with doubts about its approach",
-   "summary": "Following the damaging 2025 fires, Indonesia has created a new peatland restoration agency. Observers ask how it will differ from its predecessor, which fell short of its goals.",
-   "why": "A new restoration body is a step forward, but its effectiveness is unproven.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/10/indonesias-new-peatland-agency-faces-questions-over-what-it-will-do-differently/",
-   "score": 4,
-   "category": "Environment",
-   "region": "Indonesia",
-   "published": "2026-10-01T04:19:26Z",
-   "continent": "Asia",
-   "added": "2026-10-04T18:14:33Z",
-   "i18n": {
-    "ca": {
-     "title": "Indonèsia estableix una nova agència de torberes després dels incendis greus, amb dubtes sobre el seu enfocament",
-     "summary": "Després dels incendis perjudicials de 2025, Indonèsia ha creat una nova agència de restauració de torberes. Els observadors qüestionen com es diferenciarà del seu predecessor, que no va complir els seus objectius.",
-     "why": "Un nou òrgan de restauració és un pas endavant, però la seva eficàcia no ha estat provada."
-    },
-    "fr": {
-     "title": "L'Indonésie crée une nouvelle agence de tourbières après de graves incendies, avec des doutes sur son approche",
-     "summary": "Suite aux incendies dévastateurs de 2025, l'Indonésie a créé une nouvelle agence de restauration des tourbières. Les observateurs se demandent comment elle différera de son prédécesseur, qui n'a pas atteint ses objectifs.",
-     "why": "Un nouvel organe de restauration est une avancée, mais son efficacité reste à prouver."
-    },
-    "ru": {
-     "title": "Индонезия учреждает новое агентство по торфяникам после сильных пожаров, с сомнениями относительно его подхода",
-     "summary": "После разрушительных пожаров 2025 года Индонезия создала новое агентство по восстановлению торфяников. Наблюдатели задаются вопросом, чем оно будет отличаться от своего предшественника, который не достиг своих целей.",
-     "why": "Новый орган восстановления — это шаг вперед, но его эффективность еще не доказана."
-    }
-   }
-  },
-  {
-   "id": "sd-blood-pressure-arm-support",
-   "title": "Unsupported arm can inflate blood pressure readings by about 7 points",
-   "summary": "Johns Hopkins researchers found that leaving the arm unsupported during a check raised systolic readings by around 6.5 mmHg, enough to affect diagnoses.",
-   "why": "Simple, immediately usable fix to improve care for many.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260928100606.htm",
-   "score": 6,
-   "category": "Health",
-   "region": "United States",
-   "published": "2026-10-01T02:11:51Z",
-   "continent": "North America",
-   "added": "2026-10-04T04:10:05Z",
-   "i18n": {
-    "ca": {
-     "title": "Un braç sense suport pot inflar les lectures de pressió sanguínia en uns 7 punts",
-     "summary": "Els investigadors de Johns Hopkins van descobrir que deixar el braç sense suport durant una verificació va augmentar les lectures sistòliques en aproximadament 6,5 mmHg, suficient per afectar els diagnòstics.",
-     "why": "Una simple solució immediately usable per millorar l'atenció de molts."
-    },
-    "fr": {
-     "title": "Un bras non soutenu peut gonfler les lectures de pression artérielle d'environ 7 points",
-     "summary": "Les chercheurs de Johns Hopkins ont découvert que laisser le bras non soutenu lors d'une vérification augmentait les lectures systoliques d'environ 6,5 mmHg, suffisant pour affecter les diagnostics.",
-     "why": "Un correctif simple et immédiatement utilisable pour améliorer les soins de nombreux patients."
-    },
-    "ru": {
-     "title": "Неподдерживаемая рука может завышать показания артериального давления примерно на 7 пунктов",
-     "summary": "Исследователи Johns Hopkins обнаружили, что оставление руки без поддержки во время проверки повышает систолические показания примерно на 6,5 мм рт. ст., что достаточно для влияния на диагностику.",
-     "why": "Простое, немедленно применимое решение для улучшения ухода за многими пациентами."
-    }
-   }
-  },
-  {
-   "id": "od-argentina-solar-powered-train",
-   "title": "Argentina runs Latin America's first solar-powered train",
-   "summary": "A battery-electric train powered by solar energy and regenerative braking now serves the Quebrada de Humahuaca route in the Andes.",
-   "why": "Clean transport on a historic route, on a small scale.",
-   "source": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/10/how-argentinas-battery-powered-tren-solar-is-recharging-an-ancient-andean-route/",
-   "score": 7,
-   "category": "Energy",
-   "region": "Argentina",
-   "published": "2026-10-01T00:00:22Z",
-   "continent": "South America",
-   "added": "2026-10-04T04:47:40Z",
-   "i18n": {
-    "ca": {
-     "title": "Argentina posa en marxa el primer tren propulsat per energia solar d'Amèrica Llatina",
-     "summary": "Un tren alimentat per bateria-elèctrica propulsat per energia solar i frenada regenerativa ara serveix la ruta Quebrada de Humahuaca als Andes.",
-     "why": "Transport net en una ruta històrica, en petita escala."
-    },
-    "fr": {
-     "title": "L'Argentine exploite le premier train alimenté par l'énergie solaire en Amérique latine",
-     "summary": "Un train à batterie électrique alimenté par l'énergie solaire et le freinage régénératif dessert désormais la route Quebrada de Humahuaca dans les Andes.",
-     "why": "Transport propre sur une route historique, à petite échelle."
-    },
-    "ru": {
-     "title": "Аргентина запускает первый поезд на солнечной энергии в Латинской Америке",
-     "summary": "Батарейно-электрический поезд с солнечной энергией и рекуперативным торможением теперь обслуживает маршрут Quebrada de Humahuaca в Андах.",
-     "why": "Чистый транспорт на историческом маршруте в небольшом масштабе."
-    }
-   }
-  },
-  {
-   "id": "am-printable-fabric-cools-heats-generates-power",
-   "title": "Printable fabric can cool, warm and generate power from movement",
-   "summary": "Engineers made a printable textile using zirconium oxide that provides personal cooling and heating and converts body motion into electrical signals.",
-   "why": "Lab prototype with interesting potential for wearables.",
-   "source": "Anthropocene Magazine",
-   "url": "https://www.anthropocenemagazine.org/2026/10/clothes-that-cool-you-warm-youand-make-power-as-you-move/",
-   "score": 5,
-   "category": "Science",
-   "region": "Global",
-   "published": "2026-10-01T00:00:00Z",
-   "continent": "Global",
-   "added": "2026-10-04T04:59:04Z",
-   "i18n": {
-    "ca": {
-     "title": "Una tela imprimible pot refredar, escalfar i generar energia del moviment",
-     "summary": "Els enginyers van crear un tèxtil imprimible utilitzant òxid de zirconi que proporciona refrigeració i calefacció personal i converteix el moviment corporal en senyals elèctrics.",
-     "why": "Prototip de laboratori amb potencial interessant per a tèxtils portàtils."
-    },
-    "fr": {
-     "title": "Un tissu imprimable peut refroidir, réchauffer et générer de l'énergie à partir du mouvement",
-     "summary": "Les ingénieurs ont créé un textile imprimable utilisant de l'oxyde de zirconium qui offre un refroidissement et un chauffage personnels et convertit le mouvement corporel en signaux électriques.",
-     "why": "Prototype de laboratoire avec un potentiel intéressant pour les vêtements portables."
-    },
-    "ru": {
-     "title": "Печатная ткань может охлаждать, нагревать и генерировать энергию из движения",
-     "summary": "Инженеры создали печатный текстиль с использованием оксида циркония, который обеспечивает личное охлаждение и нагрев и преобразует движение тела в электрические сигналы.",
-     "why": "Лабораторный прототип с интересным потенциалом для носимых устройств."
-    }
-   }
-  },
-  {
-   "id": "gr-inuit-bear-guards-labrador",
-   "title": "Inuit bear guards use traditional knowledge to protect Arctic communities",
-   "summary": "Training programmes in northern Labrador combine Inuit knowledge with specialised instruction so communities can handle polar bears appearing in new places.",
-   "why": "Community-led safety that also supports coexistence with wildlife.",
-   "source": "Grist",
-   "url": "https://grist.org/indigenous/in-a-warming-arctic-inuit-bear-guards-protect-communities/",
-   "score": 6,
-   "category": "Society",
-   "region": "Labrador, Canada",
-   "published": "2026-10-01T00:00:00Z",
-   "continent": "North America",
-   "added": "2026-10-04T04:59:04Z",
-   "i18n": {
-    "ca": {
-     "title": "Els guardes d'óssos inuits utilitzen el coneixement tradicional per protegir les comunitats àrtiques",
-     "summary": "Els programes de formació al nord del Labrador combinen el coneixement inuit amb instrucció especialitzada perquè les comunitats puguin gestionar els óssos polars que apareixen en nous llocs.",
-     "why": "Seguretat dirigida per la comunitat que també afavoreix la convivència amb la vida silvestre."
-    },
-    "fr": {
-     "title": "Les gardiens d'ours inuits utilisent le savoir traditionnel pour protéger les communautés arctiques",
-     "summary": "Les programmes de formation dans le nord du Labrador combinent le savoir inuit à une instruction spécialisée pour que les communautés puissent gérer les ours polaires qui apparaissent dans de nouveaux endroits.",
-     "why": "Sécurité dirigée par la communauté qui soutient aussi la coexistence avec la faune."
-    },
-    "ru": {
-     "title": "Инуитские охранники медведей используют традиционные знания для защиты арктических сообществ",
-     "summary": "Программы обучения на севере Лабрадора объединяют инуитские знания со специализированным обучением, чтобы сообщества могли справляться с белыми медведями, появляющимися в новых местах.",
-     "why": "Безопасность под руководством сообщества, которая также поддерживает сосуществование с дикой природой."
-    }
-   }
-  },
-  {
-   "id": "gnn-gobi-fossil-mammal-evolution",
-   "title": "Well-preserved Gobi Desert fossil sheds new light on early mammal evolution",
-   "summary": "A fossil found in Mongolia challenges earlier ideas about how mammals evolved while dinosaurs were still alive.",
-   "why": "New knowledge about our deep past, though limited in everyday impact.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/new-gobi-desert-fossil-rewrites-a-chapter-of-mammal-evolution/",
-   "score": 6,
-   "category": "Science",
-   "region": "Mongolia",
-   "published": "2026-09-30T18:00:54Z",
-   "continent": "Asia",
-   "added": "2026-10-04T04:47:40Z",
-   "i18n": {
-    "ca": {
-     "title": "Fòssil ben conservat del desert de Gobi ilumina l'evolució dels primers mamífers",
-     "summary": "Un fòssil descobert a Mongòlia qüestiona les idees anteriors sobre com evolucionaven els mamífers mentre els dinosaures encara vivien.",
-     "why": "Nous coneixements sobre el nostre passat profund, tot i que amb impacte limitat en la vida quotidiana."
-    },
-    "fr": {
-     "title": "Un fossile bien préservé du désert de Gobi éclaire l'évolution des mammifères primitifs",
-     "summary": "Un fossile découvert en Mongolie remet en question les idées antérieures sur la façon dont les mammifères ont évolué alors que les dinosaures étaient encore vivants.",
-     "why": "Nouvelles connaissances sur notre passé lointain, bien que d'impact limité au quotidien."
-    },
-    "ru": {
-     "title": "Хорошо сохранившийся окаменелость из пустыни Гоби проливает новый свет на эволюцию ранних млекопитающих",
-     "summary": "Окаменелость, найденная в Монголии, ставит под сомнение предыдущие представления о том, как млекопитающие развивались, пока динозавры были еще живы.",
-     "why": "Новые знания о нашем далеком прошлом, хотя их влияние на повседневную жизнь ограничено."
-    }
-   }
-  },
-  {
-   "id": "gnn-chris-evans-video-bonded-dogs-adopted",
-   "title": "Actor's video helps bonded rescue dogs get adopted",
-   "summary": "Actor Chris Evans made a promotional video for two bonded dogs at a Boston shelter, and a family adopted both soon afterwards.",
-   "why": "Small but happy outcome for two animals.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/chris-evans-puts-his-limelight-on-a-bonded-dog-pair-with-cute-video-immediately-sees-them-adopted/",
-   "score": 6,
-   "category": "Animals",
-   "region": "Boston, USA",
-   "published": "2026-09-30T13:00:30Z",
-   "continent": "North America",
-   "added": "2026-10-04T12:17:05Z",
-   "i18n": {
-    "ca": {
-     "title": "El vídeo de l'actor ajuda a adoptar dos gos de rescat vinculats",
-     "summary": "L'actor Chris Evans va fer un vídeo promocional per a dos gos vinculats d'un refugi de Boston, i una família va adoptar tots dos poc després.",
-     "why": "Un resultat petit però positiu per a dos animals."
-    },
-    "fr": {
-     "title": "La vidéo de l'acteur aide deux chiens de sauvetage liés à être adoptés",
-     "summary": "L'acteur Chris Evans a réalisé une vidéo promotionnelle pour deux chiens liés dans un refuge de Boston, et une famille les a adoptés peu après.",
-     "why": "Un petit résultat heureux pour deux animaux."
-    },
-    "ru": {
-     "title": "Видео актера помогает найти приемные семьи для двух спасенных собак",
-     "summary": "Актер Крис Эванс создал промо-видео для двух связанных между собой собак из приюта в Бостоне, и вскоре семья усыновила их обеих.",
-     "why": "Небольшой, но счастливый результат для двух животных."
-    }
-   }
-  },
-  {
-   "id": "sd-cannabis-violence-review",
-   "title": "Review links cannabis use to higher rates of violence",
-   "summary": "Across 265,000 people, cannabis users were about twice as likely to commit violence, though the study can't show cause.",
-   "why": "A negative finding; included for balance.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260930020255.htm",
-   "score": 2,
-   "category": "Health",
-   "region": "Global",
-   "published": "2026-09-30T12:49:01Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "Global",
-   "i18n": {
-    "ca": {
-     "title": "Una revisió relaciona el consum de cànnabis amb més violència",
-     "summary": "En 265.000 persones, els consumidors de cànnabis tenien aproximadament el doble de probabilitats de cometre violència, tot i que l'estudi no pot demostrar-ne la causa.",
-     "why": "Una troballa negativa; s'inclou per equilibri."
-    },
-    "fr": {
-     "title": "Une revue associe la consommation de cannabis à davantage de violence",
-     "summary": "Sur 265 000 personnes, les consommateurs de cannabis étaient environ deux fois plus susceptibles de commettre des violences, sans que l'étude puisse prouver de lien de cause.",
-     "why": "Un résultat négatif, inclus par souci d'équilibre."
-    },
-    "ru": {
-     "title": "Обзор связал употребление каннабиса с более высоким уровнем насилия",
-     "summary": "Среди 265 000 человек употреблявшие каннабис примерно вдвое чаще совершали насилие, хотя исследование не доказывает причинную связь.",
-     "why": "Негативный вывод; приведён для баланса."
-    }
-   }
-  },
-  {
-   "id": "sd-xray-flash-magnetar",
-   "title": "Long X-ray flashes may mark the birth of magnetars",
-   "summary": "Astronomers found evidence that minutes-long X-ray flashes come from merging neutron stars forming magnetars, with one event glowing for almost ten minutes.",
-   "why": "A new way to spot rare cosmic events; scientific interest only.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Space",
-   "published": "2026-09-30T12:27:27Z",
-   "continent": "Global",
-   "added": "2026-10-04T04:11:20Z",
-   "i18n": {
-    "ca": {
-     "title": "Els llamps de raigs X llargs poden marcar el naixement dels magnetars",
-     "summary": "Els astrònoms van trobar proves que els llamps de raigs X que duren minuts provenen de la fusió d'estrelles de neutrons formant magnetars, amb un esdeveniment brillant durant gairebé deu minuts.",
-     "why": "Una manera nova de detectar événements còsmics rars; interès científic només."
-    },
-    "fr": {
-     "title": "Les longs éclairs de rayons X pourraient marquer la naissance des magnétars",
-     "summary": "Les astronomes ont trouvé des preuves que les éclairs de rayons X d'une durée de minutes proviennent de la fusion d'étoiles à neutrons formant des magnétars, avec un événement brillant pendant près de dix minutes.",
-     "why": "Une nouvelle façon de détecter les événements cosmiques rares ; intérêt scientifique uniquement."
-    },
-    "ru": {
-     "title": "Длительные вспышки рентгеновского излучения могут указывать на рождение магнетаров",
-     "summary": "Астрономы нашли доказательства того, что длящиеся минутами вспышки рентгеновского излучения происходят от слияния нейтронных звезд, образующих магнетары, с одним событием, сияющим почти десять минут.",
-     "why": "Новый способ обнаружения редких космических явлений; только научный интерес."
-    }
-   }
-  },
-  {
-   "id": "sd-perseverance-jezero-water",
-   "title": "Perseverance finds signs of groundwater, lakes and hot fluids in one Mars area",
-   "summary": "Rocks in Jezero Crater's Margin Unit were altered by water several times, revealing a more complex hydrothermal history than expected.",
-   "why": "Valuable planetary science with no direct effect on daily life.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260928100537.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Space",
-   "published": "2026-09-30T11:34:31Z",
-   "continent": "Global",
-   "added": "2026-10-04T04:11:20Z",
-   "i18n": {
-    "ca": {
-     "title": "Perseverance trova signes d'aigua subterrània, llacs i fluids calents en una zona de Mart",
-     "summary": "Les roques de la unitat de marge del Cràter Jezero van ser alterades per l'aigua diverses vegades, revelant una història hidrotermal més complexa del que s'esperava.",
-     "why": "Ciència planetària valuosa sense efecte directe en la vida diària."
-    },
-    "fr": {
-     "title": "Perseverance trouve des signes d'eau souterraine, de lacs et de fluides chauds sur Mars",
-     "summary": "Les roches de l'unité marginale du cratère Jezero ont été altérées par l'eau plusieurs fois, révélant une histoire hydrothermale plus complexe que prévu.",
-     "why": "Science planétaire précieuse sans effet direct sur la vie quotidienne."
-    },
-    "ru": {
-     "title": "Perseverance находит признаки подземной воды, озер и горячих жидкостей на Марсе",
-     "summary": "Скалы маргинальной единицы кратера Jezero были изменены водой несколько раз, выявляя более сложную гидротермальную историю, чем ожидалось.",
-     "why": "Ценная планетарная наука без прямого влияния на повседневную жизнь."
-    }
-   }
-  },
-  {
-   "id": "gnn-golf-course-wetland",
-   "title": "English golf course turned into a seabird wetland",
-   "summary": "A former coastal golf course has been rewilded into wetland habitat now used by plovers, terns and other birds.",
-   "why": "Real habitat gain for threatened coastal birds.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/coastal-golf-course-turned-into-vital-wetland-habitat-for-seabirds/",
-   "score": 7,
-   "category": "Environment",
-   "region": "UK",
-   "published": "2026-09-30T11:00:31Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "Europe",
-   "i18n": {
-    "ca": {
-     "title": "Un camp de golf anglès convertit en aiguamoll per a ocells marins",
-     "summary": "Un antic camp de golf costaner s'ha renaturalitzat com a aiguamoll i ara l'aprofiten corriols, xatracs i altres ocells.",
-     "why": "Un guany real d'hàbitat per a ocells costaners amenaçats."
-    },
-    "fr": {
-     "title": "Un golf anglais transformé en zone humide pour les oiseaux marins",
-     "summary": "Un ancien golf côtier a été rendu à la nature sous forme de zone humide, désormais fréquentée par des gravelots, des sternes et d'autres oiseaux.",
-     "why": "Un vrai gain d'habitat pour des oiseaux côtiers menacés."
-    },
-    "ru": {
-     "title": "Английское поле для гольфа превратили в болото для морских птиц",
-     "summary": "Бывшее прибрежное поле для гольфа восстановили как водно-болотные угодья, где теперь гнездятся зуйки, крачки и другие птицы.",
-     "why": "Реальное расширение среды обитания для уязвимых прибрежных птиц."
-    }
-   }
-  },
-  {
-   "id": "sd-black-hole-jets-galaxies",
-   "title": "Black hole jets heat gas far beyond their galaxies",
-   "summary": "Observations show supermassive black hole jets disturb star-forming gas hundreds of thousands of light-years away, possibly deciding whether galaxies keep making stars.",
-   "why": "Fundamental astronomy with no direct practical effect.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260928100527.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Space",
-   "published": "2026-09-30T10:51:59Z",
-   "continent": "Global",
-   "added": "2026-10-04T04:11:20Z",
-   "i18n": {
-    "ca": {
-     "title": "Els raigs de forats negres escalfen gas molt més allà de les seves galàxies",
-     "summary": "Les observacions mostren que els raigs de forats negres supermassius pertorben el gas que forma estrelles a centenars de milers d'anys llum de distància, possiblement decidint si les galàxies continuen fent estrelles.",
-     "why": "Astronomia fonamental sense efecte pràctic directe."
-    },
-    "fr": {
-     "title": "Les jets de trous noirs chauffent le gaz bien au-delà de leurs galaxies",
-     "summary": "Les observations montrent que les jets de trous noirs supermassifs perturbent le gaz qui forme les étoiles à des centaines de milliers d'années-lumière, décidant possiblement si les galaxies continuent à former des étoiles.",
-     "why": "Astronomie fondamentale sans effet pratique direct."
-    },
-    "ru": {
-     "title": "Джеты черных дыр нагревают газ далеко за пределами своих галактик",
-     "summary": "Наблюдения показывают, что джеты сверхмассивных черных дыр возмущают звездообразующий газ на сотни тысяч световых лет расстояния, возможно определяя, продолжают ли галактики создавать звезды.",
-     "why": "Фундаментальная астрономия без прямого практического эффекта."
-    }
-   }
-  },
-  {
-   "id": "gnn-west-coast-sea-turtle-nests",
-   "title": "Sea turtles nest on California beaches for the first time on record",
-   "summary": "Olive ridley turtles laid eggs on Southern California sand, the first nesting ever documented on the US West Coast and a sign the species is widening its range.",
-   "why": "A first-ever wildlife milestone, though partly tied to warming seas.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/first-ever-recorded-sea-turtle-nests-on-americas-west-coast/",
-   "score": 7,
-   "category": "Animals",
-   "region": "USA",
-   "published": "2026-09-30T09:52:15Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "North America",
-   "i18n": {
-    "ca": {
-     "title": "Tortugues marines fan niu a les platges de Califòrnia per primer cop documentat",
-     "summary": "Tortugues olivàcies han post ous a la sorra del sud de Califòrnia, el primer niu registrat a la costa oest dels EUA i un senyal que l'espècie amplia el seu territori.",
-     "why": "Una primera vegada per a la fauna, tot i que en part lligada a l'escalfament del mar."
-    },
-    "fr": {
-     "title": "Des tortues marines pondent sur les plages de Californie, une première",
-     "summary": "Des tortues olivâtres ont pondu sur le sable du sud de la Californie, première nidification jamais observée sur la côte ouest des États-Unis et signe que l'espèce étend son aire.",
-     "why": "Une première pour la faune, en partie liée au réchauffement des océans."
-    },
-    "ru": {
-     "title": "Морские черепахи впервые отложили яйца на пляжах Калифорнии",
-     "summary": "Оливковые черепахи отложили яйца на песке Южной Калифорнии — первое зарегистрированное гнездование на западном побережье США и признак расширения ареала вида.",
-     "why": "Первое в истории событие для дикой природы, хотя отчасти связанное с потеплением океана."
-    }
-   }
-  },
-  {
-   "id": "sd-pompeii-dating-benchmark",
-   "title": "Vesuvius eruption of 79 CE used to sharpen geological dating",
-   "summary": "Scientists used the precisely known date of Pompeii's eruption to calibrate a dating method, which could refine timelines of eruptions, impacts and extinctions.",
-   "why": "Solid methodological gain for Earth science.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260928100531.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Italy",
-   "published": "2026-09-30T09:37:41Z",
-   "continent": "Europe",
-   "added": "2026-10-04T04:11:20Z",
-   "i18n": {
-    "ca": {
-     "title": "L'erupció del Vesuvi del 79 CE usada per afinar la datació geològica",
-     "summary": "Els científics van usar la data precisa de l'erupció de Pompeia per calibrar un mètode de datació, que podria refinar les línies de temps d'erupcions, impactes i extincions.",
-     "why": "Guany metodològic sòlid per a la ciència de la Terra."
-    },
-    "fr": {
-     "title": "L'éruption du Vésuve de 79 ap. J.-C. utilisée pour affiner la datation géologique",
-     "summary": "Les scientifiques ont utilisé la date précisément connue de l'éruption de Pompéi pour étalonner une méthode de datation, qui pourrait affiner les chronologies des éruptions, des impacts et des extinctions.",
-     "why": "Gain méthodologique solide pour la science de la Terre."
-    },
-    "ru": {
-     "title": "Извержение Везувия 79 года н.э., используемое для улучшения геологического датирования",
-     "summary": "Ученые использовали точно известную дату извержения Помпеи для калибровки метода датирования, который может уточнить сроки извержений, воздействий и вымираний.",
-     "why": "Твердый методологический прогресс для науки о Земле."
     }
    }
   }
