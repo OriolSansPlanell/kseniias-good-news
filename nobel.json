@@ -1,7 +1,7 @@
 {
  "year": 2026,
  "ceremony": "2026-12-10",
- "updated": "2026-10-09T15:21:12Z",
+ "updated": "2026-10-12T18:15:55Z",
  "prizes": [
   {
    "id": "medicine",
@@ -374,8 +374,85 @@
   {
    "id": "economics",
    "at": "2026-10-12T09:45:00Z",
-   "status": "upcoming"
+   "status": "announced",
+   "laureates": [
+    {
+     "name": "Robert E. Hall",
+     "info": "born 1943, United States · professor at Stanford University",
+     "profile": "Hall is an American economist who teaches at Stanford University. He is recognised for work on how the economy fluctuates and how policy can steady it. His research helped move macroeconomics toward models built on the behaviour of households and firms rather than on loose statistical links."
+    },
+    {
+     "name": "Michael Woodford",
+     "info": "born 1955, United States · professor of political economy at Columbia University",
+     "profile": "Woodford is an American economist and professor at Columbia University. He is recognised for models that show how the expectations and decisions of households and firms shape the whole economy. His ideas gave central banks and governments a firmer base for deciding on stabilisation policy."
+    }
+   ],
+   "motivation": "Awarded for their work on how monetary and fiscal policy can help stabilise economic fluctuations, giving central banks and governments a firmer theoretical foundation.",
+   "explainer": "Economies go through ups and downs: sometimes prices jump, factories slow down and people lose jobs. Governments and central banks try to smooth those swings, but they need a good map of how the economy really works. Until the 1970s, many models relied on statistical links between big numbers such as inflation, production and spending. Then the oil crises hit, those links broke down, and the old models stopped giving good advice. Robert Hall and Michael Woodford helped build a new kind of model. Instead of starting from big averages, they start from the choices of households and businesses, including what they expect the future to bring, and then add them up to see how the whole economy behaves. Imagine predicting traffic. You could just look at how many cars passed yesterday, or you could understand why each driver picks a route and reacts to a jam. The second approach still works when a road suddenly closes. In the same way, their models help officials judge which policy response is likely to work when a shock arrives, such as an energy crisis or a sudden change in how much people spend. The Academy says this gave a stable theoretical foundation for the models now used by central banks and governments worldwide.",
+   "why": "When energy prices spike or spending suddenly drops, central banks and governments must choose how to react. Better models help them make those choices more wisely, which affects jobs, prices and savings.",
+   "sources": [
+    {
+     "title": "Al Jazeera: Nobel economics prize awarded to Robert Hall and Michael Woodford",
+     "url": "https://www.aljazeera.com/news/2026/10/12/nobel-economics-prize-awarded-to-robert-hall-and-michael-%E2%81%A0woodford"
+    },
+    {
+     "title": "Newscord: Hall and Woodford win 2026 Nobel economics prize (27 outlets compared)",
+     "url": "https://newscord.org/article/us-economists-robert-hall-michael-woodford-win-2026-nobel-economics-prize-south--Story_20261012_USeconomistsRobertHa7af00e14"
+    },
+    {
+     "title": "US News: Americans Hall and Woodford Win Nobel Economics Prize",
+     "url": "https://www.usnews.com/news/world/articles/2026-10-12/americans-hall-and-woodford-win-2026-nobel-economics-prize"
+    }
+   ],
+   "updated": "2026-10-12T14:03:05Z",
+   "i18n": {
+    "ca": {
+     "motivation": "Concedit pel seu treball sobre com la política monetària i fiscal pot ajudar a estabilitzar les fluctuacions econòmiques, i donar als bancs centrals i als governs una base teòrica més sòlida.",
+     "explainer": "Les economies passen per alts i baixos: de vegades els preus es disparen, les fàbriques frenen i la gent perd la feina. Els governs i els bancs centrals intenten suavitzar aquestes oscil·lacions, però necessiten un bon mapa de com funciona realment l'economia. Fins a la dècada de 1970, molts models es basaven en vincles estadístics entre grans magnituds com la inflació, la producció i la despesa. Després arribaren les crisis del petroli, aquests vincles es van trencar i els models antics van deixar de donar bons consells. Robert Hall i Michael Woodford van ajudar a construir un nou tipus de model. En lloc de partir de grans mitjanes, parteixen de les decisions de les llars i les empreses, incloses les expectatives sobre el que portarà el futur, i després les sumen per veure com es comporta el conjunt de l'economia. Imagineu que voleu predir el trànsit. Podeu mirar només quants cotxes van passar ahir, o podeu entendre per què cada conductor tria una ruta i reacciona davant d'un embús. El segon enfocament continua funcionant quan una carretera es tanca de sobte. De la mateixa manera, els seus models ajuden els responsables polítics a valorar quina resposta és probable que funcioni quan arriba una pertorbació, com una crisi energètica o un canvi sobtat en la quantitat que la gent gasta. L'Acadèmia afirma que això va proporcionar una base teòrica estable per als models que avui utilitzen els bancs centrals i els governs de tot el món.",
+     "why": "Quan els preus de l'energia es disparen o la despesa cau de sobte, els bancs centrals i els governs han de decidir com reaccionar. Millors models els ajuden a prendre aquestes decisions amb més seny, cosa que afecta l'ocupació, els preus i l'estalvi.",
+     "profiles": {
+      "Robert E. Hall": {
+       "info": "nascut el 1943, Estats Units · professor a la Universitat de Stanford",
+       "profile": "Hall és un economista nord-americà que ensenya a la Universitat de Stanford. És reconegut pel seu treball sobre com fluctua l'economia i com la política pot estabilitzar-la. La seva recerca va ajudar a orientar la macroeconomia cap a models basats en el comportament de les llars i les empreses, en lloc de vincles estadístics poc fonamentats."
+      },
+      "Michael Woodford": {
+       "info": "nascut el 1955, Estats Units · professor d'economia política a la Universitat de Colúmbia",
+       "profile": "Woodford és un economista nord-americà i professor a la Universitat de Colúmbia. És reconegut per models que mostren com les expectatives i les decisions de les llars i les empreses configuren el conjunt de l'economia. Les seves idees van donar als bancs centrals i als governs una base més sòlida per decidir la política d'estabilització."
+      }
+     }
+    },
+    "fr": {
+     "motivation": "Récompensés pour leurs travaux sur la manière dont la politique monétaire et budgétaire peut contribuer à stabiliser les fluctuations économiques, offrant aux banques centrales et aux gouvernements un fondement théorique plus solide.",
+     "explainer": "L'économie connaît des hauts et des bas : parfois les prix grimpent, les usines ralentissent et des gens perdent leur emploi. Les gouvernements et les banques centrales tentent d'atténuer ces variations, mais ils ont besoin d'une bonne carte du fonctionnement réel de l'économie. Jusque dans les années 1970, de nombreux modèles reposaient sur des liens statistiques entre de grands agrégats comme l'inflation, la production et les dépenses. Puis les chocs pétroliers ont frappé, ces liens se sont rompus et les anciens modèles ont cessé de fournir de bons conseils. Robert Hall et Michael Woodford ont contribué à bâtir un nouveau type de modèle. Au lieu de partir de grandes moyennes, ils partent des choix des ménages et des entreprises, y compris de ce qu'ils anticipent pour l'avenir, puis les agrègent pour voir comment l'ensemble de l'économie se comporte. Imaginez que vous vouliez prévoir la circulation. Vous pouvez simplement regarder combien de voitures sont passées hier, ou comprendre pourquoi chaque conducteur choisit un itinéraire et réagit à un embouteillage. La seconde approche fonctionne encore lorsqu'une route ferme soudainement. De la même façon, leurs modèles aident les responsables publics à juger quelle réponse politique est susceptible de fonctionner lorsqu'un choc survient, comme une crise énergétique ou un changement brutal des dépenses des ménages. L'Académie affirme que cela a fourni un fondement théorique stable aux modèles utilisés aujourd'hui par les banques centrales et les gouvernements du monde entier.",
+     "why": "Lorsque les prix de l'énergie flambent ou que les dépenses chutent brutalement, les banques centrales et les gouvernements doivent choisir comment réagir. De meilleurs modèles les aident à faire ces choix avec plus de discernement, ce qui influe sur l'emploi, les prix et l'épargne.",
+     "profiles": {
+      "Robert E. Hall": {
+       "info": "né en 1943, États-Unis · professeur à l'université Stanford",
+       "profile": "Hall est un économiste américain qui enseigne à l'université Stanford. Il est reconnu pour ses travaux sur les fluctuations de l'économie et sur la manière dont la politique économique peut les stabiliser. Ses recherches ont contribué à orienter la macroéconomie vers des modèles fondés sur le comportement des ménages et des entreprises, plutôt que sur des liens statistiques approximatifs."
+      },
+      "Michael Woodford": {
+       "info": "né en 1955, États-Unis · professeur d'économie politique à l'université Columbia",
+       "profile": "Woodford est un économiste américain et professeur à l'université Columbia. Il est reconnu pour ses modèles montrant comment les anticipations et les décisions des ménages et des entreprises façonnent l'ensemble de l'économie. Ses idées ont donné aux banques centrales et aux gouvernements une base plus solide pour décider de la politique de stabilisation."
+      }
+     }
+    },
+    "ru": {
+     "motivation": "Присуждена за исследования о том, как денежно-кредитная и бюджетная политика может помогать сглаживать колебания экономики, что даёт центральным банкам и правительствам более прочную теоретическую основу.",
+     "explainer": "Экономика переживает подъёмы и спады: иногда цены резко растут, заводы сбавляют темп и люди теряют работу. Правительства и центральные банки стараются сгладить эти колебания, но для этого нужна хорошая карта того, как экономика работает на самом деле. До 1970-х годов многие модели опирались на статистические связи между крупными показателями, такими как инфляция, производство и расходы. Затем разразились нефтяные кризисы, эти связи нарушились, и старые модели перестали давать хорошие рекомендации. Роберт Холл и Майкл Вудфорд помогли создать новый тип модели. Вместо того чтобы исходить из больших средних величин, они опираются на решения домохозяйств и фирм, в том числе на их ожидания относительно будущего, а затем суммируют их, чтобы понять, как ведёт себя экономика в целом. Представьте, что вы прогнозируете дорожное движение. Можно просто посмотреть, сколько машин проехало вчера, а можно понять, почему каждый водитель выбирает маршрут и как реагирует на пробку. Второй подход работает и тогда, когда дорога внезапно закрывается. Аналогично их модели помогают чиновникам оценить, какая политическая реакция, вероятно, сработает, когда происходит потрясение, например энергетический кризис или внезапное изменение объёма расходов населения. Академия отмечает, что это обеспечило устойчивую теоретическую основу для моделей, которые сегодня используют центральные банки и правительства по всему миру.",
+     "why": "Когда цены на энергоносители резко растут или расходы внезапно падают, центральные банки и правительства должны выбирать, как реагировать. Лучшие модели помогают им принимать более взвешенные решения, а это влияет на занятость, цены и сбережения.",
+     "profiles": {
+      "Robert E. Hall": {
+       "info": "род. в 1943 году, США · профессор Стэнфордского университета",
+       "profile": "Холл — американский экономист, преподающий в Стэнфордском университете. Он известен работами о том, как экономика колеблется и как политика может её стабилизировать. Его исследования помогли перевести макроэкономику к моделям, основанным на поведении домохозяйств и фирм, а не на неопределённых статистических связях."
+      },
+      "Michael Woodford": {
+       "info": "род. в 1955 году, США · профессор политической экономии Колумбийского университета",
+       "profile": "Вудфорд — американский экономист и профессор Колумбийского университета. Он известен моделями, показывающими, как ожидания и решения домохозяйств и фирм формируют экономику в целом. Его идеи дали центральным банкам и правительствам более прочную основу для принятия решений в области стабилизационной политики."
+      }
+     }
+    }
+   }
   }
  ],
- "source_file": "nobel-20261009T1412Z.json"
+ "source_file": "nobel-20261012T1403Z.json"
 }
