@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T09:11:38Z",
+ "updated": "2026-10-12T11:00:58Z",
  "events": [
   {
    "id": "nobel-week-2026",
@@ -512,6 +512,28 @@
    }
   },
   {
+   "id": "mountain-day-2026",
+   "date": "2026-12-11",
+   "category": "Environment",
+   "title": "International Mountain Day",
+   "summary": "A UN day celebrating mountains and the communities and wildlife that depend on them, and the care they need.",
+   "link": "https://www.un.org/en/observances/international-mountain-day",
+   "i18n": {
+    "ca": {
+     "title": "Dia Internacional de les Muntanyes",
+     "summary": "Un dia de l'ONU per celebrar les muntanyes, les comunitats i la fauna que en depenen, i la cura que necessiten."
+    },
+    "fr": {
+     "title": "Journée internationale de la montagne",
+     "summary": "Une journée de l'ONU pour célébrer les montagnes, les communautés et la faune qui en dépendent, et les soins dont elles ont besoin."
+    },
+    "ru": {
+     "title": "Международный день гор",
+     "summary": "День ООН, посвящённый горам, людям и диким животным, которые от них зависят, и заботе, которая им нужна."
+    }
+   }
+  },
+  {
    "id": "geminids-2026",
    "date": "2026-12-13",
    "end": "2026-12-14",
@@ -531,6 +553,28 @@
     "ru": {
      "title": "Пик метеорного потока Геминиды",
      "summary": "Часто лучший звездопад года: до 120 метеоров в час под тёмным небом."
+    }
+   }
+  },
+  {
+   "id": "solidarity-day-2026",
+   "date": "2026-12-20",
+   "category": "Society",
+   "title": "International Human Solidarity Day",
+   "summary": "A UN day to celebrate unity in diversity and remind us that people working together can tackle shared challenges.",
+   "link": "https://www.un.org/en/observances/human-solidarity-day",
+   "i18n": {
+    "ca": {
+     "title": "Dia Internacional de la Solidaritat Humana",
+     "summary": "Un dia de l'ONU per celebrar la unitat en la diversitat i recordar que, units, podem afrontar els reptes compartits."
+    },
+    "fr": {
+     "title": "Journée internationale de la solidarité humaine",
+     "summary": "Une journée de l'ONU pour célébrer l'unité dans la diversité et rappeler qu'ensemble, nous pouvons relever les défis communs."
+    },
+    "ru": {
+     "title": "Международный день человеческой солидарности",
+     "summary": "День ООН, посвящённый единству в многообразии и напоминающий, что вместе мы справляемся с общими задачами."
     }
    }
   },
@@ -646,5 +690,5 @@
    }
   }
  ],
- "source_file": "events-20261005T0555Z.json"
+ "source_file": "events-20261012T0554Z.json"
 }
