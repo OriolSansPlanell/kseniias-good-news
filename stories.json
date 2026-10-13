@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T04:16:10Z",
+ "updated": "2026-10-13T04:16:06Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,10 +12,382 @@
   "Grist",
   "Africanews"
  ],
- "count": 224,
- "last_run": "run-20261012T0416Z.json",
- "note": "15 new, 35 skipped, 33 pruned, 0 translations added, failed feeds: none",
+ "count": 215,
+ "last_run": "run-20261013T0416Z.json",
+ "note": "15 new, 30 skipped, 24 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "tbi-supreme-court-menstrual-health-schools",
+   "title": "Indian Supreme Court treats menstrual health as part of right to life",
+   "summary": "A ruling treats menstrual health as part of the right to life. A ten-point checklist helps parents assess their daughter's school facilities.",
+   "why": "Legal recognition that could improve school facilities for many girls.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/governance/supreme-court-school-menstrual-health-checklist-parents-12669424",
+   "score": 7,
+   "category": "Society",
+   "region": "India",
+   "published": "2026-10-13T02:30:37Z",
+   "continent": "Asia",
+   "added": "2026-10-13T04:16:06Z",
+   "i18n": {
+    "ca": {
+     "title": "El Tribunal Suprem de l'Índia considera la salut menstrual part del dret a la vida",
+     "summary": "Una sentència considera la salut menstrual part del dret a la vida. Una llista de deu punts ajuda els pares a avaluar les instal·lacions de les escoles de les seves filles.",
+     "why": "Reconeixement legal que podria millorar les instal·lacions escolars per a moltes noies."
+    },
+    "fr": {
+     "title": "La Cour suprême indienne fait de la santé menstruelle une partie du droit à la vie",
+     "summary": "Une décision considère la santé menstruelle comme faisant partie du droit à la vie. Une liste de dix points aide les parents à évaluer les installations de l'école de leur fille.",
+     "why": "Reconnaissance juridique qui pourrait améliorer les installations scolaires pour de nombreuses filles."
+    },
+    "ru": {
+     "title": "Верховный суд Индии признал менструальное здоровье частью права на жизнь",
+     "summary": "Постановление рассматривает менструальное здоровье как часть права на жизнь. Контрольный список из десяти пунктов помогает родителям оценить условия в школе их дочери.",
+     "why": "Юридическое признание, которое может улучшить школьные условия для многих девочек."
+    }
+   }
+  },
+  {
+   "id": "tbi-student-satark-stubble-burning",
+   "title": "Teen leads student effort to curb crop burning in West Bengal",
+   "summary": "Sixteen-year-old Sk Reezaal Arafat leads SATARK, a student climate-tech initiative using satellite data, low-cost sensors and fieldwork to anticipate and reduce crop residue burning.",
+   "why": "Local youth action against air pollution, small in scale so far.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/young-achievers/reezaal-arafat-satark-stubble-burning-solution-west-bengal-student-climate-tech-12669409",
+   "score": 7,
+   "category": "Environment",
+   "region": "West Bengal, India",
+   "published": "2026-10-12T14:30:37Z",
+   "continent": "Asia",
+   "added": "2026-10-13T04:16:06Z",
+   "i18n": {
+    "ca": {
+     "title": "Un adolescent lidera una iniciativa estudiantil per frenar la crema de rostolls a Bengala Occidental",
+     "summary": "Sk Reezaal Arafat, de setze anys, lidera SATARK, una iniciativa estudiantil de tecnologia climàtica que fa servir dades de satèl·lit, sensors de baix cost i treball de camp per anticipar i reduir la crema de residus de cultius.",
+     "why": "Acció juvenil local contra la contaminació atmosfèrica, de moment de petita escala."
+    },
+    "fr": {
+     "title": "Un adolescent mène une initiative étudiante pour réduire le brûlis des chaumes au Bengale-Occidental",
+     "summary": "Sk Reezaal Arafat, âgé de seize ans, dirige SATARK, une initiative étudiante de climatech qui s'appuie sur des données satellitaires, des capteurs à bas coût et un travail de terrain pour anticiper et réduire le brûlis des résidus agricoles.",
+     "why": "Action de la jeunesse locale contre la pollution de l'air, encore de petite envergure."
+    },
+    "ru": {
+     "title": "Подросток возглавил студенческую инициативу по сокращению сжигания стерни в Западной Бенгалии",
+     "summary": "Шестнадцатилетний Ск Реазаль Аратх руководит SATARK — студенческой климатической инициативой, которая использует спутниковые данные, недорогие датчики и полевые работы, чтобы предвидеть и сокращать сжигание растительных остатков.",
+     "why": "Местная молодёжная деятельность против загрязнения воздуха, пока небольшого масштаба."
+    }
+   }
+  },
+  {
+   "id": "mb-indonesia-no-forests-for-rice",
+   "title": "Indonesia says it no longer needs forests for rice",
+   "summary": "Indonesia announced it will not expand rice farming into forest areas, but has not clarified how this affects large projects in Papua and Kalimantan. A ministry map appears to conflict with the statement.",
+   "why": "Promising statement for forests, but unclear and unproven.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/indonesia-says-it-no-longer-needs-forests-for-rice-what-happens-to-projects-underway/",
+   "score": 4,
+   "category": "Environment",
+   "region": "Indonesia",
+   "published": "2026-10-12T12:12:07Z",
+   "continent": "Asia",
+   "added": "2026-10-13T04:16:06Z",
+   "i18n": {
+    "ca": {
+     "title": "Indonèsia afirma que ja no necessita boscos per al cultiu d'arròs",
+     "summary": "Indonèsia ha anunciat que no ampliarà el cultiu d'arròs a zones boscoses, però no ha aclarit com afecta els grans projectes a Papua i Kalimantan. Un mapa del ministeri sembla contradir l'anunci.",
+     "why": "Declaració prometedora per als boscos, però poc clara i no demostrada."
+    },
+    "fr": {
+     "title": "L'Indonésie affirme ne plus avoir besoin des forêts pour la riziculture",
+     "summary": "L'Indonésie a annoncé qu'elle n'étendrait plus la riziculture aux zones forestières, sans préciser ce que cela implique pour les grands projets en cours en Papouasie et au Kalimantan. Une carte du ministère semble contredire cette déclaration.",
+     "why": "Déclaration prometteuse pour les forêts, mais floue et non vérifiée."
+    },
+    "ru": {
+     "title": "Индонезия заявляет, что больше не нуждается в лесах для выращивания риса",
+     "summary": "Индонезия объявила, что не будет расширять рисосеяние на лесные территории, однако не разъяснила, как это повлияет на крупные проекты на Папуа и Калимантане. Карта министерства, похоже, противоречит этому заявлению.",
+     "why": "Обнадёживающее заявление для лесов, но неясное и не подтверждённое делами."
+    }
+   }
+  },
+  {
+   "id": "mb-colombo-passive-cooling",
+   "title": "Passive cooling explored as low-energy option in Colombo",
+   "summary": "Residents of dense Colombo apartment blocks rely on fans and air conditioning. Sri Lanka is exploring passive cooling methods as an energy-saving alternative, though with costs.",
+   "why": "A practical energy-saving idea, still at an exploratory stage.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/as-colombo-heats-up-passive-cooling-offers-a-low-energy-solution-but-at-a-cost/",
+   "score": 6,
+   "category": "Energy",
+   "region": "Colombo, Sri Lanka",
+   "published": "2026-10-12T11:26:29Z",
+   "continent": "Asia",
+   "added": "2026-10-13T04:16:06Z",
+   "i18n": {
+    "ca": {
+     "title": "Es planteja la refrigeració passiva com a opció de baix consum a Colombo",
+     "summary": "Els residents dels densos blocs d'apartaments de Colombo depenen de ventiladors i aire condicionat. Sri Lanka explora mètodes de refrigeració passiva com a alternativa d'estalvi energètic, tot i que tenen costos.",
+     "why": "Una idea pràctica d'estalvi energètic, encara en fase exploratòria."
+    },
+    "fr": {
+     "title": "Le rafraîchissement passif, option économe en énergie explorée à Colombo",
+     "summary": "Les habitants des immeubles denses de Colombo dépendent des ventilateurs et de la climatisation. Le Sri Lanka étudie des méthodes de rafraîchissement passif comme alternative économe en énergie, mais elles ont un coût.",
+     "why": "Une idée pratique d'économie d'énergie, encore au stade exploratoire."
+    },
+    "ru": {
+     "title": "В Коломбо изучают пассивное охлаждение как энергосберегающее решение",
+     "summary": "Жители густонаселённых многоквартирных домов Коломбо полагаются на вентиляторы и кондиционеры. Шри-Ланка изучает методы пассивного охлаждения как энергосберегающую альтернативу, хотя они и требуют затрат.",
+     "why": "Практичная идея энергосбережения, пока находящаяся на стадии изучения."
+    }
+   }
+  },
+  {
+   "id": "mb-cambodia-community-marine-conservation",
+   "title": "Community leader describes marine conservation in Cambodia",
+   "summary": "A commune deputy chief on Koh Sdach discusses community-led marine conservation, balancing fishing livelihoods with ecological protection through a community fisheries management area.",
+   "why": "Community-led conservation that supports local livelihoods.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/community-action-to-protect-cambodias-seas-interview-with-commune-leader-sorn-srenh/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Koh Sdach, Cambodia",
+   "published": "2026-10-12T09:53:15Z",
+   "continent": "Asia",
+   "added": "2026-10-13T04:16:06Z",
+   "i18n": {
+    "ca": {
+     "title": "Un líder comunitari descriu la conservació marina a Cambodja",
+     "summary": "Un cap adjunt d'una comuna de Koh Sdach parla de la conservació marina liderada per la comunitat, que equilibra els mitjans de vida de la pesca amb la protecció ecològica mitjançant una àrea de gestió pesquera comunitària.",
+     "why": "Conservació liderada per la comunitat que dóna suport als mitjans de vida locals."
+    },
+    "fr": {
+     "title": "Un responsable communautaire présente la conservation marine au Cambodge",
+     "summary": "Le chef adjoint d'une commune de Koh Sdach évoque la conservation marine menée par la communauté, qui concilie les moyens de subsistance liés à la pêche et la protection écologique grâce à une zone de gestion communautaire des pêches.",
+     "why": "Une conservation menée par la communauté qui soutient les moyens de subsistance locaux."
+    },
+    "ru": {
+     "title": "Глава общины рассказывает о морской охране природы в Камбодже",
+     "summary": "Заместитель главы коммуны на острове Кох-Сдач рассказывает о морской охране природы, которую ведёт местное сообщество. Через зону общинного управления рыболовством удаётся сочетать рыбный промысел с экологической защитой.",
+     "why": "Охрана природы, которую ведёт сообщество и которая поддерживает местную экономику."
+    }
+   }
+  },
+  {
+   "id": "tbi-first-woman-air-marshal-padmavathy",
+   "title": "Profile of India's first woman Air Marshal",
+   "summary": "Dr Padmavathy Bandopadhyay became the Indian Air Force's first woman Air Marshal in 2004. The article covers her career in aviation medicine and high-altitude and Arctic research.",
+   "why": "An inspiring profile, though the milestone dates from 2004.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/governance/first-woman-air-marshal-padmavathy-bandopadhyay-12668294",
+   "score": 5,
+   "category": "Society",
+   "region": "India",
+   "published": "2026-10-12T09:32:58Z",
+   "continent": "Asia",
+   "added": "2026-10-13T04:16:06Z",
+   "i18n": {
+    "ca": {
+     "title": "Perfil de la primera dona Mariscal de l'Aire de l'Índia",
+     "summary": "La doctora Padmavathy Bandopadhyay es va convertir el 2004 en la primera dona Mariscal de l'Aire de la Força Aèria de l'Índia. L'article repassa la seva carrera en medicina aeronàutica i en recerca en alta muntanya i a l'Àrtic.",
+     "why": "Un perfil inspirador, tot i que l'assoliment data del 2004."
+    },
+    "fr": {
+     "title": "Portrait de la première femme maréchal de l'air de l'Inde",
+     "summary": "La docteure Padmavathy Bandopadhyay est devenue en 2004 la première femme maréchal de l'air de l'armée de l'air indienne. L'article retrace sa carrière en médecine aéronautique et ses travaux de recherche en haute altitude et dans l'Arctique.",
+     "why": "Un portrait inspirant, bien que cette étape date de 2004."
+    },
+    "ru": {
+     "title": "Профиль первой женщины — маршала авиации Индии",
+     "summary": "Доктор Падмавати Бандопадхьяй в 2004 году стала первой женщиной — маршалом авиации ВВС Индии. В статье рассказывается о её карьере в авиационной медицине и исследованиях в условиях высокогорья и Арктики.",
+     "why": "Вдохновляющий рассказ, хотя этот рубеж был пройден в 2004 году."
+    }
+   }
+  },
+  {
+   "id": "gnn-east-texas-family-land-state-park",
+   "title": "Family sells 650 acres on East Texas lake for a state park",
+   "summary": "A multigenerational family sold 650 acres on Lake Palestine to become a state park. The land includes pine woods, bluffs, wetlands and a pecan orchard.",
+   "why": "Protected land opens to the public, a local benefit.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/family-sells-650-acres-on-east-texas-lake-to-become-state-park-saying-land-is-part-of-my-soul/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Texas, USA",
+   "published": "2026-10-12T06:21:02Z",
+   "continent": "North America",
+   "added": "2026-10-13T04:16:06Z",
+   "i18n": {
+    "ca": {
+     "title": "Una família ven 650 acres d'un llac de l'est de Texas per crear-hi un parc estatal",
+     "summary": "Una família de diverses generacions ha venut 650 acres al llac Palestine per convertir-los en parc estatal. El terreny inclou boscos de pins, penya-segats, aiguamolls i una pacanera.",
+     "why": "Terres protegides que s'obren al públic, un benefici local."
+    },
+    "fr": {
+     "title": "Une famille vend 650 acres au bord du lac Palestine, dans l'est du Texas, pour un parc d'État",
+     "summary": "Une famille aux plusieurs générations a vendu 650 acres sur le lac Palestine afin qu'ils deviennent un parc d'État. Le terrain comprend des forêts de pins, des falaises, des zones humides et une pacanière.",
+     "why": "Des terres protégées ouvertes au public, un bénéfice pour la région."
+    },
+    "ru": {
+     "title": "Семья продала 650 акров земли на озере в Восточном Техасе под государственный парк",
+     "summary": "Семья, жившая здесь несколько поколений, продала 650 акров на озере Палестайн для создания государственного парка. В состав участка входят сосновые леса, утёсы, водно-болотные угодья и плантация пекановых орехов.",
+     "why": "Охраняемые земли становятся доступны для публики — местная польза."
+    }
+   }
+  },
+  {
+   "id": "an-vets-examine-ailing-elephant-karachi",
+   "title": "Foreign vets examine ailing elephant at Karachi safari park",
+   "summary": "A foreign veterinary team examined Madhubalu, an African elephant at a Karachi safari park. The team says she has improved somewhat but the outcome is uncertain.",
+   "why": "Animal care effort with an uncertain outcome.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/09/foreign-veterinary-team-examines-ailing-african-elephant-in-pakistan/",
+   "score": 5,
+   "category": "Animals",
+   "region": "Karachi, Pakistan",
+   "published": "2026-10-12T05:53:02Z",
+   "continent": "Asia",
+   "added": "2026-10-13T04:16:06Z",
+   "i18n": {
+    "ca": {
+     "title": "Veterinaris estrangers examinen una elefanta malalta en un safari de Karachi",
+     "summary": "Un equip veterinari estranger ha examinat Madhubalu, una elefanta africana d'un parc safari de Karachi. L'equip afirma que ha millorat una mica, però el resultat és incert.",
+     "why": "Un esforç de cura animal amb un resultat incert."
+    },
+    "fr": {
+     "title": "Des vétérinaires étrangers examinent une éléphante malade dans un parc safari de Karachi",
+     "summary": "Une équipe vétérinaire étrangère a examiné Madhubalu, une éléphante d'Afrique dans un parc safari de Karachi. Selon l'équipe, son état s'est légèrement amélioré, mais l'issue reste incertaine.",
+     "why": "Un effort de soins animaliers dont l'issue est incertaine."
+    },
+    "ru": {
+     "title": "Иностранные ветеринары осмотрели больную слониху в сафари-парке Карачи",
+     "summary": "Иностранная ветеринарная группа осмотрела Мадхубалу — африканскую слониху из сафари-парка в Карачи. По словам специалистов, её состояние немного улучшилось, но исход остаётся неясным.",
+     "why": "Усилия по уходу за животным с неопределённым результатом."
+    }
+   }
+  },
+  {
+   "id": "sd-ten-minutes-exercise-deeper-sleep",
+   "title": "Ten minutes of daily exercise linked to deeper sleep",
+   "summary": "A University of Texas at Austin study linked more frequent exercise to more deep sleep. About 10 minutes of moderate to vigorous activity a day showed measurable benefits.",
+   "why": "Simple, accessible health finding, but it shows association only.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261008102721.htm",
+   "score": 6,
+   "category": "Health",
+   "region": "USA",
+   "published": "2026-10-12T00:51:31Z",
+   "continent": "North America",
+   "added": "2026-10-13T04:16:06Z",
+   "i18n": {
+    "ca": {
+     "title": "Deu minuts d'exercici diari s'associen amb un son més profund",
+     "summary": "Un estudi de la Universitat del Texas a Austin ha relacionat fer exercici amb més freqüència amb més son profund. Uns 10 minuts diaris d'activitat moderada a intensa ja mostren beneficis mesurables.",
+     "why": "Una troballa de salut senzilla i accessible, però només indica una associació."
+    },
+    "fr": {
+     "title": "Dix minutes d'exercice quotidien associées à un sommeil plus profond",
+     "summary": "Une étude de l'Université du Texas à Austin associe une pratique plus fréquente de l'exercice à davantage de sommeil profond. Environ 10 minutes quotidiennes d'activité modérée à intense montrent des bénéfices mesurables.",
+     "why": "Une découverte en santé simple et accessible, mais qui ne montre qu'une association."
+    },
+    "ru": {
+     "title": "Ежедневные десять минут упражнений связаны с более глубоким сном",
+     "summary": "Исследование Техасского университета в Остине связало более частые физические упражнения с большей долей глубокого сна. Около 10 минут в день умеренной и интенсивной активности дают заметный эффект.",
+     "why": "Простой и доступный вывод о здоровье, но он показывает лишь связь, а не причину."
+    }
+   }
+  },
+  {
+   "id": "od-australia-renewable-record-rooftop-solar",
+   "title": "Australia sets a renewable energy record led by rooftop solar",
+   "summary": "On 22 September solar and wind supplied 80.4 percent of demand on Australia's national grid, with rooftop panels briefly carrying over half the load. The annual renewable share is 44 percent.",
+   "why": "Record clean power share, though the annual figure is lower.",
+   "source": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/10/australia-sets-a-new-renewable-energy-record-with-rooftop-solar-leading-the-way/",
+   "score": 8,
+   "category": "Energy",
+   "region": "Australia",
+   "published": "2026-10-12T00:00:55Z",
+   "continent": "Oceania",
+   "added": "2026-10-13T04:16:06Z",
+   "i18n": {
+    "ca": {
+     "title": "Austràlia bat un rècord d'energia renovable liderat pels panells solars de les cobertes",
+     "summary": "El 22 de setembre, l'energia solar i l'eòlica van subministrar el 80,4 per cent de la demanda de la xarxa elèctrica nacional d'Austràlia, i els panells de les cobertes van superar breument la meitat de la càrrega. La quota renovable anual és del 44 per cent.",
+     "why": "Rècord de quota d'energia neta, tot i que la xifra anual és més baixa."
+    },
+    "fr": {
+     "title": "L'Australie établit un record d'énergie renouvelable porté par le solaire sur toits",
+     "summary": "Le 22 septembre, le solaire et l'éolien ont couvert 80,4 % de la demande sur le réseau national australien, les panneaux installés sur les toits assurant brièvement plus de la moitié de la charge. La part annuelle des énergies renouvelables s'élève à 44 %.",
+     "why": "Record de part d'énergie propre, même si le chiffre annuel est plus faible."
+    },
+    "ru": {
+     "title": "Австралия установила рекорд возобновляемой энергетики благодаря солнечным панелям на крышах",
+     "summary": "22 сентября солнечная и ветровая генерация покрыла 80,4 % спроса в национальной энергосистеме Австралии, а панели на крышах на короткое время обеспечили более половины нагрузки. Годовая доля возобновляемых источников составляет 44 %.",
+     "why": "Рекордная доля чистой энергии, хотя годовой показатель ниже."
+    }
+   }
+  },
+  {
+   "id": "gnn-gait-change-knee-arthritis",
+   "title": "Changing gait may ease knee arthritis pain",
+   "summary": "Scientists report that adjusting how a person walks can relieve knee arthritis pain about as well as prescription drugs, and may slow cartilage wear.",
+   "why": "A drug-free option for a common condition, though details of evidence are limited.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/new-way-to-relieve-arthritic-knees-without-drugs-or-surgery-by-changing-your-gait/",
+   "score": 6,
+   "category": "Health",
+   "region": "USA",
+   "published": "2026-10-11T22:18:55Z",
+   "continent": "North America",
+   "added": "2026-10-13T04:16:06Z",
+   "i18n": {
+    "ca": {
+     "title": "Canviar la manera de caminar podria alleujar el dolor de genoll per artrosi",
+     "summary": "Científics informen que modificar la manera com una persona camina pot alleujar el dolor de genoll per artrosi gairebé tant com els fàrmacs amb recepta, i que podria alentir el desgast del cartílag.",
+     "why": "Una opció sense fàrmacs per a una afecció comuna, tot i que les dades sobre les evidències són limitades."
+    },
+    "fr": {
+     "title": "Modifier sa démarche pourrait soulager l'arthrose du genou",
+     "summary": "Des scientifiques rapportent qu'adapter la façon de marcher peut soulager la douleur de l'arthrose du genou à peu près aussi efficacement que des médicaments sur ordonnance, et pourrait ralentir l'usure du cartilage.",
+     "why": "Une option sans médicament pour une affection courante, bien que les données probantes soient limitées."
+    },
+    "ru": {
+     "title": "Изменение походки может облегчить боль при артрозе колена",
+     "summary": "Учёные сообщают, что корректировка того, как человек ходит, может облегчить боль при артрозе коленного сустава почти так же эффективно, как рецептурные препараты, и замедлить износ хряща.",
+     "why": "Безлекарственный вариант при распространённом заболевании, хотя данные о доказательствах ограничены."
+    }
+   }
+  },
+  {
+   "id": "gnn-aldabra-giant-tortoise-record",
+   "title": "Aldabra giant tortoise count reaches about 180,000",
+   "summary": "A survey on Aldabra Atoll in the Seychelles counted about 180,000 giant tortoises, the highest figure recorded. The species was once considered endangered.",
+   "why": "A recovered, once-endangered species at a record population.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/giant-tortoise-population-is-thriving-survey-finds-180000-on-one-island-chain/",
+   "score": 8,
+   "category": "Animals",
+   "region": "Seychelles",
+   "published": "2026-10-11T16:11:41Z",
+   "continent": "Africa",
+   "added": "2026-10-13T04:16:06Z",
+   "i18n": {
+    "ca": {
+     "title": "El recompte de tortugues gegants d'Aldabra arriba a unes 180.000",
+     "summary": "Un estudi a l'atol d'Aldabra, a les Seychelles, ha comptat unes 180.000 tortugues gegants, la xifra més alta registrada. L'espècie va ser considerada en perill d'extinció.",
+     "why": "Una espècie que es va recuperar, abans en perill, amb una població rècord."
+    },
+    "fr": {
+     "title": "Le recensement des tortues géantes d'Aldabra atteint environ 180 000",
+     "summary": "Un recensement effectué sur l'atoll d'Aldabra, aux Seychelles, a dénombré environ 180 000 tortues géantes, le chiffre le plus élevé jamais enregistré. Cette espèce a longtemps été considérée comme menacée.",
+     "why": "Une espèce rétablie, autrefois menacée, à un niveau de population record."
+    },
+    "ru": {
+     "title": "Численность гигантских черепах на атолле Альдабра достигла примерно 180 000",
+     "summary": "Учёт на атолле Альдабра на Сейшельских островах насчитал около 180 000 гигантских черепах — это самый высокий зарегистрированный показатель. Когда-то этот вид считался находящимся под угрозой исчезновения.",
+     "why": "Восстановившийся вид, который когда-то был под угрозой, при рекордной численности популяции."
+    }
+   }
+  },
   {
    "id": "tbi-woman-electrician-keeps-power-running-for-a-mahara",
    "title": "Woman electrician keeps power running for a Maharashtra village",
@@ -106,6 +478,37 @@
      "title": "Дети в Кении учатся играть в шахматы на комплектах из переработанного пластика",
      "summary": "Местный проект переработал около 200 кг пластика в шахматные наборы, обучая детей игре и одновременно сокращая отходы.",
      "why": "Небольшой местный проект, сочетающий переработку отходов и образование."
+    }
+   }
+  },
+  {
+   "id": "an-carthage-music-days-tunis",
+   "title": "Carthage Music Days festival features artists from 15 countries",
+   "summary": "The 11th Carthage Music Days festival ran for a week in Tunis with artists from 15 countries, putting emphasis on the local scene.",
+   "why": "A cultural event supporting local musicians.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/11/tunisias-carthage-music-days-puts-its-faith-in-the-local-scene/",
+   "score": 6,
+   "category": "Culture",
+   "region": "Tunisia",
+   "published": "2026-10-11T11:03:33Z",
+   "continent": "Africa",
+   "added": "2026-10-13T04:16:06Z",
+   "i18n": {
+    "ca": {
+     "title": "El festival Carthage Music Days reuneix artistes de 15 països",
+     "summary": "L'onzena edició del festival Carthage Music Days s'ha celebrat durant una setmana a Tunis amb artistes de 15 països, i ha posat l'accent en l'escena local.",
+     "why": "Un esdeveniment cultural que dóna suport als músics locals."
+    },
+    "fr": {
+     "title": "Le festival Carthage Music Days réunit des artistes de 15 pays",
+     "summary": "La 11e édition du festival Carthage Music Days s'est déroulée pendant une semaine à Tunis, avec des artistes venus de 15 pays, et a mis l'accent sur la scène locale.",
+     "why": "Un événement culturel qui soutient les musiciens locaux."
+    },
+    "ru": {
+     "title": "Фестиваль Carthage Music Days собрал артистов из 15 стран",
+     "summary": "11-й фестиваль Carthage Music Days прошёл в течение недели в Тунисе с участием артистов из 15 стран, при этом основное внимание было уделено местной музыкальной сцене.",
+     "why": "Культурное событие, которое поддерживает местных музыкантов."
     }
    }
   },
@@ -323,6 +726,37 @@
      "title": "Грузовик на солнечной энергии перерабатывает отходы до попадания на свалку",
      "summary": "Мобильная установка длиной 22 фута на солнечной энергии сортирует, измельчает и перерабатывает отходы на месте, сокращая объём мусора, отправляемого на свалки.",
      "why": "Практичное местное решение проблемы отходов, небольшого масштаба."
+    }
+   }
+  },
+  {
+   "id": "gnn-lost-bracci-statue-model-found",
+   "title": "Lost model by Trevi Fountain sculptor found in salvage yard",
+   "summary": "A 27-inch model by sculptor Pietro Bracci was found in a British reclamation yard for about 300 pounds. It was a pitch for a bronze statue of Pope Clement XII.",
+   "why": "A pleasant cultural rediscovery with limited wider impact.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/lost-italian-statue-by-trevi-fountain-artist-discovered-in-salvage-yard/",
+   "score": 6,
+   "category": "Culture",
+   "region": "United Kingdom",
+   "published": "2026-10-10T13:46:41Z",
+   "continent": "Europe",
+   "added": "2026-10-13T04:16:06Z",
+   "i18n": {
+    "ca": {
+     "title": "Troben en un dipòsit de desballestament un model perdut de l'escultor de la Fontana di Trevi",
+     "summary": "Un model de 27 polzades de l'escultor Pietro Bracci s'ha trobat en un dipòsit de recuperació britànic per unes 300 lliures. Era una proposta per a una estàtua de bronze del papa Climent XII.",
+     "why": "Un agradable redescobriment cultural amb un abast més ampli limitat."
+    },
+    "fr": {
+     "title": "Un modèle perdu du sculpteur de la fontaine de Trevi retrouvé dans une casse",
+     "summary": "Une maquette de 27 pouces réalisée par le sculpteur Pietro Bracci a été retrouvée dans une casse britannique pour environ 300 livres. Elle servait de projet pour une statue en bronze du pape Clément XII.",
+     "why": "Une agréable redécouverte culturelle, à la portée plus limitée."
+    },
+    "ru": {
+     "title": "Потерянная модель скульптора фонтана Треви найдена на складе вторсырья",
+     "summary": "Модель скульптора Пьетро Бракки высотой 27 дюймов нашли на британском складе вторсырья примерно за 300 фунтов. Она была эскизом проекта бронзовой статуи папы Климента XII.",
+     "why": "Приятное культурное открытие с ограниченным общим значением."
     }
    }
   },
@@ -695,6 +1129,37 @@
      "title": "Австралийские учёные обучают тюленей и морских львов проходить проверку слуха",
      "summary": "Исследователи из Сиднея обучили тюленей и морских львов проходить проверку слуха, что помогает оценить, как океанский шум влияет на морских млекопитающих.",
      "why": "Полезное исследование для защиты морских животных."
+    }
+   }
+  },
+  {
+   "id": "an-orangutan-novita-rescued-borneo-fires",
+   "title": "Young orangutan rescued after Borneo wildfires",
+   "summary": "A young female orangutan named Novita was rescued in Central Kalimantan after being found burned on her hands and feet following wildfires on 26 September.",
+   "why": "A rescue, set against ongoing habitat destruction.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/09/indonesia-baby-orangutan-saved-from-borneo-wildfires-as-habitat-destruction-escalates/",
+   "score": 4,
+   "category": "Animals",
+   "region": "Central Kalimantan, Indonesia",
+   "published": "2026-10-09T14:01:47Z",
+   "continent": "Asia",
+   "added": "2026-10-13T04:16:06Z",
+   "i18n": {
+    "ca": {
+     "title": "Rescatada una orangutana jove després dels incendis forestals de Borneo",
+     "summary": "Una orangutana jove anomenada Novita ha estat rescatada a Kalimantan Central després de ser trobada amb les mans i els peus cremats arran dels incendis forestals del 26 de setembre.",
+     "why": "Un rescat, en un context de destrucció continuada de l'hàbitat."
+    },
+    "fr": {
+     "title": "Une jeune orang-outan sauvée après les incendies de Bornéo",
+     "summary": "Une jeune femelle orang-outan prénommée Novita a été secourue dans le Kalimantan central, après avoir été retrouvée avec les mains et les pieds brûlés à la suite des incendies de forêt du 26 septembre.",
+     "why": "Un sauvetage, face à la destruction continue de son habitat."
+    },
+    "ru": {
+     "title": "Молодую орангутаниху спасли после лесных пожаров на Борнео",
+     "summary": "Молодую самку орангутана по имени Новита спасли в Центральном Калимантане. Её нашли с обожжёнными ладонями и ступнями после лесных пожаров 26 сентября.",
+     "why": "Спасение на фоне продолжающегося разрушения среды обитания."
     }
    }
   },
@@ -6213,750 +6678,6 @@
      "title": "Проект Neev помогает 900 сельским детям подтянуться по математике и английскому",
      "summary": "Бывший претендент на государственную службу основал программу, использующую обучение на основе планшетов и местных женщин-фасилитаторов для улучшения грамотности и численности детей.",
      "why": "Местная образовательная помощь, охватывающая сотни детей."
-    }
-   }
-  },
-  {
-   "id": "tbi-up-farmers-turmeric-elephants",
-   "title": "Uttar Pradesh farmers plant turmeric to keep elephants away from crops",
-   "summary": "About 100 farmers near Katarniaghat are growing turmeric beside crops elephants like, as a less-attractive buffer that reduces raids.",
-   "why": "Low-cost way to ease human-wildlife conflict.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/wildlife/uttar-pradesh-farmers-turmeric-elephant-crop-raids-katarniaghat-conflict-solution-12613759",
-   "score": 7,
-   "category": "Animals",
-   "region": "Uttar Pradesh, India",
-   "published": "2026-10-03T07:30:37Z",
-   "continent": "Asia",
-   "added": "2026-10-04T04:47:40Z",
-   "i18n": {
-    "ca": {
-     "title": "Els agricultors d'Uttar Pradesh planten cúrcuma per mantenir els elefants allunyats dels cultius",
-     "summary": "Uns 100 agricultors prop de Katarniaghat cultiven cúrcuma al costat dels cultius que els elefants prefereixen, com a amortidor menys atractiu que redueix els atacs.",
-     "why": "Manera barata de reduir els conflictes humans-vida silvestre."
-    },
-    "fr": {
-     "title": "Les agriculteurs de l'Uttar Pradesh cultivent le curcuma pour éloigner les éléphants des cultures",
-     "summary": "Environ 100 agriculteurs près de Katarniaghat cultivent du curcuma à côté des cultures que préfèrent les éléphants, comme un amortisseur moins attrayant qui réduit les raids.",
-     "why": "Moyen peu coûteux d'atténuer les conflits entre humains et faune."
-    },
-    "ru": {
-     "title": "Фермеры Уттар-Прадеша высаживают куркуму, чтобы отогнать слонов от урожая",
-     "summary": "Около 100 фермеров близ Катарниагхата выращивают куркуму рядом с культурами, которые предпочитают слоны, в качестве менее привлекательного буфера, который снижает набеги.",
-     "why": "Дешевый способ облегчить конфликт между человеком и дикой природой."
-    }
-   }
-  },
-  {
-   "id": "tbi-freediver-dances-underwater-saree",
-   "title": "Freediver performs Sanskrit stories in dance 15 metres underwater",
-   "summary": "A freediver performs classical dance interpretations of Sanskrit stories underwater, combining breath control with cultural storytelling.",
-   "why": "Creative cultural work with limited wider impact.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/culture/freediver-dances-in-saree-underwater-pranayama-sanskrit-stories-12613827",
-   "score": 5,
-   "category": "Culture",
-   "region": "India",
-   "published": "2026-10-03T06:43:37Z",
-   "continent": "Asia",
-   "added": "2026-10-04T12:17:05Z",
-   "i18n": {
-    "ca": {
-     "title": "Un busseador sense equip fa dansa de històries de sànscrit 15 metres sota l'aigua",
-     "summary": "Un busseador sense equip fa interpretacions de dansa clàssica d'històries de sànscrit sota l'aigua, combinant control de respiració amb narrativa cultural.",
-     "why": "Treball cultural creatiu amb impacte ampli limitat."
-    },
-    "fr": {
-     "title": "Un apneïste interprète des histoires sanskrit en danse à 15 mètres de profondeur",
-     "summary": "Un apneïste interprète des histoires en sanskrit à travers la danse classique sous l'eau, combinant le contrôle de la respiration et la narration culturelle.",
-     "why": "Travail culturel créatif à l'impact sociétal limité."
-    },
-    "ru": {
-     "title": "Вольный пловец исполняет историй санскрита в танце на глубине 15 метров",
-     "summary": "Вольный пловец исполняет классические танцевальные интерпретации санскритских историй под водой, сочетая контроль дыхания с культурным повествованием.",
-     "why": "Творческая культурная работа с ограниченным широким влиянием."
-    }
-   }
-  },
-  {
-   "id": "tbi-karnataka-revive-500-lakes",
-   "title": "Karnataka plans to restore 500 lakes with a 150-crore programme",
-   "summary": "The state initiative aims to rejuvenate 500 lakes, and the article outlines what indicators show a lake is truly healthy.",
-   "why": "Large restoration plan, though results depend on delivery.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/conservation/nature/bengaluru-lake-revival-healthy-urban-lakes-12613428",
-   "score": 6,
-   "category": "Environment",
-   "region": "Karnataka, India",
-   "published": "2026-10-03T06:30:37Z",
-   "continent": "Asia",
-   "added": "2026-10-04T04:59:04Z",
-   "i18n": {
-    "ca": {
-     "title": "Karnataka planeja restaurar 500 llacs amb un programa de 150 crores",
-     "summary": "La iniciativa estatal té com a objectiu rejuvenir 500 llacs, i l'article detalla els indicadors que mostren que un llac és realment saludable.",
-     "why": "Gran pla de restauració, encara que els resultats depenen de la implementació."
-    },
-    "fr": {
-     "title": "Le Karnataka prévoit de restaurer 500 lacs avec un programme de 150 crores",
-     "summary": "L'initiative d'État vise à rajeunir 500 lacs, et l'article décrit les indicateurs qui montrent qu'un lac est vraiment sain.",
-     "why": "Grand plan de restauration, bien que les résultats dépendent de la mise en œuvre."
-    },
-    "ru": {
-     "title": "Карнатака планирует восстановить 500 озер с программой на 150 крор",
-     "summary": "Государственная инициатива направлена на омоложение 500 озер, а в статье описаны индикаторы, показывающие, действительно ли озеро здорово.",
-     "why": "Большой план восстановления, хотя результаты зависят от реализации."
-    }
-   }
-  },
-  {
-   "id": "tbi-indian-startups-farm-waste-tableware",
-   "title": "Four Indian startups turn coconut shells and rice husks into household goods",
-   "summary": "Startups in India are turning agricultural by-products such as coconut shells and rice husk ash into consumer products including kitchen bowls.",
-   "why": "Gives farm waste a second use, still at small scale.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/startup/indian-startups-coconut-shells-rice-husks-farm-waste-products-12611411",
-   "score": 6,
-   "category": "Environment",
-   "region": "India",
-   "published": "2026-10-03T05:30:38Z",
-   "continent": "Asia",
-   "added": "2026-10-04T04:59:04Z",
-   "i18n": {
-    "ca": {
-     "title": "Quatre startups indianes converteixen closques de coco i pellofa d'arròs en béns de consum",
-     "summary": "Les startups de l'Índia estan convertint subproductes agrícoles com les closques de coco i la cendra de pellofa d'arròs en productes de consum, incloent-hi bols de cuina.",
-     "why": "Dóna una segona vida als residus agrícoles, encara a petita escala."
-    },
-    "fr": {
-     "title": "Quatre startups indiennes transforment les coquilles de noix de coco et les balles de riz en biens de consommation",
-     "summary": "Les startups de l'Inde transforment les sous-produits agricoles tels que les coquilles de noix de coco et les cendres de balle de riz en produits de consommation, notamment des bols de cuisine.",
-     "why": "Donne une deuxième vie aux déchets agricoles, encore à petite échelle."
-    },
-    "ru": {
-     "title": "Четыре индийских стартапа превращают кокосовые скорлупы и рисовую шелуху в товары для дома",
-     "summary": "Индийские стартапы превращают сельскохозяйственные отходы, такие как кокосовые скорлупы и рисовую золу, в потребительские товары, включая кухонные чаши.",
-     "why": "Дает сельскохозяйственным отходам вторую жизнь, все ещё в малом масштабе."
-    }
-   }
-  },
-  {
-   "id": "sd-moon-pit-cave-gimli-nasa",
-   "title": "NASA selects project to probe a Moon pit that may lead to a cave",
-   "summary": "The GIMLI project will use radar and seismic sensors to test whether the Marius Hills Pit opens into a subsurface cave or lava tube.",
-   "why": "Interesting exploration with no direct benefit yet.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261003234013.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Space",
-   "published": "2026-10-03T00:47:40Z",
-   "continent": "Global",
-   "added": "2026-10-06T06:16:29Z",
-   "i18n": {
-    "ca": {
-     "title": "La NASA selecciona un projecte per sondejar un pou de la Lluna que pot portar a una cova",
-     "summary": "El projecte GIMLI utilitzarà radar i sensors sísmics per provar si el pou de Marius Hills s'obri a una cova subsuperficial o tub de lava.",
-     "why": "Exploració interessant sense benefici directe encara."
-    },
-    "fr": {
-     "title": "La NASA sélectionne un projet pour explorer un puits lunaire qui pourrait mener à une caverne",
-     "summary": "Le projet GIMLI utilisera le radar et les capteurs sismiques pour tester si le puits de Marius Hills débouche sur une caverne souterraine ou un tube de lave.",
-     "why": "Exploration intéressante sans avantage direct pour le moment."
-    },
-    "ru": {
-     "title": "NASA выбирает проект для исследования лунной ямы, которая может привести в пещеру",
-     "summary": "Проект GIMLI будет использовать радар и сейсмические датчики для проверки того, открывается ли Яма Мариуса в подземную пещеру или лавовый туннель.",
-     "why": "Интересное исследование без прямых выгод пока."
-    }
-   }
-  },
-  {
-   "id": "gr-colorado-geothermal-heat-pump-neighborhood",
-   "title": "Colorado neighborhood of nearly 100 homes uses ground-source heat pumps",
-   "summary": "Geothermal company Dandelion Energy and homebuilder Lennar completed almost 100 homes with ground-source heat pumps, offering a model for future home energy use.",
-   "why": "Real homes built at scale with efficient clean heating.",
-   "source": "Grist",
-   "url": "https://grist.org/energy/new-colorado-neighborhood-could-offer-glimpse-into-the-future-of-home-energy-use/",
-   "score": 7,
-   "category": "Energy",
-   "region": "Colorado, USA",
-   "published": "2026-10-03T00:00:00Z",
-   "continent": "North America",
-   "added": "2026-10-04T04:59:04Z",
-   "i18n": {
-    "ca": {
-     "title": "Un barri de Colorado amb gairebé 100 cases utilitza bombes de calor de font terrestre",
-     "summary": "La companyia de geotèrmica Dandelion Energy i el constructor de cases Lennar van completar gairebé 100 cases amb bombes de calor de font terrestre, oferint un model per a l'ús futur de l'energia per a cases.",
-     "why": "Cases reals construïdes a escala amb calefacció neta eficient."
-    },
-    "fr": {
-     "title": "Un quartier du Colorado avec près de 100 maisons utilise des pompes à chaleur géothermiques",
-     "summary": "La compagnie géothermique Dandelion Energy et le constructeur de maisons Lennar ont terminé près de 100 maisons avec des pompes à chaleur géothermiques, offrant un modèle pour l'usage futur de l'énergie domestique.",
-     "why": "Maisons réelles construites à l'échelle avec un chauffage propre efficace."
-    },
-    "ru": {
-     "title": "Район Колорадо с почти 100 домами использует геотермальные тепловые насосы",
-     "summary": "Компания геотермальной энергии Dandelion Energy и застройщик Lennar завершили строительство почти 100 домов с геотермальными тепловыми насосами, предлагая модель для будущего использования энергии в домах.",
-     "why": "Настоящие дома, построенные в масштабе с эффективным чистым отоплением."
-    }
-   }
-  },
-  {
-   "id": "sd-ecadherin-second-job-cell-engulfment",
-   "title": "Cell adhesion protein found to help cells clear dead material",
-   "summary": "E-cadherin, known for holding cells together, also helps epithelial cells engulf dead cellular material.",
-   "why": "Basic research that adds to understanding of tissue health.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm",
-   "score": 6,
-   "category": "Science",
-   "region": "Global",
-   "published": "2026-10-02T23:12:55Z",
-   "continent": "Global",
-   "added": "2026-10-06T06:16:29Z",
-   "i18n": {
-    "ca": {
-     "title": "Una proteïna d'adhesió cel·lular és útil per eliminar material cel·lular mort",
-     "summary": "E-cadherina, coneguda per mantenir les cèl·lules juntes, també ajuda les cèl·lules epitelials a engolir material cel·lular mort.",
-     "why": "Investigació bàsica que afegeix comprensió sobre la salut dels teixits."
-    },
-    "fr": {
-     "title": "Une protéine d'adhésion cellulaire aide les cellules à éliminer le matériel mort",
-     "summary": "La cadhérine E, connue pour maintenir les cellules ensemble, aide également les cellules épithéliales à absorber les matériaux cellulaires morts.",
-     "why": "La recherche fondamentale qui ajoute à la compréhension de la santé des tissus."
-    },
-    "ru": {
-     "title": "Белок клеточной адгезии помогает клеткам удалять мёртвый материал",
-     "summary": "Е-кадгерин, известный своей ролью в соединении клеток, также помогает эпителиальным клеткам поглощать мёртвый клеточный материал.",
-     "why": "Фундаментальные исследования, расширяющие понимание здоровья тканей."
-    }
-   }
-  },
-  {
-   "id": "mb-satellites-reveal-ocean-oil-pollution",
-   "title": "Satellites reveal large scale of routine oil pollution in oceans",
-   "summary": "Satellite imagery shows oil slicks from ships and platforms covering about 1.6 million square kilometres of ocean, giving a new picture of routine pollution.",
-   "why": "Worrying pollution, but better data can support enforcement.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/10/satellite-data-reveal-massive-scale-of-routine-oil-pollution-in-oceans-see-the-map/",
-   "score": 3,
-   "category": "Environment",
-   "region": "Global",
-   "published": "2026-10-02T23:11:39Z",
-   "continent": "Global",
-   "added": "2026-10-04T04:47:40Z",
-   "i18n": {
-    "ca": {
-     "title": "Els satèl·lits revelen l'abast a gran escala de la contaminació petrolífera rutinaria als oceans",
-     "summary": "Les imatges de satèl·lit mostren taques de petroli dels vaixells i les plataformes que cobreixen aproximadament 1,6 milions de quilòmetres quadrats d'oceà, donant una nova perspectiva de la contaminació rutinaria.",
-     "why": "Contaminació preocupant, però les dades millors poden recolzar la imposició."
-    },
-    "fr": {
-     "title": "Les satellites révèlent l'ampleur à grande échelle de la pollution pétrolière de routine dans les océans",
-     "summary": "L'imagerie satellite montre des nappes de pétrole provenant de navires et de plateformes couvrant environ 1,6 million de kilomètres carrés d'océan, donnant une nouvelle image de la pollution de routine.",
-     "why": "Pollution préoccupante, mais de meilleures données peuvent soutenir l'application."
-    },
-    "ru": {
-     "title": "Спутники выявили масштабность рутинного загрязнения нефтью в океанах",
-     "summary": "Спутниковые снимки показывают нефтяные пятна с кораблей и платформ, покрывающие около 1,6 миллиона квадратных километров океана, давая новую картину рутинного загрязнения.",
-     "why": "Беспокоящее загрязнение, но лучшие данные могут поддержать соблюдение."
-    }
-   }
-  },
-  {
-   "id": "mb-amazon-deforestation-brazil-election",
-   "title": "Brazil's election could shape Amazon protection after 45% deforestation drop",
-   "summary": "Policies that cut Amazon forest loss by 45% could be reversed depending on the outcome of Brazil's presidential election.",
-   "why": "Past progress is real, but it is now at risk.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/10/future-of-amazon-rainforest-policies-at-stake-in-brazilian-presidential-election/",
-   "score": 4,
-   "category": "Environment",
-   "region": "Brazil",
-   "published": "2026-10-02T21:25:25Z",
-   "continent": "South America",
-   "added": "2026-10-04T12:17:05Z",
-   "i18n": {
-    "ca": {
-     "title": "L'elecció del Brasil podria formar la protecció de l'Amazònia després d'una caiguda de deforestació del 45%",
-     "summary": "Les polítiques que van reduir la pèrdua de foresta amazònica en un 45% podrien ser revertides depenent del resultat de l'elecció presidencial de Brasil.",
-     "why": "El progrés passat és real, però ara està en risc."
-    },
-    "fr": {
-     "title": "L'élection brésilienne pourrait modeler la protection de l'Amazonie après une baisse de 45% de la déforestation",
-     "summary": "Les politiques qui ont réduit la perte de forêt amazonienne de 45% pourraient être inversées selon l'issue de l'élection présidentielle au Brésil.",
-     "why": "Les progrès passés sont réels, mais ils sont maintenant menacés."
-    },
-    "ru": {
-     "title": "Выборы в Бразилии могут определить защиту Амазонии после 45-процентного сокращения вырубок",
-     "summary": "Политика, сократившая потерю лесов Амазонии на 45%, может быть отменена в зависимости от результата президентских выборов в Бразилии.",
-     "why": "Прошлые успехи реальны, но теперь они подвергаются риску."
-    }
-   }
-  },
-  {
-   "id": "mb-vietnam-fishers-declining-catches",
-   "title": "Vietnamese fishers squeezed by fuel costs, falling catches and disputed waters",
-   "summary": "Fishers in Vietnam face higher fuel prices and shrinking stocks driven by overfishing and climate change, while competing with foreign vessels in contested parts of the sea.",
-   "why": "A useful warning about overfishing and livelihoods, with no clear improvement.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/10/vietnams-fishers-face-rising-costs-declining-catches-and-a-contested-sea/",
-   "score": 2,
-   "category": "Environment",
-   "region": "Vietnam",
-   "published": "2026-10-02T18:01:16Z",
-   "continent": "Asia",
-   "added": "2026-10-04T18:14:33Z",
-   "i18n": {
-    "ca": {
-     "title": "Els pescadors vietnamites pressionats pels costos de combustible, caiguda de captures i aigües disputades",
-     "summary": "Els pescadors a Vietnam s'enfronten a preus més alts de combustible i estocs decreixents impulsats per la sobrepesca i el canvi climàtic, mentre competeixen amb vaixells estrangers en parts contestades del mar.",
-     "why": "Un advertiment útil sobre la sobrepesca i els mitjans de vida, sense cap millora clara."
-    },
-    "fr": {
-     "title": "Les pêcheurs vietnamiens confrontés aux coûts de carburant, aux prises déclinantes et aux eaux contestées",
-     "summary": "Les pêcheurs au Vietnam font face à des prix de carburant plus élevés et à des stocks décroissants causés par la surpêche et le changement climatique, tout en concurrençant des navires étrangers dans des zones contestées de la mer.",
-     "why": "Un avertissement utile concernant la surpêche et les moyens de subsistance, sans amélioration claire en vue."
-    },
-    "ru": {
-     "title": "Вьетнамские рыбаки в затруднении из-за стоимости топлива, снижающихся уловов и спорных вод",
-     "summary": "Рыбаки во Вьетнаме сталкиваются с более высокими ценами на топливо и сокращающимися запасами, вызванными чрезмерным выловом и изменением климата, одновременно конкурируя с иностранными судами в спорных районах моря.",
-     "why": "Полезное предупреждение о чрезмерном вылове и средствах к существованию, но без явных признаков улучшения."
-    }
-   }
-  },
-  {
-   "id": "gnn-uk-museums-free-entry",
-   "title": "UK national museums will stay free for foreign visitors",
-   "summary": "After talks with the government, 14 major national museums confirmed they will keep free admission for international visitors.",
-   "why": "Keeps culture open to everyone; a continuation rather than a new gain.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/uks-national-museums-to-continue-25-year-policy-of-free-entry-for-foreign-visitors/",
-   "score": 6,
-   "category": "Culture",
-   "region": "UK",
-   "published": "2026-10-02T15:30:56Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "Europe",
-   "i18n": {
-    "ca": {
-     "title": "Els museus nacionals britànics seguiran sent gratuïts per als visitants estrangers",
-     "summary": "Després de converses amb el govern, 14 grans museus nacionals han confirmat que mantindran l'entrada gratuïta per als visitants internacionals.",
-     "why": "Manté la cultura oberta a tothom; és una continuïtat més que no pas un avenç nou."
-    },
-    "fr": {
-     "title": "Les musées nationaux britanniques resteront gratuits pour les visiteurs étrangers",
-     "summary": "Après des discussions avec le gouvernement, 14 grands musées nationaux ont confirmé qu'ils resteront gratuits pour les visiteurs internationaux.",
-     "why": "La culture reste ouverte à tous ; c'est une continuité plutôt qu'un nouveau progrès."
-    },
-    "ru": {
-     "title": "Национальные музеи Великобритании останутся бесплатными для иностранцев",
-     "summary": "После переговоров с правительством 14 крупных национальных музеев подтвердили, что вход для иностранных посетителей останется бесплатным.",
-     "why": "Культура остаётся доступной для всех; скорее сохранение, чем новое достижение."
-    }
-   }
-  },
-  {
-   "id": "an-un-call-dryland-forests",
-   "title": "UN calls for action to protect the world's dryland forests",
-   "summary": "The UN urged stronger protection of dryland forests, which support food security and culture for more than two billion people.",
-   "why": "A call to act rather than an achievement yet.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/10/02/un-issues-call-to-action-on-worlds-vital-dryland-forests/",
-   "score": 5,
-   "category": "Environment",
-   "region": "Global",
-   "published": "2026-10-02T15:20:05Z",
-   "continent": "Global",
-   "added": "2026-10-04T04:59:04Z",
-   "i18n": {
-    "ca": {
-     "title": "L'ONU demana actuar per protegir els boscos de zones àrides del món",
-     "summary": "L'ONU va instar una protecció més forta dels boscos de zones àrides, que sostenen la seguretat alimentària i la cultura de més de dos mil milions de persones.",
-     "why": "Una crida a actuar, encara no un assoliment."
-    },
-    "fr": {
-     "title": "L'ONU appelle à des mesures pour protéger les forêts sèches du monde",
-     "summary": "L'ONU a exhorté une protection plus forte des forêts sèches, qui soutiennent la sécurité alimentaire et la culture pour plus de deux milliards de personnes.",
-     "why": "Un appel à agir plutôt qu'une réussite pour le moment."
-    },
-    "ru": {
-     "title": "ООН призывает к действиям по защите засушливых лесов мира",
-     "summary": "ООН призвала к более строгой защите засушливых лесов, которые обеспечивают продовольственную безопасность и культуру для более чем двух миллиардов человек.",
-     "why": "Призыв к действию, а не достижение."
-    }
-   }
-  },
-  {
-   "id": "mb-probiotics-protect-corals-red-sea",
-   "title": "Probiotic treatment shielded corals from bleaching in Red Sea heat wave",
-   "summary": "A study found that beneficial bacteria protected corals from bleaching during a marine heat wave, pointing to a possible tool for reef protection.",
-   "why": "Promising result, but still an early study at small scale.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/10/probiotics-prevented-coral-bleaching-during-a-red-sea-heat-wave-study/",
-   "score": 6,
-   "category": "Environment",
-   "region": "Red Sea",
-   "published": "2026-10-02T15:06:24Z",
-   "continent": "Asia",
-   "added": "2026-10-04T04:47:40Z",
-   "i18n": {
-    "ca": {
-     "title": "El tractament probiótic va protegir els corals de l'blanquejament durant l'onada de calor de la Mar Roja",
-     "summary": "Un estudi va trobar que les bactèries beneficioses protegien els corals de l'blanquejament durant una onada de calor marina, apuntant cap a una possible eina per a la protecció dels arrecifs.",
-     "why": "Resultat prometedor, però encara un estudi primerenc a petita escala."
-    },
-    "fr": {
-     "title": "Le traitement probiotique a protégé les coraux du blanchissement lors de la vague de chaleur en mer Rouge",
-     "summary": "Une étude a découvert que les bactéries bénéfiques protégeaient les coraux du blanchissement lors d'une vague de chaleur marine, ce qui pourrait être un outil de protection des récifs.",
-     "why": "Résultat prometteur, mais encore une étude précoce à petite échelle."
-    },
-    "ru": {
-     "title": "Пробиотическое лечение защитило кораллы от обесцвечивания во время волны тепла в Красном море",
-     "summary": "Исследование показало, что полезные бактерии защищали кораллы от обесцвечивания во время морской волны тепла, что указывает на возможный инструмент защиты рифов.",
-     "why": "Многообещающий результат, но всё ещё раннее исследование в небольшом масштабе."
-    }
-   }
-  },
-  {
-   "id": "mb-permafrost-wetland-feedbacks-warming",
-   "title": "Study: natural feedbacks could amplify climate warming by up to 30%",
-   "summary": "Thawing permafrost, wetlands, wildfires and freshwater emissions could add 0.2 to 0.4°C of warming by 2100.",
-   "why": "A useful warning that improves climate projections but is not good news.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/10/permafrost-wetland-wildfire-and-freshwater-emissions-could-amplify-climate-change-by-up-to-30-study-finds/",
-   "score": 3,
-   "category": "Environment",
-   "region": "Global",
-   "published": "2026-10-02T14:05:37Z",
-   "continent": "Global",
-   "added": "2026-10-05T12:15:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Estudi: els retorns naturals podrien amplificar l'escalfament climàtic fins al 30%",
-     "summary": "El deshielo del permafrost, els aiguamolls, els incendis forestals i les emissions d'aigua dolça podrien afegir 0,2 a 0,4°C d'escalfament per al 2100.",
-     "why": "Un avís útil que millora les projeccions climàtiques però no és bona notícia."
-    },
-    "fr": {
-     "title": "Étude : les rétroactions naturelles pourraient amplifier le réchauffement climatique jusqu'à 30%",
-     "summary": "Le dégel du pergélisol, les zones humides, les feux de forêt et les émissions d'eau douce pourraient ajouter 0,2 à 0,4°C de réchauffement d'ici 2100.",
-     "why": "Un avertissement utile qui améliore les projections climatiques mais n'est pas une bonne nouvelle."
-    },
-    "ru": {
-     "title": "Исследование: естественные обратные связи могут усилить глобальное потепление на 30%",
-     "summary": "Таяние вечной мерзлоты, водно-болотных угодий, лесные пожары и выбросы пресной воды могут добавить 0,2-0,4°C потепления к 2100 году.",
-     "why": "Полезное предупреждение, которое улучшает климатические прогнозы, но не является хорошей новостью."
-    }
-   }
-  },
-  {
-   "id": "mb-mwambao-community-conservation-tanzania",
-   "title": "Tanzanian network grew a $25,000 grant into community-led coastal conservation",
-   "summary": "The Mwambao Coastal Community Network expanded from a small grant made during the 2008 financial crisis into a broader community-led conservation effort on Tanzania's coast.",
-   "why": "Shows local leadership can sustain conservation over time.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/10/how-to-grow-25k-into-community-led-conservation-interview-with-tanzanias-mwambao/",
-   "score": 6,
-   "category": "Environment",
-   "region": "Tanzania",
-   "published": "2026-10-02T13:58:53Z",
-   "continent": "Africa",
-   "added": "2026-10-04T04:59:04Z",
-   "i18n": {
-    "ca": {
-     "title": "Una xarxa tanzana va convertir una subvenció de 25.000 dòlars en conservació costanera dirigida per la comunitat",
-     "summary": "La Xarxa Comunitària Costanera de Mwambao es va expandir a partir d'una petita subvenció concedida durant la crisi financera de 2008 en un esforç de conservació més ampli dirigit per la comunitat a la costa de Tanzània.",
-     "why": "Demostra que el lideratge local pot mantenir la conservació al llarg del temps."
-    },
-    "fr": {
-     "title": "Un réseau tanzanien a transformé une subvention de 25 000 dollars en conservation côtière dirigée par la communauté",
-     "summary": "Le Réseau communautaire côtier de Mwambao s'est développé à partir d'une petite subvention accordée lors de la crise financière de 2008 en un effort plus large de conservation dirigé par la communauté sur la côte de Tanzanie.",
-     "why": "Montre que le leadership local peut soutenir la conservation au fil du temps."
-    },
-    "ru": {
-     "title": "Танзанийская сеть превратила грант в 25 000 долларов в природоохранную деятельность, возглавляемую общиной",
-     "summary": "Прибрежная общественная сеть Мвамбао расширилась из небольшого гранта, выданного во время финансового кризиса 2008 года, в более широкие усилия по сохранению, возглавляемые общиной на побережье Танзании.",
-     "why": "Показывает, что местное лидерство может поддерживать охрану природы во времени."
-    }
-   }
-  },
-  {
-   "id": "an-burkina-faso-deaf-dancers-vibra-signe",
-   "title": "Deaf dancers in Burkina Faso use vibration technique to follow rhythm",
-   "summary": "Deaf and hearing-impaired dancers use the Vibra-Signe technique to feel music, giving them a route to social inclusion.",
-   "why": "Inclusion for a marginalised group, at community scale.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/10/02/burkina-faso-deaf-dancers-use-special-technique-to-follow-rhythm/",
-   "score": 7,
-   "category": "Society",
-   "region": "Burkina Faso",
-   "published": "2026-10-02T13:14:24Z",
-   "continent": "Africa",
-   "added": "2026-10-04T12:17:05Z",
-   "i18n": {
-    "ca": {
-     "title": "Ballarins sords a Burkina Faso usen tècnica de vibració per seguir el ritme",
-     "summary": "Ballarins sords i amb discapacitat auditiva usen la tècnica Vibra-Signe per sentir la música, donant-los una via d'inclusió social.",
-     "why": "Inclusió per a un grup marginat, a escala comunitària."
-    },
-    "fr": {
-     "title": "Des danseurs sourds au Burkina Faso utilisent la technique de vibration pour suivre le rythme",
-     "summary": "Les danseurs sourds et malentendants utilisent la technique Vibra-Signe pour sentir la musique, ce qui leur ouvre un chemin vers l'inclusion sociale.",
-     "why": "Inclusion pour un groupe marginalisé, à l'échelle communautaire."
-    },
-    "ru": {
-     "title": "Глухие танцоры в Буркина-Фасо используют технику вибраций для следования ритму",
-     "summary": "Глухие и слабослышащие танцоры используют технику Vibra-Signe для ощущения музыки, открывая им путь к социальной интеграции.",
-     "why": "Включение маргинализированной группы в общественную жизнь."
-    }
-   }
-  },
-  {
-   "id": "gnn-antarctica-wind-farm",
-   "title": "Antarctic wind turbines have saved 122,000 gallons of diesel",
-   "summary": "Three turbines on Ross Island have powered McMurdo Station for 15 years, cutting fuel shipments and emissions at the research base.",
-   "why": "A long-running, proven clean-energy success at small scale.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/antarcticas-wind-farm-saves-122000-gallons-of-diesel-over-15-years-powering-mcmurdo-station/",
-   "score": 6,
-   "category": "Energy",
-   "region": "Antarctica",
-   "published": "2026-10-02T13:00:15Z",
-   "added": "2026-10-03T15:58:00Z",
-   "continent": "Antarctica",
-   "i18n": {
-    "ca": {
-     "title": "Els aerogeneradors de l'Antàrtida han estalviat 122.000 galons de gasoil",
-     "summary": "Tres turbines a l'illa de Ross fa 15 anys que subministren energia a l'estació McMurdo, i redueixen els enviaments de combustible i les emissions de la base.",
-     "why": "Un èxit d'energia neta provat i durador, a petita escala."
-    },
-    "fr": {
-     "title": "Les éoliennes de l'Antarctique ont permis d'économiser 122 000 gallons de gazole",
-     "summary": "Trois turbines sur l'île de Ross alimentent la station McMurdo depuis 15 ans, réduisant les livraisons de carburant et les émissions de la base.",
-     "why": "Un succès durable et éprouvé de l'énergie propre, à petite échelle."
-    },
-    "ru": {
-     "title": "Ветряки в Антарктиде сэкономили 122 000 галлонов дизеля",
-     "summary": "Три турбины на острове Росса уже 15 лет снабжают энергией станцию Мак-Мердо, сокращая поставки топлива и выбросы.",
-     "why": "Долгий и проверенный успех чистой энергетики, пусть и в малом масштабе."
-    }
-   }
-  },
-  {
-   "id": "mb-uganda-wcs-co-manage-park-sector",
-   "title": "Uganda and conservation group to co-manage park sector home to tree-climbing lions",
-   "summary": "The Uganda Wildlife Authority and the Wildlife Conservation Society signed a 10-year agreement to jointly manage part of a national park known for its tree-climbing lions.",
-   "why": "Long-term management support for wildlife and habitat.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/10/uganda-and-ngo-to-co-manage-sector-of-national-park-home-to-tree-climbing-lions/",
-   "score": 6,
-   "category": "Animals",
-   "region": "Uganda",
-   "published": "2026-10-02T12:49:05Z",
-   "continent": "Africa",
-   "added": "2026-10-04T04:47:40Z",
-   "i18n": {
-    "ca": {
-     "title": "Uganda i un grup de conservació cogestionen un sector del parc amb lleons que pugen als arbres",
-     "summary": "L'Autoritat de Fauna de Uganda i la Societat de Conservació de la Vida Silvestre van signar un acord de 10 anys per gestionar conjuntament part d'un parc nacional conegut pels seus lleons que grimpen als arbres.",
-     "why": "Suport a la gestió a llarg termini de la fauna i l'hàbitat."
-    },
-    "fr": {
-     "title": "L'Ouganda et un groupe de conservation cogèrent un secteur du parc abritant des lions qui grimpent aux arbres",
-     "summary": "L'Autorité ougandaise de la faune et la Société de conservation de la faune ont signé un accord de 10 ans pour gérer conjointement une partie d'un parc national connu pour ses lions grimpants.",
-     "why": "Soutien de la gestion à long terme de la faune et de l'habitat."
-    },
-    "ru": {
-     "title": "Уганда и природоохранная организация совместно управляют сектором парка, где обитают лазающие по деревьям львы",
-     "summary": "Управление дикой природы Угаунды и Общество охраны дикой природы подписали 10-летнее соглашение о совместном управлении частью национального парка, известного своими лазающими по деревьям львами.",
-     "why": "Долгосрочная поддержка управления дикой природой и средой обитания."
-    }
-   }
-  },
-  {
-   "id": "sd-roman-telescope-coronagraph",
-   "title": "NASA's Roman telescope passes key pointing and coronagraph tests",
-   "summary": "The Roman Space Telescope showed very stable pointing and captured focused images with its coronagraph, an instrument designed to help image planets around other stars.",
-   "why": "Solid progress for a flagship observatory.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm",
-   "score": 6,
-   "category": "Science",
-   "region": "Space",
-   "published": "2026-10-02T12:21:30Z",
-   "continent": "Global",
-   "added": "2026-10-04T04:10:05Z",
-   "i18n": {
-    "ca": {
-     "title": "El telescopi Roman de la NASA passa proves clau de punteria i coronagraf",
-     "summary": "El Telescopi Espacial Roman va demostrar una punteria molt estable i va captar imatges enfocades amb el seu coronagraf, un instrument dissenyat per ajudar a imatge de planetes al voltant d'altres estrelles.",
-     "why": "Progrés sòlid per a un observatori insigne."
-    },
-    "fr": {
-     "title": "Le télescope Roman de la NASA réussit les tests clés de pointage et de coronagraphe",
-     "summary": "Le télescope spatial Roman a démontré un pointage très stable et a capturé des images nettes avec son coronagraphe, un instrument conçu pour imager les planètes autour d'autres étoiles.",
-     "why": "Progrès solide pour un observatoire phare."
-    },
-    "ru": {
-     "title": "Телескоп Roman НАСА проходит ключевые испытания наведения и коронаграфа",
-     "summary": "Космический телескоп Roman показал очень стабильное наведение и захватил сфокусированные изображения своим коронаграфом, прибором, предназначенным для получения изображений планет вокруг других звезд.",
-     "why": "Твердый прогресс для флагманской обсерватории."
-    }
-   }
-  },
-  {
-   "id": "mb-hong-kong-heat-outdoor-workers",
-   "title": "Calls grow for tougher heat rules to protect Hong Kong outdoor workers",
-   "summary": "As Hong Kong sets record temperatures above 39.8 degrees Celsius, outdoor workers face rising heat stress and advocates want stronger protections.",
-   "why": "Growing heat risk, with some momentum for protection.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/10/as-hong-kong-heats-up-calls-grow-for-tougher-rules-to-protect-outdoor-workers/",
-   "score": 3,
-   "category": "Society",
-   "region": "Hong Kong",
-   "published": "2026-10-02T12:07:45Z",
-   "continent": "Asia",
-   "added": "2026-10-04T04:59:04Z",
-   "i18n": {
-    "ca": {
-     "title": "Creixen les crides per a normes de calor més dures per protegir els treballadors exteriors de Hong Kong",
-     "summary": "Mentre Hong Kong estableix temperatures rècord per sobre de 39,8 graus Celsius, els treballadors exteriors s'enfronten a l'estrès de calor creixent i els defensors volen proteccions més fortes.",
-     "why": "Risc de calor creixent, amb un cert impuls per a la protecció."
-    },
-    "fr": {
-     "title": "Les appels s'intensifient pour des règles de chaleur plus strictes afin de protéger les travailleurs extérieurs de Hong Kong",
-     "summary": "Alors que Hong Kong établit des records de température au-dessus de 39,8 degrés Celsius, les travailleurs extérieurs font face à un stress thermique croissant et les défenseurs veulent des protections plus fortes.",
-     "why": "Risque de chaleur croissant, avec un certain élan pour la protection."
-    },
-    "ru": {
-     "title": "Растут призывы к более строгим правилам против жары для защиты работников на открытом воздухе Гонконга",
-     "summary": "Поскольку Гонконг устанавливает рекордные температуры выше 39,8 градусов Цельсия, работники на открытом воздухе сталкиваются с растущим тепловым стрессом, и защитники хотят более строгих мер защиты.",
-     "why": "Растущий риск жары с некоторым импульсом для защиты."
-    }
-   }
-  },
-  {
-   "id": "sd-magnetic-fossils-navigation",
-   "title": "97-million-year-old magnetic fossils hint at early animal navigation",
-   "summary": "Ancient magnetic fossils may be the oldest evidence of animals using Earth's magnetic field to navigate, possibly over thousands of kilometres.",
-   "why": "Fascinating insight into evolution with no direct practical effect.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260930020329.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Global",
-   "published": "2026-10-02T11:54:34Z",
-   "continent": "Global",
-   "added": "2026-10-04T04:10:05Z",
-   "i18n": {
-    "ca": {
-     "title": "Els fòssils magnètics de 97 milions d'anys suggereixen la navegació animal primerenca",
-     "summary": "Els fòssils magnètics antics poden ser la prova més antiga que animals usen el camp magnètic terrestre per navegar, potser sobre milers de quilòmetres.",
-     "why": "Perspectiva fascinant sobre l'evolució sense efecte pràctic directe."
-    },
-    "fr": {
-     "title": "Les fossiles magnétiques vieux de 97 millions d'années suggèrent une navigation animale précoce",
-     "summary": "Les fossiles magnétiques anciens pourraient être la plus ancienne preuve que les animaux utilisent le champ magnétique terrestre pour naviguer, possiblement sur des milliers de kilomètres.",
-     "why": "Aperçu fascinant de l'évolution sans effet pratique direct."
-    },
-    "ru": {
-     "title": "Магнитные окаменелости возрастом 97 миллионов лет указывают на раннюю навигацию животных",
-     "summary": "Древние магнитные окаменелости могут быть самым древним свидетельством того, что животные используют магнитное поле Земли для навигации, возможно на тысячи километров.",
-     "why": "Увлекательное понимание эволюции без прямого практического эффекта."
-    }
-   }
-  },
-  {
-   "id": "mb-maleo-trafficking-indonesia",
-   "title": "Traffickers begin targeting Indonesia's endangered maleo birds",
-   "summary": "Illegal live-animal trade for exotic pet markets is a new threat to the maleo, whose population is down to roughly 4,000-7,000 breeding pairs.",
-   "why": "A warning that gives conservationists a chance to act early.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/10/wildlife-traffickers-are-now-targeting-indonesias-critically-endangered-maleo-birds/",
-   "score": 3,
-   "category": "Animals",
-   "region": "Indonesia",
-   "published": "2026-10-02T11:33:44Z",
-   "continent": "Asia",
-   "added": "2026-10-05T00:15:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Els traficants comencen a dirigir-se als ocells maleo en perill d'extinció d'Indonèsia",
-     "summary": "El comerç il·legal d'animals vius per als mercats exòtics de mascotes és una nova amenaça per al maleo, la seva població es redueix a aproximadament 4.000-7.000 parelles reproductores.",
-     "why": "Un avís que dóna als conservacionistes l'oportunitat d'actuar aviat."
-    },
-    "fr": {
-     "title": "Les trafiquants commencent à cibler les oiseaux maleo en danger d'extinction d'Indonésie",
-     "summary": "Le commerce illégal d'animaux vivants pour les marchés exotiques des animaux de compagnie est une nouvelle menace pour le maleo, dont la population est réduite à environ 4 000-7 000 couples reproducteurs.",
-     "why": "Un avertissement qui donne aux conservateurs une chance d'agir tôt."
-    },
-    "ru": {
-     "title": "Торговцы начинают охотиться на исчезающих птиц малео Индонезии",
-     "summary": "Незаконная торговля живыми животными для экзотических рынков домашних животных представляет новую угрозу для малео, численность которых снизилась примерно до 4000-7000 размножающихся пар.",
-     "why": "Предупреждение, которое даёт природоохранникам шанс действовать рано."
-    }
-   }
-  },
-  {
-   "id": "mb-indonesia-rubber-growers-traditional-fire-fighting",
-   "title": "Indonesian rubber growers use traditional methods to fight wildfires",
-   "summary": "Rubber farmers in Indonesia are using traditional techniques and simple equipment to protect their land during an El Niño-intensified fire season.",
-   "why": "Community resilience, but the fires still threaten them.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/10/as-fires-spread-indonesias-rubber-growers-draw-on-traditional-ways-to-fight-back/",
-   "score": 4,
-   "category": "Environment",
-   "region": "Indonesia",
-   "published": "2026-10-02T11:13:30Z",
-   "continent": "Asia",
-   "added": "2026-10-04T12:17:05Z",
-   "i18n": {
-    "ca": {
-     "title": "Els cultivadors de goma d'Indonèsia usen mètodes tradicionals per combatre els incendis forestals",
-     "summary": "Els cultivadors de goma d'Indonèsia usen tècniques tradicionals i equips senzills per protegir les seves terres durant una temporada d'incendis intensificada per El Niño.",
-     "why": "Resiliència comunitària, però els incendis encara els amenacen."
-    },
-    "fr": {
-     "title": "Les producteurs de caoutchouc indonésiens utilisent des méthodes traditionnelles pour combattre les feux de forêt",
-     "summary": "Les agriculteurs indonésiens qui cultivent le caoutchouc utilisent des techniques traditionnelles et des équipements simples pour protéger leurs terres pendant une saison d'incendies intensifiée par El Niño.",
-     "why": "Résilience communautaire, mais les incendies les menacent toujours."
-    },
-    "ru": {
-     "title": "Индонезийские производители каучука используют традиционные методы борьбы с лесными пожарами",
-     "summary": "Фермеры по выращиванию каучука в Индонезии используют традиционные методы и простое оборудование для защиты своих земель во время сезона пожаров, усиленного Эль-Ниньо.",
-     "why": "Устойчивость общин, но пожары все еще угрожают им."
-    }
-   }
-  },
-  {
-   "id": "an-mobile-labs-speed-ebola-testing",
-   "title": "Mobile labs speed up Ebola testing in eastern DR Congo",
-   "summary": "Mobile testing units placed in treatment centres cut waiting times that previously took up to 72 hours, helping care teams act faster.",
-   "why": "Faster diagnosis helps contain outbreaks.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/10/02/mobile-labs-speed-up-ebola-testing-in-eastern-congo/",
-   "score": 7,
-   "category": "Health",
-   "region": "DR Congo",
-   "published": "2026-10-02T11:06:18Z",
-   "continent": "Africa",
-   "added": "2026-10-04T04:47:40Z",
-   "i18n": {
-    "ca": {
-     "title": "Els laboratoris mòbils acceleren les proves d'Ebola a l'Est de la República Democràtica del Congo",
-     "summary": "Les unitats de prova mòbils col·locades als centres de tractament van reduir els temps d'espera que anteriorment feien fins a 72 hores, ajudant els equips d'atenció a actuar més ràpidament.",
-     "why": "El diagnòstic més ràpid ajuda a contenir els brots."
-    },
-    "fr": {
-     "title": "Les laboratoires mobiles accélèrent les tests d'Ebola dans l'est de la République démocratique du Congo",
-     "summary": "Les unités de test mobiles placées dans les centres de traitement ont réduit les temps d'attente qui prenaient auparavant jusqu'à 72 heures, aidant les équipes de soins à agir plus rapidement.",
-     "why": "Le diagnostic plus rapide aide à contenir les épidémies."
-    },
-    "ru": {
-     "title": "Мобильные лаборатории ускоряют тестирование Эболы в восточной ДР Конго",
-     "summary": "Мобильные тестовые единицы, размещённые в центрах лечения, сократили время ожидания, которое ранее занимало до 72 часов, помогая группам оказания помощи действовать быстрее.",
-     "why": "Более быстрая диагностика помогает сдерживать вспышки."
     }
    }
   }
