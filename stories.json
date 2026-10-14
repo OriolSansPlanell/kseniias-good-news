@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T04:16:06Z",
+ "updated": "2026-10-14T04:15:14Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,10 +12,103 @@
   "Grist",
   "Africanews"
  ],
- "count": 215,
- "last_run": "run-20261013T0416Z.json",
- "note": "15 new, 30 skipped, 24 pruned, 0 translations added, failed feeds: none",
+ "count": 211,
+ "last_run": "run-20261014T0415Z.json",
+ "note": "15 new, 45 skipped, 19 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "tbi-sparrow-friendly-schools",
+   "title": "Chennai conservationist helps over 80 schools welcome back house sparrows",
+   "summary": "Koodugal Ganeshan advises schools to assess existing habitat before installing nest boxes so that campuses become better for house sparrows.",
+   "why": "Grassroots conservation spreading across schools.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/sustainability/sparrow-friendly-school-campus-koodugal-ganeshan-chennai-sparrow-conservation-nest-box-12670515",
+   "score": 7,
+   "category": "Animals",
+   "region": "Chennai, India",
+   "published": "2026-10-14T00:00:00Z",
+   "continent": "Asia",
+   "added": "2026-10-14T04:15:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Un conservacionista de Chennai ajuda més de 80 escoles a recuperar els pardals comuns",
+     "summary": "Koodugal Ganeshan aconsella a les escoles que avaluïn l'hàbitat existent abans d'instal·lar caixes-niu, perquè els campus siguin més adequats per als pardals comuns.",
+     "why": "Conservació de base que s'estén per les escoles."
+    },
+    "fr": {
+     "title": "Un défenseur de la nature de Chennai aide plus de 80 écoles à accueillir à nouveau les moineaux domestiques",
+     "summary": "Koodugal Ganeshan conseille aux écoles d'évaluer l'habitat existant avant d'installer des nichoirs, afin que les campus deviennent plus accueillants pour les moineaux domestiques.",
+     "why": "Conservation de terrain qui se propage dans les écoles."
+    },
+    "ru": {
+     "title": "Эколог из Ченнаи помог более чем 80 школам вернуть домовых воробьёв",
+     "summary": "Кудугал Ганешан советует школам сначала оценить существующую среду обитания, прежде чем вешать гнездовья, чтобы территории школ стали более пригодными для домовых воробьёв.",
+     "why": "Низовая природоохранная инициатива, которая распространяется по школам."
+    }
+   }
+  },
+  {
+   "id": "tbi-hiware-bazar-watershed",
+   "title": "Maharashtra village uses job-scheme funds for watershed work that beat drought",
+   "summary": "Hiware Bazar in Ahilyanagar district used Employment Guarantee Scheme funds for watershed works that restored farmland and brought migrant families home.",
+   "why": "Proven local model during a weak monsoon.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/governance/hiware-bazar-water-budget-drought-playbook-12671541",
+   "score": 7,
+   "category": "Society",
+   "region": "Maharashtra, India",
+   "published": "2026-10-13T12:00:00Z",
+   "continent": "Asia",
+   "added": "2026-10-14T04:15:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Un poble de Maharashtra destina fons d'un programa d'ocupació a obres de conca que han vençut la sequera",
+     "summary": "Hiware Bazar, al districte d'Ahilyanagar, va utilitzar fons de l'Esquema de Garantia d'Ocupació per a obres de conca que van restaurar terres de conreu i van fer tornar a casa famílies migrants.",
+     "why": "Model local provat durant un monsó feble."
+    },
+    "fr": {
+     "title": "Un village du Maharashtra utilise les fonds d'un programme d'emploi pour des travaux de bassin versant qui ont vaincu la sécheresse",
+     "summary": "Hiware Bazar, dans le district d'Ahilyanagar, a utilisé des fonds du Programme de garantie d'emploi pour des travaux de bassin versant qui ont restauré des terres agricoles et permis à des familles migrantes de rentrer chez elles.",
+     "why": "Modèle local éprouvé pendant une mousson faible."
+    },
+    "ru": {
+     "title": "Деревня в Махараштре использовала средства программы занятости на водоохранные работы и победила засуху",
+     "summary": "Хивэ Базар в округе Ахилянагар направил средства Гарантийной программы занятости на работы по водосбору, которые восстановили пахотные земли и вернули домой семьи мигрантов.",
+     "why": "Проверенная местная модель в условиях слабого муссона."
+    }
+   }
+  },
+  {
+   "id": "tbi-mandar-drum-gi-tag",
+   "title": "Jharkhand's Mandar drum receives a Geographical Indication tag",
+   "summary": "Artisans in Jarjatta village, Gumla, make the traditional Mandar drum from red clay and leather, and the craft now has GI recognition.",
+   "why": "Cultural recognition for local artisans.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/conservation/nature/jharkhand-mandar-drum-gi-tag-gumla-artisans-red-clay-craft-12671877",
+   "score": 6,
+   "category": "Culture",
+   "region": "Jharkhand, India",
+   "published": "2026-10-13T12:00:00Z",
+   "continent": "Asia",
+   "added": "2026-10-14T04:15:14Z",
+   "i18n": {
+    "ca": {
+     "title": "El tambor mandar de Jharkhand obté la indicació geogràfica",
+     "summary": "Els artesans del poble de Jarjatta, a Gumla, fabriquen el tradicional tambor mandar amb argila vermella i cuir, i l'ofici ara té el reconeixement de la indicació geogràfica.",
+     "why": "Reconeixement cultural per als artesans locals."
+    },
+    "fr": {
+     "title": "Le tambour Mandar du Jharkhand reçoit une indication géographique",
+     "summary": "Les artisans du village de Jarjatta, à Gumla, fabriquent le tambour traditionnel mandar à partir d'argile rouge et de cuir, et cet artisanat bénéficie désormais d'une reconnaissance au titre des indications géographiques.",
+     "why": "Reconnaissance culturelle pour les artisans locaux."
+    },
+    "ru": {
+     "title": "Барабан мандар из Джаркханда получил статус географического указания",
+     "summary": "Ремесленники из деревни Джарджатта в округе Гумла изготавливают традиционный барабан мандар из красной глины и кожи; теперь это ремесло получило признание в рамках географических указаний.",
+     "why": "Культурное признание для местных ремесленников."
+    }
+   }
+  },
   {
    "id": "tbi-supreme-court-menstrual-health-schools",
    "title": "Indian Supreme Court treats menstrual health as part of right to life",
@@ -106,6 +199,285 @@
      "title": "Индонезия заявляет, что больше не нуждается в лесах для выращивания риса",
      "summary": "Индонезия объявила, что не будет расширять рисосеяние на лесные территории, однако не разъяснила, как это повлияет на крупные проекты на Папуа и Калимантане. Карта министерства, похоже, противоречит этому заявлению.",
      "why": "Обнадёживающее заявление для лесов, но неясное и не подтверждённое делами."
+    }
+   }
+  },
+  {
+   "id": "pn-london-green-ring",
+   "title": "Plan to link and green London's outer edges announced",
+   "summary": "Organisers of a London project say it will reconnect wilder green spaces around the capital, aiming to benefit about ten million people and boost biodiversity.",
+   "why": "Large urban nature plan, but still a plan not yet delivered.",
+   "source": "Positive News",
+   "url": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
+   "score": 7,
+   "category": "Environment",
+   "region": "London, UK",
+   "published": "2026-10-12T12:00:00Z",
+   "continent": "Europe",
+   "added": "2026-10-14T04:15:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Anunciat un pla per connectar i tornar més verdes les vores de Londres",
+     "summary": "Els organitzadors d'un projecte a Londres asseguren que reconnectarà els espais verds més salvatges de la capital, amb l'objectiu de beneficiar unes deu milions de persones i millorar la biodiversitat.",
+     "why": "Un gran pla de natura urbana, però encara és un pla i no s'ha executat."
+    },
+    "fr": {
+     "title": "Annonce d'un plan visant à relier et verdir les franges extérieures de Londres",
+     "summary": "Les responsables d'un projet londonien affirment qu'il permettra de relier les espaces verts les plus sauvages de la capitale, avec pour objectif de profiter à environ dix millions de personnes et de renforcer la biodiversité.",
+     "why": "Un vaste plan de nature urbaine, mais qui reste à concrétiser."
+    },
+    "ru": {
+     "title": "Объявлен план по соединению и озеленению окраин Лондона",
+     "summary": "Организаторы проекта в Лондоне заявляют, что он свяжет более дикие зелёные зоны вокруг столицы; цель — принести пользу примерно десяти миллионам человек и повысить биоразнообразие.",
+     "why": "Масштабный план по городской природе, но он пока не реализован."
+    }
+   }
+  },
+  {
+   "id": "gnn-giess-den-kiez-berlin",
+   "title": "Berlin app lets residents adopt and water thirsty street trees",
+   "summary": "The open-source app Gieß den Kiez maps roughly 900,000 street trees and lets Berliners water them, helping the city's trees through heatwaves.",
+   "why": "Practical citizen-led way to protect urban trees.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Berlin, Germany",
+   "published": "2026-10-12T12:00:00Z",
+   "continent": "Europe",
+   "added": "2026-10-14T04:15:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Una aplicació de Berlín permet als veïns adoptar i regar arbres de carrer assedegats",
+     "summary": "L'aplicació de codi obert Gieß den Kiez localitza unes 900.000 arbres de carrer i permet als berlinesos regar-los, cosa que ajuda els arbres de la ciutat a superar les onades de calor.",
+     "why": "Una manera pràctica i impulsada per la ciutadania de protegir els arbres urbans."
+    },
+    "fr": {
+     "title": "À Berlin, une application permet d'adopter et d'arroser les arbres de rue assoiffés",
+     "summary": "L'application open source Gieß den Kiez recense environ 900 000 arbres de rue et permet aux Berlinois de les arroser, ce qui aide les arbres de la ville à traverser les vagues de chaleur.",
+     "why": "Un moyen concret et citoyen de protéger les arbres urbains."
+    },
+    "ru": {
+     "title": "Приложение в Берлине позволяет жителям «усыновлять» и поливать засыхающие уличные деревья",
+     "summary": "Приложение с открытым кодом Gieß den Kiez отмечает на карте около 900 000 уличных деревьев и позволяет берлинцам их поливать, помогая деревьям города пережить жару.",
+     "why": "Практичный способ защиты городских деревьев, организованный самими жителями."
+    }
+   }
+  },
+  {
+   "id": "gnn-lemonade-stand-charity",
+   "title": "Teen's lemonade stand grows into a $5 million charity effort",
+   "summary": "An Ohio teen who wanted to return kindness she once received built a lemonade stand into a fundraiser supporting children's hospitals and toy donations.",
+   "why": "Good for local children's causes, limited in scale.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/",
+   "score": 6,
+   "category": "Society",
+   "region": "Ohio, USA",
+   "published": "2026-10-12T12:00:00Z",
+   "continent": "North America",
+   "added": "2026-10-14T04:15:14Z",
+   "i18n": {
+    "ca": {
+     "title": "La parada de llimonada d'una adolescent es converteix en una iniciativa benèfica de 5 milions de dòlars",
+     "summary": "Una adolescent d'Ohio que volia retornar la bondat que ella mateixa havia rebut va convertir una parada de llimonada en una recaptació de fons a favor dels hospitals infantils i de donacions de joguines.",
+     "why": "Bona per a causes infantils locals, però de dimensió limitada."
+    },
+    "fr": {
+     "title": "La limonade d'une adolescente devient une action caritative de 5 millions de dollars",
+     "summary": "Une adolescente de l'Ohio, qui voulait rendre la gentillesse qu'elle avait elle-même reçue, a transformé une vente de limonade en collecte de fonds au profit d'hôpitaux pour enfants et de dons de jouets.",
+     "why": "Bénéfique pour des causes locales liées à l'enfance, mais à portée limitée."
+    },
+    "ru": {
+     "title": "Лимонадный киоск девушки-подростка вырос в благотворительную акцию на 5 миллионов долларов",
+     "summary": "Девушка из Огайо, которая хотела вернуть доброту, полученную когда-то от других, превратила свой лимонадный киоск в сбор средств для детских больниц и акцию по сбору игрушек.",
+     "why": "Хорошо для местных детских проектов, но масштаб ограничен."
+    }
+   }
+  },
+  {
+   "id": "sd-vanillin-healing",
+   "title": "Vanilla's main flavor compound shows promise against infection and inflammation",
+   "summary": "Researchers report that vanillin may fight infections, reduce inflammation and aid wound healing, and it is cheap and widely available.",
+   "why": "Early research with low-cost potential.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm",
+   "score": 5,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-12T12:00:00Z",
+   "continent": "Global",
+   "added": "2026-10-14T04:15:14Z",
+   "i18n": {
+    "ca": {
+     "title": "El principal compost aromàtic de la vainilla mostra potencial contra les infeccions i la inflamació",
+     "summary": "Investigadors informen que la vainil·lina podria combatre infeccions, reduir la inflamació i afavorir la cicatrització de ferides, i és barata i molt disponible.",
+     "why": "Recerca inicial amb potencial de baix cost."
+    },
+    "fr": {
+     "title": "Le principal composé aromatique de la vanille se révèle prometteur contre les infections et l'inflammation",
+     "summary": "Des chercheurs rapportent que la vanilline pourrait combattre les infections, réduire l'inflammation et favoriser la cicatrisation, et qu'elle est peu coûteuse et largement disponible.",
+     "why": "Recherche préliminaire au potentiel peu coûteux."
+    },
+    "ru": {
+     "title": "Главный ароматический компонент ванили показал перспективность против инфекций и воспалений",
+     "summary": "Исследователи сообщают, что ванилин может бороться с инфекциями, снижать воспаление и способствовать заживлению ран; он дешёвый и широко доступный.",
+     "why": "Ранние исследования с потенциалом низкой стоимости."
+    }
+   }
+  },
+  {
+   "id": "mb-klamath-chinook-salmon",
+   "title": "Chinook salmon reclaim most of their historic Klamath River habitat after dam removal",
+   "summary": "Within two years of four dams being removed from the Klamath River, Chinook salmon recolonized about 88% of their known historical habitat.",
+   "why": "Rapid ecological recovery after dam removal.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/chinook-salmon-return-to-historical-habitat-following-removal-of-four-us-dams/",
+   "score": 8,
+   "category": "Animals",
+   "region": "Klamath River, USA",
+   "published": "2026-10-12T12:00:00Z",
+   "continent": "North America",
+   "added": "2026-10-14T04:15:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Els salmons Chinook recuperen la major part del seu hàbitat històric del riu Klamath després de retirar les preses",
+     "summary": "En menys de dos anys després de la retirada de quatre preses del riu Klamath, els salmons Chinook han recolonitzat aproximadament el 88% del seu hàbitat històric conegut.",
+     "why": "Recuperació ecològica ràpida després de la retirada de preses."
+    },
+    "fr": {
+     "title": "Les saumons chinook reconquièrent la majeure partie de leur habitat historique de la rivière Klamath après la démolition de barrages",
+     "summary": "Dans les deux ans suivant le démantèlement de quatre barrages sur la rivière Klamath, les saumons chinook ont recolonisé environ 88 % de leur habitat historique connu.",
+     "why": "Rétablissement écologique rapide après la suppression de barrages."
+    },
+    "ru": {
+     "title": "Чавыча вернулась на большую часть исторического ареала в реке Кламат после сноса плотин",
+     "summary": "Менее чем за два года после демонтажа четырёх плотин на реке Кламат чавыча заново освоила около 88% известного исторического ареала.",
+     "why": "Быстрое экологическое восстановление после демонтажа плотин."
+    }
+   }
+  },
+  {
+   "id": "mb-clayoquot-kelp-restoration",
+   "title": "First Nation-led project replants kelp forests in Clayoquot Sound",
+   "summary": "The Tla-o-qui-aht First Nation and partners launched a kelp nursery in early 2026 and are restoring kelp forest in Clayoquot Sound.",
+   "why": "Community-led marine restoration, still early.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/first-nation-led-effort-replants-kelp-forests-in-clayoquot-sound/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Clayoquot Sound, Canada",
+   "published": "2026-10-12T12:00:00Z",
+   "continent": "North America",
+   "added": "2026-10-14T04:15:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Un projecte liderat per la Primera Nació replanta boscos de kelp a Clayoquot Sound",
+     "summary": "La Primera Nació Tla-o-qui-aht i els seus socis han posat en marxa un viver de kelp a principis del 2026 i estan restaurant els boscos de kelp a Clayoquot Sound.",
+     "why": "Restauració marina liderada per la comunitat, encara en fase inicial."
+    },
+    "fr": {
+     "title": "Un projet mené par une Première Nation replante des forêts de varech dans le Clayoquot Sound",
+     "summary": "La Première Nation Tla-o-qui-aht et ses partenaires ont lancé une pépinière de varech au début de 2026 et restaurent les forêts de varech dans le Clayoquot Sound.",
+     "why": "Restauration marine menée par la communauté, encore à ses débuts."
+    },
+    "ru": {
+     "title": "Проект под руководством Первой нации восстанавливает ламинариевые леса в Клейокот-Саунд",
+     "summary": "Первая нация тла-о-куи-ахт и её партнёры в начале 2026 года открыли питомник ламинарии и восстанавливают ламинариевые леса в Клейокот-Саунд.",
+     "why": "Морское восстановление под руководством общины, пока на раннем этапе."
+    }
+   }
+  },
+  {
+   "id": "mb-burivalova-pritzker-award",
+   "title": "Forest ecologist who listens to rainforests wins environmental award",
+   "summary": "Zuzana Burivalova of the University of Wisconsin-Madison won the 2026 Pritzker Emerging Environmental Genius Award for her remote-sensing and sound-based forest research.",
+   "why": "Recognition for conservation science.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/researcher-who-listens-to-forests-wins-2026-pritzker-environmental-genius-award/",
+   "score": 6,
+   "category": "Science",
+   "region": "Wisconsin, USA",
+   "published": "2026-10-12T12:00:00Z",
+   "continent": "North America",
+   "added": "2026-10-14T04:15:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Una ecòloga forestal que escolta les selves tropicals guanya un premi ambiental",
+     "summary": "Zuzana Burivalova, de la Universitat de Wisconsin-Madison, ha guanyat el Premi Pritzker al Geni Ambiental Emergent 2026 per la seva recerca forestal basada en la teledetecció i en el so.",
+     "why": "Reconeixement per a la ciència de la conservació."
+    },
+    "fr": {
+     "title": "Une écologue forestière qui écoute les forêts tropicales remporte un prix environnemental",
+     "summary": "Zuzana Burivalova, de l'université du Wisconsin-Madison, a remporté le prix Pritzker du génie environnemental émergent 2026 pour ses travaux sur les forêts, fondés sur la télédétection et l'analyse sonore.",
+     "why": "Reconnaissance pour la science de la conservation."
+    },
+    "ru": {
+     "title": "Лесной эколог, которая «слушает» тропические леса, получила экологическую премию",
+     "summary": "Зузана Буривалова из Университета Висконсина в Мэдисоне стала лауреатом премии Pritzker Emerging Environmental Genius Award 2026 за исследования лесов на основе дистанционного зондирования и звуковых данных.",
+     "why": "Признание заслуг в области науки о сохранении природы."
+    }
+   }
+  },
+  {
+   "id": "an-kenya-no-new-ebola-cases",
+   "title": "Kenya reports no new Ebola cases since first death",
+   "summary": "Kenyan authorities say no new cases have been found since a patient died on October 5, with none of 293 samples testing positive.",
+   "why": "Containment looks good so far, but vigilance continues.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/12/kenya-says-no-new-ebola-cases-since-first-ever-death/",
+   "score": 6,
+   "category": "Health",
+   "region": "Kenya",
+   "published": "2026-10-12T12:00:00Z",
+   "continent": "Africa",
+   "added": "2026-10-14T04:15:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Kenya no registra nous casos d'èbola des de la primera mort",
+     "summary": "Les autoritats kenyanes afirmen que no s'han detectat nous casos des que un pacient va morir el 5 d'octubre, i cap de les 293 mostres no ha donat positiu.",
+     "why": "La contenció sembla bona de moment, però la vigilància continua."
+    },
+    "fr": {
+     "title": "Le Kenya ne signale aucun nouveau cas d'Ebola depuis le premier décès",
+     "summary": "Les autorités kényanes affirment qu'aucun nouveau cas n'a été détecté depuis le décès d'un patient le 5 octobre, et qu'aucun des 293 échantillons n'a été positif.",
+     "why": "Le confinement semble bien engagé, mais la vigilance reste de mise."
+    },
+    "ru": {
+     "title": "В Кении не выявлено новых случаев Эболы с момента первого смертельного исхода",
+     "summary": "Власти Кении сообщают, что с момента смерти пациента 5 октября новых случаев не выявлено: ни один из 293 образцов не дал положительного результата.",
+     "why": "Сдерживание пока выглядит успешным, но бдительность сохраняется."
+    }
+   }
+  },
+  {
+   "id": "an-kipchoge-melbourne-record",
+   "title": "Eliud Kipchoge breaks Melbourne Marathon race record",
+   "summary": "Two-time Olympic champion Eliud Kipchoge set a new race record while winning the Melbourne Marathon on Sunday.",
+   "why": "Sporting achievement, limited wider impact.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/12/kenyas-eliud-kipchoge-breaks-melbourne-marathon-record/",
+   "score": 5,
+   "category": "Culture",
+   "region": "Melbourne, Australia",
+   "published": "2026-10-12T12:00:00Z",
+   "continent": "Oceania",
+   "added": "2026-10-14T04:15:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Eliud Kipchoge bat el rècord de la Marató de Melbourne",
+     "summary": "El bicampió olímpic Eliud Kipchoge ha establert un nou rècord de la cursa en guanyar la Marató de Melbourne el diumenge.",
+     "why": "Assoliment esportiu, de repercussió limitada més enllà de l'esport."
+    },
+    "fr": {
+     "title": "Eliud Kipchoge établit un nouveau record de l'épreuve du marathon de Melbourne",
+     "summary": "Le double champion olympique Eliud Kipchoge a établi un nouveau record de l'épreuve en remportant le marathon de Melbourne, dimanche.",
+     "why": "Performance sportive, à portée limitée au-delà du sport."
+    },
+    "ru": {
+     "title": "Элиуд Кипчоге установил рекорд трассы Мельбурнского марафона",
+     "summary": "Двукратный олимпийский чемпион Элиуд Кипчоге установил новый рекорд соревнования, выиграв Мельбурнский марафон в воскресенье.",
+     "why": "Спортивное достижение с ограниченным влиянием за пределами спорта."
     }
    }
   },
@@ -447,6 +819,99 @@
      "title": "Пищевые подношения с фестиваля в Мумбаи превратили в электричество",
      "summary": "Около 39 тонн оставшейся после фестиваля Лальбагча Раджа еды переработали в электроэнергию для проекта больницы.",
      "why": "Практичное использование пищевых отходов для общественной службы."
+    }
+   }
+  },
+  {
+   "id": "gnn-statins-glaucoma",
+   "title": "Statins linked to lower risk of glaucoma surgery and blindness",
+   "summary": "University of California San Diego research suggests glaucoma patients taking statins are less likely to need surgery and may have a lower chance of blindness.",
+   "why": "Promising observational link, not yet proven treatment.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/statin-drugs-may-protect-people-from-glaucoma/",
+   "score": 5,
+   "category": "Health",
+   "region": "California, USA",
+   "published": "2026-10-11T12:00:00Z",
+   "continent": "North America",
+   "added": "2026-10-14T04:15:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Les estatines s'associen a un menor risc de cirurgia i de ceguesa per glaucoma",
+     "summary": "Una recerca de la Universitat de Califòrnia a San Diego suggereix que els pacients de glaucoma que prenen estatines tenen menys probabilitats de necessitar cirurgia i poden tenir una menor probabilitat de quedar cecs.",
+     "why": "Associació observacional prometedora, però encara no demostrada com a tractament."
+    },
+    "fr": {
+     "title": "Les statines associées à un risque réduit de chirurgie et de cécité liées au glaucome",
+     "summary": "Des recherches de l'université de Californie à San Diego suggèrent que les patients atteints de glaucome qui prennent des statines sont moins susceptibles d'avoir besoin d'une opération et pourraient avoir moins de risques de devenir aveugles.",
+     "why": "Lien observationnel prometteur, mais pas encore démontré comme traitement."
+    },
+    "ru": {
+     "title": "Статины связаны с меньшим риском операций и слепоты при глаукоме",
+     "summary": "Исследование Калифорнийского университета в Сан-Диего показывает, что пациенты с глаукомой, принимающие статины, реже нуждаются в хирургическом лечении и, возможно, реже теряют зрение.",
+     "why": "Перспективная наблюдательная связь, но статины пока не доказаны как средство лечения."
+    }
+   }
+  },
+  {
+   "id": "sd-moon-like-rock-madagascar",
+   "title": "Astronaut photographs Moon-like rock formation in Madagascar",
+   "summary": "An astronaut on the International Space Station photographed an anorthosite formation in Madagascar that resembles the Moon's bright highlands.",
+   "why": "Interesting discovery with no direct impact.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261008102707.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Madagascar",
+   "published": "2026-10-11T12:00:00Z",
+   "continent": "Africa",
+   "added": "2026-10-14T04:15:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Un astronauta fotografia una formació rocosa semblant a la Lluna a Madagascar",
+     "summary": "Un astronauta de l'Estació Espacial Internacional ha fotografiat una formació d'anortositat a Madagascar que s'assembla a les brillants terres altes de la Lluna.",
+     "why": "Descoberta interessant sense impacte directe."
+    },
+    "fr": {
+     "title": "Un astronaute photographie une formation rocheuse semblable à la Lune à Madagascar",
+     "summary": "Un astronaute à bord de la Station spatiale internationale a photographié à Madagascar une formation d'anorthosite qui ressemble aux hautes terres lunaires claires.",
+     "why": "Découverte intéressante, sans impact direct."
+    },
+    "ru": {
+     "title": "Астронавт сфотографировал похожую на лунную породу формацию на Мадагаскаре",
+     "summary": "Астронавт на Международной космической станции сфотографировал образование из анортозита на Мадагаскаре, которое напоминает светлые лунные высокогорья.",
+     "why": "Интересное открытие без прямого влияния."
+    }
+   }
+  },
+  {
+   "id": "mb-south-africa-cheetah-census",
+   "title": "Census finds only 83 mature free-roaming cheetahs in South Africa",
+   "summary": "A census across nearly 100,000 square kilometers found few adult free-roaming cheetahs, and researchers suggest the species be reclassified as more threatened.",
+   "why": "A warning about a declining species, though counting helps conservation.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/this-is-a-south-african-cheetah-and-its-in-trouble/",
+   "score": 3,
+   "category": "Animals",
+   "region": "South Africa",
+   "published": "2026-10-11T12:00:00Z",
+   "continent": "Africa",
+   "added": "2026-10-14T04:15:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Un cens troba només 83 guepards adults de vida lliure a Sud-àfrica",
+     "summary": "Un cens realitzat en gairebé 100.000 quilòmetres quadrats ha trobat pocs guepards adults de vida lliure, i els investigadors suggereixen que l'espècie es reclassifiqui com a més amenaçada.",
+     "why": "Avís sobre una espècie en declivi, tot i que el recompte ajuda la conservació."
+    },
+    "fr": {
+     "title": "Un recensement ne dénombre que 83 guépards adultes en liberté en Afrique du Sud",
+     "summary": "Un recensement mené sur près de 100 000 kilomètres carrés a révélé peu de guépards adultes en liberté, et des chercheurs suggèrent de reclasser l'espèce dans une catégorie plus menacée.",
+     "why": "Alerte sur une espèce en déclin, même si le comptage aide la conservation."
+    },
+    "ru": {
+     "title": "Перепись показала, что в Южной Африке осталось лишь 83 взрослых гепарда на свободе",
+     "summary": "Перепись, охватившая почти 100 000 квадратных километров, выявила немного взрослых гепардов, живущих на свободе; исследователи предлагают пересмотреть статус вида в сторону более высокой степени угрозы.",
+     "why": "Предупреждение о сокращении вида, хотя учёт помогает охране природы."
     }
    }
   },
@@ -6089,595 +6554,6 @@
      "title": "Первичные магнитные поля могут помочь объяснить несовпадающие скорости расширения Вселенной",
      "summary": "Исследование предполагает, что ранние магнитные поля влияли на формирование водорода и космического микроволнового фона, что могло бы согласовать противоречивые измерения космического расширения.",
      "why": "Интересный теоретический намек, который еще нуждается в подтверждении."
-    }
-   }
-  },
-  {
-   "id": "an-el-alamein-forum-african-capital",
-   "title": "African leaders urge unlocking domestic capital at Egypt forum",
-   "summary": "At the first El-Alamein forum, officials and business leaders called for mobilising capital within Africa to cut dependence on outside finance.",
-   "why": "Constructive goals, but no concrete results yet.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/10/04/african-leaders-call-for-continent-to-unlock-capital-at-egypt-business-summit/",
-   "score": 5,
-   "category": "Society",
-   "region": "Egypt",
-   "published": "2026-10-04T07:31:48Z",
-   "continent": "Africa",
-   "added": "2026-10-06T06:16:29Z",
-   "i18n": {
-    "ca": {
-     "title": "Els líders africans reclamen alliberar el capital domèstic al fòrum d'Egipte",
-     "summary": "Al primer fòrum d'El-Alamein, funcionaris i empresaris van demanar la mobilització de capital dins d'Àfrica per reduir la dependència de finances externes.",
-     "why": "Objectius constructius, però sense resultats concrets fins ara."
-    },
-    "fr": {
-     "title": "Les dirigeants africains pressent le déblocage du capital domestique au forum égyptien",
-     "summary": "Au premier forum d'El-Alamein, les responsables et les chefs d'entreprise ont demandé la mobilisation du capital au sein de l'Afrique pour réduire la dépendance à l'égard du financement extérieur.",
-     "why": "Des objectifs constructifs, mais pas de résultats concrets pour le moment."
-    },
-    "ru": {
-     "title": "Африканские лидеры призывают разблокировать отечественный капитал на египетском форуме",
-     "summary": "На первом форуме Эль-Аламейна должностные лица и деловые лидеры призвали мобилизовать капитал в пределах Африки, чтобы снизить зависимость от внешнего финансирования.",
-     "why": "Конструктивные цели, но пока нет конкретных результатов."
-    }
-   }
-  },
-  {
-   "id": "tbi-smog-eating-paint-delhi-ncr",
-   "title": "Smog-eating paint tested as way to cut city air pollution",
-   "summary": "Coatings containing titanium dioxide use sunlight to break down pollutants. IIT Madras is testing whether they can reduce nitrogen dioxide on urban surfaces.",
-   "why": "Promising but still at testing stage.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/innovation/delhi-ncr-air-pollution-aqi-winter-smog-eating-paints-12593111",
-   "score": 5,
-   "category": "Environment",
-   "region": "Delhi-NCR, India",
-   "published": "2026-10-04T07:30:37Z",
-   "continent": "Asia",
-   "added": "2026-10-04T12:17:05Z",
-   "i18n": {
-    "ca": {
-     "title": "Pintura que mengea smog provada per reduir la contaminació aèria de la ciutat",
-     "summary": "Els revestiments que contenen diòxid de titani usen la llum solar per descompondre els contaminants. L'IIT Madras està provant si poden reduir el diòxid de nitrogen en superfícies urbanes.",
-     "why": "Promettedor però encara en fase de proves."
-    },
-    "fr": {
-     "title": "La peinture mangeuse de brouillard testée pour réduire la pollution de l'air urbain",
-     "summary": "Les revêtements contenant du dioxyde de titane utilisent la lumière solaire pour décomposer les polluants. L'IIT Madras teste s'ils peuvent réduire le dioxyde d'azote sur les surfaces urbaines.",
-     "why": "Prometteur mais encore au stade des tests."
-    },
-    "ru": {
-     "title": "Краска, поглощающая смог, тестируется для снижения загрязнения воздуха города",
-     "summary": "Покрытия, содержащие диоксид титана, используют солнечный свет для расщепления загрязняющих веществ. IIT Madras тестирует, смогут ли они уменьшить диоксид азота на городских поверхностях.",
-     "why": "Многообещающее, но все еще на стадии тестирования."
-    }
-   }
-  },
-  {
-   "id": "tbi-telling-children-rare-disease",
-   "title": "Psychologists advise families on telling children about a rare disease",
-   "summary": "Child psychologists suggest parents first absorb the shock, then match their language to the child's age and build a support network around the family.",
-   "why": "Practical help for families, benefiting a small group.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/health-care/rare-disease-diagnosis-child-parents-psychologist-12613003",
-   "score": 6,
-   "category": "Health",
-   "region": "India",
-   "published": "2026-10-04T03:30:37Z",
-   "continent": "Asia",
-   "added": "2026-10-05T00:15:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Psicòlegs aconsellen les famílies sobre com explicar als nens una malaltia rara",
-     "summary": "Els psicòlegs infantils suggereixen que els pares primer absorbeixin el xoc, després adaptin el seu llenguatge a l'edat del nen i construeixin una xarxa de suport al voltant de la família.",
-     "why": "Ajuda pràctica per a les famílies, beneficiant un petit grup."
-    },
-    "fr": {
-     "title": "Les psychologues conseillent les familles sur comment parler aux enfants d'une maladie rare",
-     "summary": "Les psychologues pour enfants suggèrent aux parents d'abord d'absorber le choc, puis d'adapter leur langage à l'âge de l'enfant et de construire un réseau de soutien autour de la famille.",
-     "why": "Aide pratique pour les familles, bénéficiant à un petit groupe."
-    },
-    "ru": {
-     "title": "Психологи дают советы семьям о том, как рассказать детям о редком заболевании",
-     "summary": "Детские психологи предлагают родителям сначала принять шок, затем адаптировать свой язык к возрасту ребёнка и построить сеть поддержки вокруг семьи.",
-     "why": "Практическая помощь для семей, приносящая пользу небольшой группе."
-    }
-   }
-  },
-  {
-   "id": "tbi-haryana-wrestling-dominance",
-   "title": "Why Haryana produces so many of India's top wrestlers",
-   "summary": "Traditional akharas and kushti culture, plus the example of Olympic champions, have built a training ecosystem in Haryana that draws wrestlers from across India.",
-   "why": "A strong community sporting tradition, though local in scope.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/videos/professional-wrestling/15-wrestlers-one-state-why-haryana-dominates-wrestling-12621431",
-   "score": 6,
-   "category": "Culture",
-   "region": "Haryana, India",
-   "published": "2026-10-04T03:30:07Z",
-   "continent": "Asia",
-   "added": "2026-10-05T00:15:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Per què Haryana produeix tants lluitadors de primera categoria de l'Índia",
-     "summary": "Les akharas tradicionals i la cultura del kushti, més l'exemple dels campions olímpics, han construït un ecosistema d'entrenament a Haryana que atrau lluitadors de tot l'Índia.",
-     "why": "Una forta tradició esportiva comunitària, tot i que local."
-    },
-    "fr": {
-     "title": "Pourquoi le Haryana produit autant des meilleurs lutteurs de l'Inde",
-     "summary": "Les akharas traditionnelles et la culture du kushti, ainsi que l'exemple des champions olympiques, ont construit un écosystème d'entraînement au Haryana qui attire des lutteurs de toute l'Inde.",
-     "why": "Une forte tradition sportive communautaire, bien que locale."
-    },
-    "ru": {
-     "title": "Почему Харьяна производит столько лучших борцов Индии",
-     "summary": "Традиционные акхары и культура кушти, а также пример олимпийских чемпионов, создали экосистему тренировок в Харьяне, которая привлекает борцов со всей Индии.",
-     "why": "Сильная традиция спорта в сообществе, хотя и локальная."
-    }
-   }
-  },
-  {
-   "id": "sd-vitamin-d-pancreatic-cancer",
-   "title": "Vitamin D analog may weaken pancreatic tumours' protective shield",
-   "summary": "A vitamin D analog showed promise in clinical trials for breaking down the defences that protect pancreatic tumours from treatment.",
-   "why": "Hopeful for a very hard cancer, but still at trial stage.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260930225501.htm",
-   "score": 6,
-   "category": "Health",
-   "region": "Global",
-   "published": "2026-10-04T03:10:23Z",
-   "continent": "Global",
-   "added": "2026-10-05T06:18:29Z",
-   "i18n": {
-    "ca": {
-     "title": "Un analòg de vitamina D pot debilitar l'escut protector dels tumors pancreàtics",
-     "summary": "Un analòg de vitamina D va mostrar promesa en assaigs clínics per trencar les defenses que protegeixen els tumors pancreàtics del tractament.",
-     "why": "Esperançador per a un càncer molt difícil, però encara en fase d'assaig."
-    },
-    "fr": {
-     "title": "Un analogue de la vitamine D pourrait affaiblir le bouclier protecteur des tumeurs pancréatiques",
-     "summary": "Un analogue de la vitamine D a montré des promesses dans les essais cliniques pour briser les défenses qui protègent les tumeurs pancréatiques du traitement.",
-     "why": "Prometteur pour un cancer très difficile, mais toujours en phase d'essai."
-    },
-    "ru": {
-     "title": "Аналог витамина D может ослабить защитный щит опухолей поджелудочной железы",
-     "summary": "Аналог витамина D показал многообещающие результаты в клинических испытаниях для преодоления защиты, которая защищает опухоли поджелудочной железы от лечения.",
-     "why": "Надежда для очень трудного рака, но пока в стадии испытаний."
-    }
-   }
-  },
-  {
-   "id": "sd-diet-drinks-weight-loss-trial",
-   "title": "Two-year trial finds diet drinks work as well as water for weight loss",
-   "summary": "A two-year clinical trial of 493 adults found that people drinking diet soft drinks lost about as much weight as those drinking water.",
-   "why": "Useful evidence for people managing weight, though not a breakthrough.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm",
-   "score": 5,
-   "category": "Health",
-   "region": "Global",
-   "published": "2026-10-04T02:10:59Z",
-   "continent": "Global",
-   "added": "2026-10-05T06:18:29Z",
-   "i18n": {
-    "ca": {
-     "title": "Un assaig de dos anys demostra que els refrescos de dieta funcionen igual que l'aigua per a la pèrdua de pes",
-     "summary": "Un assaig clínic de dos anys de 493 adults va descobrir que les persones que beuen begudes de dieta suau van perdre aproximadament el mateix pes que les que beuen aigua.",
-     "why": "Evidència útil per a les persones que gestionen el pes, tot i que no és un avenç."
-    },
-    "fr": {
-     "title": "Un essai de deux ans montre que les boissons diététiques fonctionnent aussi bien que l'eau pour la perte de poids",
-     "summary": "Un essai clinique de deux ans portant sur 493 adultes a montré que les personnes buvant des boissons gazeuses diététiques perdaient à peu près autant de poids que celles buvant de l'eau.",
-     "why": "Preuve utile pour les personnes gérant leur poids, bien que ce ne soit pas une percée."
-    },
-    "ru": {
-     "title": "Двухлетнее испытание показывает, что диетические напитки так же эффективны для похудения, как и вода",
-     "summary": "Двухлетнее клиническое испытание 493 взрослых показало, что люди, пьющие диетические безалкогольные напитки, теряли примерно столько же веса, сколько те, кто пил воду.",
-     "why": "Полезные доказательства для людей, управляющих своим весом, хотя это не прорыв."
-    }
-   }
-  },
-  {
-   "id": "sd-tampa-bay-pottery-mystery",
-   "title": "Ancient pottery sheds light on a century-old Florida mystery",
-   "summary": "Tampa Bay pottery suggests migrant craftspeople carried Mississippian techniques south and built vessels using clay fragments from their homeland.",
-   "why": "Fascinating historical insight.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261004001835.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Florida, USA",
-   "published": "2026-10-04T00:00:00Z",
-   "continent": "North America",
-   "added": "2026-10-07T06:15:43Z",
-   "i18n": {
-    "ca": {
-     "title": "La ceràmica antiga aclara un misteri de Florida d'un segle d'antiguitat",
-     "summary": "La ceràmica de Tampa Bay suggereix que els artesans migrants portaren les tècniques mississippians cap al sud i construïren vasos usant fragments de terra de la seva pàtria.",
-     "why": "Un apassionant descobriment històric."
-    },
-    "fr": {
-     "title": "La poterie ancienne jette la lumière sur un mystère de Floride vieux d'un siècle",
-     "summary": "La poterie de Tampa Bay suggère que des artisans migrants ont porté les techniques mississippiennes vers le sud et ont fabriqué des vases en utilisant des fragments d'argile de leur pays d'origine.",
-     "why": "Un aperçu historique fascinant."
-    },
-    "ru": {
-     "title": "Древняя керамика проливает свет на столетнюю флоридскую тайну",
-     "summary": "Керамика из Тампа-Бей предполагает, что мигранты-мастера принесли миссисипские технологии на юг и создавали сосуды, используя глиняные фрагменты из своей родины.",
-     "why": "Увлекательное историческое открытие."
-    }
-   }
-  },
-  {
-   "id": "gnn-underwater-shades-protect-caribbean-corals",
-   "title": "Temporary shades over Caribbean corals reduce heat damage",
-   "summary": "Researchers in Florida found that shades placed over vulnerable corals limited harm from warm seawater and partly reversed bleaching.",
-   "why": "Promising field result, but still small-scale.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/underwater-umbrellas-could-protect-coral-reefs-from-heat-damage/",
-   "score": 7,
-   "category": "Environment",
-   "region": "Florida, USA",
-   "published": "2026-10-03T21:13:54Z",
-   "continent": "North America",
-   "added": "2026-10-04T06:15:40Z",
-   "i18n": {
-    "ca": {
-     "title": "Ombres temporals sobre corals dels Carib redueixen danys per calor",
-     "summary": "Investigadors de Florida van descobrir que ombres col·locades sobre corals vulnerables van limitar el dany de l'aigua marina càlida i van revertir parcialment el blanqueig.",
-     "why": "Resultat promissor en el camp, però encara a petita escala."
-    },
-    "fr": {
-     "title": "Des parasols temporaires sur les coraux des Caraïbes réduisent les dommages causés par la chaleur",
-     "summary": "Des chercheurs en Floride ont découvert que des parasols placés sur les coraux vulnérables limitaient les dommages causés par l'eau de mer chaude et inversaient partiellement le blanchissement.",
-     "why": "Résultat prometteur sur le terrain, mais toujours à petite échelle."
-    },
-    "ru": {
-     "title": "Временные защитные экраны над карибскими кораллами снижают тепловые повреждения",
-     "summary": "Исследователи из Флориды обнаружили, что экраны, установленные над уязвимыми кораллами, ограничивали ущерб от теплой морской воды и частично обращали отбеливание.",
-     "why": "Многообещающий полевой результат, но пока еще в небольших масштабах."
-    }
-   }
-  },
-  {
-   "id": "gnn-aleppo-christian-complex-reopens",
-   "title": "Ancient Christian complex in Aleppo reopens after 14 years",
-   "summary": "A fifth-century Christian heritage site in Aleppo has reopened after landmines were cleared and war and earthquake damage was repaired.",
-   "why": "Heritage restored, benefiting one community.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/ancient-christian-site-reopens-in-syria-after-14-years-a-war-and-an-earthquake/",
-   "score": 6,
-   "category": "Culture",
-   "region": "Aleppo, Syria",
-   "published": "2026-10-03T17:18:47Z",
-   "continent": "Asia",
-   "added": "2026-10-04T06:15:40Z",
-   "i18n": {
-    "ca": {
-     "title": "Antic complex cristià a Alep reabre després de 14 anys",
-     "summary": "Un lloc de patrimoni cristià del segle V a Alep ha reabert després de desactivar mines terrestres i reparar danys de la guerra i el terratrèmol.",
-     "why": "Patrimoni restaurat, beneficiant una comunitat."
-    },
-    "fr": {
-     "title": "Un ancien complexe chrétien à Alep rouvre après 14 ans",
-     "summary": "Un site du patrimoine chrétien du 5ème siècle à Alep a rouvert après l'enlèvement des mines terrestres et la réparation des dommages causés par la guerre et le tremblement de terre.",
-     "why": "Patrimoine restauré, bénéficiant à une communauté."
-    },
-    "ru": {
-     "title": "Древний христианский комплекс в Алеппо вновь открыт спустя 14 лет",
-     "summary": "Христианский объект наследия V века в Алеппо вновь открыт после очистки от мин и ремонта ущерба от войны и землетрясения.",
-     "why": "Восстановленное наследие, приносящее пользу одному сообществу."
-    }
-   }
-  },
-  {
-   "id": "gnn-fan-rescues-woman-stuck-in-mud",
-   "title": "Football fan rescues woman trapped chest-deep in mud",
-   "summary": "A man who left his home in frustration during a match found a woman stuck in mud and helped save her life.",
-   "why": "A life saved, though a single local event.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/fan-storms-out-as-team-loses-and-finds-woman-stuck-in-mud/",
-   "score": 6,
-   "category": "Society",
-   "region": "United Kingdom",
-   "published": "2026-10-03T14:59:55Z",
-   "continent": "Europe",
-   "added": "2026-10-04T12:17:05Z",
-   "i18n": {
-    "ca": {
-     "title": "Un aficionat al futbol rescata una dona atrapada fins al pit en fang",
-     "summary": "Un home que va abandonar la seva casa en frustració durant un partit va trobar una dona atrapada al fang i va ajudar a salvar-li la vida.",
-     "why": "Una vida salvada, encara que és un únic esdeveniment local."
-    },
-    "fr": {
-     "title": "Un fan de football sauve une femme piégée jusqu'à la poitrine dans la boue",
-     "summary": "Un homme qui avait quitté son domicile en frustration lors d'un match a trouvé une femme coincée dans la boue et l'a aidée à sauver sa vie.",
-     "why": "Une vie sauvée, bien qu'il s'agisse d'un événement local unique."
-    },
-    "ru": {
-     "title": "Болельщик спасает женщину, застрявшую по грудь в грязи",
-     "summary": "Мужчина, ушедший из дома в расстройстве во время матча, нашел застрявшую в грязи женщину и помог спасти ей жизнь.",
-     "why": "Жизнь спасена, хотя это единственное местное событие."
-    }
-   }
-  },
-  {
-   "id": "sd-ube2n-fatty-liver",
-   "title": "Enzyme UBE2N may protect against worsening fatty liver disease",
-   "summary": "Researchers found the enzyme UBE2N helps liver cells clear damaged mitochondria and break down fat, which could guard against inflammation and scarring.",
-   "why": "Promising target for a common disease, but still early research.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm",
-   "score": 6,
-   "category": "Health",
-   "region": "Global",
-   "published": "2026-10-03T13:46:11Z",
-   "continent": "Global",
-   "added": "2026-10-04T04:10:05Z",
-   "i18n": {
-    "ca": {
-     "title": "L'enzim UBE2N pot protegir contra l'empeorament de la malaltia de fetge gras",
-     "summary": "Els investigadors van descobrir que l'enzim UBE2N ajuda les cèl·lules del fetge a netejar les mitocòndries danyades i descompondre la grassa, que podria protegir contra la inflamació i la cicatriu.",
-     "why": "Objectiu promettedor per a una malaltia comuna, però encara és recerca primerenca."
-    },
-    "fr": {
-     "title": "L'enzyme UBE2N pourrait protéger contre l'aggravation de la stéatose hépatique",
-     "summary": "Les chercheurs ont découvert que l'enzyme UBE2N aide les cellules hépatiques à éliminer les mitochondries endommagées et à décomposer les graisses, ce qui pourrait prévenir l'inflammation et la cicatrisation.",
-     "why": "Cible prometteuse pour une maladie courante, mais encore au stade de recherche précoce."
-    },
-    "ru": {
-     "title": "Фермент UBE2N может защитить от ухудшения жировой болезни печени",
-     "summary": "Исследователи обнаружили, что фермент UBE2N помогает клеткам печени избавляться от поврежденных митохондрий и расщеплять жир, что может защитить от воспаления и рубцевания.",
-     "why": "Многообещающая мишень для распространенного заболевания, но все еще на ранней стадии исследований."
-    }
-   }
-  },
-  {
-   "id": "sd-juice-earth-flyby",
-   "title": "ESA's Juice probe swings past Earth on its way to Jupiter",
-   "summary": "The Juice spacecraft used an Earth gravity assist on 28 September to gain 3.5 km/s and change course, testing its instruments on Earth and the Moon.",
-   "why": "A smooth milestone for a major science mission.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
-   "score": 6,
-   "category": "Science",
-   "region": "Space",
-   "published": "2026-10-03T13:34:11Z",
-   "continent": "Global",
-   "added": "2026-10-04T04:10:05Z",
-   "i18n": {
-    "ca": {
-     "title": "La sonda Juice de l'ESA passa per la Terra camí del Júpiter",
-     "summary": "L'espaçonau Juice va usar una assistència gravitatòria terrestre el 28 de setembre per guanyar 3,5 km/s i canviar de curs, provant els seus instruments a la Terra i la Lluna.",
-     "why": "Un fita suau per a una important missió científica."
-    },
-    "fr": {
-     "title": "La sonde JUICE de l'ESA passe à proximité de la Terre en route vers Jupiter",
-     "summary": "Le vaisseau Juice a utilisé une assistance gravitationnelle terrestre le 28 septembre pour gagner 3,5 km/s et changer de cap, testant ses instruments sur la Terre et la Lune.",
-     "why": "Une étape progressive pour une grande mission scientifique."
-    },
-    "ru": {
-     "title": "Зонд JUICE Европейского космического агентства проходит мимо Земли в пути на Юпитер",
-     "summary": "Космический аппарат Juice использовал гравитационное маневрирование Земли 28 сентября, чтобы получить 3,5 км/с и изменить курс, тестируя свои приборы на Земле и Луне.",
-     "why": "Плавный этап для крупной научной миссии."
-    }
-   }
-  },
-  {
-   "id": "sd-change6-magnetic-mineral",
-   "title": "Chang'e-6 moon samples hold a new magnetic iron mineral",
-   "summary": "Scientists found a previously unknown nanoscale iron mineral inside impact glass from far-side lunar samples, which may preserve a record of the Moon's ancient magnetic field.",
-   "why": "Neat discovery for planetary science with no direct human impact.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Space",
-   "published": "2026-10-03T13:12:14Z",
-   "continent": "Global",
-   "added": "2026-10-04T04:10:05Z",
-   "i18n": {
-    "ca": {
-     "title": "Les mostres lunars de Chang'e-6 contenen un nou mineral de ferro magnètic",
-     "summary": "Els científics van trobar un mineral de ferro a escala nanomètrica prèviament desconegut dins el vidre d'impacte de les mostres del costat llunyà de la Lluna, que podria preservar un registre del camp magnètic antic de la Lluna.",
-     "why": "Descoberta enginyosa per a la ciència planetària sense impacte humà directe."
-    },
-    "fr": {
-     "title": "Les échantillons lunaires de Chang'e-6 contiennent un nouveau minéral de fer magnétique",
-     "summary": "Les scientifiques ont trouvé un minéral de fer à l'échelle nanométrique auparavant inconnu dans le verre d'impact des échantillons du côté lointain de la Lune, qui pourrait préserver un enregistrement du champ magnétique lunaire ancien.",
-     "why": "Découverte intéressante pour la science planétaire sans impact humain direct."
-    },
-    "ru": {
-     "title": "Образцы Луны Chang'e-6 содержат новый магнитный железный минерал",
-     "summary": "Ученые обнаружили неизвестный ранее железный минерал наноразмера внутри ударного стекла образцов с дальней стороны Луны, которые могли сохранить запись о древнем магнитном поле Луны.",
-     "why": "Интересное открытие для планетарной науки без прямого воздействия на человека."
-    }
-   }
-  },
-  {
-   "id": "sd-megatron-first-stars",
-   "title": "Simulations trace how the first stars seeded the universe with heavy elements",
-   "summary": "The MEGATRON simulations model how early stars spread carbon, oxygen and iron, helping link JWST observations to chemical traces in ancient stars.",
-   "why": "Interesting cosmology without direct human impact.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Space",
-   "published": "2026-10-03T12:50:57Z",
-   "continent": "Global",
-   "added": "2026-10-04T04:11:20Z",
-   "i18n": {
-    "ca": {
-     "title": "Les simulacions traçen com les primeres estrelles van sembrar l'univers amb elements pesats",
-     "summary": "Les simulacions MEGATRON modelan com les estrelles primerenques van difondre carboni, oxigen i ferro, ajudant a vincular les observacions JWST amb traços químics en estrelles antigues.",
-     "why": "Cosmologia interessant sense impacte humà directe."
-    },
-    "fr": {
-     "title": "Les simulations tracent comment les premières étoiles ont ensemencé l'univers d'éléments lourds",
-     "summary": "Les simulations MEGATRON modélisent comment les premières étoiles ont diffusé le carbone, l'oxygène et le fer, reliant les observations JWST aux traces chimiques dans les anciennes étoiles.",
-     "why": "Cosmologie intéressante sans impact humain direct."
-    },
-    "ru": {
-     "title": "Симуляции показывают, как первые звезды засеяли Вселенную тяжелыми элементами",
-     "summary": "Симуляции MEGATRON моделируют, как ранние звезды распространили углерод, кислород и железо, помогая связать наблюдения JWST с химическими следами в древних звездах.",
-     "why": "Интересная космология без прямого воздействия на человека."
-    }
-   }
-  },
-  {
-   "id": "sd-leucine-cell-energy",
-   "title": "Amino acid leucine found to boost cells' energy production",
-   "summary": "Researchers showed leucine protects mitochondrial proteins from being broken down, raising cellular energy output and suggesting a nutritional angle on metabolic disorders.",
-   "why": "Useful basic insight, still far from treatment.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261001095319.htm",
-   "score": 5,
-   "category": "Health",
-   "region": "Global",
-   "published": "2026-10-03T12:33:15Z",
-   "continent": "Global",
-   "added": "2026-10-04T04:11:20Z",
-   "i18n": {
-    "ca": {
-     "title": "L'aminoàcid leucina estimula la producció d'energia de les cèl·lules",
-     "summary": "Els investigadors van demostrar que la leucina protegeix les proteïnes mitocondrials de ser descompostes, augmentant la producció d'energia cel·lular i suggerint una perspectiva nutricional sobre els trastorns metabòlics.",
-     "why": "Percepció útil però bàsica, encara lluny del tractament."
-    },
-    "fr": {
-     "title": "L'acide aminé leucine stimule la production d'énergie des cellules",
-     "summary": "Les chercheurs ont montré que la leucine protège les protéines mitochondriales d'être dégradées, augmentant la production d'énergie cellulaire et suggérant un angle nutritionnel sur les troubles métaboliques.",
-     "why": "Perception de base utile, encore loin du traitement."
-    },
-    "ru": {
-     "title": "Аминокислота лейцин усиливает производство энергии клетками",
-     "summary": "Исследователи показали, что лейцин защищает митохондриальные белки от разложения, увеличивая производство энергии клеток и предлагая пищевой подход к метаболическим расстройствам.",
-     "why": "Полезное базовое понимание, но еще далеко от лечения."
-    }
-   }
-  },
-  {
-   "id": "sd-gut-imp-alzheimers",
-   "title": "Gut bacterial compound ImP linked to higher Alzheimer's risk",
-   "summary": "A study tied the gut-made molecule ImP to greater Alzheimer's risk and faster cognitive decline, pointing to a possible prevention target.",
-   "why": "A warning paired with a potential new target; early stage.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260930225459.htm",
-   "score": 5,
-   "category": "Health",
-   "region": "Global",
-   "published": "2026-10-03T12:13:21Z",
-   "continent": "Global",
-   "added": "2026-10-04T04:11:20Z",
-   "i18n": {
-    "ca": {
-     "title": "El compost bacterià intestinal ImP vinculat a un major risc de malaltia d'Alzheimer",
-     "summary": "Un estudi va vincular la molècula ImP produïda per l'intestí a un major risc de malaltia d'Alzheimer i una disminució cognitiva més ràpida, apuntant a un possible objectiu de prevenció.",
-     "why": "Un avís combinat amb un possible nou objectiu; etapa primerenca."
-    },
-    "fr": {
-     "title": "Le composé bactérien intestinal ImP lié à un risque accru d'Alzheimer",
-     "summary": "Une étude a lié la molécule ImP produite par l'intestin à un risque accru de maladie d'Alzheimer et à un déclin cognitif plus rapide, pointant une possible cible de prévention.",
-     "why": "Un avertissement associé à une cible potentielle ; stade précoce."
-    },
-    "ru": {
-     "title": "Бактериальный кишечный компонент ImP связан с повышенным риском болезни Альцгеймера",
-     "summary": "Исследование связало молекулу ImP, производимую кишечником, с повышенным риском болезни Альцгеймера и более быстрым снижением когнитивных функций, указывая на возможную мишень профилактики.",
-     "why": "Предупреждение в сочетании с возможной новой мишенью; ранний этап."
-    }
-   }
-  },
-  {
-   "id": "sd-vacuum-boosts-superconductor",
-   "title": "Vacuum fluctuations strengthened superconductivity in a thin material",
-   "summary": "Engineering the surrounding vacuum raised superconductivity by up to 5.4 percent in an ultrathin material, hinting at new ways to tune quantum materials.",
-   "why": "Modest lab result with long-term potential.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Global",
-   "published": "2026-10-03T12:03:23Z",
-   "continent": "Global",
-   "added": "2026-10-04T04:11:20Z",
-   "i18n": {
-    "ca": {
-     "title": "Les fluctuacions de buit van enfortir la superconductivitat en un material prim",
-     "summary": "Enginyeria del buit circumdant va augmentar la superconductivitat fins a un 5,4% en un material ultraprim, indicant noves maneres de sintonitzar materials quàntics.",
-     "why": "Resultat modest de laboratori amb potencial a llarg termini."
-    },
-    "fr": {
-     "title": "Les fluctuations du vide ont renforcé la supraconductivité dans un matériau mince",
-     "summary": "L'ingénierie du vide environnant a augmenté la supraconductivité de jusqu'à 5,4% dans un matériau ultramince, suggérant de nouvelles façons d'accorder les matériaux quantiques.",
-     "why": "Résultat de laboratoire modeste avec un potentiel à long terme."
-    },
-    "ru": {
-     "title": "Вакуумные флуктуации усилили сверхпроводимость в тонком материале",
-     "summary": "Проектирование окружающего вакуума повысило сверхпроводимость на 5,4% в ультратонком материале, намекая на новые способы настройки квантовых материалов.",
-     "why": "Скромный результат лабораторных работ с долгосрочным потенциалом."
-    }
-   }
-  },
-  {
-   "id": "an-drc-ebola-post-exposure-drug-trial",
-   "title": "Trial of post-exposure drug begins in DR Congo for Bundibugyo Ebola",
-   "summary": "A clinical trial has started with 250 people exposed to the rare Bundibugyo variant to test whether a preventive drug can stop infection.",
-   "why": "Response effort under way, with results still to come.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/10/03/dr-congo-trial-of-post-ebola-exposure-drug-underway/",
-   "score": 6,
-   "category": "Health",
-   "region": "DR Congo",
-   "published": "2026-10-03T11:01:09Z",
-   "continent": "Africa",
-   "added": "2026-10-04T04:47:40Z",
-   "i18n": {
-    "ca": {
-     "title": "Comença una prova d'un fàrmac post-exposició a la República Democràtica del Congo per a l'Ebola Bundibugyo",
-     "summary": "Un assaig clínic ha iniciat amb 250 persones exposades a la variant rara de Bundibugyo per provar si un fàrmac preventiu pot aturar la infecció.",
-     "why": "Esforç de resposta en marxa, amb resultats encara per venir."
-    },
-    "fr": {
-     "title": "L'essai d'un médicament post-exposition commence en République démocratique du Congo pour Ebola Bundibugyo",
-     "summary": "Un essai clinique a commencé avec 250 personnes exposées à la variante rare de Bundibugyo pour tester si un médicament préventif peut arrêter l'infection.",
-     "why": "Effort de réponse en cours, avec des résultats encore à venir."
-    },
-    "ru": {
-     "title": "Испытание препарата постконтактной профилактики начинается в ДР Конго против Эболы Бундибугьо",
-     "summary": "Клиническое испытание началось с 250 людьми, подвергшимися воздействию редкого варианта Бундибугьо, чтобы проверить, может ли профилактический препарат предотвратить инфекцию.",
-     "why": "Работают меры реагирования, результаты ещё впереди."
-    }
-   }
-  },
-  {
-   "id": "tbi-project-neev-rural-learning",
-   "title": "Project Neev helps 900 rural children catch up in maths and English",
-   "summary": "A former civil-service aspirant founded a programme using tablet-based learning and local women facilitators to improve children's literacy and numeracy.",
-   "why": "Local education help reaching hundreds of children.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/changemakers/upsc-failure-shruti-shrivastava-project-neev-sashaktikaran-foundation-education-employment-12592812",
-   "score": 6,
-   "category": "Society",
-   "region": "India",
-   "published": "2026-10-03T10:30:37Z",
-   "continent": "Asia",
-   "added": "2026-10-04T06:15:40Z",
-   "i18n": {
-    "ca": {
-     "title": "El Projecte Neev ajuda 900 nens rurals a posar-se al dia en matemàtiques i anglès",
-     "summary": "Un antic aspirant a funcionari va fundar un programa utilitzant aprenentatge basat en tauletes i facilitadores dones locals per millorar l'alfabetització i la numerència dels nens.",
-     "why": "Ajut educatiu local que arriba a centenars de nens."
-    },
-    "fr": {
-     "title": "Le projet Neev aide 900 enfants des zones rurales à rattraper en mathématiques et en anglais",
-     "summary": "Un ancien aspirant à la fonction civile a fondé un programme utilisant l'apprentissage basé sur les tablettes et des facilitatrices locales pour améliorer l'alphabétisation et la numératie des enfants.",
-     "why": "Aide éducative locale qui rejoint des centaines d'enfants."
-    },
-    "ru": {
-     "title": "Проект Neev помогает 900 сельским детям подтянуться по математике и английскому",
-     "summary": "Бывший претендент на государственную службу основал программу, использующую обучение на основе планшетов и местных женщин-фасилитаторов для улучшения грамотности и численности детей.",
-     "why": "Местная образовательная помощь, охватывающая сотни детей."
     }
    }
   }
