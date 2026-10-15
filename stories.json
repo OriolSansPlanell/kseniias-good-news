@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T04:15:14Z",
+ "updated": "2026-10-15T04:15:49Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,10 +12,165 @@
   "Grist",
   "Africanews"
  ],
- "count": 211,
- "last_run": "run-20261014T0415Z.json",
- "note": "15 new, 45 skipped, 19 pruned, 0 translations added, failed feeds: none",
+ "count": 203,
+ "last_run": "run-20261015T0415Z.json",
+ "note": "15 new, 45 skipped, 23 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "am-healthy-reef-sounds-help-coral-larvae-settle-on-ar",
+   "title": "Healthy-reef sounds help coral larvae settle on artificial reef",
+   "summary": "Recordings of a healthy reef played through an underwater speaker in Hawai'i helped coral larvae settle on artificial structures.",
+   "why": "Early research with a creative approach to reef restoration.",
+   "source": "Anthropocene Magazine",
+   "url": "https://www.anthropocenemagazine.org/2026/10/scientists-built-a-soundtrack-to-lure-baby-corals-to-their-cyborg-reef/?utm_source=rss&utm_medium=rss&utm_campaign=scientists-built-a-soundtrack-to-lure-baby-corals-to-their-cyborg-reef",
+   "score": 6,
+   "category": "Environment",
+   "region": "Hawai'i, USA",
+   "published": "2026-10-14T12:00:00Z",
+   "continent": "Oceania",
+   "added": "2026-10-15T04:15:49Z",
+   "i18n": {
+    "ca": {
+     "title": "Els sons d'un escull sa ajuden les larves de coral a assentar-se en un escull artificial",
+     "summary": "Gravacions d'un escull sa, reproduïdes amb un altaveu subaquàtic a Hawai'i, van ajudar les larves de coral a assentar-se sobre estructures artificials.",
+     "why": "Recerca inicial amb un enfocament creatiu per a la restauració d'esculls."
+    },
+    "fr": {
+     "title": "Les sons d'un récif en bonne santé aident les larves de corail à s'installer sur un récif artificiel",
+     "summary": "Des enregistrements d'un récif en bonne santé diffusés par un haut-parleur sous-marin à Hawaï ont aidé des larves de corail à se fixer sur des structures artificielles.",
+     "why": "Recherche préliminaire à l'approche originale pour la restauration des récifs."
+    },
+    "ru": {
+     "title": "Звуки здорового рифа помогают личинкам кораллов поселиться на искусственном рифе",
+     "summary": "Записи здорового рифа, воспроизводимые через подводный динамик на Гавайях, помогли личинкам кораллов осесть на искусственных конструкциях.",
+     "why": "Ранние исследования с нестандартным подходом к восстановлению рифов."
+    }
+   }
+  },
+  {
+   "id": "mb-warning-patterns-on-wind-turbine-blades-may-protec",
+   "title": "Warning patterns on wind turbine blades may protect birds",
+   "summary": "In video-game-style experiments, great tits hesitated and approached less often when turbine blades carried warning patterns.",
+   "why": "Promising, but based on experiments rather than field deployment.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/painted-turbines-can-save-millions-of-birds/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Global",
+   "published": "2026-10-14T08:58:43Z",
+   "continent": "Global",
+   "added": "2026-10-15T04:15:49Z",
+   "i18n": {
+    "ca": {
+     "title": "Els patrons d'advertència a les pales dels aerogeneradors podrien protegir els ocells",
+     "summary": "En experiments d'estil videojoc, les mallerengues carboneres dubtaven i s'hi acostaven menys quan les pales dels aerogeneradors portaven patrons d'advertència.",
+     "why": "Prometedor, però basat en experiments i no en la instal·lació sobre el terreny."
+    },
+    "fr": {
+     "title": "Des motifs d'avertissement sur les pales d'éoliennes pourraient protéger les oiseaux",
+     "summary": "Dans des expériences de type jeu vidéo, les mésanges charbonnières hésitaient et s'approchaient moins souvent lorsque les pales des éoliennes portaient des motifs d'avertissement.",
+     "why": "Résultats prometteurs, mais fondés sur des expériences et non sur un déploiement sur le terrain."
+    },
+    "ru": {
+     "title": "Предупреждающие узоры на лопастях ветряков могут защитить птиц",
+     "summary": "В экспериментах в стиле видеоигр большие синицы колебались и реже приближались к лопастям ветряных турбин, на которых были нанесены предупреждающие узоры.",
+     "why": "Перспективно, но основано на экспериментах, а не на практическом внедрении."
+    }
+   }
+  },
+  {
+   "id": "rtbc-teenagers-worldwide-design-projects-to-cut-plastic",
+   "title": "Teenagers worldwide design projects to cut plastic use",
+   "summary": "The Unplastify Challenge asks teenagers to design and carry out projects that reduce plastic use in their schools and communities.",
+   "why": "Youth-led action on plastic with real local projects, though scale is modest.",
+   "source": "Reasons to be Cheerful",
+   "url": "https://reasonstobecheerful.world/teenagers-worldwide-are-tackling-the-plastics-crisis/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Global",
+   "published": "2026-10-14T08:00:09Z",
+   "continent": "Global",
+   "added": "2026-10-15T04:15:49Z",
+   "i18n": {
+    "ca": {
+     "title": "Adolescents de tot el món dissenyen projectes per reduir el consum de plàstic",
+     "summary": "El Unplastify Challenge demana als adolescents que dissenyin i portin a terme projectes per reduir l'ús de plàstic a les seves escoles i comunitats.",
+     "why": "Acció juvenil contra el plàstic amb projectes locals reals, encara que l'abast sigui modest."
+    },
+    "fr": {
+     "title": "Des adolescents du monde entier conçoivent des projets pour réduire l'usage du plastique",
+     "summary": "Le Unplastify Challenge invite les adolescents à concevoir et mettre en œuvre des projets visant à réduire l'utilisation du plastique dans leurs écoles et leurs communautés.",
+     "why": "Action menée par des jeunes sur le plastique, avec de véritables projets locaux, bien que leur portée reste modeste."
+    },
+    "ru": {
+     "title": "Подростки по всему миру разрабатывают проекты по сокращению использования пластика",
+     "summary": "Unplastify Challenge предлагает подросткам разработать и реализовать проекты, которые сокращают использование пластика в их школах и сообществах.",
+     "why": "Молодёжная инициатива по борьбе с пластиком с реальными местными проектами, хотя масштаб пока скромный."
+    }
+   }
+  },
+  {
+   "id": "an-africa-records-the-world-s-fastest-gains-in-disast",
+   "title": "Africa records the world's fastest gains in disaster resilience",
+   "summary": "A new study finds Africa has made the world's fastest gains in disaster resilience.",
+   "why": "Real progress that protects many people from hazards.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/13/africa-records-worlds-fastest-gains-in-disaster-resilience-study/",
+   "score": 7,
+   "category": "Society",
+   "region": "Africa",
+   "published": "2026-10-14T07:40:26Z",
+   "continent": "Africa",
+   "added": "2026-10-15T04:15:49Z",
+   "i18n": {
+    "ca": {
+     "title": "Àfrica registra els avenços més ràpids del món en resiliència davant els desastres",
+     "summary": "Un nou estudi conclou que Àfrica ha aconseguit els avenços més ràpids del món en resiliència davant els desastres.",
+     "why": "Progrés real que protegeix moltes persones de riscos."
+    },
+    "fr": {
+     "title": "L'Afrique enregistre les progrès les plus rapides au monde en matière de résilience face aux catastrophes",
+     "summary": "Une nouvelle étude constate que l'Afrique a réalisé les progrès les plus rapides au monde en matière de résilience face aux catastrophes.",
+     "why": "Progrès réel qui protège de nombreuses personnes des aléas."
+    },
+    "ru": {
+     "title": "Африка демонстрирует самый быстрый в мире прогресс в повышении устойчивости к стихийным бедствиям",
+     "summary": "Новое исследование показывает, что Африка добилась самого быстрого в мире прогресса в повышении устойчивости к стихийным бедствиям.",
+     "why": "Реальный прогресс, который защищает от опасностей множество людей."
+    }
+   }
+  },
+  {
+   "id": "mb-two-critically-endangered-sumatran-rhinos-are-preg",
+   "title": "Two critically endangered Sumatran rhinos are pregnant",
+   "summary": "Two Sumatran rhinos at an Indonesian sanctuary are pregnant, with calves due around May 2027, though experts warn about inbreeding.",
+   "why": "Hope for a species with very few individuals left, tempered by genetic risks.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/two-rare-pregnancies-spark-hope-for-sumatran-rhinos-but-also-concerns-about-inbreeding/",
+   "score": 7,
+   "category": "Animals",
+   "region": "Indonesia",
+   "published": "2026-10-14T04:39:52Z",
+   "continent": "Asia",
+   "added": "2026-10-15T04:15:49Z",
+   "i18n": {
+    "ca": {
+     "title": "Dos rinoceronts de Sumatra en perill crític d'extinció estan prenyats",
+     "summary": "Dos rinoceronts de Sumatra d'un santuari indonesi estan prenyats, i les cries són previstes al voltant del maig de 2027, tot i que els experts alerten sobre la consanguinitat.",
+     "why": "Esperança per a una espècie de la qual en queden molt pocs exemplars, atenuada pels riscos genètics."
+    },
+    "fr": {
+     "title": "Deux rhinocéros de Sumatra en danger critique d'extinction sont gestants",
+     "summary": "Deux rhinocéros de Sumatra d'un sanctuaire indonésien sont gestants, et les petits sont attendus vers mai 2027, même si les experts mettent en garde contre la consanguinité.",
+     "why": "Espoir pour une espèce dont il ne reste que très peu d'individus, tempéré par les risques génétiques."
+    },
+    "ru": {
+     "title": "Две суматранских носорога, находящихся под угрозой исчезновения, беременны",
+     "summary": "Два суматранских носорога из индонезийского заповедника беременны, и детёныши ожидаются примерно в мае 2027 года, однако эксперты предупреждают о рисках инбридинга.",
+     "why": "Надежда для вида, от которого осталось совсем немного особей, но с учётом генетических рисков."
+    }
+   }
+  },
   {
    "id": "tbi-sparrow-friendly-schools",
    "title": "Chennai conservationist helps over 80 schools welcome back house sparrows",
@@ -44,6 +199,161 @@
      "title": "Эколог из Ченнаи помог более чем 80 школам вернуть домовых воробьёв",
      "summary": "Кудугал Ганешан советует школам сначала оценить существующую среду обитания, прежде чем вешать гнездовья, чтобы территории школ стали более пригодными для домовых воробьёв.",
      "why": "Низовая природоохранная инициатива, которая распространяется по школам."
+    }
+   }
+  },
+  {
+   "id": "sd-fossil-in-zimbabwe-reveals-distinct-210-million-ye",
+   "title": "Fossil in Zimbabwe reveals distinct 210-million-year-old African ecosystem",
+   "summary": "A newly described dinosaur from Zimbabwe points to a distinct southern African ecosystem, with climate differences possibly shaping which animals lived there.",
+   "why": "Interesting discovery with no direct benefit to people today.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261012185013.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Zimbabwe",
+   "published": "2026-10-13T22:53:03Z",
+   "continent": "Africa",
+   "added": "2026-10-15T04:15:49Z",
+   "i18n": {
+    "ca": {
+     "title": "Un fòssil de Zimbabwe revela un ecosistema africà diferenciat de fa 210 milions d'anys",
+     "summary": "Un dinosaure descrit recentment a Zimbabwe apunta a un ecosistema diferenciat al sud d'Àfrica, on les diferències climàtiques podrien haver influït en quins animals hi vivien.",
+     "why": "Descobriment interessant sense un benefici directe per a les persones d'avui."
+    },
+    "fr": {
+     "title": "Un fossile découvert au Zimbabwe révèle un écosystème africain distinct vieux de 210 millions d'années",
+     "summary": "Un dinosaure nouvellement décrit au Zimbabwe indique l'existence d'un écosystème distinct en Afrique australe, où les différences climatiques ont peut-être déterminé les animaux qui y vivaient.",
+     "why": "Découverte intéressante, sans bénéfice direct pour les populations actuelles."
+    },
+    "ru": {
+     "title": "Окаменелость из Зимбабве указывает на особую африканскую экосистему возрастом 210 миллионов лет",
+     "summary": "Недавно описанный динозавр из Зимбабве указывает на самобытную экосистему южной Африки, где, возможно, климатические различия определяли, какие животные там обитали.",
+     "why": "Интересное открытие, которое не приносит прямой пользы людям сегодня."
+    }
+   }
+  },
+  {
+   "id": "mb-argentine-deep-sea-canyon-yields-57-species-new-to",
+   "title": "Argentine deep-sea canyon yields 57 species new to science",
+   "summary": "Researchers identified 57 new species and five new genera from the Mar del Plata Canyon during a two-week workshop.",
+   "why": "A major biodiversity find, though it also highlights how little is protected.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/patrick-sea-star-went-viral-but-argentine-deep-sea-canyon-held-57-new-species/",
+   "score": 7,
+   "category": "Science",
+   "region": "Argentina",
+   "published": "2026-10-13T22:11:43Z",
+   "continent": "South America",
+   "added": "2026-10-15T04:15:49Z",
+   "i18n": {
+    "ca": {
+     "title": "Un canó submarí argentí revela 57 espècies noves per a la ciència",
+     "summary": "Investigadors han identificat 57 espècies noves i cinc gèneres nous al canó de Mar del Plata durant un taller de dues setmanes.",
+     "why": "Un descobriment important de biodiversitat, tot i que també evidencia el poc que està protegit."
+    },
+    "fr": {
+     "title": "Un canyon sous-marin argentin livre 57 espèces nouvelles pour la science",
+     "summary": "Des chercheurs ont identifié 57 espèces nouvelles et cinq genres nouveaux dans le canyon de Mar del Plata, au cours d'un atelier de deux semaines.",
+     "why": "Une découverte majeure en matière de biodiversité, qui souligne toutefois le peu de zones protégées."
+    },
+    "ru": {
+     "title": "Глубоководный каньон у берегов Аргентины дал 57 видов, новых для науки",
+     "summary": "Исследователи выявили 57 новых видов и пять новых родов в каньоне Мар-дель-Плата в ходе двухнедельного семинара.",
+     "why": "Важное открытие в области биоразнообразия, хотя оно также показывает, как мало здесь защищено."
+    }
+   }
+  },
+  {
+   "id": "gnn-scientists-describe-a-giant-fungus-found-in-southw",
+   "title": "Scientists describe a giant fungus found in southwest China",
+   "summary": "Researchers in southwest China described a new giant fungus, Dianjunus rex, whose upright fruiting bodies can reach about 20 inches tall, challenging ideas about fungal evolution.",
+   "why": "A new species adds to knowledge of life that is still being discovered.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/scientists-shocked-to-discover-d-rex-a-giant-fungus-from-chinese-forests-dating-back-65-million-years/",
+   "score": 6,
+   "category": "Science",
+   "region": "China",
+   "published": "2026-10-13T18:30:53Z",
+   "continent": "Asia",
+   "added": "2026-10-15T04:15:49Z",
+   "i18n": {
+    "ca": {
+     "title": "Científics descriuen un fong gegant trobat al sud-oest de la Xina",
+     "summary": "Investigadors del sud-oest de la Xina han descrit una nova espècie de fong gegant, Dianjunus rex, els cossos fructífers erectes de la qual poden arribar a unes 20 polzades (uns 50 cm) d'alçada, cosa que qüestiona algunes idees sobre l'evolució dels fongs.",
+     "why": "Una nova espècie amplia el coneixement de la vida que encara s'està descobrint."
+    },
+    "fr": {
+     "title": "Des scientifiques décrivent un champignon géant découvert dans le sud-ouest de la Chine",
+     "summary": "Des chercheurs du sud-ouest de la Chine ont décrit une nouvelle espèce de champignon géant, Dianjunus rex, dont les fructifications dressées peuvent atteindre environ 20 pouces de haut, ce qui remet en question certaines idées sur l'évolution des champignons.",
+     "why": "Une nouvelle espèce enrichit les connaissances sur le vivant, qui continue d'être découvert."
+    },
+    "ru": {
+     "title": "Учёные описали гигантский гриб, найденный на юго-западе Китая",
+     "summary": "Исследователи из юго-западного Китая описали новый гигантский гриб Dianjunus rex, плодовые тела которого в вертикальном положении могут достигать около 20 дюймов в высоту, что ставит под сомнение некоторые представления об эволюции грибов.",
+     "why": "Новый вид пополняет знания о живом мире, который всё ещё открывают заново."
+    }
+   }
+  },
+  {
+   "id": "mb-indonesia-releases-20-green-sea-turtles-after-bali",
+   "title": "Indonesia releases 20 green sea turtles after Bali smuggling raid",
+   "summary": "Authorities in Bali released 20 protected green sea turtles found alive on an abandoned boat during a smuggling attempt.",
+   "why": "Animals saved, though two did not survive and smuggling persists.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/indonesia-returns-20-green-sea-turtles-to-the-ocean-after-bali-smuggling-raid/",
+   "score": 6,
+   "category": "Animals",
+   "region": "Bali, Indonesia",
+   "published": "2026-10-13T17:13:30Z",
+   "continent": "Asia",
+   "added": "2026-10-15T04:15:49Z",
+   "i18n": {
+    "ca": {
+     "title": "Indonèsia allibera 20 tortugues marines verdes després d'una operació contra el contraban a Bali",
+     "summary": "Les autoritats de Bali han alliberat 20 tortugues marines verdes protegides, trobades vives en una embarcació abandonada durant un intent de contraban.",
+     "why": "Animals salvats, tot i que dues no van sobreviure i el contraban persisteix."
+    },
+    "fr": {
+     "title": "L'Indonésie relâche 20 tortues vertes après une opération contre le trafic à Bali",
+     "summary": "Les autorités de Bali ont relâché 20 tortues vertes protégées, retrouvées vivantes sur un bateau abandonné lors d'une tentative de trafic.",
+     "why": "Des animaux sauvés, mais deux n'ont pas survécu et le trafic persiste."
+    },
+    "ru": {
+     "title": "Индонезия выпустила в море 20 зелёных морских черепах после рейда против контрабанды на Бали",
+     "summary": "Власти Бали выпустили 20 охраняемых зелёных морских черепах, которых нашли живыми на заброшенной лодке во время попытки контрабанды.",
+     "why": "Животные спасены, хотя две черепахи не выжили, а контрабанда продолжается."
+    }
+   }
+  },
+  {
+   "id": "gnn-biomethane-plant-in-southern-italy-starts-supplyin",
+   "title": "Biomethane plant in southern Italy starts supplying renewable gas",
+   "summary": "A plant in Grottole turns agricultural waste into a natural gas substitute and is expected to supply renewable gas to more than 3,000 homes.",
+   "why": "Cuts fossil gas use for a community by reusing farm waste.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/italian-biomethane-plant-comes-online-providing-renewable-gas-supply-to-over-3000-homes/",
+   "score": 6,
+   "category": "Energy",
+   "region": "Basilicata, Italy",
+   "published": "2026-10-13T15:30:50Z",
+   "continent": "Europe",
+   "added": "2026-10-15T04:15:49Z",
+   "i18n": {
+    "ca": {
+     "title": "Una planta de biometà del sud d'Itàlia comença a subministrar gas renovable",
+     "summary": "Una planta a Grottole converteix residus agrícoles en un substitut del gas natural i preveu subministrar gas renovable a més de 3.000 llars.",
+     "why": "Redueix l'ús de gas fòssil en una comunitat aprofitant els residus agrícoles."
+    },
+    "fr": {
+     "title": "Une usine de biométhane du sud de l'Italie commence à fournir du gaz renouvelable",
+     "summary": "Une usine de Grottole transforme des déchets agricoles en un substitut du gaz naturel et devrait fournir du gaz renouvelable à plus de 3 000 foyers.",
+     "why": "Réduit l'usage du gaz fossile pour une communauté en valorisant des déchets agricoles."
+    },
+    "ru": {
+     "title": "Завод по производству биометана на юге Италии начал поставки возобновляемого газа",
+     "summary": "Завод в Гроттоле перерабатывает сельскохозяйственные отходы в заменитель природного газа и, как ожидается, будет снабжать возобновляемым газом более 3000 домохозяйств.",
+     "why": "Сокращает использование ископаемого газа в общине за счёт переработки сельскохозяйственных отходов."
     }
    }
   },
@@ -110,6 +420,130 @@
    }
   },
   {
+   "id": "gnn-moviegoer-crowdfunds-146-000-retirement-for-elderl",
+   "title": "Moviegoer crowdfunds $146,000 retirement for elderly theater worker",
+   "summary": "A young moviegoer organised a fundraiser that raised $146,000 so an elderly theater worker in Maryville, Tennessee could retire.",
+   "why": "A heartwarming act of kindness helping one person.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/elderly-theater-worker-surprised-with-146000-for-retirement-crowdfunded-by-young-moviegoer/",
+   "score": 5,
+   "category": "Society",
+   "region": "Tennessee, USA",
+   "published": "2026-10-13T11:00:52Z",
+   "continent": "North America",
+   "added": "2026-10-15T04:15:49Z",
+   "i18n": {
+    "ca": {
+     "title": "Un espectador recapta 146.000 dòlars per a la jubilació d'una treballadora gran d'un cinema",
+     "summary": "Un jove espectador va organitzar una recaptació que va reunir 146.000 dòlars perquè una treballadora gran d'un teatre de Maryville (Tennessee) pogués jubilar-se.",
+     "why": "Un acte de bondat que ajuda una persona."
+    },
+    "fr": {
+     "title": "Un spectateur lève 146 000 dollars pour la retraite d'une employée de cinéma âgée",
+     "summary": "Un jeune spectateur a organisé une collecte de fonds qui a permis de réunir 146 000 dollars pour qu'une employée de théâtre âgée de Maryville, dans le Tennessee, puisse prendre sa retraite.",
+     "why": "Un geste de générosité qui aide une personne."
+    },
+    "ru": {
+     "title": "Зритель собрал 146 000 долларов на пенсию пожилой сотруднице кинотеатра",
+     "summary": "Молодой зритель организовал сбор средств, в результате которого было собрано 146 000 долларов, чтобы пожилая сотрудница театра из Мэривилла, штат Теннесси, смогла уйти на пенсию.",
+     "why": "Акт доброты, который помогает одному человеку."
+    }
+   }
+  },
+  {
+   "id": "pn-artist-paints-britain-s-restored-nature-in-new-exh",
+   "title": "Artist paints Britain's restored nature in new exhibition",
+   "summary": "Rebecca Howard's paintings celebrate nine projects that are restoring nature across Britain.",
+   "why": "Uplifting culture piece tied to ongoing rewilding work.",
+   "source": "Positive News",
+   "url": "https://www.positive.news/environment/the-in-awe-artist-painting-a-wilder-britain/",
+   "score": 6,
+   "category": "Culture",
+   "region": "United Kingdom",
+   "published": "2026-10-13T09:25:37Z",
+   "continent": "Europe",
+   "added": "2026-10-15T04:15:49Z",
+   "i18n": {
+    "ca": {
+     "title": "Una artista pinta la natura restaurada de la Gran Bretanya en una nova exposició",
+     "summary": "Les pintures de Rebecca Howard celebren nou projectes que restauren la natura a tot el Regne Unit.",
+     "why": "Una peça cultural inspiradora vinculada a la renaturalització en curs."
+    },
+    "fr": {
+     "title": "Une artiste peint la nature restaurée de Grande-Bretagne dans une nouvelle exposition",
+     "summary": "Les tableaux de Rebecca Howard célèbrent neuf projets de restauration de la nature à travers la Grande-Bretagne.",
+     "why": "Une œuvre culturelle stimulante, liée aux efforts de renaturation en cours."
+    },
+    "ru": {
+     "title": "Художница изображает восстановленную природу Британии на новой выставке",
+     "summary": "Картины Ребекки Ховард посвящены девяти проектам по восстановлению природы в Великобритании.",
+     "why": "Вдохновляющее культурное явление, связанное с продолжающейся работой по ренатурализации."
+    }
+   }
+  },
+  {
+   "id": "mb-congolese-ngo-to-co-manage-itombwe-nature-reserve",
+   "title": "Congolese NGO to co-manage Itombwe Nature Reserve in a DRC first",
+   "summary": "Strong Roots Congo will co-manage Itombwe Nature Reserve in South Kivu with the national wildlife authority, the first such arrangement in the country.",
+   "why": "Local stewardship of a protected area is a meaningful step for conservation.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/in-a-first-for-the-drc-a-homegrown-ngo-will-co-manage-a-wildlife-reserve/",
+   "score": 7,
+   "category": "Environment",
+   "region": "DR Congo",
+   "published": "2026-10-13T08:39:08Z",
+   "continent": "Africa",
+   "added": "2026-10-15T04:15:49Z",
+   "i18n": {
+    "ca": {
+     "title": "Una ONG congolesa cogestionarà la reserva natural d'Itombwe, primer cas a la RD del Congo",
+     "summary": "Strong Roots Congo cogestionarà la reserva natural d'Itombwe, al Kivu del Sud, juntament amb l'autoritat nacional de fauna, el primer acord d'aquest tipus al país.",
+     "why": "La gestió local d'una àrea protegida és un pas important per a la conservació."
+    },
+    "fr": {
+     "title": "Une ONG congolaise cogérera la réserve naturelle d'Itombwe, une première en RDC",
+     "summary": "Strong Roots Congo cogérera la réserve naturelle d'Itombwe, dans le Sud-Kivu, avec l'autorité nationale de la faune, une première de ce type dans le pays.",
+     "why": "La gestion locale d'une aire protégée constitue une avancée significative pour la conservation."
+    },
+    "ru": {
+     "title": "Конголезская НПО впервые в ДР Конго станет совместно управлять природным заповедником Итомби",
+     "summary": "Strong Roots Congo будет совместно управлять природным заповедником Итомби в Южном Киву вместе с национальным органом по охране дикой природы — первое подобное соглашение в стране.",
+     "why": "Местное управление охраняемой территорией — важный шаг для охраны природы."
+    }
+   }
+  },
+  {
+   "id": "rtbc-student-run-housing-offers-safe-spaces-for-unhouse",
+   "title": "Student-run housing offers safe spaces for unhoused young adults",
+   "summary": "Projects such as Aggie House at UC Davis and Y2Y in Cambridge, Massachusetts provide low-cost or short-term housing for young people without homes.",
+   "why": "Practical community solutions that help a vulnerable group.",
+   "source": "Reasons to be Cheerful",
+   "url": "https://reasonstobecheerful.world/young-adults-are-building-safe-spaces-for-unhoused-peers/",
+   "score": 7,
+   "category": "Society",
+   "region": "USA",
+   "published": "2026-10-13T08:00:49Z",
+   "continent": "North America",
+   "added": "2026-10-15T04:15:49Z",
+   "i18n": {
+    "ca": {
+     "title": "Habitatges gestionats per estudiants ofereixen espais segurs per a joves sense llar",
+     "summary": "Projectes com Aggie House, a la UC Davis, i Y2Y, a Cambridge (Massachusetts), ofereixen habitatge de baix cost o a curt termini per a joves sense llar.",
+     "why": "Solucions comunitàries pràctiques que ajuden un grup vulnerable."
+    },
+    "fr": {
+     "title": "Des logements gérés par des étudiants offrent des espaces sûrs aux jeunes adultes sans domicile",
+     "summary": "Des projets comme Aggie House à l'UC Davis et Y2Y à Cambridge, dans le Massachusetts, proposent un logement à faible coût ou de courte durée aux jeunes sans domicile.",
+     "why": "Des solutions communautaires concrètes qui aident un groupe vulnérable."
+    },
+    "ru": {
+     "title": "Жильё, которым управляют студенты, даёт безопасное пространство молодым бездомным взрослым",
+     "summary": "Такие проекты, как Aggie House в Калифорнийском университете в Дейвисе и Y2Y в Кембридже, штат Массачусетс, предоставляют недорогое или краткосрочное жильё молодым людям без крова.",
+     "why": "Практичные общественные решения, которые помогают уязвимой группе."
+    }
+   }
+  },
+  {
    "id": "tbi-supreme-court-menstrual-health-schools",
    "title": "Indian Supreme Court treats menstrual health as part of right to life",
    "summary": "A ruling treats menstrual health as part of the right to life. A ten-point checklist helps parents assess their daughter's school facilities.",
@@ -137,6 +571,37 @@
      "title": "Верховный суд Индии признал менструальное здоровье частью права на жизнь",
      "summary": "Постановление рассматривает менструальное здоровье как часть права на жизнь. Контрольный список из десяти пунктов помогает родителям оценить условия в школе их дочери.",
      "why": "Юридическое признание, которое может улучшить школьные условия для многих девочек."
+    }
+   }
+  },
+  {
+   "id": "od-floating-shades-help-coral-survive-a-marine-heatwa",
+   "title": "Floating shades help coral survive a marine heatwave",
+   "summary": "Divers placed floating shades over 20 brain coral colonies in the Florida Keys, which regained colour while unshaded colonies stayed bleached.",
+   "why": "A cheap local tool for reefs, but limited in scale.",
+   "source": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/10/how-a-floating-shade-can-help-coral-survive-a-marine-heatwave/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Florida Keys, USA",
+   "published": "2026-10-13T00:00:30Z",
+   "continent": "North America",
+   "added": "2026-10-15T04:15:49Z",
+   "i18n": {
+    "ca": {
+     "title": "Ombrel·les flotants ajuden el coral a sobreviure a una onada de calor marina",
+     "summary": "Bussejadors van col·locar ombrel·les flotants sobre 20 colònies de coral cervell als Florida Keys, que van recuperar el color mentre les colònies sense ombra continuaven blanquejades.",
+     "why": "Una eina local i barata per als esculls, però d'abast limitat."
+    },
+    "fr": {
+     "title": "Des ombrages flottants aident le corail à survivre à une vague de chaleur marine",
+     "summary": "Des plongeurs ont installé des ombrages flottants au-dessus de 20 colonies de corail cerveau dans les Keys de Floride ; elles ont retrouvé leur couleur, tandis que les colonies non ombragées restaient blanchies.",
+     "why": "Un outil local peu coûteux pour les récifs, mais d'une portée limitée."
+    },
+    "ru": {
+     "title": "Плавающие укрытия помогают кораллам пережить морскую жару",
+     "summary": "Водолазы установили плавающие укрытия над 20 колониями мозгового коралла у Флорида-Кис; под ними кораллы вновь приобрели окраску, тогда как неукрытые колонии оставались обесцвеченными.",
+     "why": "Дешёвый местный инструмент для рифов, но ограниченный по масштабу."
     }
    }
   },
@@ -5841,719 +6306,6 @@
      "title": "Латиноамериканская дикая природа всё чаще появляется на рынке домашних животных в Бангкоке",
      "summary": "Амазонские животные, включая мармозеток, капуцинов и редких рыб, всё чаще появляются на рынках экзотических домашних животных Юго-Восточной Азии, предположительно отмытые через Перу как животные, разводимые в неволе.",
      "why": "Растущий оборот дикой природы — это плохо, но информирование помогает его разоблачить."
-    }
-   }
-  },
-  {
-   "id": "mb-tiger-trafficking-weak-prosecution-sea",
-   "title": "Report finds weak prosecution of tiger trafficking in Southeast Asia",
-   "summary": "An analysis of 259 trafficking cases in seven countries from 2019 to 2024 found fewer than half ended in convictions.",
-   "why": "A useful warning that points to what needs fixing.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/10/weak-prosecution-leaves-southeast-asias-tigers-vulnerable-to-trafficking-report/",
-   "score": 4,
-   "category": "Animals",
-   "region": "Southeast Asia",
-   "published": "2026-10-05T05:17:49Z",
-   "continent": "Asia",
-   "added": "2026-10-06T06:16:29Z",
-   "i18n": {
-    "ca": {
-     "title": "Un informe adverteix de la feble persecució del tràfic de tigres a l'Àsia del Sud-Est",
-     "summary": "Una anàlisi de 259 casos de tràfic en set països de 2019 a 2024 va trobar que menys de la meitat van acabar en condemnacions.",
-     "why": "Un avís útil que assenyala què cal corregir."
-    },
-    "fr": {
-     "title": "Un rapport révèle des poursuites faibles contre le trafic de tigres en Asie du Sud-Est",
-     "summary": "Une analyse de 259 cas de trafic dans sept pays de 2019 à 2024 a révélé que moins de la moitié se sont terminés par des condamnations.",
-     "why": "Un avertissement utile qui indique ce qui doit être corrigé."
-    },
-    "ru": {
-     "title": "Доклад выявляет слабое преследование торговцев тиграми в Юго-Восточной Азии",
-     "summary": "Анализ 259 случаев торговли тиграми в семи странах с 2019 по 2024 год показал, что менее половины завершились осуждением.",
-     "why": "Полезное предупреждение, указывающее на необходимые исправления."
-    }
-   }
-  },
-  {
-   "id": "mb-malta-hunters-stranded-migratory-birds",
-   "title": "Hunters reportedly kill hundreds of storm-stranded migratory birds in Malta",
-   "summary": "After a thunderstorm grounded migrating birds on 14 September, hunters reportedly shot hundreds of protected birds, including European turtle doves.",
-   "why": "Harm to protected wildlife; the reporting may prompt enforcement.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/10/hunters-reportedly-kill-hundreds-of-migratory-birds-stranded-by-thunderstorm-in-malta/",
-   "score": 1,
-   "category": "Animals",
-   "region": "Malta",
-   "published": "2026-10-05T04:23:50Z",
-   "continent": "Europe",
-   "added": "2026-10-05T12:15:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Segons els informes, els caçadors maten centenars d'ocells migratoris afectats per la tempesta a Malta",
-     "summary": "Després que una tempesta de trons va tirar a terra els ocells migratoris el 14 de setembre, els caçadors aparentment van disparar centenars d'ocells protegits, incloent tortorelles turtades europees.",
-     "why": "Dany a la vida silvestre protegida; l'informe pot provocar l'aplicació de la llei."
-    },
-    "fr": {
-     "title": "Les chasseurs auraient tué des centaines d'oiseaux migrateurs bloqués par une tempête à Malte",
-     "summary": "Après qu'un orage a immobilisé les oiseaux migrateurs le 14 septembre, les chasseurs auraient tiré sur des centaines d'oiseaux protégés, notamment des tourterelles des bois européennes.",
-     "why": "Dommages à la faune protégée ; le signalement peut encourager l'application de la loi."
-    },
-    "ru": {
-     "title": "Охотники якобы убили сотни перелетных птиц, оставленных без сил бурей на Мальте",
-     "summary": "После грозы, которая приземлила мигрирующих птиц 14 сентября, охотники якобы расстреляли сотни защищенных птиц, включая европейских горлиц.",
-     "why": "Вред защищенной дикой природе; сообщение может побудить к правоприменению."
-    }
-   }
-  },
-  {
-   "id": "tbi-elephant-routes-india-nepal",
-   "title": "Villagers help protect elephant migration routes across the India-Nepal border",
-   "summary": "Elephant herds follow ancestral routes through the Terai passed down across generations, and local communities are working to keep these corridors safe.",
-   "why": "Community-led protection of wildlife corridors, though still ongoing.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/wildlife/elephant-culture-migration-routes-katarniaghat-terai-12613669",
-   "score": 7,
-   "category": "Animals",
-   "region": "Katarniaghat, India",
-   "published": "2026-10-05T00:00:00Z",
-   "continent": "Asia",
-   "added": "2026-10-05T06:18:29Z",
-   "i18n": {
-    "ca": {
-     "title": "Els habitants ajuden a protegir les rutes de migració dels elefants a través de la frontera entre l'Índia i Nepal",
-     "summary": "Els ramats d'elefants segueixen rutes ancestrals a través del Terai transmeses de generació en generació, i les comunitats locals treballen per mantenir aquests corredors segurs.",
-     "why": "Protecció comunitària de corredor de vida silvestre, tot i que continua en curs."
-    },
-    "fr": {
-     "title": "Les habitants aident à protéger les routes de migration des éléphants à travers la frontière Inde-Népal",
-     "summary": "Les troupeaux d'éléphants suivent des routes ancestrales à travers le Terai transmises de générations en générations, et les communautés locales travaillent pour maintenir ces corridors sûrs.",
-     "why": "Protection communautaire des corridors fauniques, bien que toujours en cours."
-    },
-    "ru": {
-     "title": "Жители помогают защитить маршруты миграции слонов через границу Индия-Непал",
-     "summary": "Стада слонов следуют древним маршрутам через Терай, передавшимся поколениями, и местные сообщества работают, чтобы сохранить эти коридоры в безопасности.",
-     "why": "Защита коридоров дикой природы на уровне сообщества, хотя процесс продолжается."
-    }
-   }
-  },
-  {
-   "id": "tbi-bharatanatyam-goa-beach",
-   "title": "Former doctor stages Bharatanatyam performance by 40 dancers on a Goa beach",
-   "summary": "An artist brought 40 classical Bharatanatyam dancers to Morjim beach in Goa, combining traditional dance with the coastal landscape.",
-   "why": "A pleasant cultural event with local impact.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/web-stories/art/subodh-kerkar-bharatanatyam-dancers-morjim-beach-ocean-art-12614766",
-   "score": 6,
-   "category": "Culture",
-   "region": "Goa, India",
-   "published": "2026-10-05T00:00:00Z",
-   "continent": "Asia",
-   "added": "2026-10-05T06:18:29Z",
-   "i18n": {
-    "ca": {
-     "title": "Un antic metge organitza una actuació de Bharatanatyam de 40 balladors en una platja de Goa",
-     "summary": "Un artista va portar 40 balladors clàssics de Bharatanatyam a la platja de Morjim a Goa, combinant dansa tradicional amb el paisatge costaner.",
-     "why": "Un agradable event cultural amb impacte local."
-    },
-    "fr": {
-     "title": "Un ancien médecin organise une performance de Bharatanatyam avec 40 danseurs sur une plage de Goa",
-     "summary": "Un artiste a amené 40 danseurs classiques de Bharatanatyam à la plage de Morjim à Goa, combinant la danse traditionnelle avec le paysage côtier.",
-     "why": "Un événement culturel agréable avec un impact local."
-    },
-    "ru": {
-     "title": "Бывший врач организует представление Бхаратанатьям с 40 танцорами на пляже Гоа",
-     "summary": "Художник привёл 40 классических танцоров Бхаратанатьям на пляж Морджим в Гоа, объединив традиционный танец с прибрежным ландшафтом.",
-     "why": "Приятное культурное событие с местным воздействием."
-    }
-   }
-  },
-  {
-   "id": "od-wisconsin-forest-bathing-trail",
-   "title": "Wisconsin opens its first certified forest-bathing trail",
-   "summary": "Eagle River now has a one-mile trail designed for slow, meditative walks in nature, open to everyone and linked to lower stress.",
-   "why": "A small but accessible wellbeing benefit for one community.",
-   "source": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/10/wisconsins-first-certified-shinrin-yoku-trail-is-open-to-everyone/",
-   "score": 6,
-   "category": "Health",
-   "region": "Wisconsin, United States",
-   "published": "2026-10-05T00:00:00Z",
-   "continent": "North America",
-   "added": "2026-10-05T12:15:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Wisconsin obri la seva primera pista de bany forestal certificada",
-     "summary": "Eagle River ara té un camí de una milla dissenyat per a passeigs lents i meditatius en la natura, obert a tothom i relacionat amb menys estrès.",
-     "why": "Un petit però accessible benefici per al benestar d'una comunitat."
-    },
-    "fr": {
-     "title": "Le Wisconsin ouvre son premier sentier de bain de forêt certifié",
-     "summary": "Eagle River dispose désormais d'un sentier d'un mile conçu pour des promenades lentes et méditatives dans la nature, ouvert à tous et associé à un stress réduit.",
-     "why": "Un petit avantage accessible pour le bien-être d'une communauté."
-    },
-    "ru": {
-     "title": "Висконсин открывает свой первый сертифицированный тропу лесных ванн",
-     "summary": "Игл-Ривер теперь имеет тропу в одну милю, предназначенную для медленных медитативных прогулок в природе, открытую для всех и связанную со снижением стресса.",
-     "why": "Небольшое, но доступное преимущество для здоровья одного сообщества."
-    }
-   }
-  },
-  {
-   "id": "od-deafcity-hub-sign-language-space",
-   "title": "DeafCity Hub plans a cultural centre for Britain's Deaf community",
-   "summary": "Urban planner Amanprit Arnold is developing a gathering space built on DeafSpace architecture principles, where sign language can thrive.",
-   "why": "A promising community project, still in the planning stage.",
-   "source": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/10/deafcity-hub-and-the-fight-to-build-a-space-where-sign-language-can-live-and-thrive/",
-   "score": 6,
-   "category": "Culture",
-   "region": "United Kingdom",
-   "published": "2026-10-05T00:00:00Z",
-   "continent": "Europe",
-   "added": "2026-10-05T12:15:58Z",
-   "i18n": {
-    "ca": {
-     "title": "DeafCity Hub planifica un centre cultural per a la comunitat sorda de Gran Bretanya",
-     "summary": "La planificadora urbana Amanprit Arnold està desenvolupant un espai de reunió basat en els principis de l'arquitectura DeafSpace, on la llengua de signes pot prosperar.",
-     "why": "Un projecte comunitari prometedor, encara en la fase de planificació."
-    },
-    "fr": {
-     "title": "DeafCity Hub prévoit un centre culturel pour la communauté sourde de la Grande-Bretagne",
-     "summary": "L'urbaniste Amanprit Arnold développe un espace de rassemblement basé sur les principes de l'architecture DeafSpace, où la langue des signes peut prospérer.",
-     "why": "Un projet communautaire prometteur, encore en phase de planification."
-    },
-    "ru": {
-     "title": "DeafCity Hub планирует культурный центр для глухого сообщества Британии",
-     "summary": "Градостроитель Амаприт Арнольд разрабатывает пространство для собраний на основе принципов архитектуры DeafSpace, где язык жестов может процветать.",
-     "why": "Многообещающий общественный проект, еще на стадии планирования."
-    }
-   }
-  },
-  {
-   "id": "sd-cartilage-regrowth-mice",
-   "title": "Blocking an age-related protein regrows knee cartilage in mice",
-   "summary": "Stanford researchers restored damaged cartilage in old mice and prevented osteoarthritis after knee injury by blocking a protein linked to ageing.",
-   "why": "Exciting but only in mice so far.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
-   "score": 6,
-   "category": "Health",
-   "region": "California, USA",
-   "published": "2026-10-05T00:00:00Z",
-   "continent": "North America",
-   "added": "2026-10-07T06:15:43Z",
-   "i18n": {
-    "ca": {
-     "title": "Bloquejar una proteïna relacionada amb l'edat regenera el cartílag del genoll en ratolins",
-     "summary": "Els investigadors de Stanford restauraren cartílag danyat en ratolins vells i evitaren l'osteoartritis després d'una lesió de genoll bloqueiant una proteïna vinculada a l'envelliment.",
-     "why": "Exciting però només en ratolins fins ara."
-    },
-    "fr": {
-     "title": "Bloquer une protéine liée à l'âge régénère le cartilage du genou chez les souris",
-     "summary": "Les chercheurs de Stanford ont restauré le cartilage endommagé chez des souris âgées et prévenu l'arthrose après une blessure au genou en bloquant une protéine liée au vieillissement.",
-     "why": "Excitant mais seulement chez la souris pour l'instant."
-    },
-    "ru": {
-     "title": "Блокировка белка, связанного с возрастом, восстанавливает хрящ колена у мышей",
-     "summary": "Исследователи Стэнфорда восстановили повреждённый хрящ у старых мышей и предотвратили остеоартрит после травмы колена, блокируя белок, связанный со старением.",
-     "why": "Захватывающе, но пока только у мышей."
-    }
-   }
-  },
-  {
-   "id": "mb-brazil-amazon-deforestation-vote",
-   "title": "Far-right candidate leads in Amazon deforestation hotspots",
-   "summary": "Flávio Bolsonaro won most votes in eight of the ten Amazon municipalities with the highest deforestation and advances to a runoff against President Lula.",
-   "why": "Worrying signal for forest protection.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/10/brazil-far-right-presidential-candidate-wins-most-votes-in-deforestation-hotspots/",
-   "score": 3,
-   "category": "Environment",
-   "region": "Brazil",
-   "published": "2026-10-05T00:00:00Z",
-   "continent": "South America",
-   "added": "2026-10-07T06:15:43Z",
-   "i18n": {
-    "ca": {
-     "title": "El candidat d'extrema dreta lidera en els punts negres de deforestació de l'Amazònia",
-     "summary": "Flávio Bolsonaro va obtenir més vots en vuit dels deu municipis de l'Amazònia amb la deforestació més alta i avança a una tirada de desempat contra el president Lula.",
-     "why": "Senyal preocupant per a la protecció forestal."
-    },
-    "fr": {
-     "title": "Le candidat d'extrême droite mène dans les points chauds de déforestation amazonienne",
-     "summary": "Flávio Bolsonaro a remporté la majorité des voix dans huit des dix municipalités amazoniennes les plus touchées par la déforestation et se qualifie pour un second tour contre le président Lula.",
-     "why": "Signal inquiétant pour la protection des forêts."
-    },
-    "ru": {
-     "title": "Кандидат крайне правого фланга лидирует в очагах обезлесения Амазонки",
-     "summary": "Флавио Болсонару получил большинство голосов в восьми из десяти муниципалитетов Амазонки с наибольшей вырубкой лесов и проходит во второй тур против президента Лулы.",
-     "why": "Тревожный сигнал для защиты лесов."
-    }
-   }
-  },
-  {
-   "id": "od-deafcity-hub-uk",
-   "title": "UK's first Deaf cultural center planned using DeafSpace design",
-   "summary": "Urban planner Amanprit Arnold is building DeafCity Hub, a permanent space for Deaf arts and community life designed with DeafSpace architecture principles.",
-   "why": "Strengthens a community's culture.",
-   "source": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/10/deafcity-hub-and-the-fight-to-build-a-space-where-sign-language-can-live-to-thrive/",
-   "score": 7,
-   "category": "Culture",
-   "region": "United Kingdom",
-   "published": "2026-10-05T00:00:00Z",
-   "continent": "Europe",
-   "added": "2026-10-07T06:15:43Z",
-   "i18n": {
-    "ca": {
-     "title": "El primer centre cultural Sord del Regne Unit es planejat amb disseny DeafSpace",
-     "summary": "L'urbanista Amanprit Arnold està construint DeafCity Hub, un espai permanent per a arts sords i vida comunitària dissenyat amb principis d'arquitectura DeafSpace.",
-     "why": "Reforça la cultura d'una comunitat."
-    },
-    "fr": {
-     "title": "Le premier centre culturel Sourd du Royaume-Uni est planifié avec le design DeafSpace",
-     "summary": "L'urbaniste Amanprit Arnold construit DeafCity Hub, un espace permanent pour les arts Sourds et la vie communautaire conçu selon les principes d'architecture DeafSpace.",
-     "why": "Renforce la culture d'une communauté."
-    },
-    "ru": {
-     "title": "Первый культурный центр глухих в Великобритании планируется с дизайном DeafSpace",
-     "summary": "Городской планировщик Амариприт Арнольд строит DeafCity Hub, постоянное пространство для глухой культуры и жизни сообщества, спроектированное в соответствии с принципами архитектуры DeafSpace.",
-     "why": "Укрепляет культуру сообщества."
-    }
-   }
-  },
-  {
-   "id": "gnn-urolithin-a-heart-failure",
-   "title": "Compound from pomegranates and walnuts may help treat heart failure",
-   "summary": "Researchers found that urolithin A, a compound the gut makes after eating pomegranates, walnuts and berries, improved heart function by up to 80% in certain types of heart failure with few treatments.",
-   "why": "Promising early finding for a hard-to-treat condition.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/pomegranates-walnuts-and-berries-could-unlock-heart-failure-treatment-with-urolithin-a/",
-   "score": 6,
-   "category": "Health",
-   "region": "Global",
-   "published": "2026-10-04T23:21:48Z",
-   "continent": "Global",
-   "added": "2026-10-05T06:18:29Z",
-   "i18n": {
-    "ca": {
-     "title": "Un compost de magrana i nous pot ajudar a tractar insuficiència cardíaca",
-     "summary": "Els investigadors van descobrir que l'urolitina A, un compost que l'intestí produeix després de menjar magranes, nous i baies, va millorar la funció cardíaca fins al 80% en certs tipus d'insuficiència cardíaca amb pocs tractaments.",
-     "why": "Una descoberta prometedora per a una condició difícil de tractar."
-    },
-    "fr": {
-     "title": "Un composé de grenades et noix pourrait aider à traiter l'insuffisance cardiaque",
-     "summary": "Les chercheurs ont découvert que l'urolithine A, un composé que l'intestin produit après avoir mangé des grenades, des noix et des baies, a amélioré la fonction cardiaque jusqu'à 80% dans certains types d'insuffisance cardiaque avec peu de traitements.",
-     "why": "Une découverte prometteuse pour une condition difficile à traiter."
-    },
-    "ru": {
-     "title": "Соединение из гранатов и орехов может помочь в лечении сердечной недостаточности",
-     "summary": "Исследователи обнаружили, что уролитин A, соединение, которое кишечник производит после употребления гранатов, орехов и ягод, улучшил функцию сердца на 80% при определённых типах сердечной недостаточности с немногими методами лечения.",
-     "why": "Многообещающее открытие для трудноподдающегося лечению состояния."
-    }
-   }
-  },
-  {
-   "id": "gnn-comedy-wildlife-photo-finalists",
-   "title": "Comedy Wildlife Photography Awards announce 40 finalists",
-   "summary": "The Comedy Wildlife Photography Awards have released 40 finalist images showing amusing moments of animals in the wild.",
-   "why": "Light and cheerful, with no wider impact.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/finalists-win-big-laughs-in-the-comedy-wildlife-photography-awards-look/",
-   "score": 5,
-   "category": "Culture",
-   "region": "Global",
-   "published": "2026-10-04T21:21:40Z",
-   "continent": "Global",
-   "added": "2026-10-05T06:18:29Z",
-   "i18n": {
-    "ca": {
-     "title": "Els Premis de Fotografia de Fauna Còmica anuncien 40 finalistes",
-     "summary": "Els Premis de Fotografia de Fauna Còmica han alliberat 40 imatges finalistes que mostren moments divertits dels animals a la natura.",
-     "why": "Lleuger i alegre, sense repercussió més ampla."
-    },
-    "fr": {
-     "title": "Les prix de photographie de faune comique annoncent 40 finalistes",
-     "summary": "Les prix de photographie de faune comique ont publié 40 images finalistes montrant des moments amusants d'animaux à l'état sauvage.",
-     "why": "Léger et joyeux, sans impact plus large."
-    },
-    "ru": {
-     "title": "Премии комедийной фотографии дикой природы объявили 40 финалистов",
-     "summary": "Премии комедийной фотографии дикой природы выпустили 40 финальных изображений, показывающих забавные моменты животных в дикой природе.",
-     "why": "Лёгкий и весёлый материал, без более широкого воздействия."
-    }
-   }
-  },
-  {
-   "id": "tbi-delhi-volunteers-clean-parks-canals",
-   "title": "Delhi volunteer group clears large amounts of waste from parks and waterways",
-   "summary": "A community cleanup initiative in Delhi now has 350 active volunteers who have removed thousands of tonnes of waste from parks, canals and riverbanks. They plan to open an environmental school for children.",
-   "why": "A local, citizen-led effort with real results, but limited to one city.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/videos/society/350-volunteers-thousands-of-tonnes-of-waste-removed-12623415",
-   "score": 6,
-   "category": "Environment",
-   "region": "Delhi, India",
-   "published": "2026-10-04T17:02:04Z",
-   "continent": "Asia",
-   "added": "2026-10-04T18:14:33Z",
-   "i18n": {
-    "ca": {
-     "title": "Grup de voluntaris de Delhi neteja grans quantitats de residus dels parcs i vies d'aigua",
-     "summary": "Una iniciativa de neteja comunitària a Delhi té ara 350 voluntaris actius que han tret milers de tones de residus dels parcs, canals i riberes. Tenen previst obrir una escola ambiental per a nens.",
-     "why": "Un esforç local i liderat pels ciutadans amb resultats reals, però limitat a una ciutat."
-    },
-    "fr": {
-     "title": "Un groupe de bénévoles de Delhi nettoie de grandes quantités de déchets dans les parcs et cours d'eau",
-     "summary": "Une initiative de nettoyage communautaire à Delhi compte maintenant 350 bénévoles actifs qui ont retiré des milliers de tonnes de déchets des parcs, canaux et rives. Ils envisagent d'ouvrir une école environnementale pour les enfants.",
-     "why": "Un effort local mené par des citoyens avec des résultats réels, mais limité à une seule ville."
-    },
-    "ru": {
-     "title": "Группа добровольцев в Дели очищает большое количество отходов из парков и водных путей",
-     "summary": "Инициатива по очистке сообщества в Дели теперь насчитывает 350 активных добровольцев, которые удалили тысячи тонн отходов из парков, каналов и берегов рек. Они планируют открыть экологическую школу для детей.",
-     "why": "Локальное, инициированное гражданами усилие с реальными результатами, но ограниченное одним городом."
-    }
-   }
-  },
-  {
-   "id": "mb-myanmar-mines-thai-rivers",
-   "title": "Myanmar mining pollutes Thai rivers and farmland",
-   "summary": "Mining in Myanmar has contaminated Thai farmland through cross-border rivers, while more than 50 Thai companies import minerals from these mines.",
-   "why": "Reports ongoing harm; attention may push for accountability.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/10/myanmars-mines-pollute-thai-rivers/",
-   "score": 2,
-   "category": "Environment",
-   "region": "Myanmar and Thailand",
-   "published": "2026-10-04T15:16:53Z",
-   "continent": "Asia",
-   "added": "2026-10-05T06:18:29Z",
-   "i18n": {
-    "ca": {
-     "title": "La mineria de Myanmar contamina rius i terres de conreu tailandesos",
-     "summary": "La mineria a Myanmar ha contaminat terres de conreu tailandeses através dels rius transfronteritzos, mentre que més de 50 empreses tailandeses importen minerals d'aquestes mines.",
-     "why": "Reporta el dany continu; l'atenció pot impulsar la responsabilitat."
-    },
-    "fr": {
-     "title": "L'exploitation minière au Myanmar pollue les rivières et les terres agricoles thaïlandaises",
-     "summary": "L'exploitation minière au Myanmar a contaminé les terres agricoles thaïlandaises par le biais des rivières transfrontalières, tandis que plus de 50 entreprises thaïlandaises importent des minéraux de ces mines.",
-     "why": "Rapporte les dommages continus; l'attention peut impulser la responsabilité."
-    },
-    "ru": {
-     "title": "Горнодобыча в Мьянме загрязняет таиландские реки и сельскохозяйственные угодья",
-     "summary": "Горнодобыча в Мьянме загрязнил таиландские сельскохозяйственные угодья через трансграничные реки, в то время как более 50 тайских компаний импортируют полезные ископаемые из этих шахт.",
-     "why": "Сообщает о продолжающемся вреде; внимание может способствовать подотчётности."
-    }
-   }
-  },
-  {
-   "id": "gnn-ghost-lobster-maine",
-   "title": "Rare white lobster donated to Maine science center for genetic research",
-   "summary": "An extremely rare white lobster, estimated at one in 100 million, has been given to Maine's Marine Science Center to help scientists study the genetics behind its colouring.",
-   "why": "Interesting and harmless, but of limited wider impact.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/100m-ghost-lobster-goes-to-college/",
-   "score": 5,
-   "category": "Animals",
-   "region": "Maine, USA",
-   "published": "2026-10-04T15:04:49Z",
-   "continent": "North America",
-   "added": "2026-10-05T06:18:29Z",
-   "i18n": {
-    "ca": {
-     "title": "Un rar llamàntol blanc donat a un centre de ciència marina del Maine per a recerca genètica",
-     "summary": "Un llamàntol blanc extremadament rar, estimat en un de cada 100 milions, ha estat donat al Marine Science Center del Maine per ajudar els científics a estudiar la genètica del seu color.",
-     "why": "Interessant i inofensiu, però de repercussió limitada més àmplia."
-    },
-    "fr": {
-     "title": "Un rare homard blanc donné à un centre scientifique marin du Maine pour la recherche génétique",
-     "summary": "Un homard blanc extrêmement rare, estimé à un sur 100 millions, a été donné au Marine Science Center du Maine pour aider les scientifiques à étudier la génétique de sa coloration.",
-     "why": "Intéressant et inoffensif, mais d'impact limité plus largement."
-    },
-    "ru": {
-     "title": "Редкого белого омара пожертвовали научному центру морских наук в штате Мэйн для генетических исследований",
-     "summary": "Чрезвычайно редкого белого омара, оценённого в один из 100 миллионов, пожертвовали Морскому научному центру Мэйна, чтобы помочь учёным изучить генетику его окраски.",
-     "why": "Интересный результат, но с ограниченным более широким воздействием."
-    }
-   }
-  },
-  {
-   "id": "gr-texas-data-centers-community-funds",
-   "title": "Data center firms fund rural Texas community projects",
-   "summary": "Data center companies have put over $340 million into rural Texas towns, paying for infrastructure repairs, school programs and emergency services while seeking local support.",
-   "why": "Tangible local benefits, but tied to contested industrial expansion.",
-   "source": "Grist",
-   "url": "https://grist.org/accountability/to-win-over-locals-data-centers-pump-340m-into-rural-texas-projects/",
-   "score": 5,
-   "category": "Society",
-   "region": "Texas, USA",
-   "published": "2026-10-04T13:00:00Z",
-   "continent": "North America",
-   "added": "2026-10-05T00:15:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Les empreses de centres de dades financen projectes comunitaris de Texas rural",
-     "summary": "Les empreses de centres de dades han invertit més de 340 milions de dòlars en pobles de Texas rural, pagant reparacions d'infraestructura, programes escolars i serveis d'emergència mentre cerquen suport local.",
-     "why": "Beneficis locals tangibles, però lligats a l'expansió industrial contestada."
-    },
-    "fr": {
-     "title": "Les entreprises de centres de données financent les projets communautaires du Texas rural",
-     "summary": "Les entreprises de centres de données ont investi plus de 340 millions de dollars dans les villes rurales du Texas, payant les réparations d'infrastructure, les programmes scolaires et les services d'urgence tout en cherchant le soutien local.",
-     "why": "Avantages locaux tangibles, mais liés à l'expansion industrielle contestée."
-    },
-    "ru": {
-     "title": "Компании центров обработки данных финансируют проекты сельских сообществ в Техасе",
-     "summary": "Компании центров обработки данных инвестировали более 340 миллионов долларов в сельские города Техаса, оплачивая ремонт инфраструктуры, школьные программы и службы экстренной помощи, одновременно добиваясь местной поддержки.",
-     "why": "Ощутимые местные выгоды, но связанные с оспариваемым промышленным расширением."
-    }
-   }
-  },
-  {
-   "id": "sd-ames-crater-age",
-   "title": "Oklahoma's Ames impact crater is far younger than thought",
-   "summary": "Zircon crystals show the Ames crater in Oklahoma formed about 370 million years ago, around the time of a major marine extinction.",
-   "why": "Neutral but interesting science.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Oklahoma, USA",
-   "published": "2026-10-04T12:41:43Z",
-   "continent": "North America",
-   "added": "2026-10-05T06:18:29Z",
-   "i18n": {
-    "ca": {
-     "title": "El cràter d'impacte Ames d'Oklahoma és molt més jove del que es creia",
-     "summary": "Els cristalls de zircó mostren que el cràter Ames a Oklahoma es va formar fa aproximadament 370 milions d'anys, al voltant del moment d'una gran extinció marina.",
-     "why": "Ciència neutral però interessant."
-    },
-    "fr": {
-     "title": "Le cratère d'impact d'Ames en Oklahoma est bien plus jeune qu'on ne le pensait",
-     "summary": "Les cristaux de zircon montrent que le cratère d'Ames en Oklahoma s'est formé il y a environ 370 millions d'années, au moment d'une extinction marine majeure.",
-     "why": "Science neutre mais intéressante."
-    },
-    "ru": {
-     "title": "Кратер ударного воздействия Эймс в Оклахоме намного моложе, чем считалось ранее",
-     "summary": "Кристаллы циркона показывают, что кратер Эймс в Оклахоме образовался примерно 370 миллионов лет назад, около времени крупного морского вымирания.",
-     "why": "Нейтральная, но интересная наука."
-    }
-   }
-  },
-  {
-   "id": "sd-forest-thinning-australia",
-   "title": "Long-running Australian forest study shows thinning can serve timber, wildlife and carbon",
-   "summary": "A 30-year Australian experiment found that carefully managed forest thinning can support timber production, wildlife habitat and carbon storage at the same time.",
-   "why": "Long-term evidence for managing forests for several goals at once.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261001214120.htm",
-   "score": 7,
-   "category": "Environment",
-   "region": "Australia",
-   "published": "2026-10-04T11:50:46Z",
-   "continent": "Oceania",
-   "added": "2026-10-05T06:18:29Z",
-   "i18n": {
-    "ca": {
-     "title": "Un estudi australià de llarga durada sobre boscos demostra que l'aclarida pot servir la fusta, la vida silvestre i el carboni",
-     "summary": "Un experiment australià de 30 anys va descobrir que l'aclarida forestal manejat amb cura pot donar suport a la producció de fusta, l'hàbitat de la vida silvestre i l'emmagatzematge de carboni al mateix temps.",
-     "why": "Evidència a llarg termini per a la gestió de boscos per a diversos objectius alhora."
-    },
-    "fr": {
-     "title": "Une étude forestière australienne à long terme montre que l'éclaircie peut servir le bois, la faune et le carbone",
-     "summary": "Une expérience australienne de 30 ans a montré que l'éclaircie forestière gérée avec soin peut soutenir simultanément la production de bois, l'habitat faunique et le stockage du carbone.",
-     "why": "Preuve à long terme de la gestion des forêts pour plusieurs objectifs à la fois."
-    },
-    "ru": {
-     "title": "Долгосрочное австралийское исследование лесов показывает, что прореживание может служить древесине, дикой природе и углероду",
-     "summary": "Тридцатилетний австралийский эксперимент показал, что тщательно управляемое прореживание лесов может одновременно поддерживать производство древесины, среду обитания дикой природы и хранение углерода.",
-     "why": "Долгосрочные доказательства управления лесами с несколькими целями одновременно."
-    }
-   }
-  },
-  {
-   "id": "sd-gut-bacteria-brain-aging",
-   "title": "Gut bacteria may signal how fast the brain is ageing",
-   "summary": "UCLA researchers linked specific gut microbes and their chemical by-products to faster brain ageing and cognitive decline.",
-   "why": "Interesting research that could aid future prevention, no treatment yet.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm",
-   "score": 5,
-   "category": "Health",
-   "region": "California, USA",
-   "published": "2026-10-04T11:28:03Z",
-   "continent": "North America",
-   "added": "2026-10-05T06:18:29Z",
-   "i18n": {
-    "ca": {
-     "title": "Les bacteris intestinals poden indicar quina velocitat està envellint el cervell",
-     "summary": "Els investigadors de UCLA van vincular bacteris intestinals específics i els seus subproductes químics amb un envelliment cerebral més ràpid i declivi cognitiu.",
-     "why": "Investigació interessant que podria ajudar a la prevenció futura, sense tractament actual."
-    },
-    "fr": {
-     "title": "Les bactéries intestinales peuvent signaler la vitesse à laquelle le cerveau vieillit",
-     "summary": "Les chercheurs de l'UCLA ont lié des microbes intestinaux spécifiques et leurs sous-produits chimiques à un vieillissement cérébral plus rapide et au déclin cognitif.",
-     "why": "Recherche intéressante qui pourrait aider à la prévention future, aucun traitement actuellement."
-    },
-    "ru": {
-     "title": "Кишечные бактерии могут указывать на скорость старения мозга",
-     "summary": "Исследователи из UCLA связали специфические кишечные микробы и их химические побочные продукты с более быстрым старением мозга и когнитивным снижением.",
-     "why": "Интересное исследование, которое может помочь будущей профилактике, без лечения на данный момент."
-    }
-   }
-  },
-  {
-   "id": "sd-light-hydrogen-from-water",
-   "title": "New light-activated material makes hydrogen from water without costly metals",
-   "summary": "Researchers developed a sulfur-based, light-activated material that efficiently produces hydrogen from water without expensive metal catalysts.",
-   "why": "Promising for clean fuel, but still a laboratory result.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261001214017.htm",
-   "score": 5,
-   "category": "Energy",
-   "region": "Global",
-   "published": "2026-10-04T11:11:24Z",
-   "continent": "Global",
-   "added": "2026-10-05T06:18:29Z",
-   "i18n": {
-    "ca": {
-     "title": "Un nou material activat per la llum produeix hidrogen de l'aigua sense metalls cars",
-     "summary": "Els investigadors van desenvolupar un material basat en sofre activat per la llum que produeix eficientment hidrogen de l'aigua sense costosos catalitzadors metàl·lics.",
-     "why": "Prometedor per al combustible net, però encara és un resultat de laboratori."
-    },
-    "fr": {
-     "title": "Un nouveau matériau activé par la lumière produit de l'hydrogène à partir de l'eau sans métaux coûteux",
-     "summary": "Les chercheurs ont développé un matériau à base de soufre activé par la lumière qui produit efficacement de l'hydrogène à partir de l'eau sans catalyseurs métalliques coûteux.",
-     "why": "Prometteur pour un carburant propre, mais toujours un résultat de laboratoire."
-    },
-    "ru": {
-     "title": "Новый материал, активированный светом, производит водород из воды без дорогостоящих металлов",
-     "summary": "Исследователи разработали активированный светом материал на основе серы, который эффективно производит водород из воды без дорогостоящих металлических катализаторов.",
-     "why": "Многообещающе для чистого топлива, но остаётся лабораторным результатом."
-    }
-   }
-  },
-  {
-   "id": "gnn-poll-ai-cannot-replace-elders",
-   "title": "Most Britons say AI cannot replace advice from elders, poll finds",
-   "summary": "A British survey found 71% believe chatbots cannot replace wisdom from lived experience, even though 21% use them weekly.",
-   "why": "Interesting snapshot of values, with no direct benefit.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/ai-chatbots-will-never-replace-advice-from-elders-say-seven-of-10-in-new-poll/",
-   "score": 5,
-   "category": "Society",
-   "region": "United Kingdom",
-   "published": "2026-10-04T11:00:36Z",
-   "continent": "Europe",
-   "added": "2026-10-05T12:15:58Z",
-   "i18n": {
-    "ca": {
-     "title": "La majoria dels britànics diuen que l'IA no pot reemplaçar els consells dels avis, troba l'enquesta",
-     "summary": "Una enquesta britànica va trobar que el 71% creu que els chatbots no poden reemplaçar la saviesa de l'experiència viscuda, tot i que el 21% els utilitza setmanalment.",
-     "why": "Una fotografia interessant dels valors, sense benefici directe."
-    },
-    "fr": {
-     "title": "La plupart des Britanniques disent que l'IA ne peut pas remplacer les conseils des aînés, selon un sondage",
-     "summary": "Un sondage britannique a révélé que 71% croient que les chatbots ne peuvent pas remplacer la sagesse acquise par l'expérience, même si 21% les utilisent hebdomadairement.",
-     "why": "Un aperçu intéressant des valeurs, sans avantage direct."
-    },
-    "ru": {
-     "title": "Большинство британцев говорят, что ИИ не может заменить советы пожилых людей, выяснено в опросе",
-     "summary": "Британское исследование показало, что 71% верят, что чат-боты не могут заменить мудрость, полученную из личного опыта, хотя 21% используют их еженедельно.",
-     "why": "Интересный снимок ценностей, без прямой пользы."
-    }
-   }
-  },
-  {
-   "id": "tbi-newborn-elephant-calf-rescued-teesta",
-   "title": "Fishermen rescue newborn elephant calf swept into Teesta River",
-   "summary": "Fishermen saved a newborn elephant calf carried away by the Teesta River in Jalpaiguri. A veterinarian says the viral embrace was normal elephant social behaviour.",
-   "why": "Successful wildlife rescue of one animal.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/wildlife/newborn-elephant-calf-teesta-rescue-viral-hug-12613589",
-   "score": 6,
-   "category": "Animals",
-   "region": "Jalpaiguri, India",
-   "published": "2026-10-04T09:30:38Z",
-   "continent": "Asia",
-   "added": "2026-10-04T12:17:05Z",
-   "i18n": {
-    "ca": {
-     "title": "Pescadors rescaten una cria d'elefant novella arrossegada pel riu Teesta",
-     "summary": "Pescadors van salvar una cria d'elefant novella arrossegada pel riu Teesta a Jalpaiguri. Un veterinari diu que l'abraçada viral va ser un comportament social elefantí normal.",
-     "why": "Rescat de fauna silvestre reeixit d'un animal."
-    },
-    "fr": {
-     "title": "Des pêcheurs secourent un éléphanteau entraîné dans la rivière Teesta",
-     "summary": "Des pêcheurs ont sauvé un éléphanteau emporté par la rivière Teesta à Jalpaiguri. Un vétérinaire indique que l'étreinte virale était un comportement social normal chez les éléphants.",
-     "why": "Sauvetage réussi de la faune, un animal."
-    },
-    "ru": {
-     "title": "Рыбаки спасают новорожденного слоненка, вынесенного в реку Тиста",
-     "summary": "Рыбаки спасли новорожденного слоненка, унесенного рекой Тиста в Джальпайгури. Ветеринар говорит, что вирусный момент объятия был обычным социальным поведением слонов.",
-     "why": "Успешное спасение дикой природы одного животного."
-    }
-   }
-  },
-  {
-   "id": "an-oromo-irreecha-festival-addis-ababa",
-   "title": "Tens of thousands of Oromo celebrate Irreecha in Addis Ababa and call for peace",
-   "summary": "The annual thanksgiving festival drew huge crowds on Saturday, with participants asking for peace as fighting continues in Tigray.",
-   "why": "A large cultural celebration, set against ongoing conflict.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/10/04/ethiopias-oromo-celebrate-irreecha-and-call-for-peace-as-federal-forces-enter-mekelle/",
-   "score": 5,
-   "category": "Culture",
-   "region": "Ethiopia",
-   "published": "2026-10-04T08:35:45Z",
-   "continent": "Africa",
-   "added": "2026-10-05T12:15:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Desenes de milers d'oromos celebren Irreecha a Addis Ababa i demanen pau",
-     "summary": "El festival d'acció de gràcies anual va atreure grans multituds el dissabte, amb participants demanant pau mentre els combats continuen a Tigray.",
-     "why": "Una gran celebració cultural, situada en el context d'un conflicte continu."
-    },
-    "fr": {
-     "title": "Des dizaines de milliers d'Oromos célèbrent Irreecha à Addis-Abeba et demandent la paix",
-     "summary": "Le festival d'action de grâces annuel a attiré de grandes foules samedi, les participants demandant la paix alors que les combats se poursuivent au Tigré.",
-     "why": "Une grande célébration culturelle, sur fond de conflit continu."
-    },
-    "ru": {
-     "title": "Десятки тысяч оромо празднуют Иррече в Аддис-Абебе и призывают к миру",
-     "summary": "Ежегодный фестиваль благодарения привлек огромные толпы в субботу, участники призывали к миру, пока боевые действия продолжаются в Тиграе.",
-     "why": "Крупное культурное празднество, происходящее на фоне продолжающегося конфликта."
-    }
-   }
-  },
-  {
-   "id": "sd-magnetic-fields-universe-expansion",
-   "title": "Primordial magnetic fields may help explain mismatched universe expansion rates",
-   "summary": "A study suggests early magnetic fields affected hydrogen formation and the cosmic microwave background, which could reconcile conflicting measurements of cosmic expansion.",
-   "why": "An interesting theoretical clue that still needs confirmation.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Space",
-   "published": "2026-10-04T08:05:54Z",
-   "continent": "Global",
-   "added": "2026-10-05T12:15:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Els camps magnètics primordials podrien ajudar a explicar les velocitats de expansió de l'univers que no coincideixen",
-     "summary": "Un estudi suggereix que els camps magnètics primordials van afectar la formació de l'hidrogen i el fons de microones còsmics, que podrien reconciliar les mesuracions conflictives de l'expansió còsmica.",
-     "why": "Una pista teòrica interessant que encara necessita confirmació."
-    },
-    "fr": {
-     "title": "Les champs magnétiques primordiaux pourraient aider à expliquer les taux d'expansion de l'univers discordants",
-     "summary": "Une étude suggère que les champs magnétiques primordiaux ont affecté la formation de l'hydrogène et le fond diffus cosmologique, ce qui pourrait réconcilier les mesures conflictuelles de l'expansion cosmique.",
-     "why": "Un indice théorique intéressant qui a encore besoin de confirmation."
-    },
-    "ru": {
-     "title": "Первичные магнитные поля могут помочь объяснить несовпадающие скорости расширения Вселенной",
-     "summary": "Исследование предполагает, что ранние магнитные поля влияли на формирование водорода и космического микроволнового фона, что могло бы согласовать противоречивые измерения космического расширения.",
-     "why": "Интересный теоретический намек, который еще нуждается в подтверждении."
     }
    }
   }
