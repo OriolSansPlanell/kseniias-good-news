@@ -25,6 +25,7 @@
   --bg:#EEF3F1; --surface:#FFFFFF; --ink:#12302A; --muted:#5A726C; --line:#D4E0DC;
   --accent:#0F6E5C; --accent-ink:#FFFFFF; --sun:#D98A12; --sun-tint:#FFF3DC; --chip:#E2ECE9;
   --nodata:#D6E0DD; --flash:#FFE7B8;
+  --sp-a:#FFE3EC; --sp-b:#FFF3DC; --sp-line:#F2C9D6; --sp-ink:#9C2F5A; --sp-dot:#FFB8CF;
   --shadow:0 1px 2px rgba(18,48,42,.06),0 4px 14px rgba(18,48,42,.05);
   --f-display:"Bricolage Grotesque","Onest","Avenir Next","Segoe UI",system-ui,sans-serif;
   --f-body:"Atkinson Hyperlegible","Golos Text",-apple-system,"Segoe UI",Roboto,sans-serif;
@@ -35,11 +36,13 @@
   --bg:#0D1715; --surface:#15211F; --ink:#E3EEEA; --muted:#93ABA4; --line:#26372F;
   --accent:#5CC9AE; --accent-ink:#06201A; --sun:#F2B544; --sun-tint:#2A2414; --chip:#1D2C29;
   --nodata:#25332F; --flash:#3A3220;
+  --sp-a:#3A1E2B; --sp-b:#2A2414; --sp-line:#5A3343; --sp-ink:#FF9EC0; --sp-dot:#FFB8CF;
   --shadow:0 1px 2px rgba(0,0,0,.3); color-scheme:dark}}
 :root[data-theme="dark"]{
   --bg:#0D1715; --surface:#15211F; --ink:#E3EEEA; --muted:#93ABA4; --line:#26372F;
   --accent:#5CC9AE; --accent-ink:#06201A; --sun:#F2B544; --sun-tint:#2A2414; --chip:#1D2C29;
   --nodata:#25332F; --flash:#3A3220;
+  --sp-a:#3A1E2B; --sp-b:#2A2414; --sp-line:#5A3343; --sp-ink:#FF9EC0; --sp-dot:#FFB8CF;
   --shadow:0 1px 2px rgba(0,0,0,.3); color-scheme:dark}
 
 *{box-sizing:border-box}
@@ -98,6 +101,26 @@ button,select{font:inherit;color:inherit}
 .pill::after{content:"";position:absolute;right:11px;top:50%;width:6px;height:6px;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:translateY(-70%) rotate(45deg);pointer-events:none;opacity:.6}
 .pill.on::after{color:var(--bg)}
 .clear{flex:none;border:0;background:none;color:var(--accent);font-weight:700;font-size:.82rem;cursor:pointer;padding:6px 4px;text-decoration:underline;text-underline-offset:3px}
+
+/* Special edition card (birthday) */
+.special{position:relative;overflow:hidden;border-radius:18px;padding:18px 18px 16px;display:grid;gap:12px;
+  background:linear-gradient(150deg,var(--sp-a) 0%,var(--sp-b) 55%,var(--surface) 100%);border:1px solid var(--sp-line)}
+.special .sp-top{display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:center}
+.special .badge{width:52px;height:52px;font-size:1.35rem;border-radius:14px;background:hsl(42 92% 58%);box-shadow:0 0 0 4px color-mix(in srgb,hsl(42 92% 58%) 30%,transparent)}
+.special .kicker{font-size:.7rem;text-transform:uppercase;letter-spacing:.1em;font-weight:700;color:var(--sp-ink)}
+.special h2{margin:2px 0 0;font-family:var(--f-display);font-weight:800;font-size:1.55rem;line-height:1.1;letter-spacing:-.015em;text-wrap:balance}
+.special .alpaca{width:68px;height:80px;flex:none}
+.special .intro{margin:0;font-size:1rem;max-width:62ch}
+.special ol{margin:0;padding:0;list-style:none;display:grid;gap:10px;counter-reset:r}
+.special li{counter-increment:r;display:grid;grid-template-columns:30px 1fr;gap:10px;background:color-mix(in srgb,var(--surface) 78%,transparent);border-radius:12px;padding:10px 12px}
+.special li::before{content:counter(r);font-family:var(--f-mono);font-weight:600;font-size:.9rem;width:28px;height:28px;border-radius:50%;display:grid;place-items:center;background:var(--sp-dot);color:#2A1220}
+.special li h3{margin:0 0 2px;font-family:var(--f-display);font-size:1rem;line-height:1.25}
+.special li p{margin:0;font-size:.9rem}
+.special li .lk{display:flex;flex-wrap:wrap;gap:4px 12px;margin-top:4px;font-size:.78rem}
+.special .outro{margin:0;font-family:var(--f-display);font-weight:700;font-size:1.05rem;color:var(--sp-ink)}
+.special .more{justify-self:start;border:1px solid var(--sp-line);background:var(--surface);border-radius:999px;padding:7px 14px;font-weight:700;font-size:.84rem;cursor:pointer}
+#confetti{position:fixed;inset:0;pointer-events:none;z-index:50}
+@media (max-width:420px){.special h2{font-size:1.3rem}.special .alpaca{width:54px;height:64px}}
 
 /* Goodness slider */
 .slider-row{--thumb:9px;display:grid;gap:4px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:10px 14px 8px}
@@ -265,6 +288,7 @@ button,select{font:inherit;color:inherit}
 <div class="layout">
   <main class="main" id="main">
     <div id="newsview" class="main">
+      <div id="special"></div>
       <div class="slider-row" id="sliderrow">
         <div class="slider-head"><label for="min" id="min-lbl">Minimum goodness</label><output id="min-val" for="min">6+</output></div>
         <div class="nhist" id="nhist" aria-hidden="true"></div>
@@ -467,7 +491,7 @@ button,select{font:inherit;color:inherit}
     lang: pickLang(), stories: [], meta: null, site: null, loaded: false, failed: false,
     min: store.get("min", 6), cat: store.get("cat", "All"), cont: store.get("cont", "All"), sort: store.get("sort", "new"),
     tab: "news", saved: new Set(store.get("saved", [])), read: new Set(store.get("read", [])),
-    open: new Set(), fetchedAt: 0, world: null, events: null, nobel: null, evCat: "All", openPrize: new Set(), prevVisit: store.get("lastVisit", null)
+    open: new Set(), fetchedAt: 0, world: null, events: null, nobel: null, evCat: "All", openPrize: new Set(), special: null, specialOpen: false, confettiDone: false, prevVisit: store.get("lastVisit", null)
   };
   const L = () => T[st.lang];
   const fmt = (s, o) => String(s).replace(/\{(\w+)\}/g, (_, k) => o[k] ?? "");
@@ -798,7 +822,60 @@ button,select{font:inherit;color:inherit}
   }
   function nextDay(s){ const d = new Date(s + "T12:00:00Z"); d.setUTCDate(d.getUTCDate()+1); return d.toISOString().slice(0,10); }
 
-  function render(){ renderHeader(); renderFilters(); renderFeed(); renderWorld(); renderAbout(); renderCalendar(); }
+  // ---------- special edition card ----------
+  const ALPACA = '<svg class="alpaca" viewBox="0 -13 80 93" aria-hidden="true"><defs><g id="alp-shape"><rect x="22" y="56" width="7" height="16" rx="3.5"/><rect x="33" y="58" width="7" height="14" rx="3.5"/><rect x="44" y="58" width="7" height="14" rx="3.5"/><rect x="55" y="56" width="7" height="16" rx="3.5"/><circle cx="27" cy="50" r="11"/><circle cx="38" cy="47" r="12"/><circle cx="50" cy="48" r="11.5"/><circle cx="31" cy="57" r="8"/><circle cx="45" cy="57" r="8"/><rect x="47" y="20" width="13" height="34" rx="6.5"/><circle cx="58" cy="35" r="7"/><ellipse cx="55" cy="18" rx="11.5" ry="10.5"/><circle cx="48" cy="8.5" r="5.5"/><circle cx="55" cy="6.5" r="6.5"/><circle cx="62" cy="8.5" r="5.5"/><path d="M45 12 41 1l8 6zM65 12l4-11-8 6z"/></g></defs><use href="#alp-shape" fill="#6B4A3A" stroke="#6B4A3A" stroke-width="3.2" stroke-linejoin="round"/><use href="#alp-shape" fill="#FFF7EC"/><path d="M42.5 9.5 41.4 3l4.2 3.4zM67.5 9.5 68.6 3l-4.2 3.4z" fill="#F4C9D6"/><ellipse cx="56" cy="24.5" rx="6.5" ry="4.8" fill="#F1E1CC"/><circle cx="50.5" cy="17.5" r="1.9" fill="#3B2A22"/><circle cx="60.5" cy="17.5" r="1.9" fill="#3B2A22"/><circle cx="51.2" cy="16.8" r=".6" fill="#fff"/><circle cx="61.2" cy="16.8" r=".6" fill="#fff"/><path d="M54.3 23.6h3.4l-1.7 1.5z" fill="#6B4A3A"/><path d="M54 26.6c1.2 1 2.8 1 4 0" fill="none" stroke="#6B4A3A" stroke-width="1.1" stroke-linecap="round"/><circle cx="47.5" cy="22.5" r="2.2" fill="#FFB8CF" opacity=".8"/><circle cx="64.5" cy="22.5" r="2.2" fill="#FFB8CF" opacity=".8"/><path d="M49.5 2.5 55 -9l5.5 11.5z" fill="#FFB8CF" stroke="#6B4A3A" stroke-width="1.4" stroke-linejoin="round"/><path d="M51.2 -1h7.6" stroke="#F2B544" stroke-width="1.6"/><circle cx="55" cy="-9" r="2.4" fill="#F2B544" stroke="#6B4A3A" stroke-width="1.2"/></svg>';
+  function localDay(){ const d = new Date(); return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`; }
+  function specialActive(){
+    // Shown from the day's first news update (or noon at the latest) on sp.from, until the end of sp.until.
+    const sp = st.special; if(!sp) return false;
+    if(location.hash === "#birthday") return true;
+    const today = localDay();
+    if(today < sp.from || today > sp.until) return false;
+    if(today > sp.from || new Date().getHours() >= 12) return true;
+    const u = st.meta && st.meta.updated ? new Date(st.meta.updated) : null;
+    const uDay = u ? `${u.getFullYear()}-${String(u.getMonth()+1).padStart(2,"0")}-${String(u.getDate()).padStart(2,"0")}` : "";
+    return uDay >= sp.from;
+  }
+  function renderSpecial(){
+    const box = $("#special"), sp = st.special;
+    if(st.tab !== "news" || !specialActive()){ box.innerHTML = ""; return; }
+    const tx2 = sp.text[st.lang] || sp.text.en, open = st.specialOpen;
+    const items = (open ? sp.items : sp.items.slice(0,3)).map(it => {
+      const c = it[st.lang] || it.en;
+      const links = (it.links||[]).map(l => l.url.startsWith("#")
+        ? `<a href="${esc(l.url)}">${esc(l.label === "Nobel" ? fmt(C[st.lang].nobel, {y: 2026}) : L().tabs.calendar)} →</a>`
+        : `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(tx2.read)}: ${esc(l.label)}</a>`).join("");
+      return `<li><div><h3>${esc(c.t)}</h3><p>${esc(c.x)}</p><div class="lk">${links}</div></div></li>`;
+    }).join("");
+    box.innerHTML = `<section class="special" aria-labelledby="sp-h">
+      <div class="sp-top"><div class="badge" aria-label="${sp.score}/10">${sp.score}</div>
+        <div><div class="kicker">${esc(tx2.kicker)}</div><h2 id="sp-h">${esc(tx2.title)}</h2></div>${ALPACA}</div>
+      <p class="intro">${esc(tx2.intro)}</p>
+      <ol>${items}</ol>
+      <button class="more" data-spmore>${esc(open ? tx2.less : tx2.more)}</button>
+      ${open ? `<p class="outro">${esc(tx2.outro)}</p>` : ""}
+    </section>`;
+    if(!st.confettiDone){ st.confettiDone = true; confetti(sp.id); }
+  }
+  function confetti(id){
+    if(store.get("confetti:"+id, false) && location.hash !== "#birthday") return;
+    store.set("confetti:"+id, true);
+    if(matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    const cv = document.createElement("canvas"); cv.id = "confetti"; document.body.appendChild(cv);
+    const ctx = cv.getContext("2d"), dpr = Math.min(2, window.devicePixelRatio || 1);
+    const W = cv.width = innerWidth*dpr, H = cv.height = innerHeight*dpr;
+    const cols = ["#F2B544","#FFB8CF","#5CC9AE","#9C2F5A","#8FB8FF","#C3E88D"];
+    const ps = Array.from({length:140}, () => ({x: W*Math.random(), y: -H*Math.random()*.5, vx: (Math.random()-.5)*2*dpr, vy: (2+Math.random()*3)*dpr,
+      r: (3+Math.random()*4)*dpr, a: Math.random()*6.28, va: (Math.random()-.5)*.3, c: cols[Math.floor(Math.random()*cols.length)]}));
+    const t0 = performance.now();
+    (function frame(now){
+      ctx.clearRect(0,0,W,H);
+      for(const p of ps){ p.x += p.vx; p.y += p.vy; p.a += p.va; ctx.save(); ctx.translate(p.x,p.y); ctx.rotate(p.a); ctx.fillStyle = p.c; ctx.fillRect(-p.r, -p.r/2, p.r*2, p.r); ctx.restore(); }
+      if(now - t0 < 3200) requestAnimationFrame(frame); else cv.remove();
+    })(t0);
+  }
+
+  function render(){ renderHeader(); renderSpecial(); renderFilters(); renderFeed(); renderWorld(); renderAbout(); renderCalendar(); }
 
   // ---------- events ----------
   function setTab(t){
@@ -818,6 +895,7 @@ button,select{font:inherit;color:inherit}
     if(lb){ st.lang = lb.dataset.lang; store.set("lang", st.lang); closeLang(); render(); return; }
     if(!e.target.closest(".lang")) closeLang();
     const tab = e.target.closest(".tab"); if(tab){ setTab(tab.dataset.tab); return; }
+    if(e.target.closest("[data-spmore]")){ st.specialOpen = !st.specialOpen; renderSpecial(); if(!st.specialOpen) $("#special").scrollIntoView({block:"start", behavior:"smooth"}); return; }
     const sm = e.target.closest("[data-setmin]");
     if(sm){ st.min = Number(sm.dataset.setmin); store.set("min", st.min); $("#min").value = st.min; render(); return; }
     const ec = e.target.closest("[data-evcat]"); if(ec){ st.evCat = ec.dataset.evcat; renderCalendar(); return; }
@@ -899,6 +977,10 @@ button,select{font:inherit;color:inherit}
     getJSON("nobel.json?t="+Date.now()).then(d => { st.nobel = d; renderCalendar(); }).catch(()=>{});
   }
   loadCalendar();
+  getJSON("special.json?t="+Date.now()).then(d => { st.special = d; renderSpecial(); }).catch(()=>{});
+  // Plain #tab links (e.g. #calendar) open that tab.
+  function fromHash(){ const h = location.hash.slice(1); if(["news","world","calendar","saved","about"].includes(h)) setTab(h); }
+  window.addEventListener("hashchange", fromHash); fromHash();
   // During Nobel announcement days, refresh the hub every 5 minutes while the Calendar tab is open.
   setInterval(() => {
     if(document.hidden || st.tab !== "calendar" || !st.nobel) return;
