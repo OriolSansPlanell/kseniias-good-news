@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T04:12:49Z",
+ "updated": "2026-10-19T04:14:09Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,10 +12,351 @@
   "Grist",
   "Africanews"
  ],
- "count": 145,
- "last_run": "run-20261018T0412Z.json",
- "note": "15 new, 45 skipped, 31 pruned, 0 translations added, failed feeds: none",
+ "count": 136,
+ "last_run": "run-20261019T0414Z.json",
+ "note": "15 new, 45 skipped, 24 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "tbi-bengaluru-residents-city-cleanups",
+   "title": "Bengaluru residents, students and officials join clean-up drives",
+   "summary": "Residents, students and civic officials across Bengaluru have joined clean-up, plogging and tree-watering efforts, including a drive that gathered 110 kg of plastic.",
+   "why": "Community action with local benefit.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/conservation/nature/bengaluru-residents-citizen-led-cleanliness-initiatives-12680661",
+   "score": 6,
+   "category": "Society",
+   "region": "Bengaluru, India",
+   "published": "2026-10-19T02:57:13Z",
+   "continent": "Asia",
+   "added": "2026-10-19T04:14:09Z",
+   "i18n": {
+    "ca": {
+     "title": "Veïns, estudiants i funcionaris de Bengaluru s'uneixen a campanyes de neteja",
+     "summary": "Veïns, estudiants i funcionaris municipals de Bengaluru han participat en tasques de neteja, plogging i reg d'arbres, inclosa una campanya que va recollir 110 kg de plàstic.",
+     "why": "Acció comunitària amb benefici local."
+    },
+    "fr": {
+     "title": "Habitants, étudiants et responsables municipaux de Bengaluru se mobilisent pour nettoyer la ville",
+     "summary": "À Bengaluru, habitants, étudiants et responsables municipaux participent à des opérations de nettoyage, de plogging et d'arrosage d'arbres, dont une action qui a permis de collecter 110 kg de plastique.",
+     "why": "Action communautaire à bénéfice local."
+    },
+    "ru": {
+     "title": "Жители, студенты и чиновники Бенгалуру присоединились к акциям по уборке",
+     "summary": "Жители, студенты и городские чиновники Бенгалуру участвуют в акциях по уборке, плоггингу и полива деревьев; одна из акций собрала 110 кг пластика.",
+     "why": "Общественная активность с местной пользой."
+    }
+   }
+  },
+  {
+   "id": "sd-daily-blueberries-mood-older-adults",
+   "title": "Daily blueberries linked to lower depressive symptoms in older adults",
+   "summary": "A small study of older adults found larger reductions in depressive symptoms after three months of eating blueberries daily.",
+   "why": "Small study, modest evidence.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261017230028.htm",
+   "score": 5,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-18T13:22:24Z",
+   "continent": "Global",
+   "added": "2026-10-19T04:14:09Z",
+   "i18n": {
+    "ca": {
+     "title": "Els nabius diaris s'associen a menys símptomes depressius en adults grans",
+     "summary": "Un petit estudi amb adults grans ha constatat reduccions més grans dels símptomes depressius després de tres mesos menjant nabius cada dia.",
+     "why": "Estudi petit, evidència modesta."
+    },
+    "fr": {
+     "title": "Manger chaque jour des myrtilles associé à moins de symptômes dépressifs chez les seniors",
+     "summary": "Une petite étude menée auprès de personnes âgées montre des baisses plus marquées des symptômes dépressifs après trois mois de consommation quotidienne de myrtilles.",
+     "why": "Petite étude, preuves modestes."
+    },
+    "ru": {
+     "title": "Ежедневное употребление черники связано со снижением депрессивных симптомов у пожилых",
+     "summary": "Небольшое исследование среди пожилых людей показало более заметное снижение депрессивных симптомов после трех месяцев ежедневного употребления черники.",
+     "why": "Небольшое исследование, умеренные доказательства."
+    }
+   }
+  },
+  {
+   "id": "gr-california-home-energy-choice-act",
+   "title": "California lets households choose cash to electrify instead of a new gas line",
+   "summary": "California's Home Energy Choice Act requires utilities to offer households scheduled for gas service line replacement the option of funding to electrify instead.",
+   "why": "Policy that cuts gas dependence for many homes.",
+   "source": "Grist",
+   "url": "https://grist.org/energy/a-new-gas-line-or-cash-to-electrify-california-lets-households-choose/",
+   "score": 7,
+   "category": "Energy",
+   "region": "California, USA",
+   "published": "2026-10-18T13:00:00Z",
+   "continent": "North America",
+   "added": "2026-10-19T04:14:09Z",
+   "i18n": {
+    "ca": {
+     "title": "Califòrnia permet a les llars triar diners per electrificar en lloc d'una nova canonada de gas",
+     "summary": "La Llei d'Elecció d'Energia Domèstica de Califòrnia obliga les empreses de serveis públics a oferir a les llars previstes per a la substitució de la canonada de gas la possibilitat de rebre finançament per electrificar.",
+     "why": "Política que redueix la dependència del gas per a moltes llars."
+    },
+    "fr": {
+     "title": "En Californie, les foyers peuvent choisir une aide pour s'électrifier plutôt qu'une nouvelle conduite de gaz",
+     "summary": "La loi californienne Home Energy Choice Act oblige les opérateurs de réseaux à proposer aux foyers devant faire remplacer leur conduite de gaz la possibilité de recevoir un financement pour s'électrifier à la place.",
+     "why": "Politique qui réduit la dépendance au gaz de nombreux foyers."
+    },
+    "ru": {
+     "title": "В Калифорнии домохозяйства могут выбрать деньги на электрификацию вместо новой газовой линии",
+     "summary": "Закон Калифорнии Home Energy Choice Act обязывает коммунальные компании предлагать домохозяйствам, которым запланирована замена газовой линии, возможность получить финансирование на переход на электричество.",
+     "why": "Политика, которая снижает зависимость от газа для многих домов."
+    }
+   }
+  },
+  {
+   "id": "an-cameroon-mrc-first-female-president",
+   "title": "Cameroon opposition party MRC elects its first female president",
+   "summary": "Cameroon's main opposition party, the MRC, elected Tiriane Balbine Noah as its president, the first woman to lead it.",
+   "why": "Milestone for representation in one party.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/18/cameroons-opposition-mrc-elects-its-first-female-president-tiriane-noah/",
+   "score": 6,
+   "category": "Society",
+   "region": "Cameroon",
+   "published": "2026-10-18T12:53:07Z",
+   "continent": "Africa",
+   "added": "2026-10-19T04:14:09Z",
+   "i18n": {
+    "ca": {
+     "title": "El partit d'oposició MRC del Camerun elegeix la seva primera presidenta",
+     "summary": "El principal partit d'oposició del Camerun, el MRC, ha elegit Tiriane Balbine Noah com a presidenta, la primera dona que el dirigeix.",
+     "why": "Fita de representació dins d'un partit."
+    },
+    "fr": {
+     "title": "Au Cameroun, le parti d'opposition MRC élit sa première présidente",
+     "summary": "Le principal parti d'opposition camerounais, le MRC, a élu Tiriane Balbine Noah à sa présidence, première femme à diriger le parti.",
+     "why": "Étape importante pour la représentation au sein d'un parti."
+    },
+    "ru": {
+     "title": "Оппозиционная партия MRC в Камеруне впервые избрала женщину президентом",
+     "summary": "Главная оппозиционная партия Камеруна MRC избрала председателем Тирьяну Балбин Ноа — первую женщину во главе партии.",
+     "why": "Веха в представительстве женщин внутри одной партии."
+    }
+   }
+  },
+  {
+   "id": "sd-altermagnetism-physics-prize",
+   "title": "Discoverers of altermagnetism win major physics prize",
+   "summary": "Researchers who identified altermagnetism, a third type of magnetism alongside ferromagnetism and antiferromagnetism, have won a major physics prize.",
+   "why": "Recognition of a notable fundamental discovery.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+   "score": 6,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-10-18T09:41:44Z",
+   "continent": "Global",
+   "added": "2026-10-19T04:14:09Z",
+   "i18n": {
+    "ca": {
+     "title": "Els descobridors de l'altermagnetisme guanyen un important premi de física",
+     "summary": "Els investigadors que van identificar l'altermagnetisme, un tercer tipus de magnetisme al costat del ferromagnetisme i de l'antiferromagnetisme, han guanyat un important premi de física.",
+     "why": "Reconeixement d'un descobriment fonamental notable."
+    },
+    "fr": {
+     "title": "Les découvreurs de l'altermagnétisme remportent un prestigieux prix de physique",
+     "summary": "Les chercheurs qui ont identifié l'altermagnétisme, un troisième type de magnétisme aux côtés du ferromagnétisme et de l'antiferromagnétisme, ont remporté un grand prix de physique.",
+     "why": "Reconnaissance d'une découverte fondamentale notable."
+    },
+    "ru": {
+     "title": "Первооткрыватели альтермагнетизма получили престижную премию по физике",
+     "summary": "Исследователи, открывшие альтермагнетизм — третий тип магнетизма наряду с ферромагнетизмом и антиферромагнетизмом, — получили крупную премию в области физики.",
+     "why": "Признание заметного фундаментального открытия."
+    }
+   }
+  },
+  {
+   "id": "tbi-goa-first-leopard-cat-footage",
+   "title": "Researchers build wildlife pond and film Goa's first leopard cat",
+   "summary": "Two researchers built an artificial pond in a forest patch near Bhagwan Mahavir Wildlife Sanctuary and recorded the first camera-trap footage of a leopard cat in Goa.",
+   "why": "Small but real boost for local wildlife knowledge.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/wildlife/leopard-cat-goa-first-photographic-record-pond-camera-trap-vanasa-researchers-12680544",
+   "score": 7,
+   "category": "Animals",
+   "region": "Goa, India",
+   "published": "2026-10-18T09:11:09Z",
+   "continent": "Asia",
+   "added": "2026-10-19T04:14:09Z",
+   "i18n": {
+    "ca": {
+     "title": "Investigadors construeixen una bassa per a la fauna i filmen el primer gat lleopard de Goa",
+     "summary": "Dos investigadors van construir una bassa artificial en un fragment de bosc prop del Santuari de Fauna Bhagwan Mahavir i van registrar amb càmeres-trampa les primeres imatges d'un gat lleopard a Goa.",
+     "why": "Petit però real avanç per al coneixement local de la fauna."
+    },
+    "fr": {
+     "title": "Des chercheurs créent une mare pour la faune et filment le premier chat léopard de Goa",
+     "summary": "Deux chercheurs ont aménagé une mare artificielle dans un fragment de forêt près du sanctuaire faunique Bhagwan Mahavir et ont obtenu, grâce à un piège photographique, les premières images d'un chat léopard à Goa.",
+     "why": "Modeste mais réel progrès pour la connaissance locale de la faune."
+    },
+    "ru": {
+     "title": "Исследователи создали водоем для дикой природы и сняли первого леопардового кота в Гоа",
+     "summary": "Два исследователя устроили искусственный водоем на участке леса рядом с заповедником Бхагван Махавир и зафиксировали фотоловушкой первые кадры леопардового кота в Гоа.",
+     "why": "Небольшой, но реальный вклад в местные знания о дикой природе."
+    }
+   }
+  },
+  {
+   "id": "sd-mummified-hairless-dog-peru",
+   "title": "Archaeologists find 1,200-year-old hairless dog remains in Peru",
+   "summary": "Archaeologists recovered roughly 1,200-year-old remains of Peru's hairless dogs at a Wari Empire burial site, adding to knowledge of the breed's history.",
+   "why": "Neutral but interesting archaeology.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261016070644.htm",
+   "score": 5,
+   "category": "Culture",
+   "region": "Peru",
+   "published": "2026-10-18T02:32:58Z",
+   "continent": "South America",
+   "added": "2026-10-19T04:14:09Z",
+   "i18n": {
+    "ca": {
+     "title": "Arqueòlegs troben restes de gossos sense pèl de fa 1.200 anys al Perú",
+     "summary": "Arqueòlegs han recuperat restes d'uns 1.200 anys de gossos sense pèl del Perú en un jaciment funerari de l'Imperi Wari, cosa que amplia el coneixement de la història de la raça.",
+     "why": "Arqueologia neutral però interessant."
+    },
+    "fr": {
+     "title": "Des archéologues découvrent les restes vieux de 1 200 ans de chiens sans poil au Pérou",
+     "summary": "Des archéologues ont découvert des restes vieux d'environ 1 200 ans de chiens sans poil du Pérou sur un site funéraire de l'Empire wari, ce qui enrichit les connaissances sur l'histoire de cette race.",
+     "why": "Archéologie neutre mais intéressante."
+    },
+    "ru": {
+     "title": "Археологи нашли останки бесшерстных собак возрастом 1200 лет в Перу",
+     "summary": "Археологи обнаружили останки перуанских бесшерстных собак примерно 1200-летней давности на погребальном участке империи Ваари, что дополняет знания об истории этой породы.",
+     "why": "Нейтральная, но интересная археология."
+    }
+   }
+  },
+  {
+   "id": "mb-most-countries-adopt-biodiversity-targets",
+   "title": "Nearly 90% of countries set biodiversity targets, but most are off track",
+   "summary": "A Convention on Biological Diversity report finds most of its 196 parties have set national biodiversity targets, though most remain off track to meet them.",
+   "why": "Progress on commitments but delivery lags.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/nearly-90-of-countries-adopt-biodiversity-targets-but-most-remain-off-track/",
+   "score": 5,
+   "category": "Environment",
+   "region": "Global",
+   "published": "2026-10-17T22:50:40Z",
+   "continent": "Global",
+   "added": "2026-10-19T04:14:09Z",
+   "i18n": {
+    "ca": {
+     "title": "Gairebé el 90% dels països fixen objectius de biodiversitat, però la majoria no van pel bon camí",
+     "summary": "Un informe del Conveni sobre la Diversitat Biològica constata que la majoria de les seves 196 parts han fixat objectius nacionals de biodiversitat, però la majoria encara no van ben encaminades per assolir-los.",
+     "why": "Progrés en els compromisos, però l'execució va a remolc."
+    },
+    "fr": {
+     "title": "Près de 90 % des pays ont fixé des objectifs de biodiversité, mais la plupart ne sont pas sur la bonne voie",
+     "summary": "Un rapport de la Convention sur la diversité biologique constate que la plupart de ses 196 parties ont fixé des objectifs nationaux de biodiversité, mais que la majorité restent en retard pour les atteindre.",
+     "why": "Progrès dans les engagements, mais la mise en œuvre accuse un retard."
+    },
+    "ru": {
+     "title": "Почти 90% стран поставили цели по биоразнообразию, но большинство отстают от графика",
+     "summary": "Доклад Конвенции о биологическом разнообразии показывает, что большинство из 196 её участников установили национальные цели по биоразнообразию, однако большинство из них еще не на пути к их достижению.",
+     "why": "Прогресс в обязательствах, но их выполнение отстает."
+    }
+   }
+  },
+  {
+   "id": "gnn-coral-bleaching-reversed-stanford",
+   "title": "Stanford method restores bleached corals in seven weeks",
+   "summary": "Stanford researchers restored bleached corals to full health in the laboratory within seven weeks, the fastest documented recovery. The method has not yet been tested on reefs.",
+   "why": "Fast lab result, not yet proven in the wild.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/coral-bleaching-reversed-at-record-speed-using-new-stanford-method/",
+   "score": 6,
+   "category": "Environment",
+   "region": "California, USA",
+   "published": "2026-10-17T17:20:40Z",
+   "continent": "North America",
+   "added": "2026-10-19T04:14:09Z",
+   "i18n": {
+    "ca": {
+     "title": "Un mètode de Stanford restaura coralls blanquejats en set setmanes",
+     "summary": "Investigadors de Stanford han restaurat coralls blanquejats fins a la plena salut al laboratori en set setmanes, la recuperació més ràpida documentada. El mètode encara no s'ha provat en esculls.",
+     "why": "Resultat ràpid de laboratori, encara no demostrat en el medi natural."
+    },
+    "fr": {
+     "title": "Une méthode de Stanford restaure des coraux blanchis en sept semaines",
+     "summary": "Des chercheurs de Stanford ont rétabli la pleine santé de coraux blanchis en laboratoire en sept semaines, le rétablissement le plus rapide documenté à ce jour. La méthode n'a pas encore été testée sur des récifs.",
+     "why": "Résultat rapide en laboratoire, pas encore démontré en milieu naturel."
+    },
+    "ru": {
+     "title": "Метод из Стэнфорда восстанавливает обесцвеченные кораллы за семь недель",
+     "summary": "Исследователи из Стэнфорда в лабораторных условиях вернули обесцвеченным кораллам полное здоровье за семь недель — это самое быстрое из задокументированных восстановлений. Метод еще не проверяли на рифах.",
+     "why": "Быстрый результат в лаборатории, пока не подтвержденный в природе."
+    }
+   }
+  },
+  {
+   "id": "sd-roman-telescope-exceeds-expectations",
+   "title": "NASA's Roman Space Telescope performs about 30% better than expected",
+   "summary": "Engineers made a tiny mirror adjustment that aligned the Roman telescope's instruments, and its Wide Field Instrument now exceeds its performance expectations by nearly 30%.",
+   "why": "Strong result for a major science mission.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
+   "score": 6,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-10-17T13:28:13Z",
+   "continent": "Global",
+   "added": "2026-10-19T04:14:09Z",
+   "i18n": {
+    "ca": {
+     "title": "El telescopi espacial Roman de la NASA funciona un 30% millor del previst",
+     "summary": "Els enginyers van fer un petit ajustament del mirall que va alinear els instruments del telescopi Roman, i el seu Wide Field Instrument supera les expectatives de rendiment en gairebé un 30%.",
+     "why": "Resultat sòlid per a una missió científica important."
+    },
+    "fr": {
+     "title": "Le télescope spatial Roman de la NASA performe environ 30 % mieux que prévu",
+     "summary": "Des ingénieurs ont effectué un infime réglage de miroir qui a aligné les instruments du télescope Roman ; son Wide Field Instrument dépasse désormais ses attentes de performance de près de 30 %.",
+     "why": "Résultat solide pour une grande mission scientifique."
+    },
+    "ru": {
+     "title": "Космический телескоп NASA «Роман» работает примерно на 30% лучше ожидаемого",
+     "summary": "Инженеры выполнили крошечную корректировку зеркала, которая выровняла приборы телескопа «Роман», и теперь его широкоугольный прибор (Wide Field Instrument) превышает ожидаемые показатели почти на 30%.",
+     "why": "Сильный результат для крупной научной миссии."
+    }
+   }
+  },
+  {
+   "id": "an-drc-frontline-workers-ebola-vaccine",
+   "title": "Frontline workers in DR Congo begin receiving Ebola vaccine",
+   "summary": "Frontline workers in DR Congo began receiving the Ervebo vaccine during the country's worst-ever Ebola outbreak.",
+   "why": "Protective step amid a serious outbreak.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/17/frontline-workers-in-drc-receive-ervebo-vaccine-amid-growing-ebola-outbreak/",
+   "score": 6,
+   "category": "Health",
+   "region": "DR Congo",
+   "published": "2026-10-17T12:37:06Z",
+   "continent": "Africa",
+   "added": "2026-10-19T04:14:09Z",
+   "i18n": {
+    "ca": {
+     "title": "Els treballadors de primera línia de la RD del Congo comencen a rebre la vacuna contra l'ebola",
+     "summary": "Els treballadors de primera línia de la RD del Congo han començat a rebre la vacuna Ervebo durant el pitjor brot d'ebola de la història del país.",
+     "why": "Pas protector en mig d'un brot greu."
+    },
+    "fr": {
+     "title": "En RD Congo, les travailleurs de première ligne commencent à recevoir le vaccin contre Ebola",
+     "summary": "Les travailleurs de première ligne en RD Congo ont commencé à recevoir le vaccin Ervebo pendant la pire épidémie d'Ebola jamais enregistrée dans le pays.",
+     "why": "Mesure protectrice face à une épidémie grave."
+    },
+    "ru": {
+     "title": "Медработники на передовой в ДР Конго начинают получать вакцину от Эболы",
+     "summary": "Медработники на передовой в ДР Конго начали получать вакцину «Эрвебо» во время самой тяжелой за всю историю страны вспышки Эболы.",
+     "why": "Защитная мера на фоне серьезной вспышки."
+    }
+   }
+  },
   {
    "id": "mb-indonesian-women-mangrove-restoration",
    "title": "Women's group in North Sulawesi earns income restoring mangroves",
@@ -482,6 +823,37 @@
    }
   },
   {
+   "id": "an-turkey-divers-bronze-age-shipwreck",
+   "title": "Divers uncover treasures from a 4,700-year-old shipwreck off Turkey",
+   "summary": "Underwater archaeologists found amphorae off Kekova Island near Antalya, believed to come from an Early Bronze Age shipwreck.",
+   "why": "Interesting archaeological find.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/16/turkey-divers-uncover-treasures-from-4700-year-old-shipwreck/",
+   "score": 5,
+   "category": "Culture",
+   "region": "Antalya, Turkey",
+   "published": "2026-10-16T11:43:06Z",
+   "continent": "Asia",
+   "added": "2026-10-19T04:14:09Z",
+   "i18n": {
+    "ca": {
+     "title": "Bussejadors descobreixen tresors d'un pecio de fa 4.700 anys davant de Turquia",
+     "summary": "Arqueòlegs submarins han trobat àmfores davant de l'illa de Kekova, prop d'Antalya, que es creu que procedeixen d'un pecio de l'Edat del Bronze Antiga.",
+     "why": "Troballa arqueològica interessant."
+    },
+    "fr": {
+     "title": "Des plongeurs découvrent les trésors d'une épave vieille de 4 700 ans au large de la Turquie",
+     "summary": "Des archéologues sous-marins ont découvert des amphores au large de l'île de Kekova, près d'Antalya, qui proviendraient d'une épave de l'âge du bronze ancien.",
+     "why": "Découverte archéologique intéressante."
+    },
+    "ru": {
+     "title": "Водолазы обнаружили сокровища с 4700-летнего затонувшего корабля у берегов Турции",
+     "summary": "Подводные археологи обнаружили амфоры у острова Кекова близ Анталии; предположительно, они относятся к затонувшему кораблю раннего бронзового века.",
+     "why": "Интересная археологическая находка."
+    }
+   }
+  },
+  {
    "id": "gnn-american-prairie-bison-reach-1000",
    "title": "Free-roaming bison herd at American Prairie reaches 1,000",
    "summary": "The herd on the private American Prairie reserve has passed 1,000 animals for the first time since the nonprofit began more than 20 years ago.",
@@ -637,6 +1009,37 @@
    }
   },
   {
+   "id": "sd-ppard-protein-cancer-immune-cells",
+   "title": "Activating a protein helps immune cells attack tumors in lab tests",
+   "summary": "Activating the PPARD protein in immune cells made them better at burning fat and attacking tumors in laboratory experiments.",
+   "why": "Early lab work, far from patients.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261015073203.htm",
+   "score": 5,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-16T04:51:38Z",
+   "continent": "Global",
+   "added": "2026-10-19T04:14:09Z",
+   "i18n": {
+    "ca": {
+     "title": "L'activació d'una proteïna ajuda les cèl·lules immunitàries a atacar tumors en proves de laboratori",
+     "summary": "L'activació de la proteïna PPARD en cèl·lules immunitàries les va fer més eficients en cremar greix i en atacar tumors en experiments de laboratori.",
+     "why": "Treball inicial de laboratori, lluny dels pacients."
+    },
+    "fr": {
+     "title": "L'activation d'une protéine aide les cellules immunitaires à attaquer les tumeurs en laboratoire",
+     "summary": "L'activation de la protéine PPARD dans les cellules immunitaires les a rendues plus aptes à brûler les graisses et à attaquer les tumeurs, lors d'expériences en laboratoire.",
+     "why": "Travaux précoces en laboratoire, encore loin des patients."
+    },
+    "ru": {
+     "title": "Активация белка помогает иммунным клеткам атаковать опухоли в лабораторных тестах",
+     "summary": "В лабораторных экспериментах активация белка PPARD в иммунных клетках сделала их более эффективными в сжигании жиров и атаке опухолей.",
+     "why": "Ранняя лабораторная работа, до пациентов еще далеко."
+    }
+   }
+  },
+  {
    "id": "sd-antarctic-sea-ice-third-lowest-maximum",
    "title": "Antarctic sea ice hits third-lowest winter maximum",
    "summary": "Sea ice reached its third-lowest winter peak in 2026, continuing a decline after years of record growth; scientists are studying whether it marks a long-term shift.",
@@ -695,6 +1098,37 @@
      "title": "В Уганде начались испытания первой фазы вакцины против эболавируса Бундибугио",
      "summary": "Учёные в Масаке начали ранние испытания кандидатной вакцины против штамма эболавируса Бундибугио, для которого не существует лицензированной вакцины или методов лечения.",
      "why": "Обнадеживающий шаг, но испытания на ранней стадии и эффективность не доказана."
+    }
+   }
+  },
+  {
+   "id": "gnn-extinct-crocodilian-skull-sphinx-rocks",
+   "title": "New extinct crocodilian species identified from Sphinx limestone",
+   "summary": "Researchers described a new extinct crocodilian species from a skull found in the 45-million-year-old limestone formation that supplied stone for the Sphinx.",
+   "why": "Interesting discovery with limited wider benefit.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/an-extinct-crocodilians-skull-was-found-in-the-rocks-that-built-the-sphinx-and-its-also-missing-its-nose/",
+   "score": 5,
+   "category": "Science",
+   "region": "Egypt",
+   "published": "2026-10-15T17:30:16Z",
+   "continent": "Africa",
+   "added": "2026-10-19T04:14:09Z",
+   "i18n": {
+    "ca": {
+     "title": "Identifiquen una nova espècie de cocodril extint a partir de calcària de l'Esfinx",
+     "summary": "Investigadors han descrit una nova espècie de cocodril extint a partir d'un crani trobat en la formació calcària de 45 milions d'anys que va subministrar la pedra per a l'Esfinx.",
+     "why": "Descobriment interessant amb un benefici més ampli limitat."
+    },
+    "fr": {
+     "title": "Une nouvelle espèce de crocodilien éteint identifiée dans le calcaire du Sphinx",
+     "summary": "Des chercheurs ont décrit une nouvelle espèce de crocodilien éteint à partir d'un crâne découvert dans la formation calcaire vieille de 45 millions d'années qui a fourni la pierre du Sphinx.",
+     "why": "Découverte intéressante, à portée plus large limitée."
+    },
+    "ru": {
+     "title": "Новый вымерший вид крокодилов обнаружен в известняке, из которого построен Сфинкс",
+     "summary": "Исследователи описали новый вымерший вид крокодиловых по черепу, найденному в известняковой формации возрастом 45 миллионов лет, из которой был добыт камень для Сфинкса.",
+     "why": "Интересное открытие с ограниченной широкой пользой."
     }
    }
   },
@@ -1067,6 +1501,37 @@
      "title": "Белиз планирует глубоководные охраняемые зоны, чтобы выполнить обязательство по защите 30% океана",
      "summary": "Проект морского пространственного плана предлагает создать три охраняемые морские зоны в открытом море, чтобы Белиз смог выполнить обязательство защитить 30% своего океана.",
      "why": "Конкретное планирование ради масштабной цели по охране, но план пока не принят."
+    }
+   }
+  },
+  {
+   "id": "mb-thailand-seizes-zambia-ivory",
+   "title": "Thailand seizes ivory shipment from Zambia and starts DNA investigation",
+   "summary": "Thai authorities seized about 400 pieces of African elephant ivory hidden in timber shipments from Zambia and will use DNA analysis to trace its origin.",
+   "why": "Enforcement success against wildlife trafficking.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/10/thailand-seizes-ivory-shipment-from-zambia-to-launch-dna-investigation/",
+   "score": 5,
+   "category": "Animals",
+   "region": "Thailand",
+   "published": "2026-10-15T06:40:13Z",
+   "continent": "Asia",
+   "added": "2026-10-19T04:14:09Z",
+   "i18n": {
+    "ca": {
+     "title": "Tailàndia confisca un carregament d'ivori procedent de Zàmbia i inicia una investigació amb ADN",
+     "summary": "Les autoritats tailandeses han confiscat unes 400 peces d'ivori d'elefant africà amagades en càrregues de fusta procedents de Zàmbia i utilitzaran l'anàlisi d'ADN per rastrejar-ne l'origen.",
+     "why": "Èxit d'aplicació de la llei contra el tràfic de fauna."
+    },
+    "fr": {
+     "title": "La Thaïlande saisit un chargement d'ivoire venu de Zambie et lance une enquête ADN",
+     "summary": "Les autorités thaïlandaises ont saisi environ 400 pièces d'ivoire d'éléphant d'Afrique dissimulées dans des cargaisons de bois en provenance de Zambie et recourront à l'analyse ADN pour en retracer l'origine.",
+     "why": "Succès des forces de l'ordre contre le trafic d'espèces sauvages."
+    },
+    "ru": {
+     "title": "Таиланд конфисковал партию слоновой кости из Замбии и начал ДНК-расследование",
+     "summary": "Власти Таиланда конфисковали около 400 предметов из слоновой кости африканских слонов, спрятанных в партиях древесины из Замбии, и с помощью ДНК-анализа установят их происхождение.",
+     "why": "Успех правоохранительных органов в борьбе с незаконной торговлей дикими животными."
     }
    }
   },
@@ -3764,750 +4229,6 @@
      "title": "В эфиопском нагорье найден новый вид змеи, питающейся яйцами",
      "summary": "Новая неядовитая змея, питающаяся яйцами, белогорлый яйцеед, задокументирована в лесу Харенна в Эфиопии.",
      "why": "Новый вид расширяет знания и усиливает аргументы в пользу защиты леса."
-    }
-   }
-  },
-  {
-   "id": "sd-crew-12-splashdown",
-   "title": "NASA's Crew-12 astronauts return after eight months in orbit",
-   "summary": "SpaceX Crew-12 splashed down after about eight months in space, during which they carried out research for future lunar and Mars missions.",
-   "why": "Successful mission and return.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
-   "score": 6,
-   "category": "Science",
-   "region": "Space",
-   "published": "2026-10-09T03:56:28Z",
-   "continent": "Global",
-   "added": "2026-10-11T04:15:34Z",
-   "i18n": {
-    "ca": {
-     "title": "Els astronautes de la Crew-12 de la NASA tornen després de vuit mesos en òrbita",
-     "summary": "La Crew-12 de SpaceX ha amarat després de gairebé vuit mesos a l'espai, durant els quals ha dut a terme recerca per a futures missions a la Lluna i a Mart.",
-     "why": "Missió i retorn reeixits."
-    },
-    "fr": {
-     "title": "Les astronautes de la mission Crew-12 de la NASA reviennent après huit mois en orbite",
-     "summary": "La mission Crew-12 de SpaceX a amerri après environ huit mois dans l'espace, au cours desquels elle a mené des recherches en vue des futures missions vers la Lune et Mars.",
-     "why": "Mission réussie et retour."
-    },
-    "ru": {
-     "title": "Астронавты NASA из экипажа Crew-12 вернулись после восьми месяцев на орбите",
-     "summary": "Корабль SpaceX с экипажем Crew-12 приводнился после около восьми месяцев в космосе, в течение которых астронавты проводили исследования для будущих миссий к Луне и Марсу.",
-     "why": "Успешная миссия и возвращение."
-    }
-   }
-  },
-  {
-   "id": "tbi-goa-homestead-recipes-ten-jars",
-   "title": "Goan mother grows ten jars of home recipes into a global business",
-   "summary": "A woman in Goa who began with ten jars in 2010 now sells traditional Goan masalas and pickles to customers around the world.",
-   "why": "A good small-business story for one family and local food traditions.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/web-stories/changemakers/goa-mother-traditional-goan-recipes-masalas-pickles-the-goan-homestead-12638450",
-   "score": 6,
-   "category": "Culture",
-   "region": "Goa, India",
-   "published": "2026-10-09T03:30:37Z",
-   "continent": "Asia",
-   "added": "2026-10-09T04:12:41Z",
-   "i18n": {
-    "ca": {
-     "title": "Una mare de Goa converteix deu pots de receptes casolanes en un negoci internacional",
-     "summary": "Una dona de Goa que el 2010 va començar amb deu pots ara ven masales i escabetxos goanesos tradicionals a clients de tot el món.",
-     "why": "Una bona història d'empresa petita per a una família i per a les tradicions gastronòmiques locals."
-    },
-    "fr": {
-     "title": "Une mère de Goa transforme dix bocaux de recettes familiales en une entreprise mondiale",
-     "summary": "Une femme de Goa qui a débuté en 2010 avec dix bocaux vend aujourd'hui des masalas et des pickles goanais traditionnels à des clients du monde entier.",
-     "why": "Une belle histoire d'entreprise familiale qui met en valeur les traditions culinaires locales."
-    },
-    "ru": {
-     "title": "Мать из Гоа превратила десять банок с домашними рецептами в бизнес с международными продажами",
-     "summary": "Женщина из Гоа, начавшая в 2010 году с десяти банок, сегодня продаёт традиционные гоанские масала и пикули клиентам по всему миру.",
-     "why": "Хорошая история малого семейного бизнеса и местных кулинарных традиций."
-    }
-   }
-  },
-  {
-   "id": "tbi-chennai-engineer-rti-elephants-lake",
-   "title": "Chennai engineer uses information requests to protect elephants and a lake",
-   "summary": "A civil engineer in Chennai has used Right to Information requests to expose elephant deaths on rail tracks and help clean a lake, and now explains how others can do the same.",
-   "why": "Shows ordinary citizens can drive accountability, though results are local.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/governance/activist-guide-making-rti-work-for-you-12655600",
-   "score": 7,
-   "category": "Society",
-   "region": "Tamil Nadu, India",
-   "published": "2026-10-09T02:30:37Z",
-   "continent": "Asia",
-   "added": "2026-10-09T04:12:41Z",
-   "i18n": {
-    "ca": {
-     "title": "Un enginyer de Chennai usa sol·licituds d'informació per protegir elefants i un llac",
-     "summary": "Un enginyer civil de Chennai ha usat sol·licituds del dret a la informació per denunciar morts d'elefants a les vies del tren i ajudar a netejar un llac, i ara explica com poden fer el mateix altres persones.",
-     "why": "Mostra que la ciutadania pot impulsar la rendició de comptes, tot i que els resultats són locals."
-    },
-    "fr": {
-     "title": "Un ingénieur de Chennai utilise des demandes d'information pour protéger des éléphants et un lac",
-     "summary": "Un ingénieur civil de Chennai a utilisé des demandes au titre du droit à l'information pour révéler la mort d'éléphants sur les voies ferrées et contribuer au nettoyage d'un lac, et explique désormais comment d'autres peuvent faire de même.",
-     "why": "Montre que des citoyens ordinaires peuvent faire progresser la responsabilité publique, même si les résultats restent locaux."
-    },
-    "ru": {
-     "title": "Инженер из Ченнаи использует запросы на получение информации, чтобы защитить слонов и озеро",
-     "summary": "Инженер-строитель из Ченнаи использовал запросы в рамках права на информацию, чтобы выявить гибель слонов на железнодорожных путях и помочь очистить озеро, и теперь объясняет, как это могут сделать другие.",
-     "why": "Показывает, что обычные граждане могут способствовать подотчётности властей, хотя результаты пока локальные."
-    }
-   }
-  },
-  {
-   "id": "od-seabird-scarecrow",
-   "title": "Floating scarecrow cuts seabird deaths in fishing nets by up to 71 percent",
-   "summary": "A bird-shaped kite and a spinning, eyed buoy reduced seabird bycatch in Cornish gillnets by up to 71 percent in trials.",
-   "why": "Cheap, effective tool that could spread to other fisheries.",
-   "source": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/10/the-floating-scarecrow-saving-seabirds-from-fishing-nets/",
-   "score": 8,
-   "category": "Animals",
-   "region": "Cornwall, UK",
-   "published": "2026-10-09T00:00:41Z",
-   "continent": "Europe",
-   "added": "2026-10-10T04:14:57Z",
-   "i18n": {
-    "ca": {
-     "title": "Un espantaocells flotant redueix fins a un 71 % la mort d'ocells marins a les xarxes de pesca",
-     "summary": "Un estel en forma d'ocell i una boia giratòria amb ulls han reduït en els assajos fins a un 71 % les captures accidentals d'ocells marins a les xarxes d'enmalla de Cornualla.",
-     "why": "Eina barata i eficaç que podria estendre's a altres pesqueries."
-    },
-    "fr": {
-     "title": "Un épouvantail flottant réduit de jusqu'à 71 % la mortalité des oiseaux de mer dans les filets de pêche",
-     "summary": "Un cerf-volant en forme d'oiseau et une bouée tournante dotée d'yeux ont réduit de jusqu'à 71 % les captures accessoires d'oiseaux de mer dans les filets maillants de Cornouailles lors d'essais.",
-     "why": "Outil peu coûteux et efficace, susceptible de se répandre à d'autres pêcheries."
-    },
-    "ru": {
-     "title": "Плавающее пугало сокращает гибель морских птиц в рыболовных сетях до 71 процента",
-     "summary": "Воздушный змей в форме птицы и вращающийся поплавок с «глазами» в ходе испытаний сократили прилов морских птиц в жаберных сетях Корнуолла до 71 процента.",
-     "why": "Дешёвый и эффективный инструмент, который может распространиться на другие промыслы."
-    }
-   }
-  },
-  {
-   "id": "gnn-tortoise-epigenome",
-   "title": "Jonathan the tortoise, about 194, contributes first epigenome to aging research",
-   "summary": "Researchers ran genetic tests on Jonathan, an estimated 194-year-old giant tortoise, to learn about aging; it is the first epigenome from such a long-lived animal.",
-   "why": "Interesting aging research from a single animal; benefits are still distant.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/nearly-200-year-old-tortoise-becomes-first-to-contribute-extraordinary-epigenome-to-aging-research/",
-   "score": 6,
-   "category": "Science",
-   "region": "Saint Helena",
-   "published": "2026-10-08T18:30:07Z",
-   "continent": "Africa",
-   "added": "2026-10-10T04:14:57Z",
-   "i18n": {
-    "ca": {
-     "title": "Jonathan, la tortuga d'uns 194 anys, aporta el primer epigenoma a la recerca sobre l'envelliment",
-     "summary": "Investigadors han fet proves genètiques a Jonathan, una tortuga gegant d'uns 194 anys, per estudiar l'envelliment; és el primer epigenoma obtingut d'un animal tan longeu.",
-     "why": "Recerca interessant sobre l'envelliment a partir d'un sol animal; els beneficis encara són llunyans."
-    },
-    "fr": {
-     "title": "Jonathan, la tortue d'environ 194 ans, apporte le premier épigénome à la recherche sur le vieillissement",
-     "summary": "Des chercheurs ont réalisé des tests génétiques sur Jonathan, une tortue géante âgée d'environ 194 ans, pour étudier le vieillissement ; il s'agit du premier épigénome issu d'un animal aussi longévif.",
-     "why": "Recherche intéressante sur le vieillissement à partir d'un seul animal ; les bénéfices restent lointains."
-    },
-    "ru": {
-     "title": "Черепаха Джонатан, которой около 194 лет, впервые внесла вклад в изучение старения через эпигеном",
-     "summary": "Исследователи провели генетические тесты на Джонатане, гигантской черепахе, которой по оценкам около 194 лет, чтобы изучить старение; это первый эпигеном, полученный от такого долгоживущего животного.",
-     "why": "Интересное исследование старения на основе одного животного; практическая польза пока далека."
-    }
-   }
-  },
-  {
-   "id": "mb-madre-tierra",
-   "title": "Interpol operation in Latin America leads to hundreds of arrests",
-   "summary": "Interpol's Operation Madre Tierra across nine countries led to hundreds of arrests and the recovery of over 1,000 animals from wildlife and timber trafficking.",
-   "why": "Meaningful enforcement success, though trafficking persists.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/10/crackdown-reveals-industrial-scale-wildlife-and-timber-trafficking-across-latin-america/",
-   "score": 7,
-   "category": "Environment",
-   "region": "Latin America",
-   "published": "2026-10-08T17:55:58Z",
-   "continent": "South America",
-   "added": "2026-10-10T04:14:57Z",
-   "i18n": {
-    "ca": {
-     "title": "Una operació d'Interpol a Amèrica Llatina porta a centenars de detencions",
-     "summary": "L'operació Madre Tierra d'Interpol, en nou països, ha portat a centenars de detencions i a la recuperació de més de 1.000 animals del tràfic de fauna salvatge i de fusta.",
-     "why": "Èxit significatiu en l'aplicació de la llei, tot i que el tràfic persisteix."
-    },
-    "fr": {
-     "title": "Une opération d'Interpol en Amérique latine aboutit à des centaines d'arrestations",
-     "summary": "L'opération Madre Tierra d'Interpol, menée dans neuf pays, a conduit à des centaines d'arrestations et à la récupération de plus de 1 000 animaux, dans le cadre du trafic d'espèces sauvages et de bois.",
-     "why": "Succès important dans l'application de la loi, même si le trafic persiste."
-    },
-    "ru": {
-     "title": "Операция Интерпола в Латинской Америке привела к сотням арестов",
-     "summary": "Операция Интерпола «Мадре Тьерра» в девяти странах привела к сотням арестов и возвращению более 1000 животных, изъятых при торговле дикой природой и древесиной.",
-     "why": "Заметный успех правоохранительных органов, хотя торговля продолжается."
-    }
-   }
-  },
-  {
-   "id": "an-zambia-us-health-deal-data-clauses-removed",
-   "title": "Zambia signs US health deal after data-sharing clauses are removed",
-   "summary": "The government says the agreement is not linked to US access to its mineral resources.",
-   "why": "Health funding secured with data protections, details still limited.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/10/08/zambia-signs-health-deal-with-us-after-removal-of-data-sharing-clauses/",
-   "score": 5,
-   "category": "Health",
-   "region": "Zambia",
-   "published": "2026-10-08T16:52:34Z",
-   "continent": "Africa",
-   "added": "2026-10-08T18:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Zàmbia signa un acord sanitari amb els EUA després de suprimir-ne les clàusules sobre intercanvi de dades",
-     "summary": "El govern afirma que l'acord no està vinculat a l'accés dels EUA als seus recursos minerals.",
-     "why": "Finançament sanitari assegurat amb proteccions de dades, però els detalls encara són limitats."
-    },
-    "fr": {
-     "title": "La Zambie signe un accord de santé avec les États-Unis après la suppression des clauses de partage de données",
-     "summary": "Le gouvernement affirme que l'accord n'est pas lié à l'accès des États-Unis à ses ressources minières.",
-     "why": "Financement de la santé obtenu avec des garanties en matière de données, mais les détails restent limités."
-    },
-    "ru": {
-     "title": "Замбия подписала соглашение с США в сфере здравоохранения после исключения положений об обмене данными",
-     "summary": "Правительство заявляет, что соглашение не связано с доступом США к её минеральным ресурсам.",
-     "why": "Финансирование здравоохранения обеспечено при защите данных, однако подробности пока ограничены."
-    }
-   }
-  },
-  {
-   "id": "gnn-nyc-late-night-soccer-workers",
-   "title": "New York keeps five soccer fields lit late for night workers",
-   "summary": "New York City Parks extended late-night hours at five soccer fields so people working night shifts can play.",
-   "why": "Small but real benefit for a community.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/nyc-parks-extends-late-night-soccer-at-5-fields-for-night-workers-and-their-reactions-are-awesome-watch/",
-   "score": 6,
-   "category": "Society",
-   "region": "New York City, USA",
-   "published": "2026-10-08T15:30:39Z",
-   "continent": "North America",
-   "added": "2026-10-11T04:15:34Z",
-   "i18n": {
-    "ca": {
-     "title": "Nova York manté cinc camps de futbol il·luminats fins tard per a treballadors nocturns",
-     "summary": "Els Parcs de la ciutat de Nova York han ampliat l'horari nocturn de cinc camps de futbol perquè les persones que treballen de nit hi puguin jugar.",
-     "why": "Un benefici petit però real per a una comunitat."
-    },
-    "fr": {
-     "title": "New York maintient cinq terrains de football éclairés tard le soir pour les travailleurs de nuit",
-     "summary": "Le service des parcs de la ville de New York a prolongé les horaires nocturnes de cinq terrains de football afin que les personnes travaillant de nuit puissent y jouer.",
-     "why": "Un bénéfice modeste mais réel pour une communauté."
-    },
-    "ru": {
-     "title": "В Нью-Йорке пять футбольных полей остаются открытыми допоздна для работающих ночью",
-     "summary": "Управление парков Нью-Йорка продлило ночные часы работы пяти футбольных полей, чтобы люди, работающие в ночные смены, могли играть.",
-     "why": "Небольшая, но реальная польза для местного сообщества."
-    }
-   }
-  },
-  {
-   "id": "mb-australia-eco-police",
-   "title": "Australia's new environmental agency busts wildlife trafficking ring",
-   "summary": "Australia's National Environmental Protection Agency seized 28 native animals and about A$300,000 in alleged trafficking proceeds in a major operation.",
-   "why": "Shows new enforcement capacity working.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/10/australias-new-eco-police-flexes-muscles-with-major-wildlife-trafficking-bust/",
-   "score": 6,
-   "category": "Environment",
-   "region": "Australia",
-   "published": "2026-10-08T14:41:57Z",
-   "continent": "Oceania",
-   "added": "2026-10-10T04:14:57Z",
-   "i18n": {
-    "ca": {
-     "title": "La nova agència ambiental d'Austràlia desmantella una xarxa de tràfic de fauna",
-     "summary": "L'Agència Nacional de Protecció Ambiental d'Austràlia ha confiscat 28 animals autòctons i uns 300.000 dòlars australians presumptament procedents del tràfic, en una operació important.",
-     "why": "Mostra que la nova capacitat d'aplicació de la llei funciona."
-    },
-    "fr": {
-     "title": "La nouvelle agence environnementale australienne démantèle un réseau de trafic d'animaux sauvages",
-     "summary": "L'Agence nationale de protection de l'environnement d'Australie a saisi 28 animaux indigènes et environ 300 000 dollars australiens de produits présumés du trafic, dans le cadre d'une opération majeure.",
-     "why": "Montre que la nouvelle capacité d'application de la loi porte ses fruits."
-    },
-    "ru": {
-     "title": "Новое экологическое ведомство Австралии разоблачило сеть торговцев дикими животными",
-     "summary": "Национальное агентство по охране окружающей среды Австралии в ходе крупной операции изъяло 28 местных животных и около 300 000 австралийских долларов, предположительно полученных от незаконной торговли.",
-     "why": "Показывает, что новые правоохранительные возможности работают."
-    }
-   }
-  },
-  {
-   "id": "sd-lacosamide-osteoarthritis",
-   "title": "Approved epilepsy drug may help reverse osteoarthritis damage",
-   "summary": "In preclinical Yale studies, the epilepsy drug lacosamide blocked a protein involved in pain and joint damage, pointing to a possible osteoarthritis treatment.",
-   "why": "Promising but early results from preclinical work.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261006234528.htm",
-   "score": 5,
-   "category": "Health",
-   "region": "USA",
-   "published": "2026-10-08T13:52:56Z",
-   "continent": "North America",
-   "added": "2026-10-10T04:14:57Z",
-   "i18n": {
-    "ca": {
-     "title": "Un fàrmac aprovat contra l'epilèpsia podria ajudar a revertir el dany de l'artrosi",
-     "summary": "En estudis preclínics de la Universitat de Yale, el fàrmac contra l'epilèpsia lacosamida va bloquejar una proteïna implicada en el dolor i el dany articular, cosa que apunta a un possible tractament de l'artrosi.",
-     "why": "Resultats prometedors però inicials, procedents de treball preclínic."
-    },
-    "fr": {
-     "title": "Un médicament anti-épileptique déjà approuvé pourrait aider à inverser les lésions de l'arthrose",
-     "summary": "Dans des études précliniques menées à Yale, le lacosamide, médicament contre l'épilepsie, a bloqué une protéine impliquée dans la douleur et les lésions articulaires, ce qui laisse entrevoir un traitement possible de l'arthrose.",
-     "why": "Résultats prometteurs mais encore précoces, issus de travaux précliniques."
-    },
-    "ru": {
-     "title": "Одобренный противоэпилептический препарат может помочь обратить вспять повреждения при остеоартрозе",
-     "summary": "В доклинических исследованиях в Йельском университете противоэпилептический препарат лакозамид блокировал белок, участвующий в боли и повреждении суставов, что указывает на возможное лечение остеоартроза.",
-     "why": "Перспективные, но пока предварительные результаты доклинической работы."
-    }
-   }
-  },
-  {
-   "id": "sd-protist-genetic-code-rule-broken",
-   "title": "Pond microbe found to use an unusual genetic code",
-   "summary": "A freshwater protist from an Oxford pond uses two stop signals to code for amino acids, challenging a rule thought nearly universal.",
-   "why": "Interesting basic science with no direct benefit yet.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Oxford, UK",
-   "published": "2026-10-08T13:31:39Z",
-   "continent": "Europe",
-   "added": "2026-10-11T04:15:34Z",
-   "i18n": {
-    "ca": {
-     "title": "Un microbi d'un estany fa servir un codi genètic inusual",
-     "summary": "Un protista d'aigua dolça d'un estany d'Oxford utilitza dos codons d'aturada per codificar aminoàcids, cosa que qüestiona una regla considerada gairebé universal.",
-     "why": "Ciència bàsica interessant, però encara sense benefici directe."
-    },
-    "fr": {
-     "title": "Un microbe d'étang utilise un code génétique inhabituel",
-     "summary": "Un protiste d'eau douce provenant d'un étang d'Oxford utilise deux codons stop pour coder des acides aminés, ce qui remet en question une règle considérée comme presque universelle.",
-     "why": "Science fondamentale intéressante, sans bénéfice direct pour le moment."
-    },
-    "ru": {
-     "title": "У микроба из пруда обнаружен необычный генетический код",
-     "summary": "Пресноводный протист из пруда в Оксфорде использует два стоп-кодона для кодирования аминокислот, что ставит под сомнение правило, считавшееся почти универсальным.",
-     "why": "Интересная фундаментальная наука, пока без прямой пользы."
-    }
-   }
-  },
-  {
-   "id": "sd-golden-coral",
-   "title": "A strange yellow coral off Costa Rica forms a new evolutionary lineage",
-   "summary": "Scientists found a yellow coral off Costa Rica that fits no known family, so they created a new one for it, adding to knowledge of deep-sea life.",
-   "why": "New knowledge about marine biodiversity.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261007042116.htm",
-   "score": 6,
-   "category": "Animals",
-   "region": "Costa Rica",
-   "published": "2026-10-08T13:18:54Z",
-   "continent": "North America",
-   "added": "2026-10-10T04:14:57Z",
-   "i18n": {
-    "ca": {
-     "title": "Un coral groc estrany al llarg de Costa Rica dona lloc a un nou llinatge evolutiu",
-     "summary": "Científics han trobat un coral groc al llarg de Costa Rica que no encaixa en cap família coneguda, i per això n'han creat una de nova, cosa que amplia el coneixement de la vida d'aigües profundes.",
-     "why": "Nou coneixement sobre la biodiversitat marina."
-    },
-    "fr": {
-     "title": "Un étrange corail jaune au large du Costa Rica forme une nouvelle lignée évolutive",
-     "summary": "Des scientifiques ont découvert au large du Costa Rica un corail jaune qui n'appartient à aucune famille connue ; ils ont donc créé une nouvelle famille pour l'accueillir, enrichissant les connaissances sur la vie des grands fonds.",
-     "why": "Nouvelles connaissances sur la biodiversité marine."
-    },
-    "ru": {
-     "title": "Необычный жёлтый коралл у побережья Коста-Рики образует новую эволюционную линию",
-     "summary": "Учёные обнаружили у побережья Коста-Рики жёлтый коралл, который не относится ни к одному известному семейству, и создали для него новое, что дополняет знания о глубоководной жизни.",
-     "why": "Новые знания о морском биоразнообразии."
-    }
-   }
-  },
-  {
-   "id": "gnn-neighbors-in-south-dakota-free-owl-tangled-in-barb",
-   "title": "Neighbors in South Dakota free owl tangled in barbed wire",
-   "summary": "Residents of Spearfish spotted an injured owl caught in barbed wire on private land and gathered to help rescue it.",
-   "why": "A small local kindness that saved one animal.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/neighbors-flock-to-rescue-a-wounded-owl-tangled-up-in-barbed-wire/",
-   "score": 6,
-   "category": "Animals",
-   "region": "South Dakota, USA",
-   "published": "2026-10-08T13:00:03Z",
-   "continent": "North America",
-   "added": "2026-10-12T04:16:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Veïns de Dakota del Sud alliberen un mussol enredat en filferro de pues",
-     "summary": "Els veïns de Spearfish van veure un mussol ferit enredat en filferro de pues en un terreny privat i es van reunir per ajudar a rescatar-lo.",
-     "why": "Un petit gest de solidaritat local que va salvar un animal."
-    },
-    "fr": {
-     "title": "Des voisins du Dakota du Sud libèrent une chouette prise dans du fil barbelé",
-     "summary": "Des habitants de Spearfish ont repéré une chouette blessée prise dans du fil barbelé sur une propriété privée et se sont réunis pour la sauver.",
-     "why": "Un petit geste de solidarité locale qui a sauvé un animal."
-    },
-    "ru": {
-     "title": "Соседи в Южной Дакоте освободили сову, запутавшуюся в колючей проволоке",
-     "summary": "Жители Спирфиша заметили раненую сову, запутавшуюся в колючей проволоке на частной земле, и собрались вместе, чтобы помочь её спасти.",
-     "why": "Небольшой поступок местных жителей, который спас одно животное."
-    }
-   }
-  },
-  {
-   "id": "sd-homo-erectus-drimolen",
-   "title": "Homo erectus fossils in South Africa are 200,000 years older than expected",
-   "summary": "Fossils from Drimolen Cave, including a skull fragment dated to about 2 million years, push back the known age of Homo erectus.",
-   "why": "Notable scientific discovery with no direct practical benefit.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261007042113.htm",
-   "score": 6,
-   "category": "Science",
-   "region": "South Africa",
-   "published": "2026-10-08T12:47:46Z",
-   "continent": "Africa",
-   "added": "2026-10-10T04:14:57Z",
-   "i18n": {
-    "ca": {
-     "title": "Els fòssils d'Homo erectus de Sud-àfrica són 200.000 anys més antics del que es pensava",
-     "summary": "Els fòssils de la cova de Drimolen, inclosa una resta de crani datada d'uns 2 milions d'anys, endarrereixen l'antiguitat coneguda d'Homo erectus.",
-     "why": "Descobriment científic notable, sense un benefici pràctic directe."
-    },
-    "fr": {
-     "title": "Des fossiles d'Homo erectus en Afrique du Sud sont 200 000 ans plus anciens que prévu",
-     "summary": "Des fossiles de la grotte de Drimolen, dont un fragment de crâne daté d'environ 2 millions d'années, repoussent l'âge connu d'Homo erectus.",
-     "why": "Découverte scientifique notable, sans bénéfice pratique direct."
-    },
-    "ru": {
-     "title": "Ископаемые остатки Homo erectus в ЮАР на 200 000 лет старше, чем предполагалось",
-     "summary": "Ископаемые из пещеры Дримолен, включая фрагмент черепа возрастом около 2 миллионов лет, отодвигают известную датировку Homo erectus.",
-     "why": "Заметное научное открытие без прямой практической пользы."
-    }
-   }
-  },
-  {
-   "id": "tbi-delhi-tutor-vinay-das-park-cleanups",
-   "title": "Delhi tutor's free classes grow into a movement that cleaned 250 public spaces",
-   "summary": "Vinay Das began free classes for migrant children in Wazirpur; weekend clean-up drives since 2018 have cleared around 250 parks and streets.",
-   "why": "Community-led effort helping children and neighborhoods.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/changemakers/delhi-tutor-vinay-das-children-clean-parks-wazirpur-12637405",
-   "score": 7,
-   "category": "Society",
-   "region": "Delhi, India",
-   "published": "2026-10-08T12:30:37Z",
-   "continent": "Asia",
-   "added": "2026-10-08T18:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Les classes gratuïtes d'un professor de Delhi es converteixen en un moviment que ha netejat 250 espais públics",
-     "summary": "Vinay Das va començar a fer classes gratuïtes per a infants migrants a Wazirpur; des del 2018, les jornades de neteja de cap de setmana han netejat uns 250 parcs i carrers.",
-     "why": "Un esforç de la comunitat que ajuda els infants i els barris."
-    },
-    "fr": {
-     "title": "Les cours gratuits d'un professeur de Delhi deviennent un mouvement qui a nettoyé 250 espaces publics",
-     "summary": "Vinay Das a commencé à donner des cours gratuits à des enfants migrants à Wazirpur ; depuis 2018, des opérations de nettoyage le week-end ont permis de dégager environ 250 parcs et rues.",
-     "why": "Une initiative communautaire qui aide les enfants et les quartiers."
-    },
-    "ru": {
-     "title": "Бесплатные занятия репетитора из Дели переросли в движение, которое очистило 250 общественных пространств",
-     "summary": "Винай Дас начал бесплатные занятия для детей мигрантов в Вазирпуре; с 2018 года уборки по выходным помогли очистить около 250 парков и улиц.",
-     "why": "Инициатива местного сообщества, которая помогает детям и районам."
-    }
-   }
-  },
-  {
-   "id": "sd-moon-caves",
-   "title": "NASA searches for lunar caves to shelter a future Moon base",
-   "summary": "NASA is running three investigations to find underground shelters, map hidden ice and track hazards on the lunar surface ahead of its first Moon base.",
-   "why": "Interesting planning step, with benefits far in the future.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Space",
-   "published": "2026-10-08T12:19:20Z",
-   "continent": "Global",
-   "added": "2026-10-10T04:14:57Z",
-   "i18n": {
-    "ca": {
-     "title": "La NASA busca coves lunars per aixoplugar una futura base a la Lluna",
-     "summary": "La NASA duu a terme tres investigacions per trobar refugis subterranis, cartografiar gel amagat i fer el seguiment dels riscos a la superfície lunar, abans de la seva primera base a la Lluna.",
-     "why": "Pas de planificació interessant, amb beneficis encara molt lluny en el temps."
-    },
-    "fr": {
-     "title": "La NASA cherche des grottes lunaires pour abriter une future base sur la Lune",
-     "summary": "La NASA mène trois études pour trouver des abris souterrains, cartographier la glace cachée et suivre les dangers à la surface lunaire, en amont de sa première base sur la Lune.",
-     "why": "Étape de planification intéressante, dont les bénéfices sont encore très lointains."
-    },
-    "ru": {
-     "title": "NASA ищет лунные пещеры, чтобы укрыть будущую базу на Луне",
-     "summary": "NASA проводит три исследования, чтобы найти подземные убежища, нанести на карту скрытый лёд и отслеживать опасности на поверхности Луны до создания первой лунной базы.",
-     "why": "Интересный этап планирования, но выгоды ожидаются в далёком будущем."
-    }
-   }
-  },
-  {
-   "id": "am-humidity-power-wallpaper",
-   "title": "Wallpaper-style panels generate small amounts of power from indoor humidity",
-   "summary": "Binghamton University engineers built paper-based panels; an array of 1,596 units ran a wireless keyboard in testing.",
-   "why": "Early lab result with very small power output.",
-   "source": "Anthropocene Magazine",
-   "url": "https://www.anthropocenemagazine.org/2026/10/researchers-have-made-wallpaper-that-generates-power-from-indoor-humidity/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-have-made-power-generating-wallpaper",
-   "score": 5,
-   "category": "Energy",
-   "region": "New York, USA",
-   "published": "2026-10-08T12:00:06Z",
-   "continent": "North America",
-   "added": "2026-10-08T18:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Panells com a paper de paret generen petites quantitats d'energia a partir de la humitat interior",
-     "summary": "Enginyers de la Universitat de Binghamton han construït panells de paper; una matriu de 1.596 unitats va fer funcionar un teclat sense fil durant les proves.",
-     "why": "Resultat inicial de laboratori amb una potència molt petita."
-    },
-    "fr": {
-     "title": "Des panneaux en forme de papier peint produisent de petites quantités d'électricité à partir de l'humidité intérieure",
-     "summary": "Des ingénieurs de l'université de Binghamton ont mis au point des panneaux en papier ; un ensemble de 1 596 unités a alimenté un clavier sans fil lors des essais.",
-     "why": "Résultat de laboratoire préliminaire avec une puissance très faible."
-    },
-    "ru": {
-     "title": "Панели в стиле обоев вырабатывают небольшое количество энергии из влажности воздуха в помещении",
-     "summary": "Инженеры Бингемтонского университета создали панели на основе бумаги; в ходе испытаний массив из 1596 элементов питал беспроводную клавиатуру.",
-     "why": "Ранний лабораторный результат с очень небольшой выработкой энергии."
-    }
-   }
-  },
-  {
-   "id": "an-nigeria-solar-alternative-grid",
-   "title": "Solar grows as an alternative to Nigeria's unreliable grid",
-   "summary": "Nigeria's power crisis is creating opportunities for solar energy, according to a Business Africa segment.",
-   "why": "Clean energy growth, though scale and benefit are unclear.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/10/08/solar-emerges-as-an-alternative-to-nigerias-unreliable-grid-business-africa/",
-   "score": 6,
-   "category": "Energy",
-   "region": "Nigeria",
-   "published": "2026-10-08T11:59:59Z",
-   "continent": "Africa",
-   "added": "2026-10-08T18:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "L'energia solar guanya terreny com a alternativa a la xarxa elèctrica poc fiable de Nigèria",
-     "summary": "Segons un reportatge de Business Africa, la crisi energètica de Nigèria està creant oportunitats per a l'energia solar.",
-     "why": "Creixement de l'energia neta, tot i que l'escala i el benefici no són clars."
-    },
-    "fr": {
-     "title": "Le solaire progresse comme alternative au réseau électrique peu fiable du Nigeria",
-     "summary": "Selon un reportage de Business Africa, la crise énergétique au Nigeria ouvre des opportunités pour l'énergie solaire.",
-     "why": "Essor de l'énergie propre, même si son ampleur et ses bénéfices restent flous."
-    },
-    "ru": {
-     "title": "Солнечная энергетика растёт как альтернатива ненадёжной энергосистеме Нигерии",
-     "summary": "По данным сюжета Business Africa, энергетический кризис в Нигерии открывает возможности для солнечной энергетики.",
-     "why": "Рост чистой энергетики, хотя масштаб и выгоды пока неясны."
-    }
-   }
-  },
-  {
-   "id": "pn-prince-william-community-emergency-kit",
-   "title": "Free kit helps UK communities prepare for emergencies",
-   "summary": "Prince William launched a free how-to resource that helps local communities build resilience and prepare for emergencies.",
-   "why": "A practical, free tool for community preparedness.",
-   "source": "Positive News",
-   "url": "https://www.positive.news/society/prince-william-launches-kit-to-help-communities-prepare-for-emergencies/",
-   "score": 6,
-   "category": "Society",
-   "region": "United Kingdom",
-   "published": "2026-10-08T11:27:24Z",
-   "continent": "Europe",
-   "added": "2026-10-08T18:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Un kit gratuït ajuda les comunitats del Regne Unit a preparar-se per a emergències",
-     "summary": "El príncep Guillem ha presentat un recurs gratuït i pràctic que ajuda les comunitats locals a enfortir-se i a preparar-se per a emergències.",
-     "why": "Una eina pràctica i gratuïta per a la preparació comunitària."
-    },
-    "fr": {
-     "title": "Un kit gratuit aide les communautés britanniques à se préparer aux urgences",
-     "summary": "Le prince William a lancé une ressource gratuite et pratique qui aide les communautés locales à renforcer leur résilience et à se préparer aux situations d'urgence.",
-     "why": "Un outil pratique et gratuit pour la préparation des communautés."
-    },
-    "ru": {
-     "title": "Бесплатный набор помогает британским общинам готовиться к чрезвычайным ситуациям",
-     "summary": "Принц Уильям представил бесплатное практическое руководство, которое помогает местным общинам повышать устойчивость и готовиться к чрезвычайным ситуациям.",
-     "why": "Практичный бесплатный инструмент для подготовки общин."
-    }
-   }
-  },
-  {
-   "id": "an-nigeria-kidnapped-graduates-rescued",
-   "title": "Twenty kidnapped Nigerian graduates found alive after week-long search",
-   "summary": "Graduates abducted while travelling to begin national youth service were rescued, authorities confirmed.",
-   "why": "Safe return for 20 people, though the kidnapping itself was harmful.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/10/08/nigeria-20-kidnapped-graduates-rescued-after-week-long-search/",
-   "score": 6,
-   "category": "Society",
-   "region": "Nigeria",
-   "published": "2026-10-08T11:22:28Z",
-   "continent": "Africa",
-   "added": "2026-10-08T18:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Troben vius vint graduats nigerians segrestats després d'una cerca d'una setmana",
-     "summary": "Les autoritats han confirmat el rescat dels graduats segrestats mentre viatjaven per començar el servei nacional de joventut.",
-     "why": "Retorn sa i estalvi de 20 persones, tot i que el segrest en si va ser perjudicial."
-    },
-    "fr": {
-     "title": "Vingt diplômés nigérians enlevés retrouvés vivants après une semaine de recherches",
-     "summary": "Les autorités ont confirmé la libération des diplômés enlevés alors qu'ils se rendaient au début de leur service national de jeunesse.",
-     "why": "Retour sain et sauf de 20 personnes, bien que l'enlèvement lui-même ait été néfaste."
-    },
-    "ru": {
-     "title": "Двадцать похищенных нигерийских выпускников найдены живыми после недельных поисков",
-     "summary": "Власти подтвердили освобождение выпускников, похищенных по пути на начало национальной службы молодёжи.",
-     "why": "Благополучное возвращение 20 человек, хотя само похищение причинило вред."
-    }
-   }
-  },
-  {
-   "id": "gnn-libya-explosives",
-   "title": "More than 14,000 explosives cleared from a Libyan city and nearby farmland",
-   "summary": "Demining teams backed by the UN and others cleared over 14,000 leftover explosives this year, making homes and farmland safer in a coastal Libyan city.",
-   "why": "Real safety gain for a community, though much clearance remains.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/more-than-14000-derelict-explosives-cleared-from-libyan-city-and-nearby-farmland/",
-   "score": 7,
-   "category": "Society",
-   "region": "Libya",
-   "published": "2026-10-08T11:00:03Z",
-   "continent": "Africa",
-   "added": "2026-10-10T04:14:57Z",
-   "i18n": {
-    "ca": {
-     "title": "Més de 14.000 explosius retirats d'una ciutat libia i de les terres de cultiu del voltant",
-     "summary": "Equips de desminatge amb el suport de l'ONU i d'altres organitzacions han retirat més de 14.000 explosius abandonats aquest any, cosa que fa més segures les llars i les terres de cultiu d'una ciutat costanera libia.",
-     "why": "Millora real de la seguretat per a una comunitat, tot i que encara queda molta feina per fer."
-    },
-    "fr": {
-     "title": "Plus de 14 000 explosifs déblayés d'une ville libyenne et de ses terres agricoles voisines",
-     "summary": "Des équipes de déminage soutenues par l'ONU et d'autres acteurs ont retiré plus de 14 000 explosifs résiduels cette année, rendant plus sûrs les foyers et les terres agricoles d'une ville côtière libyenne.",
-     "why": "Gain réel de sécurité pour une communauté, même si le déminage reste considérable."
-    },
-    "ru": {
-     "title": "Более 14 000 взрывоопасных предметов удалено из ливийского города и прилегающих сельхозугодий",
-     "summary": "Группы разминирования при поддержке ООН и других организаций в этом году обезвредили более 14 000 оставшихся взрывоопасных предметов, сделав дома и сельскохозяйственные земли в прибрежном ливийском городе безопаснее.",
-     "why": "Реальное повышение безопасности для общины, хотя работы по расчистке ещё предстоит много."
-    }
-   }
-  },
-  {
-   "id": "an-wwf-living-planet-report-hope",
-   "title": "WWF report finds 73% wildlife decline but points to species recoveries",
-   "summary": "The Living Planet Report 2026 shows steep declines in monitored wildlife populations, with recoveries in some species suggesting the trend can be reversed.",
-   "why": "Mixed: grim overall trend with some hopeful examples.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/10/08/wwf-report-says-reason-for-hope-despite-wildlife-population-decline/",
-   "score": 4,
-   "category": "Animals",
-   "region": "Global",
-   "published": "2026-10-08T10:32:31Z",
-   "continent": "Global",
-   "added": "2026-10-08T18:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Un informe del WWF constata una disminució del 73% de la fauna salvatge, però assenyala recuperacions d'espècies",
-     "summary": "L'Informe Planeta Viu 2026 mostra forts descensos en les poblacions de fauna salvatge monitoritzades, i la recuperació d'algunes espècies suggereix que la tendència es pot revertir.",
-     "why": "Mixt: una tendència global sòrdida amb alguns exemples esperançadors."
-    },
-    "fr": {
-     "title": "Un rapport du WWF constate un déclin de 73 % de la faune sauvage, mais met en avant des rétablissements d'espèces",
-     "summary": "Le Rapport Planète vivante 2026 montre de fortes baisses des populations d'animaux sauvages suivies, et le rétablissement de certaines espèces laisse penser que la tendance peut être inversée.",
-     "why": "Bilan mitigé : une tendance globale sombre, avec quelques exemples porteurs d'espoir."
-    },
-    "ru": {
-     "title": "Доклад WWF фиксирует сокращение численности диких животных на 73%, но указывает на восстановление некоторых видов",
-     "summary": "Доклад «Живая планета 2026» показывает резкое сокращение отслеживаемых популяций диких животных, а восстановление некоторых видов говорит о том, что тенденцию можно переломить.",
-     "why": "Смешанная картина: мрачная общая тенденция с некоторыми обнадёживающими примерами."
-    }
-   }
-  },
-  {
-   "id": "sd-strength-training-fat-cells-mice",
-   "title": "One week of strength training shrank fat cells in obese mice",
-   "summary": "Seven strength-training sessions reduced visceral fat cell size and reactivated fat-burning pathways in obese mice; human confirmation is still needed.",
-   "why": "Promising but only shown in mice.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261006234509.htm",
-   "score": 5,
-   "category": "Health",
-   "region": "Global",
-   "published": "2026-10-08T08:33:40Z",
-   "continent": "Global",
-   "added": "2026-10-11T04:15:34Z",
-   "i18n": {
-    "ca": {
-     "title": "Una setmana d'entrenament de força redueix les cèl·lules de greix de ratolins obesos",
-     "summary": "Set sessions d'entrenament de força han reduït la mida de les cèl·lules de greix visceral i han reactivat les vies de cremada de greix en ratolins obesos; encara cal confirmar-ho en humans.",
-     "why": "Prometedor, però només demostrat en ratolins."
-    },
-    "fr": {
-     "title": "Une semaine d'entraînement de force a réduit les cellules graisseuses de souris obèses",
-     "summary": "Sept séances d'entraînement de force ont réduit la taille des cellules graisseuses viscérales et réactivé les voies de combustion des graisses chez des souris obèses ; une confirmation chez l'humain reste nécessaire.",
-     "why": "Prometteur, mais démontré uniquement chez la souris."
-    },
-    "ru": {
-     "title": "Неделя силовых тренировок уменьшила жировые клетки у мышей с ожирением",
-     "summary": "Семь силовых тренировок уменьшили размер висцеральных жировых клеток и вновь активировали пути сжигания жира у мышей с ожирением; подтверждение на людях пока требуется.",
-     "why": "Перспективно, но пока показано только на мышах."
-    }
-   }
-  },
-  {
-   "id": "rtbc-nyc-students-saved-school-lunch",
-   "title": "New York students help improve school lunch by surveying classmates",
-   "summary": "Through Youth Food Advocates, a Brooklyn student surveyed classmates on why they skipped the cafeteria and what they wanted to eat.",
-   "why": "Student-led change that can improve meals for many pupils.",
-   "source": "Reasons to be Cheerful",
-   "url": "https://reasonstobecheerful.world/how-nyc-students-saved-school-lunch/",
-   "score": 7,
-   "category": "Society",
-   "region": "New York City, USA",
-   "published": "2026-10-08T08:00:50Z",
-   "continent": "North America",
-   "added": "2026-10-08T18:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Estudiants de Nova York ajuden a millorar el menjador escolar enquestant els companys",
-     "summary": "Mitjançant Youth Food Advocates, una estudiant de Brooklyn va enquestar els companys sobre per què no anaven al menjador i què volien menjar.",
-     "why": "Un canvi impulsat per estudiants que pot millorar els àpats de molts alumnes."
-    },
-    "fr": {
-     "title": "Des élèves new-yorkais contribuent à améliorer la cantine en interrogeant leurs camarades",
-     "summary": "Grâce à Youth Food Advocates, une élève de Brooklyn a interrogé ses camarades sur les raisons pour lesquelles ils ne mangeaient pas à la cantine et sur ce qu'ils voulaient manger.",
-     "why": "Un changement porté par des élèves, qui peut améliorer les repas de nombreux écoliers."
-    },
-    "ru": {
-     "title": "Школьники Нью-Йорка помогают улучшить школьное питание, опросив одноклассников",
-     "summary": "Через организацию Youth Food Advocates ученица из Бруклина опросила одноклассников о том, почему они не ходили в столовую и что хотели бы есть.",
-     "why": "Перемены, инициированные учениками, которые могут улучшить питание многих школьников."
     }
    }
   }

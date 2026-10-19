@@ -1,73 +1,6 @@
 {
- "updated": "2026-10-12T11:00:58Z",
+ "updated": "2026-10-19T06:19:48Z",
  "events": [
-  {
-   "id": "nobel-week-2026",
-   "date": "2026-10-05",
-   "end": "2026-10-12",
-   "category": "Awards",
-   "title": "Nobel Prize announcements",
-   "summary": "Six days of announcements, from medicine on Monday 5 October to economics on Monday 12 October. Follow them live in the Nobel section above.",
-   "link": "https://www.nobelprize.org/prizes/about/prize-announcement-dates",
-   "i18n": {
-    "ca": {
-     "title": "Anuncis dels premis Nobel",
-     "summary": "Sis dies d'anuncis, de medicina el dilluns 5 d'octubre a economia el dilluns 12 d'octubre. Segueix-los en directe a la secció Nobel de dalt."
-    },
-    "fr": {
-     "title": "Annonces des prix Nobel",
-     "summary": "Six jours d'annonces, de la médecine le lundi 5 octobre à l'économie le lundi 12 octobre. Suivez-les en direct dans la section Nobel ci-dessus."
-    },
-    "ru": {
-     "title": "Объявление Нобелевских премий",
-     "summary": "Шесть дней объявлений: от медицины в понедельник, 5 октября, до экономики в понедельник, 12 октября. Следите в прямом эфире в разделе «Нобель» выше."
-    }
-   }
-  },
-  {
-   "id": "world-mental-health-day-2026",
-   "date": "2026-10-10",
-   "category": "Society",
-   "title": "World Mental Health Day",
-   "summary": "A worldwide day to talk openly about mental health and make support easier to find for everyone.",
-   "link": "https://www.who.int/campaigns/world-mental-health-day",
-   "i18n": {
-    "ca": {
-     "title": "Dia Mundial de la Salut Mental",
-     "summary": "Un dia mundial per parlar obertament de salut mental i fer que tothom trobi ajuda més fàcilment."
-    },
-    "fr": {
-     "title": "Journée mondiale de la santé mentale",
-     "summary": "Une journée mondiale pour parler ouvertement de santé mentale et rendre l'aide plus facile à trouver pour tous."
-    },
-    "ru": {
-     "title": "Всемирный день психического здоровья",
-     "summary": "Всемирный день, чтобы открыто говорить о психическом здоровье и сделать помощь доступнее для всех."
-    }
-   }
-  },
-  {
-   "id": "world-food-day-2026",
-   "date": "2026-10-16",
-   "category": "Society",
-   "title": "World Food Day",
-   "summary": "The UN's food agency marks its founding with events in over 150 countries on ending hunger and growing food sustainably.",
-   "link": "https://www.fao.org/world-food-day/en",
-   "i18n": {
-    "ca": {
-     "title": "Dia Mundial de l'Alimentació",
-     "summary": "L'agència de l'ONU per a l'alimentació celebra la seva fundació amb actes a més de 150 països per acabar amb la fam i produir aliments de manera sostenible."
-    },
-    "fr": {
-     "title": "Journée mondiale de l'alimentation",
-     "summary": "L'agence de l'ONU pour l'alimentation célèbre sa fondation avec des événements dans plus de 150 pays pour en finir avec la faim et produire durablement."
-    },
-    "ru": {
-     "title": "Всемирный день продовольствия",
-     "summary": "Продовольственное агентство ООН отмечает свою годовщину мероприятиями в более чем 150 странах — о борьбе с голодом и устойчивом сельском хозяйстве."
-    }
-   }
-  },
   {
    "id": "mmx-launch-2026",
    "date": "2026-10-19",
@@ -424,6 +357,28 @@
    }
   },
   {
+   "id": "giving-tuesday-2026",
+   "date": "2026-12-01",
+   "category": "Society",
+   "title": "Giving Tuesday",
+   "summary": "A global day of generosity when people give time, money and kindness to causes they care about.",
+   "link": "https://www.givingtuesday.org",
+   "i18n": {
+    "ca": {
+     "title": "Giving Tuesday",
+     "summary": "Un dia mundial de generositat en què la gent dona temps, diners i amabilitat a les causes que estima."
+    },
+    "fr": {
+     "title": "Giving Tuesday",
+     "summary": "Une journée mondiale de générosité où chacun donne du temps, de l'argent et de la bienveillance aux causes qui lui tiennent à cœur."
+    },
+    "ru": {
+     "title": "Giving Tuesday",
+     "summary": "Всемирный день щедрости: люди дарят время, деньги и доброту тем, что им дорого."
+    }
+   }
+  },
+  {
    "id": "disability-day-2026",
    "date": "2026-12-03",
    "category": "Society",
@@ -464,6 +419,28 @@
     "ru": {
      "title": "Международный день добровольцев",
      "summary": "Благодарность миллионам людей, которые тратят своё время, помогая другим и своим сообществам."
+    }
+   }
+  },
+  {
+   "id": "world-soil-day-2026",
+   "date": "2026-12-05",
+   "category": "Society",
+   "title": "World Soil Day",
+   "summary": "A day celebrating healthy soil, the quiet foundation of food, forests and clean water.",
+   "link": "https://www.fao.org/world-soil-day/en",
+   "i18n": {
+    "ca": {
+     "title": "Dia Mundial del Sòl",
+     "summary": "Un dia per celebrar els sòls sans, la base silenciosa de l'alimentació, els boscos i l'aigua neta."
+    },
+    "fr": {
+     "title": "Journée mondiale des sols",
+     "summary": "Une journée pour célébrer les sols sains, base discrète de l'alimentation, des forêts et de l'eau propre."
+    },
+    "ru": {
+     "title": "Всемирный день почв",
+     "summary": "День, посвящённый здоровым почвам — тихой основе продовольствия, лесов и чистой воды."
     }
    }
   },
@@ -553,6 +530,28 @@
     "ru": {
      "title": "Пик метеорного потока Геминиды",
      "summary": "Часто лучший звездопад года: до 120 метеоров в час под тёмным небом."
+    }
+   }
+  },
+  {
+   "id": "migrants-day-2026",
+   "date": "2026-12-18",
+   "category": "Society",
+   "title": "International Migrants Day",
+   "summary": "A day recognising the contributions of migrants around the world to the communities they join and the ones they left.",
+   "link": "https://www.un.org/en/observances/migrants-day",
+   "i18n": {
+    "ca": {
+     "title": "Dia Internacional dels Migrants",
+     "summary": "Un dia per reconèixer l'aportació dels migrants de tot el món a les comunitats que els acullen i a les que han deixat."
+    },
+    "fr": {
+     "title": "Journée internationale des migrants",
+     "summary": "Une journée pour reconnaître l'apport des migrants du monde entier aux communautés qu'ils rejoignent et à celles qu'ils ont quittées."
+    },
+    "ru": {
+     "title": "Международный день мигрантов",
+     "summary": "День признания вклада мигрантов со всего мира в сообщества, куда они приезжают, и те, что они покинули."
     }
    }
   },
@@ -690,5 +689,5 @@
    }
   }
  ],
- "source_file": "events-20261012T0554Z.json"
+ "source_file": "events-20261019T0555Z.json"
 }
