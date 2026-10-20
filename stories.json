@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T04:14:09Z",
+ "updated": "2026-10-20T04:13:39Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,10 +12,258 @@
   "Grist",
   "Africanews"
  ],
- "count": 136,
- "last_run": "run-20261019T0414Z.json",
- "note": "15 new, 45 skipped, 24 pruned, 0 translations added, failed feeds: none",
+ "count": 132,
+ "last_run": "run-20261020T0413Z.json",
+ "note": "15 new, 45 skipped, 19 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "tbi-rural-education-startup-offers-rs-100-coaching-to",
+   "title": "Rural education startup offers Rs 100 coaching to over 7,000 children in Uttar Pradesh",
+   "summary": "Shiksha Saathi runs low-cost coaching centres across six districts in Uttar Pradesh, serving more than 7,000 rural children.",
+   "why": "Affordable education reaching many children locally.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/changemakers/archana-jaisal-shiksha-saathi-rural-education-startup-uttar-pradesh-village-centres-12689990",
+   "score": 7,
+   "category": "Society",
+   "region": "Uttar Pradesh, India",
+   "published": "2026-10-19T14:10:37Z",
+   "continent": "Asia",
+   "added": "2026-10-20T04:13:39Z",
+   "i18n": {
+    "ca": {
+     "title": "Una startup d'educació rural ofereix classes de reforç per 100 rúpies a més de 7.000 infants de l'Uttar Pradesh",
+     "summary": "Shiksha Saathi gestiona centres de reforç de baix cost en sis districtes de l'Uttar Pradesh, que atenen més de 7.000 infants rurals.",
+     "why": "Educació assequible que arriba a molts infants de la zona."
+    },
+    "fr": {
+     "title": "Une start-up de l'éducation rurale propose des cours de soutien à 100 roupies à plus de 7 000 enfants de l'Uttar Pradesh",
+     "summary": "Shiksha Saathi gère des centres de soutien scolaire à bas prix dans six districts de l'Uttar Pradesh, qui accueillent plus de 7 000 enfants ruraux.",
+     "why": "Une éducation abordable qui touche de nombreux enfants de la région."
+    },
+    "ru": {
+     "title": "Стартап в сфере сельского образования предлагает занятия за 100 рупий более чем 7000 детям в Уттар-Прадеше",
+     "summary": "Шикша Саатхи проводит недорогие занятия в центрах в шести районах штата Уттар-Прадеш, которые посещают более 7000 сельских детей.",
+     "why": "Доступное образование, которое получают многие дети в регионе."
+    }
+   }
+  },
+  {
+   "id": "sd-rare-mutation-may-protect-some-people-from-alzheim",
+   "title": "Rare mutation may protect some people from Alzheimer's despite a high-risk gene",
+   "summary": "Researchers identified a rare mutation that appears to protect the brain from harmful protein buildup in people carrying a high-risk gene.",
+   "why": "Points to possible new treatments, but early research.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm",
+   "score": 6,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-19T12:57:02Z",
+   "continent": "Global",
+   "added": "2026-10-20T04:13:39Z",
+   "i18n": {
+    "ca": {
+     "title": "Una mutació rara podria protegir algunes persones de l'Alzheimer malgrat un gen de risc elevat",
+     "summary": "Investigadors han identificat una mutació rara que sembla protegir el cervell de l'acumulació de proteïnes nocives en persones que porten un gen d'alt risc.",
+     "why": "Apunta a possibles nous tractaments, però és una recerca inicial."
+    },
+    "fr": {
+     "title": "Une mutation rare pourrait protéger certaines personnes de la maladie d'Alzheimer malgré un gène à haut risque",
+     "summary": "Des chercheurs ont identifié une mutation rare qui semble protéger le cerveau de l'accumulation de protéines nocives chez les personnes porteuses d'un gène à haut risque.",
+     "why": "Ouvre la voie à de possibles nouveaux traitements, mais la recherche en est à ses débuts."
+    },
+    "ru": {
+     "title": "Редкая мутация может защищать некоторых людей от болезни Альцгеймера, несмотря на ген высокого риска",
+     "summary": "Исследователи выявили редкую мутацию, которая, по-видимому, защищает мозг от накопления вредных белков у людей, несущих ген высокого риска.",
+     "why": "Указывает на возможные новые методы лечения, но исследование пока на ранней стадии."
+    }
+   }
+  },
+  {
+   "id": "sd-about-3-000-steps-a-day-linked-to-slower-alzheimer",
+   "title": "About 3,000 steps a day linked to slower Alzheimer's-related brain changes",
+   "summary": "Daily physical activity was linked to less tau buildup and slower cognitive decline in people with early signs of Alzheimer's disease.",
+   "why": "Encouraging link for a simple habit, but observational.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm",
+   "score": 7,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-10-19T11:23:26Z",
+   "continent": "Global",
+   "added": "2026-10-20T04:13:39Z",
+   "i18n": {
+    "ca": {
+     "title": "Unes 3.000 passes diaris s'associen a una evolució més lenta dels canvis cerebrals relacionats amb l'Alzheimer",
+     "summary": "L'activitat física diària s'ha associat a una menor acumulació de tau i a un declivi cognitiu més lent en persones amb signes incipients de la malaltia d'Alzheimer.",
+     "why": "Vincle encoratjador amb un hàbit senzill, però es tracta d'un estudi observacional."
+    },
+    "fr": {
+     "title": "Environ 3 000 pas par jour associés à un ralentissement des modifications cérébrales liées à Alzheimer",
+     "summary": "L'activité physique quotidienne a été associée à une accumulation moindre de tau et à un déclin cognitif plus lent chez des personnes présentant des signes précoces de la maladie d'Alzheimer.",
+     "why": "Lien encourageant avec une habitude simple, mais il s'agit d'une étude observationnelle."
+    },
+    "ru": {
+     "title": "Около 3000 шагов в день связаны с замедлением изменений мозга, характерных для болезни Альцгеймера",
+     "summary": "Ежедневная физическая активность была связана с меньшим накоплением тау-белка и более медленным снижением когнитивных функций у людей с ранними признаками болезни Альцгеймера.",
+     "why": "Обнадёживающая связь с простой привычкой, но это наблюдательное исследование."
+    }
+   }
+  },
+  {
+   "id": "sd-touching-bleached-corals-helped-them-recover-fully",
+   "title": "Touching bleached corals helped them recover fully in seven weeks in lab tests",
+   "summary": "In laboratory experiments, severely bleached corals regained their colour and recovered within seven weeks after a simple touch treatment.",
+   "why": "Hopeful lab result for reefs, not yet shown on real reefs.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261017230025.htm",
+   "score": 6,
+   "category": "Environment",
+   "region": "Global",
+   "published": "2026-10-19T11:05:52Z",
+   "continent": "Global",
+   "added": "2026-10-20T04:13:39Z",
+   "i18n": {
+    "ca": {
+     "title": "Tocar coralls emblanquits els va ajudar a recuperar-se del tot en set setmanes en proves de laboratori",
+     "summary": "En experiments de laboratori, coralls molt emblanquits van recuperar el color i es van recuperar en set setmanes després d'un senzill tractament de contacte.",
+     "why": "Resultat de laboratori esperançador per als esculls, encara no demostrat en esculls reals."
+    },
+    "fr": {
+     "title": "Toucher des coraux blanchis a permis leur rétablissement complet en sept semaines lors d'essais en laboratoire",
+     "summary": "Lors d'expériences en laboratoire, des coraux gravement blanchis ont retrouvé leur couleur et se sont rétablis en sept semaines après un simple traitement par contact.",
+     "why": "Résultat de laboratoire encourageant pour les récifs, mais pas encore observé sur les récifs réels."
+    },
+    "ru": {
+     "title": "В лабораторных опытах прикосновение к обесцвеченным кораллам помогло им полностью восстановиться за семь недель",
+     "summary": "В лабораторных экспериментах сильно обесцвеченные кораллы вернули окраску и восстановились за семь недель после простой процедуры прикосновения.",
+     "why": "Обнадёживающий лабораторный результат для рифов, который пока не подтверждён на реальных рифах."
+    }
+   }
+  },
+  {
+   "id": "sd-2026-nobel-prize-honours-technique-for-controlling",
+   "title": "2026 Nobel Prize honours technique for controlling brain cells with light",
+   "summary": "The Nobel-winning method, based on a discovery in tiny algae, uses light to switch brain cells on and off and underpins much neuroscience research.",
+   "why": "A landmark recognition of a tool widely used in brain research.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
+   "score": 8,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-10-19T10:02:32Z",
+   "continent": "Global",
+   "added": "2026-10-20T04:13:39Z",
+   "i18n": {
+    "ca": {
+     "title": "El Premi Nobel de 2026 reconeix una tècnica per controlar cèl·lules del cervell amb llum",
+     "summary": "El mètode guardonat, basat en un descobriment en algues microscòpiques, utilitza la llum per activar i desactivar cèl·lules cerebrals i és la base de gran part de la recerca en neurociència.",
+     "why": "Reconeixement destacat d'una eina àmpliament utilitzada en la recerca sobre el cervell."
+    },
+    "fr": {
+     "title": "Le prix Nobel 2026 récompense une technique permettant de contrôler les cellules cérébrales par la lumière",
+     "summary": "La méthode primée, fondée sur une découverte faite chez de minuscules algues, utilise la lumière pour activer et désactiver les cellules cérébrales et sous-tend une grande partie des recherches en neurosciences.",
+     "why": "Une reconnaissance majeure d'un outil largement utilisé dans la recherche sur le cerveau."
+    },
+    "ru": {
+     "title": "Нобелевская премия 2026 года присуждена за метод управления клетками мозга с помощью света",
+     "summary": "Отмеченный Нобелевской премией метод, основанный на открытии в мельчайших водорослях, использует свет, чтобы включать и выключать клетки мозга, и лежит в основе многих исследований в нейронауке.",
+     "why": "Важное признание инструмента, широко используемого в исследованиях мозга."
+    }
+   }
+  },
+  {
+   "id": "rtbc-texas-residents-of-differing-politics-join-to-oppo",
+   "title": "Texas residents of differing politics join to oppose a border wall plan",
+   "summary": "Residents with different political views are jointly opposing a planned patrol road and border construction near Big Bend in Texas.",
+   "why": "Cross-party community cooperation, though the outcome is undecided.",
+   "source": "Reasons to be Cheerful",
+   "url": "https://reasonstobecheerful.world/behind-the-remarkable-resistance-to-trumps-big-bend-wall/",
+   "score": 6,
+   "category": "Society",
+   "region": "Texas, USA",
+   "published": "2026-10-19T08:00:14Z",
+   "continent": "North America",
+   "added": "2026-10-20T04:13:39Z",
+   "i18n": {
+    "ca": {
+     "title": "Veïns de Texas de diferents tendències polítiques s'uneixen per oposar-se a un projecte de mur fronterer",
+     "summary": "Veïns amb opinions polítiques diferents s'oposen conjuntament a un projecte de camí de patrulla i a la construcció d'un mur fronterer prop de Big Bend, a Texas.",
+     "why": "Cooperació comunitària entre persones de partits diferents, però el resultat encara està per decidir."
+    },
+    "fr": {
+     "title": "Des habitants aux opinions politiques différentes s'unissent pour s'opposer à un projet de mur frontalier au Texas",
+     "summary": "Des résidents aux opinions politiques différentes s'opposent ensemble à un projet de route de patrouille et à la construction d'un mur frontalier près de Big Bend, au Texas.",
+     "why": "Coopération communautaire entre personnes aux opinions opposées, mais l'issue reste incertaine."
+    },
+    "ru": {
+     "title": "Жители Техаса с разными политическими взглядами объединились против плана строительства пограничной стены",
+     "summary": "Жители с разными политическими взглядами совместно выступают против планируемой патрульной дороги и строительства пограничных укреплений возле Биг-Бенд в Техасе.",
+     "why": "Межпартийное сотрудничество местных жителей, однако итог пока не определён."
+    }
+   }
+  },
+  {
+   "id": "pn-somerset-volunteers-role-play-river-wildlife-to-pl",
+   "title": "Somerset volunteers role-play river wildlife to plan a 30-year river recovery",
+   "summary": "Volunteers in Somerset acted out the lives of salmon, deer and earthworms to see their landscape through wildlife's eyes. The exercise is shaping a 30-year plan to restore their river.",
+   "why": "Community-led restoration with a long horizon, but results are still to come.",
+   "source": "Positive News",
+   "url": "https://www.positive.news/society/volunteers-became-salmon-deer-and-earthworms-then-they-set-out-to-save-their-river/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Somerset, England",
+   "published": "2026-10-19T07:00:44Z",
+   "continent": "Europe",
+   "added": "2026-10-20T04:13:39Z",
+   "i18n": {
+    "ca": {
+     "title": "Voluntaris de Somerset interpreten la fauna fluvial per planificar una recuperació del riu de 30 anys",
+     "summary": "Voluntaris de Somerset van interpretar la vida de salmons, cérvols i cucs de terra per veure el seu paisatge des de la mirada dels animals. L'exercici està donant forma a un pla de 30 anys per restaurar el seu riu.",
+     "why": "Restauració liderada per la comunitat amb un horitzó a llarg termini, però encara no hi ha resultats."
+    },
+    "fr": {
+     "title": "Des bénévoles du Somerset jouent les espèces fluviales pour planifier une restauration de la rivière sur 30 ans",
+     "summary": "Des bénévoles du Somerset ont incarné la vie de saumons, de cerfs et de vers de terre pour observer leur paysage du point de vue de la faune. L'exercice façonne un plan de 30 ans visant à restaurer leur rivière.",
+     "why": "Une restauration portée par la communauté avec un horizon à long terme, mais les résultats restent à venir."
+    },
+    "ru": {
+     "title": "Волонтёры из Сомерсета разыграли жизнь речной фауны, чтобы спланировать 30-летнее восстановление реки",
+     "summary": "Волонтёры из Сомерсета воплотились в лосося, оленя и дождевого червя, чтобы увидеть свой ландшафт глазами диких животных. Это упражнение помогает составить 30-летний план восстановления их реки.",
+     "why": "Восстановление, которым руководит местное сообщество, рассчитано на долгую перспективу, но результаты ещё впереди."
+    }
+   }
+  },
+  {
+   "id": "mb-tasmanian-programme-paying-divers-to-cull-sea-urch",
+   "title": "Tasmanian programme paying divers to cull sea urchins helps kelp recover, but funding is uncertain",
+   "summary": "A programme paying divers to harvest invasive long-spined sea urchins has helped some Tasmanian kelp forests recover, though future funding is unclear.",
+   "why": "Real recovery, tempered by funding uncertainty.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/funding-uncertainty-threatens-tasmanias-gains-against-kelp-grazing-sea-urchins/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Tasmania, Australia",
+   "published": "2026-10-19T06:00:06Z",
+   "continent": "Oceania",
+   "added": "2026-10-20T04:13:39Z",
+   "i18n": {
+    "ca": {
+     "title": "Un programa de Tasmània que paga submarinistes per eliminar eriçons de mar ajuda els boscos de kelp a recuperar-se, però el finançament és incert",
+     "summary": "Un programa que paga submarinistes per capturar eriçons de mar de punxes llargues, una espècie invasora, ha ajudat alguns boscos de kelp de Tasmània a recuperar-se, tot i que el finançament futur no està clar.",
+     "why": "Recuperació real, però amb incertesa pel que fa al finançament."
+    },
+    "fr": {
+     "title": "Un programme tasmanien rémunérant des plongeurs pour récolter des oursins aide les forêts de kelp à se rétablir, mais son financement est incertain",
+     "summary": "Un programme rémunérant des plongeurs pour récolter des oursins à longs piquants, une espèce envahissante, a aidé certaines forêts de kelp de Tasmanie à se rétablir, mais leur financement futur reste incertain.",
+     "why": "Rétablissement réel, tempéré par l'incertitude sur le financement."
+    },
+    "ru": {
+     "title": "Тасманская программа, которая платит дайверам за отлов морских ежей, помогает восстановлению ламинариевых лесов, но финансирование под вопросом",
+     "summary": "Программа, оплачивающая дайверам добычу инвазивных длинноиглых морских ежей, помогла восстановиться некоторым ламинариевым лесам Тасмании, однако будущее финансирование неясно.",
+     "why": "Реальное восстановление, но его омрачает неопределённость с финансированием."
+    }
+   }
+  },
   {
    "id": "tbi-bengaluru-residents-city-cleanups",
    "title": "Bengaluru residents, students and officials join clean-up drives",
@@ -44,6 +292,99 @@
      "title": "Жители, студенты и чиновники Бенгалуру присоединились к акциям по уборке",
      "summary": "Жители, студенты и городские чиновники Бенгалуру участвуют в акциях по уборке, плоггингу и полива деревьев; одна из акций собрала 110 кг пластика.",
      "why": "Общественная активность с местной пользой."
+    }
+   }
+  },
+  {
+   "id": "sd-fatty-liver-disease-found-to-have-five-biological",
+   "title": "Fatty liver disease found to have five biological subtypes",
+   "summary": "Mayo Clinic researchers identified five subtypes of fatty liver disease, each with different risks, which could allow more tailored care.",
+   "why": "Better classification may improve treatment, but clinical use is still ahead.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261016070642.htm",
+   "score": 6,
+   "category": "Health",
+   "region": "USA",
+   "published": "2026-10-19T02:35:09Z",
+   "continent": "North America",
+   "added": "2026-10-20T04:13:39Z",
+   "i18n": {
+    "ca": {
+     "title": "La malaltia del fetge gras presenta cinc subtipus biològics",
+     "summary": "Investigadors de la Mayo Clinic han identificat cinc subtipus de malaltia del fetge gras, cadascun amb riscos diferents, cosa que podria permetre una atenció més personalitzada.",
+     "why": "Una millor classificació podria millorar el tractament, però l'aplicació clínica encara és lluny."
+    },
+    "fr": {
+     "title": "La stéatose hépatique présente cinq sous-types biologiques",
+     "summary": "Des chercheurs de la Mayo Clinic ont identifié cinq sous-types de stéatose hépatique, chacun associé à des risques différents, ce qui pourrait permettre des soins plus adaptés.",
+     "why": "Une meilleure classification pourrait améliorer les traitements, mais leur application clinique reste à venir."
+    },
+    "ru": {
+     "title": "Жировая болезнь печени имеет пять биологических подтипов",
+     "summary": "Исследователи Mayo Clinic выделили пять подтипов жировой болезни печени, каждый из которых связан с разными рисками, что может позволить более индивидуальный подход к лечению.",
+     "why": "Лучшая классификация может улучшить лечение, но клиническое применение ещё впереди."
+    }
+   }
+  },
+  {
+   "id": "od-device-lets-apartment-residents-share-one-rooftop",
+   "title": "Device lets apartment residents share one rooftop solar system",
+   "summary": "Melbourne-based Allume Energy's SolShare device distributes power from a single rooftop solar system across an entire apartment building.",
+   "why": "Opens solar access to renters and apartment dwellers.",
+   "source": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/10/how-one-small-device-is-solving-the-apartment-solar-access-problem/",
+   "score": 8,
+   "category": "Energy",
+   "region": "Melbourne, Australia",
+   "published": "2026-10-19T00:00:53Z",
+   "continent": "Oceania",
+   "added": "2026-10-20T04:13:39Z",
+   "i18n": {
+    "ca": {
+     "title": "Un dispositiu permet als veïns d'un bloc de pisos compartir una sola instal·lació solar de teulada",
+     "summary": "El dispositiu SolShare, de l'empresa Allume Energy, amb seu a Melbourne, distribueix l'electricitat d'una única instal·lació solar de teulada a tot un edifici de pisos.",
+     "why": "Obre l'accés a l'energia solar a inquilins i a persones que viuen en pisos."
+    },
+    "fr": {
+     "title": "Un dispositif permet aux habitants d'un immeuble d'appartements de partager une seule installation solaire sur le toit",
+     "summary": "Le dispositif SolShare, développé par la société Allume Energy, basée à Melbourne, répartit l'électricité d'une seule installation solaire en toiture entre tous les appartements d'un immeuble.",
+     "why": "Ouvre l'accès à l'énergie solaire aux locataires et aux habitants d'appartements."
+    },
+    "ru": {
+     "title": "Устройство позволяет жильцам многоквартирных домов использовать одну крышную солнечную установку на всех",
+     "summary": "Устройство SolShare от мельбурнской компании Allume Energy распределяет электроэнергию от одной крышной солнечной установки по всему многоквартирному дому.",
+     "why": "Открывает доступ к солнечной энергии для арендаторов и жильцов квартир."
+    }
+   }
+  },
+  {
+   "id": "od-hungary-repeals-anti-lgbtq-child-protection-law",
+   "title": "Hungary repeals anti-LGBTQ Child Protection Law",
+   "summary": "Hungary's parliament voted to repeal the 2021 Child Protection Law, which restricted portrayals of homosexuality, unlocking EU funds.",
+   "why": "Restores rights for many people and frees EU funding.",
+   "source": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/10/hungary-repeals-anti-lgbtq-law-unlocking-billions-in-eu-funds/",
+   "score": 8,
+   "category": "Society",
+   "region": "Hungary",
+   "published": "2026-10-19T00:00:01Z",
+   "continent": "Europe",
+   "added": "2026-10-20T04:13:39Z",
+   "i18n": {
+    "ca": {
+     "title": "Hongria deroga la llei de protecció de la infància contrària al col·lectiu LGTBI",
+     "summary": "El Parlament d'Hongria ha votat la derogació de la llei de protecció de la infància del 2021, que restringia les representacions de l'homosexualitat, i això desbloqueja fons de la UE.",
+     "why": "Restaura drets per a moltes persones i allibera fons de la UE."
+    },
+    "fr": {
+     "title": "La Hongrie abroge la loi de protection de l'enfance contre les personnes LGBTQ",
+     "summary": "Le Parlement hongrois a voté l'abrogation de la loi de protection de l'enfance de 2021, qui restreignait les représentations de l'homosexualité, ce qui débloque des fonds européens.",
+     "why": "Rétablit des droits pour de nombreuses personnes et libère des financements de l'UE."
+    },
+    "ru": {
+     "title": "Венгрия отменяет закон о защите детей, направленный против ЛГБТК+",
+     "summary": "Парламент Венгрии проголосовал за отмену закона о защите детей 2021 года, который ограничивал изображение гомосексуальности, что открывает доступ к средствам ЕС.",
+     "why": "Восстанавливает права многих людей и разблокирует финансирование ЕС."
     }
    }
   },
@@ -292,6 +633,37 @@
      "title": "Метод из Стэнфорда восстанавливает обесцвеченные кораллы за семь недель",
      "summary": "Исследователи из Стэнфорда в лабораторных условиях вернули обесцвеченным кораллам полное здоровье за семь недель — это самое быстрое из задокументированных восстановлений. Метод еще не проверяли на рифах.",
      "why": "Быстрый результат в лаборатории, пока не подтвержденный в природе."
+    }
+   }
+  },
+  {
+   "id": "mb-nigeria-removes-illegal-gold-miners-from-gashaka-g",
+   "title": "Nigeria removes illegal gold miners from Gashaka-Gumti National Park",
+   "summary": "A military-backed operation shut down an illegal gold mining site in Gashaka-Gumti National Park; questions remain over keeping miners out.",
+   "why": "Protects a park, but displacement and enforcement are open issues.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/10/nigeria-drove-thousands-of-gold-miners-from-a-national-park-but-can-it-keep-them-out/",
+   "score": 4,
+   "category": "Environment",
+   "region": "Nigeria",
+   "published": "2026-10-17T16:18:07Z",
+   "continent": "Africa",
+   "added": "2026-10-20T04:13:39Z",
+   "i18n": {
+    "ca": {
+     "title": "Nigèria expulsa els miners d'or il·legals del Parc Nacional de Gashaka-Gumti",
+     "summary": "Una operació amb suport militar ha tancat un punt d'extracció d'or il·legal al Parc Nacional de Gashaka-Gumti; encara hi ha dubtes sobre com evitar que els miners hi tornin.",
+     "why": "Protegeix un parc, però el desplaçament i l'aplicació de la llei són qüestions obertes."
+    },
+    "fr": {
+     "title": "Le Nigeria chasse les orpailleurs illégaux du parc national de Gashaka-Gumti",
+     "summary": "Une opération appuyée par l'armée a fermé un site d'orpaillage illégal dans le parc national de Gashaka-Gumti ; la question de savoir comment empêcher les orpailleurs d'y revenir reste ouverte.",
+     "why": "Protège un parc, mais le déplacement des personnes et l'application des règles restent des problèmes non résolus."
+    },
+    "ru": {
+     "title": "Нигерия выдворила нелегальных золотодобытчиков из национального парка Гашака-Гумти",
+     "summary": "Операция при поддержке военных закрыла незаконный участок добычи золота в национальном парке Гашака-Гумти; остаётся вопрос, как не допустить возвращения старателей.",
+     "why": "Защищает парк, но вопросы о переселении людей и соблюдении закона остаются открытыми."
     }
    }
   },
@@ -575,6 +947,37 @@
    }
   },
   {
+   "id": "an-africa-overtakes-europe-in-catholic-population",
+   "title": "Africa overtakes Europe in Catholic population",
+   "summary": "Vatican statistics put Africa's Catholic population at 288 million, slightly ahead of Europe's 287 million, as the global total reaches 1.422 billion.",
+   "why": "Neutral demographic milestone.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/10/16/africa-overtakes-europe-in-catholic-population-as-global-mumbers-reach-1422-billion/",
+   "score": 5,
+   "category": "Society",
+   "region": "Africa",
+   "published": "2026-10-16T15:47:09Z",
+   "continent": "Africa",
+   "added": "2026-10-20T04:13:39Z",
+   "i18n": {
+    "ca": {
+     "title": "Àfrica supera Europa en nombre de catòlics",
+     "summary": "Les estadístiques del Vaticà situen la població catòlica d'Àfrica en 288 milions, lleugerament per davant dels 287 milions d'Europa, mentre que el total mundial arriba als 1.422 milions.",
+     "why": "Fita demogràfica neutra."
+    },
+    "fr": {
+     "title": "L'Afrique devance l'Europe en nombre de catholiques",
+     "summary": "Selon les statistiques du Vatican, la population catholique d'Afrique atteint 288 millions, légèrement devant les 287 millions d'Europe, tandis que le total mondial atteint 1,422 milliard.",
+     "why": "Jalon démographique neutre."
+    },
+    "ru": {
+     "title": "Африка обогнала Европу по численности католиков",
+     "summary": "Статистика Ватикана показывает, что католиков в Африке 288 миллионов, немного больше, чем 287 миллионов в Европе, а общемировая численность достигла 1,422 миллиарда.",
+     "why": "Нейтральная демографическая веха."
+    }
+   }
+  },
+  {
    "id": "mb-sergipe-women-shellfish-gatherers-mangroves",
    "title": "Brazilian women shellfish gatherers defend mangrove access",
    "summary": "A grassroots collective in Sergipe protects mangroves while fighting to keep access to them amid environmental degradation.",
@@ -602,6 +1005,37 @@
      "title": "Бразильские женщины-собирательницы моллюсков защищают доступ к мангровым лесам",
      "summary": "Низовое объединение в штате Сергипе защищает мангровые леса и одновременно борется за сохранение доступа к ним на фоне экологической деградации.",
      "why": "Общинная забота о природе, но группа по-прежнему сталкивается с угрозами."
+    }
+   }
+  },
+  {
+   "id": "gnn-protective-fabric-over-strawberry-plants-more-than",
+   "title": "Protective fabric over strawberry plants more than triples fruit yield",
+   "summary": "Field tests found that a textile draped over strawberry plants more than tripled fruit yields without harming the plants, and with less pesticide use.",
+   "why": "Promising field results for lower-pesticide farming, though not yet widely adopted.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/drape-some-of-this-plant-armor-fabric-over-a-strawberry-patch-to-triple-yields-with-less-pesticides/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Global",
+   "published": "2026-10-16T15:30:40Z",
+   "continent": "Global",
+   "added": "2026-10-20T04:13:39Z",
+   "i18n": {
+    "ca": {
+     "title": "Un teixit de protecció sobre les maduixeres més que triplica la collita de fruita",
+     "summary": "Les proves de camp han demostrat que un teixit estès sobre les maduixeres més que triplica la producció de fruita sense fer mal a les plantes, i amb menys ús de plaguicides.",
+     "why": "Resultats de camp prometedors per a una agricultura amb menys plaguicides, encara no adoptada àmpliament."
+    },
+    "fr": {
+     "title": "Un voile de protection posé sur les plants de fraisiers plus que triple le rendement en fruits",
+     "summary": "Des essais en plein champ ont montré qu'un textile déployé au-dessus des plants de fraisiers a plus que triplé le rendement en fruits, sans nuire aux plantes et avec moins de pesticides.",
+     "why": "Résultats de terrain prometteurs pour une agriculture moins dépendante des pesticides, mais pas encore largement adoptés."
+    },
+    "ru": {
+     "title": "Защитная ткань над клубничными растениями более чем втрое повышает урожайность",
+     "summary": "Полевые испытания показали, что ткань, накрытая поверх клубничных растений, более чем втрое увеличила урожайность плодов, не навредив растениям и при меньшем использовании пестицидов.",
+     "why": "Перспективные полевые результаты для земледелия с меньшим применением пестицидов, но пока широко не внедрённые."
     }
    }
   },
@@ -695,6 +1129,37 @@
      "title": "Китайское медицинское судно предлагает бесплатную помощь в Абиджане",
      "summary": "Плавучий госпиталь с 376 членами экипажа пришвартовался в Кот-д'Ивуаре и предоставляет жителям бесплатные консультации и лекарства.",
      "why": "Краткосрочный доступ к медицинской помощи для многих жителей."
+    }
+   }
+  },
+  {
+   "id": "gnn-teenager-builds-disaster-messaging-app-that-relays",
+   "title": "Teenager builds disaster messaging app that relays over Bluetooth",
+   "summary": "A high school student created a messaging app that passes messages from phone to phone over Bluetooth when cellular networks fail, aimed at disasters.",
+   "why": "Useful emergency tool, but still an early project by one student.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/teens-disaster-messaging-app-can-hop-across-bluetooth-when-cellular-networks-collapse/",
+   "score": 6,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-10-16T13:00:35Z",
+   "continent": "Global",
+   "added": "2026-10-20T04:13:39Z",
+   "i18n": {
+    "ca": {
+     "title": "Un jove crea una aplicació de missatgeria per a desastres que retransmet missatges per Bluetooth",
+     "summary": "Un estudiant de secundària ha creat una aplicació de missatgeria que passa els missatges d'un telèfon a un altre per Bluetooth quan fallen les xarxes mòbils, pensada per a desastres.",
+     "why": "Eina d'emergència útil, però encara és un projecte inicial d'un sol estudiant."
+    },
+    "fr": {
+     "title": "Un adolescent crée une application de messagerie pour catastrophes qui relaie les messages via Bluetooth",
+     "summary": "Un lycéen a créé une application de messagerie qui fait transiter les messages de téléphone en téléphone par Bluetooth lorsque les réseaux mobiles tombent en panne, conçue pour les catastrophes.",
+     "why": "Outil d'urgence utile, mais projet encore précoce, porté par un seul élève."
+    },
+    "ru": {
+     "title": "Школьник создал приложение для связи во время катастроф, которое передаёт сообщения по Bluetooth",
+     "summary": "Старшеклассник создал приложение для обмена сообщениями, которое передаёт сообщения от телефона к телефону по Bluetooth, когда сотовые сети выходят из строя. Оно рассчитано на стихийные бедствия.",
+     "why": "Полезный инструмент для чрезвычайных ситуаций, но это пока ранний проект одного ученика."
     }
    }
   },
@@ -3640,595 +4105,6 @@
      "title": "Работающие под руководством женщин егеря готовятся вернуть нанду Дарвина в чилийскую Патагонию",
      "summary": "Команда егерей под руководством женщин готовится выпустить 13 нанду Дарвина в патагонскую среду обитания в рамках программы реинтродукции.",
      "why": "Конкретные меры по восстановлению дикой природы, проводимые местной командой."
-    }
-   }
-  },
-  {
-   "id": "tbi-mumbai-beach-18000-kg-waste",
-   "title": "Volunteers remove 18,000 kg of plastic from a Mumbai beach in a day",
-   "summary": "More than 1,500 volunteers cleared 18,000 kilograms of marine plastic from a Mumbai shoreline in one day.",
-   "why": "Large community clean-up with visible results.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/videos/society/inside-mumbais-dirtiest-beach-18000-kg-of-waste-shocking-12662259",
-   "score": 7,
-   "category": "Environment",
-   "region": "Mumbai, India",
-   "published": "2026-10-10T03:30:14Z",
-   "continent": "Asia",
-   "added": "2026-10-11T04:15:34Z",
-   "i18n": {
-    "ca": {
-     "title": "Voluntaris retiren 18.000 kg de plàstic d'una platja de Mumbai en un dia",
-     "summary": "Més de 1.500 voluntaris han recollit 18.000 quilograms de plàstic marí d'una platja de Mumbai en un sol dia.",
-     "why": "Una gran neteja comunitària amb resultats visibles."
-    },
-    "fr": {
-     "title": "Des bénévoles retirent 18 000 kg de plastique d'une plage de Mumbai en une journée",
-     "summary": "Plus de 1 500 bénévoles ont ramassé 18 000 kilogrammes de plastique marin sur le littoral de Mumbai en une seule journée.",
-     "why": "Un grand nettoyage communautaire aux résultats visibles."
-    },
-    "ru": {
-     "title": "Волонтёры за один день вывезли с пляжа Мумбаи 18 000 кг пластика",
-     "summary": "Более 1500 волонтёров за один день очистили береговую линию Мумбаи от 18 000 килограммов морского пластика.",
-     "why": "Масштабная общественная уборка с заметными результатами."
-    }
-   }
-  },
-  {
-   "id": "mb-paraguay-chaco-biosphere-governance",
-   "title": "Paraguay submits governance plans for Chaco Biosphere Reserve",
-   "summary": "Paraguay met a UNESCO deadline by submitting updated management and zoning information for the Chaco Biosphere Reserve.",
-   "why": "Procedural step; outcomes still to be seen.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/10/paraguay-meets-un-deadline-for-improving-governance-in-chaco-biosphere-reserve/",
-   "score": 5,
-   "category": "Environment",
-   "region": "Paraguay",
-   "published": "2026-10-09T23:58:15Z",
-   "continent": "South America",
-   "added": "2026-10-11T04:15:34Z",
-   "i18n": {
-    "ca": {
-     "title": "Paraguai presenta els plans de gestió de la reserva de la biosfera del Chaco",
-     "summary": "Paraguai ha complert un termini de la UNESCO en presentar informació actualitzada sobre la gestió i la zonificació de la reserva de la biosfera del Chaco.",
-     "why": "Un pas de procediment; els resultats encara s'han de veure."
-    },
-    "fr": {
-     "title": "Le Paraguay soumet des plans de gouvernance pour la réserve de biosphère du Chaco",
-     "summary": "Le Paraguay a respecté une échéance de l'UNESCO en soumettant des informations actualisées sur la gestion et le zonage de la réserve de biosphère du Chaco.",
-     "why": "Étape de procédure ; les résultats restent à voir."
-    },
-    "ru": {
-     "title": "Парагвай представил планы управления биосферным резерватом Чако",
-     "summary": "Парагвай выполнил срок ЮНЕСКО, представив обновлённую информацию об управлении и зонировании биосферного резервата Чако.",
-     "why": "Процедурный шаг; результаты ещё предстоит оценить."
-    }
-   }
-  },
-  {
-   "id": "mb-painted-turbine-blade-bird-deaths",
-   "title": "Painting one wind turbine blade black sharply cut bird deaths",
-   "summary": "A long-term study at a Spanish wind farm found that painting a single turbine blade black greatly reduced annual bird fatalities.",
-   "why": "Cheap, practical fix for wind power's wildlife impact.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/10/painted-wind-turbines-can-dramatically-reduce-bird-deaths-study-finds/",
-   "score": 7,
-   "category": "Energy",
-   "region": "Spain",
-   "published": "2026-10-09T19:42:23Z",
-   "continent": "Europe",
-   "added": "2026-10-11T04:15:34Z",
-   "i18n": {
-    "ca": {
-     "title": "Pintar de negre una sola pala d'aerogenerador redueix molt les morts d'ocells",
-     "summary": "Un estudi a llarg termini en un parc eòlic espanyol ha constatat que pintar de negre una sola pala d'un aerogenerador redueix molt la mortalitat anual d'ocells.",
-     "why": "Una solució barata i pràctica per a l'impacte de l'energia eòlica sobre la fauna."
-    },
-    "fr": {
-     "title": "Peindre une seule pale d'éolienne en noir réduit fortement la mortalité des oiseaux",
-     "summary": "Une étude de long terme menée dans un parc éolien espagnol a montré que peindre en noir une seule pale d'éolienne réduit considérablement le nombre annuel d'oiseaux tués.",
-     "why": "Une solution peu coûteuse et pratique à l'impact de l'éolien sur la faune."
-    },
-    "ru": {
-     "title": "Покраска одной лопасти ветротурбины в чёрный цвет резко сократила гибель птиц",
-     "summary": "Долгосрочное исследование на испанской ветроэлектростанции показало, что покраска одной лопасти ветротурбины в чёрный цвет значительно снизила ежегодную гибель птиц.",
-     "why": "Дешёвое и практичное решение проблемы влияния ветроэнергетики на дикую природу."
-    }
-   }
-  },
-  {
-   "id": "an-navi-pillay-nobel-peace-prize",
-   "title": "Navi Pillay wins the Nobel Peace Prize",
-   "summary": "South African-born jurist Navi Pillay has been awarded the Nobel Peace Prize, recognising her work in international justice.",
-   "why": "Major recognition for human rights work.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/10/09/navi-pillay-wins-nobel-peace-prize-as-us-sanctions-threaten-international-justice/",
-   "score": 7,
-   "category": "Society",
-   "region": "South Africa",
-   "published": "2026-10-09T18:49:16Z",
-   "continent": "Africa",
-   "added": "2026-10-11T04:15:34Z",
-   "i18n": {
-    "ca": {
-     "title": "Navi Pillay guanya el Premi Nobel de la Pau",
-     "summary": "La jurista nascuda a Sud-àfrica Navi Pillay ha rebut el Premi Nobel de la Pau, en reconeixement a la seva tasca en la justícia internacional.",
-     "why": "Un reconeixement important per a la tasca en defensa dels drets humans."
-    },
-    "fr": {
-     "title": "Navi Pillay remporte le prix Nobel de la paix",
-     "summary": "La juriste née en Afrique du Sud Navi Pillay a reçu le prix Nobel de la paix, en reconnaissance de son travail en faveur de la justice internationale.",
-     "why": "Une reconnaissance majeure pour le travail en faveur des droits humains."
-    },
-    "ru": {
-     "title": "Нави Пиллэй получила Нобелевскую премию мира",
-     "summary": "Юристка, родившаяся в ЮАР, Нави Пиллэй удостоена Нобелевской премии мира в знак признания её работы в области международного правосудия.",
-     "why": "Важное признание работы в сфере прав человека."
-    }
-   }
-  },
-  {
-   "id": "mb-indigenous-youth-in-ecuador-use-rap-to-defend-the",
-   "title": "Indigenous youth in Ecuador use rap to defend the Amazon",
-   "summary": "Young Amazonian artists rap in Kichwa and other languages to draw attention to threats to their forests and communities.",
-   "why": "Community-driven advocacy and cultural vitality.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/10/in-ecuador-indigenous-youth-turn-to-rap-music-to-defend-the-amazon/",
-   "score": 6,
-   "category": "Culture",
-   "region": "Ecuador",
-   "published": "2026-10-09T16:32:20Z",
-   "continent": "South America",
-   "added": "2026-10-12T04:16:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Joves indígenes de l'Equador usen el rap per defensar l'Amazònia",
-     "summary": "Joves artistes amazònics canten rap en kichwa i en altres llengües per donar a conèixer les amenaces que pateixen els seus boscos i comunitats.",
-     "why": "Defensa impulsada per la comunitat i vitalitat cultural."
-    },
-    "fr": {
-     "title": "En Équateur, des jeunes autochtones utilisent le rap pour défendre l'Amazonie",
-     "summary": "De jeunes artistes amazoniens rappent en kichwa et dans d'autres langues pour attirer l'attention sur les menaces qui pèsent sur leurs forêts et leurs communautés.",
-     "why": "Plaidoyer porté par la communauté et vitalité culturelle."
-    },
-    "ru": {
-     "title": "Молодёжь коренных народов Эквадора использует рэп для защиты Амазонии",
-     "summary": "Молодые амазонские артисты читают рэп на кичуа и других языках, чтобы привлечь внимание к угрозам их лесам и общинам.",
-     "why": "Защита интересов, инициированная общиной, и культурная жизнеспособность."
-    }
-   }
-  },
-  {
-   "id": "an-zimbabwe-mobile-clinic",
-   "title": "Mobile clinic in Zimbabwe gives teenagers private access to contraception",
-   "summary": "A mobile clinic near Harare offers teenage girls confidential contraception as aid cuts strain health services.",
-   "why": "Local help, but set against funding cuts.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/10/09/zimbabwes-mobile-clinic-helps-teenagers-access-contraception-amid-aid-cuts/",
-   "score": 5,
-   "category": "Health",
-   "region": "Zimbabwe",
-   "published": "2026-10-09T15:37:06Z",
-   "continent": "Africa",
-   "added": "2026-10-10T04:14:57Z",
-   "i18n": {
-    "ca": {
-     "title": "Una clínica mòbil a Zimbabwe ofereix als adolescents accés privat a anticonceptius",
-     "summary": "Una clínica mòbil als voltants de Harare ofereix a les adolescents anticoncepció confidencial mentre les retallades d'ajuda posen a prova els serveis sanitaris.",
-     "why": "Ajuda local, però en un context de retallades de finançament."
-    },
-    "fr": {
-     "title": "Au Zimbabwe, une clinique mobile offre aux adolescents un accès confidentiel à la contraception",
-     "summary": "Une clinique mobile située près d'Harare propose aux adolescentes une contraception confidentielle, alors que les coupes dans l'aide pèsent sur les services de santé.",
-     "why": "Aide locale, mais face à des coupes de financement."
-    },
-    "ru": {
-     "title": "Мобильная клиника в Зимбабве обеспечивает подросткам конфиденциальный доступ к контрацепции",
-     "summary": "Мобильная клиника под Хараре предлагает девушкам-подросткам конфиденциальную контрацепцию, в то время как сокращение помощи создаёт нагрузку на систему здравоохранения.",
-     "why": "Местная помощь, но на фоне сокращения финансирования."
-    }
-   }
-  },
-  {
-   "id": "gnn-australia-three-new-victoria-parks",
-   "title": "Victoria, Australia creates three new national parks",
-   "summary": "About 650 square kilometres of forest in Victoria becomes three national parks, including the large Wombat-Lerderderg park, protecting gliders, owls and other wildlife.",
-   "why": "Large new protected habitat for wildlife.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/australia-announces-3-new-national-parks-to-protect-gliders-owls-and-other-victoria-wildlife/",
-   "score": 8,
-   "category": "Environment",
-   "region": "Victoria, Australia",
-   "published": "2026-10-09T15:30:11Z",
-   "continent": "Oceania",
-   "added": "2026-10-11T04:15:34Z",
-   "i18n": {
-    "ca": {
-     "title": "Victòria (Austràlia) crea tres nous parcs nacionals",
-     "summary": "Uns 650 quilòmetres quadrats de bosc de Victòria es converteixen en tres parcs nacionals, entre els quals el gran parc Wombat-Lerderderg, que protegeix planadors, mussols i altra fauna.",
-     "why": "Un hàbitat protegit nou i extens per a la fauna."
-    },
-    "fr": {
-     "title": "Victoria, en Australie, crée trois nouveaux parcs nationaux",
-     "summary": "Environ 650 kilomètres carrés de forêt dans l'État de Victoria deviennent trois parcs nationaux, dont le vaste parc Wombat-Lerderderg, qui protège les planeurs, les hiboux et d'autres espèces sauvages.",
-     "why": "Un vaste nouvel habitat protégé pour la faune."
-    },
-    "ru": {
-     "title": "Виктория (Австралия) создаёт три новых национальных парка",
-     "summary": "Около 650 квадратных километров лесов в штате Виктория превращены в три национальных парка, включая обширный парк Вомбат-Лердерг, который защищает сумчатых летяг, сов и другую дикую природу.",
-     "why": "Большая новая охраняемая среда обитания для дикой природы."
-    }
-   }
-  },
-  {
-   "id": "an-navi-pillay-dedicates-nobel-peace-prize-to-survivo",
-   "title": "Navi Pillay dedicates Nobel Peace Prize to survivors of international crimes",
-   "summary": "Navi Pillay dedicated her Nobel Peace Prize to survivors of international crimes, highlighting the work of seeking accountability.",
-   "why": "Recognition for justice work, though the underlying crimes remain.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/10/09/navi-pillay-dedicates-nobel-prize-to-survivors-of-international-crimes/",
-   "score": 6,
-   "category": "Society",
-   "region": "Global",
-   "published": "2026-10-09T15:12:12Z",
-   "continent": "Global",
-   "added": "2026-10-12T04:16:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Navi Pillay dedica el Premi Nobel de la Pau als supervivents de crims internacionals",
-     "summary": "Navi Pillay ha dedicat el seu Premi Nobel de la Pau als supervivents de crims internacionals i ha destacat la tasca de buscar la rendició de comptes.",
-     "why": "Reconeixement a la tasca de justícia, tot i que els crims continuen existint."
-    },
-    "fr": {
-     "title": "Navi Pillay dédie son prix Nobel de la paix aux survivants de crimes internationaux",
-     "summary": "Navi Pillay a dédié son prix Nobel de la paix aux survivants de crimes internationaux, mettant en lumière le travail de recherche de responsabilité.",
-     "why": "Reconnaissance du travail de justice, même si les crimes demeurent."
-    },
-    "ru": {
-     "title": "Нави Пиллэй посвятила Нобелевскую премию мира пережившим международные преступления",
-     "summary": "Нави Пиллэй посвятила свою Нобелевскую премию мира пережившим международные преступления и подчеркнула важность работы по привлечению к ответственности.",
-     "why": "Признание заслуг в сфере правосудия, хотя сами преступления по-прежнему имеют место."
-    }
-   }
-  },
-  {
-   "id": "an-australian-scientists-train-seals-and-sea-lions-fo",
-   "title": "Australian scientists train seals and sea lions for hearing tests",
-   "summary": "Researchers at Sydney trained seals and sea lions to take hearing tests, helping assess how ocean noise affects marine mammals.",
-   "why": "Useful research for marine animal protection.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/10/09/seals-and-sea-lions-undergo-hearing-tests-in-australian-research/",
-   "score": 6,
-   "category": "Animals",
-   "region": "Sydney, Australia",
-   "published": "2026-10-09T14:27:54Z",
-   "continent": "Oceania",
-   "added": "2026-10-12T04:16:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Científics australians entrenen foques i lleons marins per fer proves d'audició",
-     "summary": "Investigadors de Sydney han entrenat foques i lleons marins perquè es sotmetin a proves d'audició, cosa que ajuda a avaluar com afecta el soroll oceànic als mamífers marins.",
-     "why": "Recerca útil per a la protecció dels animals marins."
-    },
-    "fr": {
-     "title": "Des scientifiques australiens entraînent phoques et otaries à passer des tests auditifs",
-     "summary": "Des chercheurs de Sydney ont entraîné phoques et otaries à passer des tests auditifs, ce qui permet d'évaluer les effets du bruit océanique sur les mammifères marins.",
-     "why": "Recherche utile pour la protection des animaux marins."
-    },
-    "ru": {
-     "title": "Австралийские учёные обучают тюленей и морских львов проходить проверку слуха",
-     "summary": "Исследователи из Сиднея обучили тюленей и морских львов проходить проверку слуха, что помогает оценить, как океанский шум влияет на морских млекопитающих.",
-     "why": "Полезное исследование для защиты морских животных."
-    }
-   }
-  },
-  {
-   "id": "an-orangutan-novita-rescued-borneo-fires",
-   "title": "Young orangutan rescued after Borneo wildfires",
-   "summary": "A young female orangutan named Novita was rescued in Central Kalimantan after being found burned on her hands and feet following wildfires on 26 September.",
-   "why": "A rescue, set against ongoing habitat destruction.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/10/09/indonesia-baby-orangutan-saved-from-borneo-wildfires-as-habitat-destruction-escalates/",
-   "score": 4,
-   "category": "Animals",
-   "region": "Central Kalimantan, Indonesia",
-   "published": "2026-10-09T14:01:47Z",
-   "continent": "Asia",
-   "added": "2026-10-13T04:16:06Z",
-   "i18n": {
-    "ca": {
-     "title": "Rescatada una orangutana jove després dels incendis forestals de Borneo",
-     "summary": "Una orangutana jove anomenada Novita ha estat rescatada a Kalimantan Central després de ser trobada amb les mans i els peus cremats arran dels incendis forestals del 26 de setembre.",
-     "why": "Un rescat, en un context de destrucció continuada de l'hàbitat."
-    },
-    "fr": {
-     "title": "Une jeune orang-outan sauvée après les incendies de Bornéo",
-     "summary": "Une jeune femelle orang-outan prénommée Novita a été secourue dans le Kalimantan central, après avoir été retrouvée avec les mains et les pieds brûlés à la suite des incendies de forêt du 26 septembre.",
-     "why": "Un sauvetage, face à la destruction continue de son habitat."
-    },
-    "ru": {
-     "title": "Молодую орангутаниху спасли после лесных пожаров на Борнео",
-     "summary": "Молодую самку орангутана по имени Новита спасли в Центральном Калимантане. Её нашли с обожжёнными ладонями и ступнями после лесных пожаров 26 сентября.",
-     "why": "Спасение на фоне продолжающегося разрушения среды обитания."
-    }
-   }
-  },
-  {
-   "id": "an-ethiopian-airlines-resumes-mekelle",
-   "title": "Ethiopian Airlines to resume flights to Mekelle",
-   "summary": "Ethiopian Airlines will restart flights to Mekelle, the capital of Tigray, from Sunday.",
-   "why": "Restored connection, amid regional tensions.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/10/09/ethiopian-airlines-to-resume-flights-to-tigrays-capital-from-sunday/",
-   "score": 6,
-   "category": "Society",
-   "region": "Tigray, Ethiopia",
-   "published": "2026-10-09T13:59:25Z",
-   "continent": "Africa",
-   "added": "2026-10-11T04:15:34Z",
-   "i18n": {
-    "ca": {
-     "title": "Ethiopian Airlines reprendrà els vols a Mekele",
-     "summary": "Ethiopian Airlines reprendrà els vols a Mekele, capital del Tigray, a partir del diumenge.",
-     "why": "Connexió restablerta, en un context de tensions regionals."
-    },
-    "fr": {
-     "title": "Ethiopian Airlines reprendra ses vols vers Mekele",
-     "summary": "Ethiopian Airlines reprendra ses vols vers Mekele, capitale du Tigré, à partir de dimanche.",
-     "why": "Liaison rétablie, dans un contexte de tensions régionales."
-    },
-    "ru": {
-     "title": "Ethiopian Airlines возобновит рейсы в Мекеле",
-     "summary": "Ethiopian Airlines возобновит полёты в Мекеле, столицу Тиграя, с воскресенья.",
-     "why": "Восстановленное транспортное сообщение на фоне региональной напряжённости."
-    }
-   }
-  },
-  {
-   "id": "tbi-bustard-release",
-   "title": "India releases two captive-bred Great Indian Bustards into the wild",
-   "summary": "Two captive-bred male Great Indian Bustards were released into Desert National Park in Rajasthan as an experiment to rebuild the critically endangered species.",
-   "why": "Hopeful step for a critically endangered bird; outcome uncertain.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/wildlife/great-indian-bustard-captive-bred-rewilding-rajasthan-12660681",
-   "score": 7,
-   "category": "Animals",
-   "region": "Rajasthan, India",
-   "published": "2026-10-09T13:30:37Z",
-   "continent": "Asia",
-   "added": "2026-10-10T04:14:57Z",
-   "i18n": {
-    "ca": {
-     "title": "L'Índia allibera a la natura dues outardes índies criades en captivitat",
-     "summary": "Dos mascles d'outarda índia criats en captivitat han estat alliberats al Parc Nacional del Desert, a Rajasthan, com a experiment per recuperar aquesta espècie en perill crític.",
-     "why": "Pas esperançador per a un ocell en perill crític; el resultat és incert."
-    },
-    "fr": {
-     "title": "L'Inde relâche dans la nature deux Outardes indiennes élevées en captivité",
-     "summary": "Deux mâles d'Outarde indienne élevés en captivité ont été relâchés dans le parc national du Désert, au Rajasthan, dans le cadre d'une expérience visant à reconstituer cette espèce en danger critique d'extinction.",
-     "why": "Étape porteuse d'espoir pour un oiseau en danger critique ; l'issue reste incertaine."
-    },
-    "ru": {
-     "title": "В Индии выпустили на волю двух дроф, выращенных в неволе",
-     "summary": "Два самца большой индийской дрофы, выращенные в неволе, выпущены в национальный парк Дезерт в штате Раджастан в рамках эксперимента по восстановлению вида, находящегося под критической угрозой исчезновения.",
-     "why": "Обнадёживающий шаг для птицы, находящейся под угрозой исчезновения; результат неясен."
-    }
-   }
-  },
-  {
-   "id": "gnn-local-involvement-conservation-success",
-   "title": "Study finds local involvement drives conservation success",
-   "summary": "Researchers examining conservation successes worldwide found that the actions and views of local people mattered more than funding in whether nature recovered.",
-   "why": "Useful insight that can improve future projects.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/local-opinion-and-involvement-found-as-key-determinant-in-worlds-conservation-success-stories/",
-   "score": 6,
-   "category": "Environment",
-   "region": "Global",
-   "published": "2026-10-09T13:00:08Z",
-   "continent": "Global",
-   "added": "2026-10-11T04:15:34Z",
-   "i18n": {
-    "ca": {
-     "title": "Un estudi constata que la implicació local impulsa l'èxit de la conservació",
-     "summary": "Investigadors que han analitzat casos d'èxit en conservació arreu del món han constatat que les accions i les opinions de la gent local importaven més que el finançament perquè la natura es recuperés.",
-     "why": "Una visió útil que pot millorar projectes futurs."
-    },
-    "fr": {
-     "title": "Une étude montre que l'implication locale favorise la réussite de la conservation",
-     "summary": "Des chercheurs ayant examiné des succès de conservation dans le monde entier ont constaté que les actions et les points de vue des populations locales comptaient davantage que le financement pour le rétablissement de la nature.",
-     "why": "Un enseignement utile pour améliorer les projets futurs."
-    },
-    "ru": {
-     "title": "Исследование: участие местных жителей определяет успех природоохранных проектов",
-     "summary": "Исследователи, изучившие успешные природоохранные проекты по всему миру, выяснили, что для восстановления природы действия и позиция местных жителей были важнее финансирования.",
-     "why": "Полезный вывод, который может улучшить будущие проекты."
-    }
-   }
-  },
-  {
-   "id": "am-purple-bacteria-fertilizer",
-   "title": "Purple bacteria powder matched synthetic fertilizer in crop trials",
-   "summary": "Dried powder from the purple bacterium Rhodovulum sulfidophilum matched synthetic fertilizers in a two-year trial, hinting at a lower-impact option.",
-   "why": "Promising alternative, but early-stage.",
-   "source": "Anthropocene Magazine",
-   "url": "https://www.anthropocenemagazine.org/2026/10/the-green-revolution-may-be-turning-purple/?utm_source=rss&utm_medium=rss&utm_campaign=the-green-revolution-may-be-turning-purple",
-   "score": 6,
-   "category": "Environment",
-   "region": "Global",
-   "published": "2026-10-09T12:00:20Z",
-   "continent": "Global",
-   "added": "2026-10-10T04:14:57Z",
-   "i18n": {
-    "ca": {
-     "title": "Una pols de bacteris porpres va igualar els fertilitzants sintètics en assaigs de cultius",
-     "summary": "La pols dessecada del bacteri porpre Rhodovulum sulfidophilum va igualar els fertilitzants sintètics en un assaig de dos anys, cosa que apunta a una opció de menor impacte.",
-     "why": "Alternativa prometedora, però en una fase inicial."
-    },
-    "fr": {
-     "title": "Une poudre à base de bactéries pourpres égale les engrais de synthèse dans des essais agricoles",
-     "summary": "La poudre séchée de la bactérie pourpre Rhodovulum sulfidophilum a donné des résultats équivalents à ceux des engrais de synthèse lors d'un essai de deux ans, ce qui laisse entrevoir une option à moindre impact.",
-     "why": "Alternative prometteuse, mais encore au stade précoce."
-    },
-    "ru": {
-     "title": "Порошок из пурпурных бактерий не уступил синтетическим удобрениям в испытаниях на культурах",
-     "summary": "Сухой порошок из пурпурной бактерии Rhodovulum sulfidophilum показал такие же результаты, как синтетические удобрения, в двухлетнем испытании, что указывает на более экологичный вариант.",
-     "why": "Перспективная альтернатива, но на ранней стадии."
-    }
-   }
-  },
-  {
-   "id": "gnn-norway-glacier-arrowheads",
-   "title": "Glacier survey in Norway recovers 48 Stone Age arrowheads",
-   "summary": "A 20-year survey of melting glaciers in southern Norway has recovered 48 arrowheads and shafts of different eras and materials.",
-   "why": "Interesting find, linked to ice melt.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/worlds-largest-glacial-archeology-expedition-recovers-48-stone-age-arrowheads-and-shafts/",
-   "score": 5,
-   "category": "Science",
-   "region": "Southern Norway",
-   "published": "2026-10-09T11:00:30Z",
-   "continent": "Europe",
-   "added": "2026-10-11T04:15:34Z",
-   "i18n": {
-    "ca": {
-     "title": "Un estudi de glaceres a Noruega recupera 48 puntes de fletxa de l'Edat de Pedra",
-     "summary": "Un estudi de vint anys sobre glaceres en retrocés al sud de Noruega ha recuperat 48 puntes de fletxa i fusts de fletxa d'èpoques i materials diferents.",
-     "why": "Una troballa interessant, vinculada al desglaç."
-    },
-    "fr": {
-     "title": "Un relevé de glaciers en Norvège permet de récupérer 48 pointes de flèche de l'âge de pierre",
-     "summary": "Un relevé de vingt ans sur les glaciers en fonte du sud de la Norvège a permis de récupérer 48 pointes et hampes de flèches, d'époques et de matériaux différents.",
-     "why": "Une découverte intéressante, liée à la fonte des glaces."
-    },
-    "ru": {
-     "title": "Обследование ледников в Норвегии нашло 48 наконечников стрел каменного века",
-     "summary": "Двадцатилетнее обследование тающих ледников на юге Норвегии позволило найти 48 наконечников и древков стрел разных эпох и из разных материалов.",
-     "why": "Интересная находка, связанная с таянием льдов."
-    }
-   }
-  },
-  {
-   "id": "mb-colombia-giant-water-lily-new-species",
-   "title": "Giant water lily in Colombia confirmed as a new, endangered species",
-   "summary": "Researchers confirmed that a giant water lily in Colombia's Inírida region is a new species, and assessed it as critically endangered.",
-   "why": "New discovery, but the species is threatened.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/10/an-instafamous-giant-water-lily-is-confirmed-as-a-new-species-and-critically-endangered/",
-   "score": 4,
-   "category": "Environment",
-   "region": "Colombia",
-   "published": "2026-10-09T10:24:42Z",
-   "continent": "South America",
-   "added": "2026-10-11T04:15:34Z",
-   "i18n": {
-    "ca": {
-     "title": "Confirmen que un nenúfar gegant de Colòmbia és una espècie nova i amenaçada",
-     "summary": "Investigadors han confirmat que un nenúfar gegant de la regió colombiana d'Inírida és una espècie nova, i l'han avaluat com a en perill crític d'extinció.",
-     "why": "Un descobriment nou, però l'espècie està amenaçada."
-    },
-    "fr": {
-     "title": "Un nénuphar géant de Colombie confirmé comme nouvelle espèce menacée",
-     "summary": "Des chercheurs ont confirmé qu'un nénuphar géant de la région d'Inírida, en Colombie, est une nouvelle espèce, évaluée comme étant en danger critique d'extinction.",
-     "why": "Une nouvelle découverte, mais une espèce menacée."
-    },
-    "ru": {
-     "title": "Гигантская кувшинка из Колумбии признана новым, находящимся под угрозой видом",
-     "summary": "Исследователи подтвердили, что гигантская кувшинка из региона Инирида в Колумбии является новым видом, и оценили его как находящийся под критической угрозой исчезновения.",
-     "why": "Новое открытие, но вид находится под угрозой."
-    }
-   }
-  },
-  {
-   "id": "an-pillay-nobel",
-   "title": "South African jurist Navi Pillay wins the 2026 Nobel Peace Prize",
-   "summary": "The Nobel Committee awarded the 2026 Peace Prize to Navi Pillay, a South African judge, for her work promoting peace and international justice.",
-   "why": "Major recognition for human rights work.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/10/09/navanethem-navi-pillay-wins-the-nobel-peace-prize/",
-   "score": 7,
-   "category": "Society",
-   "region": "South Africa",
-   "published": "2026-10-09T10:17:21Z",
-   "continent": "Africa",
-   "added": "2026-10-10T04:14:57Z",
-   "i18n": {
-    "ca": {
-     "title": "La jurista sud-africana Navi Pillay guanya el Premi Nobel de la Pau de 2026",
-     "summary": "El Comitè Nobel ha concedit el Premi de la Pau de 2026 a Navi Pillay, jutgessa sud-africana, per la seva tasca en la promoció de la pau i la justícia internacional.",
-     "why": "Reconeixement important de la tasca en favor dels drets humans."
-    },
-    "fr": {
-     "title": "La juriste sud-africaine Navi Pillay remporte le prix Nobel de la paix 2026",
-     "summary": "Le comité Nobel a décerné le prix Nobel de la paix 2026 à Navi Pillay, juge sud-africaine, pour son action en faveur de la paix et de la justice internationale.",
-     "why": "Reconnaissance majeure du travail en faveur des droits humains."
-    },
-    "ru": {
-     "title": "Юристка из ЮАР Нави Пиллей получила Нобелевскую премию мира 2026 года",
-     "summary": "Нобелевский комитет присудил Премию мира 2026 года Нави Пиллей, южноафриканской судье, за её работу по продвижению мира и международного правосудия.",
-     "why": "Важное признание работы в области прав человека."
-    }
-   }
-  },
-  {
-   "id": "rtbc-genz-medical-supplies",
-   "title": "A teenager's project redirects surplus hospital supplies abroad",
-   "summary": "Project MedBridge, started by 16-year-old Ben Kurian, sends surplus medical supplies from Ohio hospitals to places that need them, rescuing millions of dollars of items.",
-   "why": "Practical waste-to-aid model with measurable results.",
-   "source": "Reasons to be Cheerful",
-   "url": "https://reasonstobecheerful.world/gen-z-is-rescuing-millions-in-medical-supplies/",
-   "score": 7,
-   "category": "Health",
-   "region": "Ohio, USA",
-   "published": "2026-10-09T08:00:14Z",
-   "continent": "North America",
-   "added": "2026-10-10T04:14:57Z",
-   "i18n": {
-    "ca": {
-     "title": "Un projecte d'un adolescent redirigeix el material hospitalari sobrant cap a l'estranger",
-     "summary": "El projecte MedBridge, iniciat pel Ben Kurian de 16 anys, envia material mèdic sobrant d'hospitals d'Ohio a llocs que el necessiten, i recupera articles per valor de milions de dòlars.",
-     "why": "Model pràctic per convertir el malbaratament en ajuda, amb resultats mesurables."
-    },
-    "fr": {
-     "title": "Le projet d'un adolescent redirige le matériel hospitalier excédentaire vers l'étranger",
-     "summary": "Le projet MedBridge, lancé par Ben Kurian, 16 ans, achemine du matériel médical excédentaire d'hôpitaux de l'Ohio vers les lieux qui en ont besoin, et sauve ainsi des articles représentant plusieurs millions de dollars.",
-     "why": "Modèle concret de valorisation des déchets au service de l'aide, aux résultats mesurables."
-    },
-    "ru": {
-     "title": "Проект подростка направляет излишки больничных расходных материалов за границу",
-     "summary": "Проект MedBridge, основанный 16-летним Беном Курианом, отправляет излишки медицинских материалов из больниц штата Огайо туда, где они нужны, спасая предметы на миллионы долларов.",
-     "why": "Практичная модель, которая превращает отходы в помощь, с измеримыми результатами."
-    }
-   }
-  },
-  {
-   "id": "mb-ethiopia-egg-eater",
-   "title": "New species of egg-eating snake found in Ethiopian highlands",
-   "summary": "A new nonvenomous egg-eating snake, the white-throated egg-eater, has been documented in Ethiopia's Harenna Forest.",
-   "why": "A new species adds to knowledge and the case for protecting the forest.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/10/ethiopian-highlands-yield-a-new-species-of-egg-eating-snake/",
-   "score": 6,
-   "category": "Animals",
-   "region": "Ethiopia",
-   "published": "2026-10-09T07:54:09Z",
-   "continent": "Africa",
-   "added": "2026-10-10T04:14:57Z",
-   "i18n": {
-    "ca": {
-     "title": "Trobada una nova espècie de serp menjaovos a les terres altes d'Etiòpia",
-     "summary": "S'ha documentat al bosc d'Harenna, a Etiòpia, una nova serp menjaovos no verinosa, el menjaovos de gola blanca.",
-     "why": "Una nova espècie amplia el coneixement i reforça els arguments per protegir el bosc."
-    },
-    "fr": {
-     "title": "Une nouvelle espèce de serpent mangeur d'œufs découverte dans les hauts plateaux éthiopiens",
-     "summary": "Un nouveau serpent mangeur d'œufs non venimeux, le mangeur d'œufs à gorge blanche, a été documenté dans la forêt de Harenna, en Éthiopie.",
-     "why": "Une nouvelle espèce enrichit les connaissances et renforce l'argument en faveur de la protection de la forêt."
-    },
-    "ru": {
-     "title": "В эфиопском нагорье найден новый вид змеи, питающейся яйцами",
-     "summary": "Новая неядовитая змея, питающаяся яйцами, белогорлый яйцеед, задокументирована в лесу Харенна в Эфиопии.",
-     "why": "Новый вид расширяет знания и усиливает аргументы в пользу защиты леса."
     }
    }
   }
