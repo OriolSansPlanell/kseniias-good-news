@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T05:13:22Z",
+ "updated": "2026-11-14T05:13:58Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,10 +12,475 @@
   "Grist",
   "Africanews"
  ],
- "count": 18,
- "last_run": "run-20261111T0513Z.json",
- "note": "15 new, 0 skipped, 51 pruned, 0 translations added, failed feeds: none",
+ "count": 30,
+ "last_run": "run-20261114T0513Z.json",
+ "note": "15 new, 15 skipped, 3 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "an-nigeria-ebola-contacts-clear-monitoring",
+   "title": "Nigeria reports no Ebola spread after imported case",
+   "summary": "Nigeria has recorded no new Ebola cases since a woman arriving from Uganda tested positive last month, and her contacts finished 21 days of monitoring uninfected.",
+   "why": "Containment worked in Nigeria, while the wider outbreak continues.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/13/nigeria-ebola-patient-contacts-complete-21-day-monitoring-without-signs-of-infection/",
+   "score": 6,
+   "category": "Health",
+   "region": "Nigeria",
+   "published": "2026-11-13T14:56:21Z",
+   "continent": "Africa",
+   "added": "2026-11-14T05:13:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Nigèria no informa de cap propagació de l'ebola després d'un cas importat",
+     "summary": "Nigèria no ha registrat cap cas nou d'ebola des que una dona que arribava d'Uganda va donar positiu el mes passat, i els seus contactes han completat 21 dies de seguiment sense infecció.",
+     "why": "La contenció va funcionar a Nigèria, mentre el brot més ampli continua."
+    },
+    "fr": {
+     "title": "Le Nigeria ne signale aucune propagation d'Ebola après un cas importé",
+     "summary": "Le Nigeria n'a enregistré aucun nouveau cas d'Ebola depuis qu'une femme arrivant d'Ouganda a été testée positive le mois dernier, et ses contacts ont achevé 21 jours de surveillance sans infection.",
+     "why": "Le confinement a fonctionné au Nigeria, alors que l'épidémie plus large se poursuit."
+    },
+    "ru": {
+     "title": "В Нигерии не выявлено распространения Эболы после завезённого случая",
+     "summary": "В Нигерии не зарегистрировано новых случаев Эболы с тех пор, как в прошлом месяце у женщины, прибывшей из Уганды, был выявлен положительный результат теста. Её контакты завершили 21 день наблюдения без признаков инфекции.",
+     "why": "В Нигерии удалось локализовать очаг, тогда как более широкая вспышка продолжается."
+    }
+   }
+  },
+  {
+   "id": "gnn-infant-seizure-free-experimental-drug",
+   "title": "Infant in Dubai becomes seizure-free after experimental drug",
+   "summary": "A baby in Dubai who had a seizure about every 13 minutes since birth stopped having seizures after receiving an experimental drug. Follow-up so far covers only weeks.",
+   "why": "Dramatic result for one child, but the treatment is experimental and the follow-up is short.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/infant-goes-from-110-seizures-a-day-to-seizure-free-after-rare-treatment/",
+   "score": 6,
+   "category": "Health",
+   "region": "Dubai, UAE",
+   "published": "2026-11-13T14:00:22Z",
+   "continent": "Asia",
+   "added": "2026-11-14T05:13:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Un nadó de Dubai deixa de tenir convulsions després d'un fàrmac experimental",
+     "summary": "Un nadó de Dubai que tenia una convulsió cada 13 minuts des del naixement va deixar de tenir-ne després de rebre un fàrmac experimental. El seguiment fins ara només abasta setmanes.",
+     "why": "Resultat espectacular per a un sol infant, però el tractament és experimental i el seguiment és curt."
+    },
+    "fr": {
+     "title": "Un nourrisson de Dubaï ne fait plus de crises après un médicament expérimental",
+     "summary": "Un bébé de Dubaï, qui avait une crise environ toutes les 13 minutes depuis sa naissance, n'en a plus eu après avoir reçu un médicament expérimental. Le suivi ne couvre pour l'instant que quelques semaines.",
+     "why": "Résultat spectaculaire pour un seul enfant, mais le traitement est expérimental et le suivi est court."
+    },
+    "ru": {
+     "title": "Младенец из Дубая перестал страдать от приступов после экспериментального препарата",
+     "summary": "У ребёнка из Дубая с рождения приступы случались примерно каждые 13 минут. После приёма экспериментального препарата они прекратились. Наблюдение пока длится только несколько недель.",
+     "why": "Впечатляющий результат для одного ребёнка, но лечение экспериментальное, а срок наблюдения короткий."
+    }
+   }
+  },
+  {
+   "id": "tbi-bengaluru-startup-turns-office-acs-into-air-purifiers",
+   "title": "Bengaluru startup converts office air conditioners into air purifiers",
+   "summary": "Clairco, a Bengaluru startup, retrofits office air conditioners to purify air. The company says its technology benefits around 1.5 million people.",
+   "why": "Useful local innovation; the reach figure is the company's own claim.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/web-stories/startup/ac-air-purifier-technology-clairco-bengaluru-startup-12806292",
+   "score": 6,
+   "category": "Environment",
+   "region": "Bengaluru, India",
+   "published": "2026-11-13T11:00:15Z",
+   "continent": "Asia",
+   "added": "2026-11-14T05:13:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Una startup de Bengaluru converteix els aires condicionats d'oficina en purificadors d'aire",
+     "summary": "Clairco, una startup de Bengaluru, adapta els aires condicionats d'oficina per purificar l'aire. L'empresa afirma que la seva tecnologia beneficia unes 1,5 milions de persones.",
+     "why": "Innovació local útil; la xifra d'abast és una afirmació de la mateixa empresa."
+    },
+    "fr": {
+     "title": "Une start-up de Bengaluru transforme les climatiseurs de bureau en purificateurs d'air",
+     "summary": "Clairco, une start-up de Bengaluru, adapte les climatiseurs de bureau pour purifier l'air. L'entreprise affirme que sa technologie profite à environ 1,5 million de personnes.",
+     "why": "Innovation locale utile ; le chiffre de portée est une affirmation de l'entreprise elle-même."
+    },
+    "ru": {
+     "title": "Стартап из Бенгалуру превращает офисные кондиционеры в воздухоочистители",
+     "summary": "Стартап Clairco из Бенгалуру дооснащает офисные кондиционеры функцией очистки воздуха. По словам компании, её технология приносит пользу около 1,5 миллиона человек.",
+     "why": "Полезная местная разработка; цифра охвата приведена самой компанией."
+    }
+   }
+  },
+  {
+   "id": "gr-voters-approve-billions-for-public-transit",
+   "title": "US voters approve $27 billion in transit measures",
+   "summary": "Voters approved 22 of 27 transit ballot measures on November 3, worth about $27.4 billion for repairs and expansion of transit systems.",
+   "why": "Broad funding for public transport, though delivery depends on officials.",
+   "source": "Grist",
+   "url": "https://grist.org/transportation/the-affordability-election-delivered-billions-for-public-transit/",
+   "score": 7,
+   "category": "Society",
+   "region": "USA",
+   "published": "2026-11-13T09:45:00Z",
+   "continent": "North America",
+   "added": "2026-11-14T05:13:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Els votants dels EUA aproven 27.000 milions de dòlars en mesures de transport públic",
+     "summary": "Els votants van aprovar 22 de les 27 mesures de transport sotmeses a votació el 3 de novembre, que representen uns 27.400 milions de dòlars per a la reparació i l'ampliació dels sistemes de transport.",
+     "why": "Un finançament ampli per al transport públic, tot i que la seva execució depèn dels càrrecs públics."
+    },
+    "fr": {
+     "title": "Les électeurs américains approuvent 27 milliards de dollars pour les transports en commun",
+     "summary": "Les électeurs ont approuvé 22 des 27 mesures soumises au vote sur les transports le 3 novembre, pour un montant d'environ 27,4 milliards de dollars destinés à la réparation et à l'extension des réseaux de transport.",
+     "why": "Financement important pour les transports publics, même si sa mise en œuvre dépend des responsables publics."
+    },
+    "ru": {
+     "title": "Американские избиратели одобрили 27 миллиардов долларов на общественный транспорт",
+     "summary": "3 ноября избиратели одобрили 22 из 27 транспортных инициатив, вынесенных на голосование, на общую сумму около 27,4 миллиарда долларов на ремонт и расширение транспортных систем.",
+     "why": "Широкое финансирование общественного транспорта, хотя его реализация зависит от чиновников."
+    }
+   }
+  },
+  {
+   "id": "od-microplastics-removal-atlantic-city",
+   "title": "Wastewater plant in New Jersey installs microplastics-capturing system",
+   "summary": "A treatment plant in Atlantic City has installed a system designed by former Princeton students that traps microplastics before they reach the ocean, mimicking wetland plants.",
+   "why": "Promising pilot-style technology at a single plant so far.",
+   "source": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/11/how-two-princeton-graduates-built-the-worlds-first-microplastics-removal-system/",
+   "score": 6,
+   "category": "Environment",
+   "region": "New Jersey, USA",
+   "published": "2026-11-13T00:00:54Z",
+   "continent": "North America",
+   "added": "2026-11-14T05:13:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Una depuradora de Nova Jersey instal·la un sistema que captura microplàstics",
+     "summary": "Una planta de tractament d'Atlantic City ha instal·lat un sistema dissenyat per antics estudiants de Princeton que atrapa els microplàstics abans que arribin a l'oceà, imitant les plantes dels aiguamolls.",
+     "why": "Tecnologia prometedora, de tipus pilot, en una sola planta fins ara."
+    },
+    "fr": {
+     "title": "Une station d'épuration du New Jersey installe un système de capture des microplastiques",
+     "summary": "Une station d'épuration d'Atlantic City a installé un système conçu par d'anciens étudiants de Princeton, qui piège les microplastiques avant qu'ils n'atteignent l'océan, en imitant les plantes des zones humides.",
+     "why": "Technologie prometteuse, encore au stade pilote, dans une seule station pour l'instant."
+    },
+    "ru": {
+     "title": "На очистных сооружениях в Нью-Джерси установили систему улавливания микропластика",
+     "summary": "На очистной станции в Атлантик-Сити установлена система, разработанная бывшими студентами Принстона, которая задерживает микропластик до того, как он попадёт в океан, подражая растениям водно-болотных угодий.",
+     "why": "Перспективная технология, пока испытываемая на одной станции."
+    }
+   }
+  },
+  {
+   "id": "mb-pantanal-jaguars-more-social-than-thought",
+   "title": "Pantanal jaguars found to be more social than thought",
+   "summary": "A 13-year study in Brazil's Pantanal identified 459 jaguars and recorded 167 pair interactions, nearly half between two males, suggesting more sociality than assumed.",
+   "why": "Interesting science on a healthy jaguar population; no direct change for the animals.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/in-brazils-prey-rich-pantanal-jaguars-reveal-a-surprisingly-social-side/",
+   "score": 5,
+   "category": "Animals",
+   "region": "Pantanal, Brazil",
+   "published": "2026-11-12T20:45:40Z",
+   "continent": "South America",
+   "added": "2026-11-14T05:13:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Els jaguars del Pantanal resulten ser més socials del que es pensava",
+     "summary": "Un estudi de 13 anys al Pantanal brasiler va identificar 459 jaguars i va registrar 167 interaccions entre parells, gairebé la meitat entre dos mascles, cosa que suggereix més sociabilitat de la que se suposava.",
+     "why": "Ciència interessant sobre una població de jaguars sana; no suposa cap canvi directe per als animals."
+    },
+    "fr": {
+     "title": "Les jaguars du Pantanal se révèlent plus sociaux qu'on ne le pensait",
+     "summary": "Une étude de 13 ans menée dans le Pantanal brésilien a identifié 459 jaguars et enregistré 167 interactions entre paires, dont près de la moitié entre deux mâles, ce qui suggère une sociabilité plus grande qu'on ne le supposait.",
+     "why": "Découverte scientifique intéressante sur une population de jaguars en bonne santé ; aucun changement direct pour les animaux."
+    },
+    "ru": {
+     "title": "Ягуары Пантанала оказались общительнее, чем считалось",
+     "summary": "В ходе 13-летнего исследования в бразильском Пантанале было выявлено 459 ягуаров и зафиксировано 167 взаимодействий между парами животных, почти половина из которых — между двумя самцами. Это указывает на большую общительность, чем предполагалось.",
+     "why": "Интересное научное открытие о популяции ягуаров в хорошем состоянии; прямых перемен для животных это не несёт."
+    }
+   }
+  },
+  {
+   "id": "gnn-china-liquid-air-energy-storage",
+   "title": "China starts world's largest liquid-air energy storage plant",
+   "summary": "A demonstration plant in western China now stores renewable electricity by liquefying air, then releasing it to drive a turbine when power is needed.",
+   "why": "A large demonstration of cheap grid storage, though still a demonstration plant.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/",
+   "score": 7,
+   "category": "Energy",
+   "region": "China",
+   "published": "2026-11-12T19:30:02Z",
+   "continent": "Asia",
+   "added": "2026-11-14T05:13:58Z",
+   "i18n": {
+    "ca": {
+     "title": "La Xina posa en marxa la planta d'emmagatzematge d'energia en aire líquid més gran del món",
+     "summary": "Una planta de demostració de l'oest de la Xina emmagatzema ara l'electricitat renovable liquant l'aire i, després, alliberant-lo per moure una turbina quan cal energia.",
+     "why": "Una gran demostració d'emmagatzematge econòmic per a la xarxa, tot i que encara és una planta de demostració."
+    },
+    "fr": {
+     "title": "La Chine met en service la plus grande centrale de stockage d'énergie à air liquide au monde",
+     "summary": "Une installation de démonstration dans l'ouest de la Chine stocke désormais l'électricité renouvelable en liquéfiant l'air, puis en le libérant pour faire tourner une turbine lorsque l'énergie est nécessaire.",
+     "why": "Une grande démonstration de stockage bon marché pour le réseau, bien qu'il s'agisse encore d'une installation de démonstration."
+    },
+    "ru": {
+     "title": "В Китае запущена крупнейшая в мире установка накопления энергии на основе сжиженного воздуха",
+     "summary": "Демонстрационная установка на западе Китая теперь накапливает электроэнергию из возобновляемых источников, сжижая воздух, а затем выпуская его для вращения турбины, когда требуется электричество.",
+     "why": "Масштабная демонстрация недорогого накопления энергии для энергосети, хотя это пока демонстрационный проект."
+    }
+   }
+  },
+  {
+   "id": "mb-suriname-removes-mennonite-farmers-sipaliwini",
+   "title": "Suriname removes Mennonites farming state land in Amazon region",
+   "summary": "Authorities removed more than 50 Mennonites from state land in Sipaliwini, citing expired residency permits, after years of controversy over large-scale Amazon farming plans.",
+   "why": "Mixed: limits feared forest clearing, but involves deportations.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/after-years-of-speculation-suriname-evicts-mennonites-farming-in-the-amazon/",
+   "score": 4,
+   "category": "Environment",
+   "region": "Suriname",
+   "published": "2026-11-12T17:40:19Z",
+   "continent": "South America",
+   "added": "2026-11-14T05:13:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Surinam desallotja menonites que conreaven terres de l'Estat a la regió amazònica",
+     "summary": "Les autoritats han desallotjat més de 50 menonites de terres estatals a Sipaliwini, al·legant que els seus permisos de residència havien caducat, després d'anys de controvèrsia pels plans de conreu a gran escala a l'Amazònia.",
+     "why": "Resultat mixt: limita la temuda tala de boscos, però implica deportacions."
+    },
+    "fr": {
+     "title": "Le Suriname évacue des mennonites exploitant des terres de l'État en région amazonienne",
+     "summary": "Les autorités ont évacué plus de 50 mennonites des terres de l'État à Sipaliwini, invoquant l'expiration de leurs titres de séjour, après des années de polémique autour de projets agricoles à grande échelle en Amazonie.",
+     "why": "Bilan mitigé : cela limite le défrichement forestier redouté, mais implique des expulsions."
+    },
+    "ru": {
+     "title": "Суринам выселяет меннонитов, ведущих сельское хозяйство на госземлях в Амазонии",
+     "summary": "Власти вывели более 50 меннонитов с государственных земель в Сипалиуини, сославшись на истёкшие разрешения на проживание, после многолетних споров о масштабных планах сельскохозяйственного освоения амазонских земель.",
+     "why": "Неоднозначный итог: ограничивает опасения по поводу вырубки лесов, но сопровождается депортациями."
+    }
+   }
+  },
+  {
+   "id": "sd-ai-model-improves-brain-implant-vision",
+   "title": "AI model improves predictions for brain-implant vision",
+   "summary": "Researchers used AI to model how one blind man's brain responds to electrical stimulation, improving predictions of the flashes and shapes he sees through a brain implant.",
+   "why": "Early research on a single participant.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-11-12T11:55:55Z",
+   "continent": "Global",
+   "added": "2026-11-14T05:13:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Un model d'IA millora les previsions de la visió amb implants cerebrals",
+     "summary": "Els investigadors han fet servir la IA per modelar com respon el cervell d'un home cec a l'estimulació elèctrica, cosa que millora les previsions dels destells i les formes que veu a través d'un implant cerebral.",
+     "why": "Recerca inicial amb un únic participant."
+    },
+    "fr": {
+     "title": "Un modèle d'IA améliore les prévisions de vision pour les implants cérébraux",
+     "summary": "Des chercheurs ont utilisé l'IA pour modéliser la réponse du cerveau d'un homme aveugle à une stimulation électrique, ce qui améliore la prévision des flashs lumineux et des formes qu'il perçoit grâce à un implant cérébral.",
+     "why": "Recherche préliminaire sur un seul participant."
+    },
+    "ru": {
+     "title": "ИИ-модель улучшает прогнозы зрительного восприятия при работе мозговых имплантов",
+     "summary": "Исследователи применили ИИ для моделирования реакции мозга одного слепого мужчины на электрическую стимуляцию, что улучшило прогнозы вспышек и форм, которые он видит с помощью мозгового импланта.",
+     "why": "Ранние исследования с участием одного человека."
+    }
+   }
+  },
+  {
+   "id": "od-los-angeles-bans-new-oil-drilling",
+   "title": "Los Angeles bans new oil drilling and phases out existing wells",
+   "summary": "The city council banned new oil drilling and will phase out existing operations within city limits over 20 years, after a decade of pressure from nearby residents.",
+   "why": "Meaningful health and climate gain for neighbourhoods near wells, with a long phase-out.",
+   "source": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/11/after-a-decade-of-community-pressure-la-bans-oil-drilling-for-good/",
+   "score": 8,
+   "category": "Environment",
+   "region": "Los Angeles, USA",
+   "published": "2026-11-12T00:00:35Z",
+   "continent": "North America",
+   "added": "2026-11-14T05:13:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Los Angeles prohibeix les noves perforacions petrolieres i eliminarà gradualment els pous existents",
+     "summary": "El consell municipal ha prohibit les noves perforacions petrolieres i eliminarà gradualment les operacions existents dins dels límits de la ciutat al llarg de 20 anys, després d'una dècada de pressió dels veïns de la zona.",
+     "why": "Millora important per a la salut i el clima dels barris propers als pous, amb una eliminació gradual llarga."
+    },
+    "fr": {
+     "title": "Los Angeles interdit les nouveaux forages pétroliers et supprimera progressivement les puits existants",
+     "summary": "Le conseil municipal a interdit les nouveaux forages pétroliers et supprimera progressivement les exploitations existantes sur le territoire de la ville d'ici 20 ans, après une décennie de pressions des riverains.",
+     "why": "Gain important pour la santé et le climat des quartiers proches des puits, avec une sortie progressive sur une longue période."
+    },
+    "ru": {
+     "title": "Лос-Анджелес запрещает новое бурение нефтяных скважин и поэтапно закроет действующие",
+     "summary": "Городской совет запретил новое бурение нефтяных скважин и в течение 20 лет поэтапно прекратит действующие разработки в черте города, после десятилетнего давления со стороны жителей соседних кварталов.",
+     "why": "Существенная выгода для здоровья и климата в районах рядом со скважинами при длительном поэтапном отказе от добычи."
+    }
+   }
+  },
+  {
+   "id": "gnn-spain-brown-bear-population-doubles",
+   "title": "Spain's Cantabrian brown bears have doubled in 20 years",
+   "summary": "The Cantabrian brown bear population has roughly doubled over two decades to about 370 animals, and their range now covers around 6,500 square miles.",
+   "why": "Clear conservation recovery of a threatened species over two decades.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/",
+   "score": 8,
+   "category": "Animals",
+   "region": "Spain",
+   "published": "2026-11-11T16:30:25Z",
+   "continent": "Europe",
+   "added": "2026-11-14T05:13:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Els óssos bruns cantàbrics d'Espanya s'han duplicat en 20 anys",
+     "summary": "La població d'ós bru cantàbric s'ha gairebé duplicat en dues dècades i ara és d'uns 370 animals, i el seu territori abasta al voltant de 6.500 milles quadrades.",
+     "why": "Recuperació clara d'una espècie amenaçada gràcies a la conservació al llarg de dues dècades."
+    },
+    "fr": {
+     "title": "Les ours bruns cantabriques d'Espagne ont doublé en 20 ans",
+     "summary": "La population d'ours bruns cantabriques a à peu près doublé en deux décennies, pour atteindre environ 370 animaux, et leur aire de répartition couvre désormais environ 6 500 milles carrés.",
+     "why": "Net rétablissement, grâce à la conservation, d'une espèce menacée sur deux décennies."
+    },
+    "ru": {
+     "title": "Кантабрийские бурые медведи в Испании за 20 лет увеличились вдвое",
+     "summary": "Популяция кантабрийского бурого медведя за два десятилетия примерно удвоилась и составляет около 370 особей, а ареал теперь занимает около 6 500 квадратных миль.",
+     "why": "Явное восстановление исчезающего вида за два десятилетия благодаря природоохранным мерам."
+    }
+   }
+  },
+  {
+   "id": "mb-eu-audit-marine-protected-areas-failing",
+   "title": "Audit finds EU marine protected areas fall short of 2030 goal",
+   "summary": "The European Court of Auditors says the EU has not built an effective marine protected area network and that reaching 30% protection by 2030 is highly unlikely.",
+   "why": "Bad news, but a useful warning that could prompt action.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/audit-says-europes-marine-protected-areas-failing-as-2030-deadline-looms/",
+   "score": 3,
+   "category": "Environment",
+   "region": "European Union",
+   "published": "2026-11-11T16:14:04Z",
+   "continent": "Europe",
+   "added": "2026-11-14T05:13:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Una auditoria constata que les àrees marines protegides de la UE no arriben a l'objectiu del 2030",
+     "summary": "El Tribunal de Comptes Europeu afirma que la UE no ha construït una xarxa eficaç d'àrees marines protegides i que és molt poc probable assolir el 30 % de protecció el 2030.",
+     "why": "Notícia dolenta, però un avís útil que podria impulsar l'acció."
+    },
+    "fr": {
+     "title": "Un audit constate que les aires marines protégées de l'UE n'atteindront pas l'objectif de 2030",
+     "summary": "La Cour des comptes européenne affirme que l'UE n'a pas mis en place de réseau efficace d'aires marines protégées et qu'atteindre une protection de 30 % d'ici 2030 est très peu probable.",
+     "why": "Mauvaise nouvelle, mais un avertissement utile qui pourrait inciter à agir."
+    },
+    "ru": {
+     "title": "Аудит показал, что морские охраняемые территории ЕС не соответствуют цели на 2030 год",
+     "summary": "Европейская палата аудиторов заявляет, что ЕС не создал эффективной сети морских охраняемых территорий и что достижение 30 % защиты к 2030 году крайне маловероятно.",
+     "why": "Плохие новости, но полезное предупреждение, которое может побудить к действию."
+    }
+   }
+  },
+  {
+   "id": "mb-angolan-hunters-protect-okavango-wetland",
+   "title": "Angolan villagers monitor hunting to protect Okavango source wetlands",
+   "summary": "Villages in Angola's southeastern highlands appointed Watchers to enforce traditional hunting rules, protecting the wetlands that feed the Okavango system.",
+   "why": "Community-led conservation protecting an internationally important wetland.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/angolan-hunters-protect-southern-africas-internationally-important-wetland/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Angola",
+   "published": "2026-11-11T13:30:33Z",
+   "continent": "Africa",
+   "added": "2026-11-14T05:13:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Els habitants de pobles d'Angola vigilen la caça per protegir els aiguamolls de l'Okavango",
+     "summary": "Els pobles de les terres altes del sud-est d'Angola han designat vigilants per fer complir les normes tradicionals de caça, que protegeixen els aiguamolls que alimenten el sistema de l'Okavango.",
+     "why": "Conservació liderada per la comunitat que protegeix un aiguamoll d'importància internacional."
+    },
+    "fr": {
+     "title": "Des villageois angolais surveillent la chasse pour protéger les zones humides sources de l'Okavango",
+     "summary": "Des villages des hautes terres du sud-est de l'Angola ont désigné des « gardiens » chargés de faire respecter les règles traditionnelles de chasse, afin de protéger les zones humides qui alimentent le système de l'Okavango.",
+     "why": "Conservation menée par les communautés, qui protège une zone humide d'importance internationale."
+    },
+    "ru": {
+     "title": "Жители ангольских деревень следят за охотой, защищая водно-болотные угодья Окаванго",
+     "summary": "В деревнях в юго-восточном нагорье Анголы назначены «наблюдатели», которые следят за соблюдением традиционных правил охоты. Это защищает водно-болотные угодья, питающие систему Окаванго.",
+     "why": "Природоохранная работа, которую ведёт сама община, защищает водно-болотные угодья международного значения."
+    }
+   }
+  },
+  {
+   "id": "sd-antarctic-ozone-hole-seventh-largest",
+   "title": "Antarctic ozone hole is seventh-largest on record",
+   "summary": "The 2026 ozone hole grew to its seventh-largest size, driven by unusual weather. Scientists say restrictions on ozone-depleting chemicals prevented greater damage.",
+   "why": "Large hole, but the long-term treaty is credited with limiting it.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
+   "score": 3,
+   "category": "Environment",
+   "region": "Antarctica",
+   "published": "2026-11-11T12:32:48Z",
+   "continent": "Antarctica",
+   "added": "2026-11-14T05:13:58Z",
+   "i18n": {
+    "ca": {
+     "title": "El forat de la capa d'ozó de l'Antàrtida és el setè més gran registrat",
+     "summary": "El forat de la capa d'ozó del 2026 ha crescut fins a ser el setè més gran registrat, impulsat per unes condicions meteorològiques inusuals. Els científics afirmen que les restriccions a les substàncies que esgoten la capa d'ozó han evitat més danys.",
+     "why": "Un forat gran, però se n'atribueix el mèrit al tractat de llarga durada que l'ha limitat."
+    },
+    "fr": {
+     "title": "Le trou dans la couche d'ozone au-dessus de l'Antarctique est le septième plus grand jamais enregistré",
+     "summary": "Le trou de la couche d'ozone de 2026 s'est étendu jusqu'à devenir le septième plus grand jamais observé, sous l'effet de conditions météorologiques inhabituelles. Les scientifiques affirment que les restrictions imposées aux substances qui appauvrissent la couche d'ozone ont permis d'éviter des dégâts plus importants.",
+     "why": "Un trou important, mais ce traité de long terme est reconnu pour l'avoir limité."
+    },
+    "ru": {
+     "title": "Озоновая дыра над Антарктикой — седьмая по величине за всю историю наблюдений",
+     "summary": "Озоновая дыра 2026 года выросла до седьмого по величине размера за всю историю наблюдений под влиянием необычных погодных условий. Учёные говорят, что ограничения на разрушающие озон вещества помогли избежать более серьёзного ущерба.",
+     "why": "Большая дыра, однако заслуга в её ограничении принадлежит долгосрочному международному договору."
+    }
+   }
+  },
+  {
+   "id": "mb-uttarakhand-women-keep-native-bees-in-walls",
+   "title": "Women in Uttarakhand keep native bees in house-wall hives",
+   "summary": "Households in India's Himalayan Uttarakhand region keep Indian honey bees in hives built into mud walls, mostly tended by women, helping sustain native bee populations.",
+   "why": "A traditional practice that supports native pollinators.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/in-north-india-women-protect-native-bees-in-traditional-home-walls/",
+   "score": 6,
+   "category": "Animals",
+   "region": "Uttarakhand, India",
+   "published": "2026-11-11T10:56:11Z",
+   "continent": "Asia",
+   "added": "2026-11-14T05:13:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Les dones d'Uttarakhand tenen abelles autòctones en ruscs als murs de casa",
+     "summary": "Les famílies de la regió himalaiana d'Uttarakhand, a l'Índia, tenen abelles de mel índies en ruscs construïts dins de parets de fang, sovint cuidats per dones, cosa que ajuda a mantenir les poblacions d'abelles autòctones.",
+     "why": "Una pràctica tradicional que ajuda els pol·linitzadors autòctons."
+    },
+    "fr": {
+     "title": "Dans l'Uttarakhand, des femmes élèvent des abeilles indigènes dans des ruches intégrées aux murs des maisons",
+     "summary": "Dans la région himalayenne indienne de l'Uttarakhand, des foyers élèvent des abeilles mellifères indiennes dans des ruches aménagées dans les murs en terre, souvent entretenues par des femmes, ce qui contribue à préserver les populations d'abeilles indigènes.",
+     "why": "Une pratique traditionnelle qui soutient les pollinisateurs indigènes."
+    },
+    "ru": {
+     "title": "Женщины Уттаракханда держат местных пчёл в ульях, встроенных в стены домов",
+     "summary": "В гималайском регионе Уттаракханд в Индии семьи держат индийских медоносных пчёл в ульях, встроенных в глинобитные стены, а ухаживают за ними в основном женщины. Это помогает сохранять популяции местных пчёл.",
+     "why": "Традиционная практика, которая поддерживает местных опылителей."
+    }
+   }
+  },
   {
    "id": "od-brazil-fossil-fuel-phaseout-roadmap",
    "title": "Brazil publishes voluntary roadmap to phase out fossil fuels",
@@ -478,99 +943,6 @@
      "title": "Высокодозная вакцина от гриппа связана с меньшим риском болезни Альцгеймера",
      "summary": "Исследование почти 200 000 взрослых старше 65 лет связало вакцинацию высокодозной противогриппозной вакциной с меньшим риском болезни Альцгеймера по сравнению со стандартной дозой.",
      "why": "Наблюдательный результат, многообещающий, но не доказывающий причинно-следственную связь."
-    }
-   }
-  },
-  {
-   "id": "tbi-peepal-tree-transplant-ahmedabad",
-   "title": "Century-old peepal tree replanted with a crane in Ahmedabad",
-   "summary": "Bharat Sisodia's team moved a cut-down 100-year-old peepal nearly two kilometres, and it has reportedly begun to grow new shoots.",
-   "why": "Uplifting local environmental action, small in scale.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/changemakers/bharat-sisodia-transplanting-old-trees-india-peepal-rescue-plantenance-ahmedabad-12769004",
-   "score": 6,
-   "category": "Environment",
-   "region": "Ahmedabad, India",
-   "published": "2026-11-02T03:38:08Z",
-   "continent": "Asia",
-   "added": "2026-11-02T05:14:07Z",
-   "i18n": {
-    "ca": {
-     "title": "Un pipal centenari replantat amb una grua a Ahmedabad",
-     "summary": "L'equip de Bharat Sisodia ha traslladat gairebé dos quilòmetres un pipal de 100 anys que havia estat talat, i segons els informes ha començat a fer brots nous.",
-     "why": "Acció ambiental local inspiradora, de petita escala."
-    },
-    "fr": {
-     "title": "Un figuier sacré centenaire replanté à l'aide d'une grue à Ahmedabad",
-     "summary": "L'équipe de Bharat Sisodia a déplacé sur près de deux kilomètres un figuier sacré de 100 ans qui avait été abattu, et il aurait commencé à produire de nouvelles pousses.",
-     "why": "Action environnementale locale encourageante, de petite envergure."
-    },
-    "ru": {
-     "title": "Столетнее дерево пипал пересадили с помощью крана в Ахмедабаде",
-     "summary": "Команда Бхарата Сисодии перевезла почти на два километра срубленный 100-летний пипал, и, по сообщениям, на нём начали появляться новые побеги.",
-     "why": "Вдохновляющая местная экологическая инициатива, небольшая по масштабу."
-    }
-   }
-  },
-  {
-   "id": "an-youth-olympics-open-senegal",
-   "title": "Youth Olympic Games open in Senegal, the first Olympic event in Africa",
-   "summary": "The Youth Olympic Games opened in Dakar, Senegal, the first Olympic event held on the African continent.",
-   "why": "A milestone for African sport and participation.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/11/01/youth-olympics-open-in-senegal-marking-the-first-olympic-event-in-africa/",
-   "score": 7,
-   "category": "Culture",
-   "region": "Senegal",
-   "published": "2026-11-01T09:55:34Z",
-   "continent": "Africa",
-   "added": "2026-11-02T05:14:07Z",
-   "i18n": {
-    "ca": {
-     "title": "S'inauguren els Jocs Olímpics de la Joventut al Senegal, el primer esdeveniment olímpic a l'Àfrica",
-     "summary": "Els Jocs Olímpics de la Joventut s'han inaugurat a Dakar, Senegal, el primer esdeveniment olímpic celebrat al continent africà.",
-     "why": "Una fita per a l'esport i la participació a l'Àfrica."
-    },
-    "fr": {
-     "title": "Les Jeux olympiques de la jeunesse s'ouvrent au Sénégal, premier événement olympique en Afrique",
-     "summary": "Les Jeux olympiques de la jeunesse ont été ouverts à Dakar, au Sénégal, premier événement olympique organisé sur le continent africain.",
-     "why": "Une étape importante pour le sport et la participation en Afrique."
-    },
-    "ru": {
-     "title": "В Сенегале открылись Юношеские Олимпийские игры — первое олимпийское событие в Африке",
-     "summary": "Юношеские Олимпийские игры открылись в Дакаре, Сенегал, — первое олимпийское мероприятие, проводимое на африканском континенте.",
-     "why": "Важная веха для африканского спорта и участия в нём."
-    }
-   }
-  },
-  {
-   "id": "tbi-pangolin-shillong-urban-forests",
-   "title": "Critically endangered pangolin recorded near Shillong",
-   "summary": "Camera traps in forest reserves near Shillong recorded a Chinese pangolin, the first record in the study area.",
-   "why": "Good sign for biodiversity in urban-edge forests.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/wildlife/chinese-pangolin-spotted-near-shillong-urban-forests-12768901",
-   "score": 6,
-   "category": "Animals",
-   "region": "Meghalaya, India",
-   "published": "2026-11-01T07:30:37Z",
-   "continent": "Asia",
-   "added": "2026-11-02T05:14:07Z",
-   "i18n": {
-    "ca": {
-     "title": "Es registra un pangolí en perill crític prop de Shillong",
-     "summary": "Càmeres de fototrampeig instal·lades en reserves forestals properes a Shillong han registrat un pangolí xinès, el primer registre a la zona d'estudi.",
-     "why": "Bon senyal per a la biodiversitat dels boscos de la perifèria urbana."
-    },
-    "fr": {
-     "title": "Un pangolin en danger critique d'extinction observé près de Shillong",
-     "summary": "Des pièges photographiques installés dans des réserves forestières près de Shillong ont enregistré un pangolin de Chine, premier signalement dans la zone étudiée.",
-     "why": "Bon signe pour la biodiversité des forêts en périphérie urbaine."
-    },
-    "ru": {
-     "title": "Близ Шиллонга зафиксирован панголин, занесённый в категорию «критически опасный»",
-     "summary": "Фотоловушки в лесных заповедниках близ Шиллонга зафиксировали китайского панголина — это первое обнаружение вида на исследуемой территории.",
-     "why": "Хороший признак для биоразнообразия лесов на окраинах города."
     }
    }
   }
