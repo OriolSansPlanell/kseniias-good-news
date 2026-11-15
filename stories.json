@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T05:13:58Z",
+ "updated": "2026-11-15T05:14:01Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -12,10 +12,134 @@
   "Grist",
   "Africanews"
  ],
- "count": 30,
- "last_run": "run-20261114T0513Z.json",
- "note": "15 new, 15 skipped, 3 pruned, 0 translations added, failed feeds: none",
+ "count": 45,
+ "last_run": "run-20261115T0514Z.json",
+ "note": "15 new, 15 skipped, 0 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "gnn-two-remote-pacific-atolls-declared-sanctuaries",
+   "title": "Two remote Pacific atolls declared sanctuaries",
+   "summary": "Two of the Pacific coral atolls that scientists consider among the last wild ecosystems untouched by humans have been declared new sanctuaries.",
+   "why": "Protecting nearly pristine reefs is a lasting gain for marine life.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/two-of-last-wild-ecosystems-untouched-by-humans-declared-new-sanctuaries/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Pacific Ocean",
+   "published": "2026-11-14T16:16:07Z",
+   "continent": "Oceania",
+   "added": "2026-11-15T05:14:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Dos atols remots del Pacífic declarats santuaris",
+     "summary": "Dos dels atols de corall del Pacífic que els científics consideren entre els últims ecosistemes salvatges no tocats pels humans han estat declarats nous santuaris.",
+     "why": "Protegir esculls gairebé prístins és un guany durador per a la vida marina."
+    },
+    "fr": {
+     "title": "Deux atolls isolés du Pacifique déclarés sanctuaires",
+     "summary": "Deux des atolls coralliens du Pacifique que les scientifiques considèrent parmi les derniers écosystèmes sauvages non touchés par l'homme ont été déclarés nouveaux sanctuaires.",
+     "why": "La protection de récifs presque vierges est un gain durable pour la vie marine."
+    },
+    "ru": {
+     "title": "Два удалённых атолла в Тихом океане объявлены заповедниками",
+     "summary": "Два коралловых атолла Тихого океана, которые учёные считают одними из последних диких экосистем, не затронутых человеком, объявлены новыми заповедниками.",
+     "why": "Защита почти нетронутых рифов — долгосрочное достижение для морской жизни."
+    }
+   }
+  },
+  {
+   "id": "sd-stanford-team-finds-brain-signals-that-may-predict-alzhei",
+   "title": "Stanford team finds brain signals that may predict Alzheimer's early",
+   "summary": "Stanford researchers found brain activity patterns that may flag Alzheimer's risk years before symptoms appear, earlier than current tools.",
+   "why": "Promising for early detection, but still early research.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+   "score": 6,
+   "category": "Health",
+   "region": "United States",
+   "published": "2026-11-14T12:25:05Z",
+   "continent": "North America",
+   "added": "2026-11-15T05:14:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Un equip de Stanford troba senyals cerebrals que podrien predir l'Alzheimer de forma precoç",
+     "summary": "Investigadors de Stanford han trobat patrons d'activitat cerebral que podrien indicar el risc d'Alzheimer anys abans de l'aparició dels símptomes, més aviat que les eines actuals.",
+     "why": "Prometedor per a la detecció precoç, però encara es tracta de recerca inicial."
+    },
+    "fr": {
+     "title": "Une équipe de Stanford découvre des signaux cérébraux pouvant prédire Alzheimer à un stade précoce",
+     "summary": "Des chercheurs de Stanford ont identifié des schémas d'activité cérébrale susceptibles de signaler un risque d'Alzheimer des années avant l'apparition des symptômes, plus tôt que les outils actuels.",
+     "why": "Prometteur pour la détection précoce, mais la recherche en est encore à ses débuts."
+    },
+    "ru": {
+     "title": "Исследователи из Стэнфорда нашли сигналы мозга, которые могут предсказать болезнь Альцгеймера на ранней стадии",
+     "summary": "Стэнфордские исследователи обнаружили паттерны активности мозга, которые могут указывать на риск болезни Альцгеймера за годы до появления симптомов, раньше, чем существующие инструменты.",
+     "why": "Перспективно для раннего выявления, но исследования пока на начальном этапе."
+    }
+   }
+  },
+  {
+   "id": "mb-south-african-court-blocks-planned-coal-power-plants",
+   "title": "South African court blocks planned coal power plants",
+   "summary": "South Africa's Supreme Court of Appeal upheld a ruling striking down plans for 1,500 MW of new coal-fired power capacity.",
+   "why": "Avoids new coal emissions, though the project could return in other forms.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/south-african-court-dismisses-appeal-over-planned-coal-fired-power-plants/",
+   "score": 7,
+   "category": "Energy",
+   "region": "South Africa",
+   "published": "2026-11-13T23:09:35Z",
+   "continent": "Africa",
+   "added": "2026-11-15T05:14:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Un tribunal sud-africà bloqueja les centrals de carbó previstes",
+     "summary": "El Tribunal Suprem d'Apel de Sud-àfrica ha confirmat una resolució que anul·la els plans de 1.500 MW de nova capacitat d'energia de carbó.",
+     "why": "Evita noves emissions de carbó, tot i que el projecte podria tornar en altres formes."
+    },
+    "fr": {
+     "title": "Un tribunal sud-africain bloque des centrales à charbon prévues",
+     "summary": "La Cour suprême d'appel d'Afrique du Sud a confirmé une décision annulant les projets de 1 500 MW de nouvelle capacité électrique au charbon.",
+     "why": "Évite de nouvelles émissions liées au charbon, même si le projet pourrait revenir sous d'autres formes."
+    },
+    "ru": {
+     "title": "Суд ЮАР заблокировал строительство новых угольных электростанций",
+     "summary": "Верховный апелляционный суд ЮАР подтвердил решение, отменяющее планы строительства новых угольных мощностей общей мощностью 1500 МВт.",
+     "why": "Позволяет избежать новых выбросов от угля, хотя проект может вернуться в другом виде."
+    }
+   }
+  },
+  {
+   "id": "mb-honduras-declares-36-month-emergency-in-rio-platano-reser",
+   "title": "Honduras declares 36-month emergency in Rio Platano reserve",
+   "summary": "A presidential decree launches a 36-month environmental emergency in Rio Platano Biosphere Reserve, Honduras's largest protected area.",
+   "why": "Action for a threatened reserve, but outcomes depend on enforcement.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/honduras-declares-environmental-emergency-in-rio-platano-biosphere-reserve/",
+   "score": 5,
+   "category": "Environment",
+   "region": "Honduras",
+   "published": "2026-11-13T18:42:57Z",
+   "continent": "North America",
+   "added": "2026-11-15T05:14:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Hondures declara una emergència ambiental de 36 mesos a la reserva del Río Plátano",
+     "summary": "Un decret presidencial posa en marxa una emergència ambiental de 36 mesos a la Reserva de la Biosfera del Río Plátano, l'àrea protegida més gran d'Hondures.",
+     "why": "Una acció per a una reserva amenaçada, però els resultats depenen de com s'apliqui."
+    },
+    "fr": {
+     "title": "Le Honduras décrète une urgence environnementale de 36 mois dans la réserve du Río Plátano",
+     "summary": "Un décret présidentiel lance une urgence environnementale de 36 mois dans la réserve de biosphère du Río Plátano, la plus grande aire protégée du Honduras.",
+     "why": "Une action en faveur d'une réserve menacée, mais les résultats dépendront de son application."
+    },
+    "ru": {
+     "title": "Гондурас объявил 36-месячную чрезвычайную экологическую ситуацию в заповеднике Рио-Платано",
+     "summary": "Президентский декрет вводит 36-месячную чрезвычайную экологическую ситуацию в биосферном заповеднике Рио-Платано — крупнейшей охраняемой территории Гондураса.",
+     "why": "Меры для находящегося под угрозой заповедника, но результаты зависят от их исполнения."
+    }
+   }
+  },
   {
    "id": "an-nigeria-ebola-contacts-clear-monitoring",
    "title": "Nigeria reports no Ebola spread after imported case",
@@ -79,6 +203,37 @@
    }
   },
   {
+   "id": "an-swiss-hospital-discharges-ebola-patient-after-treatment",
+   "title": "Swiss hospital discharges Ebola patient after treatment",
+   "summary": "A Swiss woman infected with the Ebola strain linked to the DR Congo outbreak was discharged after successful treatment.",
+   "why": "A good outcome for one patient amid a wider outbreak.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/13/swiss-hospital-discharges-ebola-patient-after-successful-treatment/",
+   "score": 6,
+   "category": "Health",
+   "region": "Switzerland",
+   "published": "2026-11-13T11:31:24Z",
+   "continent": "Europe",
+   "added": "2026-11-15T05:14:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Un hospital suís dona d'alta una pacient d'ebola després del tractament",
+     "summary": "Una dona suïssa infectada per la soca d'ebola vinculada al brot de la RD del Congo ha rebut l'alta després d'un tractament satisfactori.",
+     "why": "Un bon resultat per a una pacient en el context d'un brot més ampli."
+    },
+    "fr": {
+     "title": "Un hôpital suisse libère une patiente atteinte d'Ebola après son traitement",
+     "summary": "Une Suissesse infectée par la souche d'Ebola liée à l'épidémie en RD Congo a quitté l'hôpital après un traitement réussi.",
+     "why": "Une bonne issue pour une patiente, dans le contexte d'une épidémie plus large."
+    },
+    "ru": {
+     "title": "Швейцарская больница выписала пациентку с Эболой после успешного лечения",
+     "summary": "Швейцарка, инфицированная штаммом Эболы, связанным со вспышкой в ДР Конго, выписана после успешного лечения.",
+     "why": "Хороший исход для одной пациентки на фоне более широкой вспышки."
+    }
+   }
+  },
+  {
    "id": "tbi-bengaluru-startup-turns-office-acs-into-air-purifiers",
    "title": "Bengaluru startup converts office air conditioners into air purifiers",
    "summary": "Clairco, a Bengaluru startup, retrofits office air conditioners to purify air. The company says its technology benefits around 1.5 million people.",
@@ -137,6 +292,37 @@
      "title": "Американские избиратели одобрили 27 миллиардов долларов на общественный транспорт",
      "summary": "3 ноября избиратели одобрили 22 из 27 транспортных инициатив, вынесенных на голосование, на общую сумму около 27,4 миллиарда долларов на ремонт и расширение транспортных систем.",
      "why": "Широкое финансирование общественного транспорта, хотя его реализация зависит от чиновников."
+    }
+   }
+  },
+  {
+   "id": "tbi-dehradun-founders-build-pocket-sized-ecg-device",
+   "title": "Dehradun founders build pocket-sized ECG device",
+   "summary": "Sunfox Technologies built Spandan, a smartphone-connected ECG device that gives a heart reading in about two minutes, aimed at rural India.",
+   "why": "Low-cost diagnostics can widen access to heart checks.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/health-care/sunfox-spandan-portable-ecg-device-rural-india-12804214",
+   "score": 6,
+   "category": "Health",
+   "region": "Uttarakhand, India",
+   "published": "2026-11-13T02:30:37Z",
+   "continent": "Asia",
+   "added": "2026-11-15T05:14:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Fundadors de Dehradun creen un electrocardiograma de butxaca",
+     "summary": "Sunfox Technologies ha creat Spandan, un dispositiu d'electrocardiograma connectat al mòbil que obté una lectura del cor en uns dos minuts, pensat per a les zones rurals de l'Índia.",
+     "why": "Els diagnòstics de baix cost poden ampliar l'accés a les revisions del cor."
+    },
+    "fr": {
+     "title": "Des fondateurs de Dehradun mettent au point un électrocardiographe de poche",
+     "summary": "Sunfox Technologies a conçu Spandan, un appareil ECG connecté à un smartphone qui fournit une lecture cardiaque en environ deux minutes, destiné aux zones rurales de l'Inde.",
+     "why": "Des diagnostics à faible coût peuvent élargir l'accès aux contrôles cardiaques."
+    },
+    "ru": {
+     "title": "Основатели из Дехрадуна создали карманное устройство для ЭКГ",
+     "summary": "Компания Sunfox Technologies разработала Spandan — подключаемое к смартфону устройство ЭКГ, которое за около двух минут снимает показания сердца и предназначено для сельских районов Индии.",
+     "why": "Недорогая диагностика может расширить доступ к проверкам сердца."
     }
    }
   },
@@ -265,6 +451,68 @@
    }
   },
   {
+   "id": "mb-taiwan-tea-growers-turn-to-natural-cultivation-as-climate",
+   "title": "Taiwan tea growers turn to natural cultivation as climate shifts",
+   "summary": "Alishan oolong growers are moving away from chemical inputs toward natural and wild cultivation to adapt to climate change.",
+   "why": "A community adapting in a way that benefits the land.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/taiwans-tea-growers-adapt-to-climate-change-by-letting-nature-take-control/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Taiwan",
+   "published": "2026-11-12T15:13:38Z",
+   "continent": "Asia",
+   "added": "2026-11-15T05:14:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Els productors de te de Taiwan opten pel cultiu natural davant el canvi climàtic",
+     "summary": "Els productors d'oolong d'Alishan s'allunyen dels insums químics i avancen cap al cultiu natural i silvestre per adaptar-se al canvi climàtic.",
+     "why": "Una comunitat que s'adapta d'una manera que beneficia la terra."
+    },
+    "fr": {
+     "title": "Les producteurs de thé de Taïwan optent pour la culture naturelle face au changement climatique",
+     "summary": "Les producteurs de thé oolong d'Alishan abandonnent les intrants chimiques au profit d'une culture naturelle et sauvage pour s'adapter au changement climatique.",
+     "why": "Une communauté qui s'adapte d'une manière bénéfique pour les terres."
+    },
+    "ru": {
+     "title": "Чайные производители Тайваня переходят к натуральному выращиванию из-за изменения климата",
+     "summary": "Производители улуна из Алишани отказываются от химических средств в пользу естественного и дикорастущего выращивания, чтобы адаптироваться к изменению климата.",
+     "why": "Сообщество, которое адаптируется способом, полезным для земли."
+    }
+   }
+  },
+  {
+   "id": "am-zinc-air-battery-uses-vitamin-b12",
+   "title": "Zinc-air battery uses vitamin B12",
+   "summary": "University of Cordoba researchers built a rechargeable zinc-air battery that uses vitamin B12 in its chemistry.",
+   "why": "Early lab result; real-world use is not yet shown.",
+   "source": "Anthropocene Magazine",
+   "url": "https://www.anthropocenemagazine.org/2026/11/this-battery-runs-on-vitamin-b12/?utm_source=rss&utm_medium=rss&utm_campaign=this-battery-runs-on-vtaimin-b12",
+   "score": 5,
+   "category": "Energy",
+   "region": "Spain",
+   "published": "2026-11-12T13:00:16Z",
+   "continent": "Europe",
+   "added": "2026-11-15T05:14:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Una bateria de zinc-aire utilitza vitamina B12",
+     "summary": "Investigadors de la Universitat de Còrdova han construït una bateria recarregable de zinc-aire que utilitza vitamina B12 en la seva química.",
+     "why": "Resultat inicial de laboratori; encara no es mostra l'ús en el món real."
+    },
+    "fr": {
+     "title": "Une batterie zinc-air utilise la vitamine B12",
+     "summary": "Des chercheurs de l'université de Cordoue ont conçu une batterie zinc-air rechargeable qui utilise la vitamine B12 dans sa chimie.",
+     "why": "Résultat de laboratoire préliminaire ; l'usage concret n'est pas encore démontré."
+    },
+    "ru": {
+     "title": "В цинк-воздушной батарее используется витамин B12",
+     "summary": "Исследователи Кордовского университета создали перезаряжаемую цинк-воздушную батарею, в химии которой используется витамин B12.",
+     "why": "Ранний лабораторный результат; практическое применение пока не показано."
+    }
+   }
+  },
+  {
    "id": "sd-ai-model-improves-brain-implant-vision",
    "title": "AI model improves predictions for brain-implant vision",
    "summary": "Researchers used AI to model how one blind man's brain responds to electrical stimulation, improving predictions of the flashes and shapes he sees through a brain implant.",
@@ -296,6 +544,99 @@
    }
   },
   {
+   "id": "sd-perseverance-finds-complex-organic-carbon-in-ancient-mart",
+   "title": "Perseverance finds complex organic carbon in ancient Martian rock",
+   "summary": "NASA's Perseverance rover confirmed complex organic carbon just beneath the surface of ancient Martian rocks, a key ingredient for life.",
+   "why": "Interesting science, but it does not yet show life.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-11-12T11:37:06Z",
+   "continent": "Global",
+   "added": "2026-11-15T05:14:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Perseverance troba carboni orgànic complex en roca marciana antiga",
+     "summary": "El rover Perseverance de la NASA ha confirmat carboni orgànic complex just sota la superfície de roques marcianes antigues, un ingredient clau per a la vida.",
+     "why": "Ciència interessant, però encara no mostra vida."
+    },
+    "fr": {
+     "title": "Perseverance découvre du carbone organique complexe dans une ancienne roche martienne",
+     "summary": "Le rover Perseverance de la NASA a confirmé la présence de carbone organique complexe juste sous la surface d'anciennes roches martiennes, un ingrédient clé pour la vie.",
+     "why": "Science intéressante, mais qui ne montre pas encore la vie."
+    },
+    "ru": {
+     "title": "Perseverance обнаружил сложный органический углерод в древней марсианской породе",
+     "summary": "Марсоход NASA Perseverance подтвердил наличие сложного органического углерода непосредственно под поверхностью древних марсианских пород — ключевого компонента для жизни.",
+     "why": "Интересная наука, но пока не доказывает наличие жизни."
+    }
+   }
+  },
+  {
+   "id": "sd-familiar-tropical-butterfly-turns-out-to-be-three-species",
+   "title": "Familiar tropical butterfly turns out to be three species",
+   "summary": "Genetic analysis showed a well-known tropical butterfly is actually three nearly identical species, one of them previously unknown to science.",
+   "why": "A modest but useful advance in understanding biodiversity.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261110042556.htm",
+   "score": 5,
+   "category": "Animals",
+   "region": "Tropics",
+   "published": "2026-11-12T10:47:43Z",
+   "continent": "Global",
+   "added": "2026-11-15T05:14:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Una papallona tropical coneguda resulta ser tres espècies",
+     "summary": "L'anàlisi genètica ha demostrat que una papallona tropical ben coneguda són en realitat tres espècies gairebé idèntiques, una d'elles desconeguda fins ara per la ciència.",
+     "why": "Un avenç modest però útil per comprendre la biodiversitat."
+    },
+    "fr": {
+     "title": "Un papillon tropical familier se révèle être trois espèces",
+     "summary": "L'analyse génétique a montré qu'un papillon tropical bien connu correspond en fait à trois espèces presque identiques, dont une était jusqu'ici inconnue de la science.",
+     "why": "Une avancée modeste mais utile pour la compréhension de la biodiversité."
+    },
+    "ru": {
+     "title": "Известная тропическая бабочка оказалась тремя видами",
+     "summary": "Генетический анализ показал, что хорошо известная тропическая бабочка на самом деле представляет собой три практически неотличимых вида, один из которых ранее был неизвестен науке.",
+     "why": "Скромный, но полезный шаг в понимании биоразнообразия."
+    }
+   }
+  },
+  {
+   "id": "tbi-assam-restricts-drones-near-amur-falcon-roosts",
+   "title": "Assam restricts drones near Amur falcon roosts",
+   "summary": "Assam's Forest Department restricted unauthorised drone operations near Amur falcon roosts to keep the birds' migration undisturbed.",
+   "why": "A practical protection for migratory birds.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/wildlife/assam-amur-falcon-roosts-drone-restrictions-migratory-birds-12803487",
+   "score": 6,
+   "category": "Animals",
+   "region": "Assam, India",
+   "published": "2026-11-12T09:33:59Z",
+   "continent": "Asia",
+   "added": "2026-11-15T05:14:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Assam restringeix els drons prop dels dormidors del falcó d'Amur",
+     "summary": "El Departament Forestal d'Assam ha restringit les operacions de drons no autoritzades prop dels dormidors del falcó d'Amur per no pertorbar la migració dels ocells.",
+     "why": "Una protecció pràctica per a les aus migratòries."
+    },
+    "fr": {
+     "title": "L'Assam restreint les drones près des dortoirs des faucons d'Amour",
+     "summary": "Le département des forêts de l'Assam a restreint les vols de drones non autorisés à proximité des dortoirs des faucons d'Amour afin de préserver la migration des oiseaux.",
+     "why": "Une protection concrète pour les oiseaux migrateurs."
+    },
+    "ru": {
+     "title": "В Ассаме ограничили полёты дронов вблизи мест ночёвки амурских соколов",
+     "summary": "Лесное управление штата Ассам ограничило несанкционированные полёты дронов вблизи мест ночёвки амурских соколов, чтобы не нарушать их миграцию.",
+     "why": "Практическая мера защиты перелётных птиц."
+    }
+   }
+  },
+  {
    "id": "od-los-angeles-bans-new-oil-drilling",
    "title": "Los Angeles bans new oil drilling and phases out existing wells",
    "summary": "The city council banned new oil drilling and will phase out existing operations within city limits over 20 years, after a decade of pressure from nearby residents.",
@@ -323,6 +664,99 @@
      "title": "Лос-Анджелес запрещает новое бурение нефтяных скважин и поэтапно закроет действующие",
      "summary": "Городской совет запретил новое бурение нефтяных скважин и в течение 20 лет поэтапно прекратит действующие разработки в черте города, после десятилетнего давления со стороны жителей соседних кварталов.",
      "why": "Существенная выгода для здоровья и климата в районах рядом со скважинами при длительном поэтапном отказе от добычи."
+    }
+   }
+  },
+  {
+   "id": "mb-historic-ocean-liner-sunk-to-create-giant-artificial-reef",
+   "title": "Historic ocean liner sunk to create giant artificial reef",
+   "summary": "The former liner SS United States was scuttled off Florida's Panhandle to form what is described as the largest artificial reef.",
+   "why": "Offers new marine habitat, though artificial reefs have trade-offs.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/this-ocean-liner-was-the-worlds-fastest-its-being-sunk-to-make-the-largest-artificial-reef/",
+   "score": 5,
+   "category": "Environment",
+   "region": "Florida, United States",
+   "published": "2026-11-11T22:10:05Z",
+   "continent": "North America",
+   "added": "2026-11-15T05:14:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Un antic transatlàntic enfonsat per crear un gran escull artificial",
+     "summary": "L'antic transatlàntic SS United States ha estat enfonsat davant del Panhandle de Florida per formar el que es descriu com el major escull artificial.",
+     "why": "Ofereix un nou hàbitat marí, tot i que els esculls artificials tenen contrapartides."
+    },
+    "fr": {
+     "title": "Un paquebot historique coulé pour créer le plus grand récif artificiel",
+     "summary": "L'ancien paquebot SS United States a été coulé au large du Panhandle de Floride pour former ce qui est décrit comme le plus grand récif artificiel.",
+     "why": "Offre un nouvel habitat marin, bien que les récifs artificiels présentent des compromis."
+    },
+    "ru": {
+     "title": "Исторический океанский лайнер затоплен для создания крупнейшего искусственного рифа",
+     "summary": "Бывший лайнер SS United States затоплен у побережья Панхэндла штата Флорида, чтобы создать то, что описывается как крупнейший искусственный риф.",
+     "why": "Создаёт новую морскую среду обитания, хотя у искусственных рифов есть свои компромиссы."
+    }
+   }
+  },
+  {
+   "id": "gnn-about-280-ice-age-engravings-found-in-spanish-caves",
+   "title": "About 280 Ice Age engravings found in Spanish caves",
+   "summary": "Researchers identified roughly 280 Ice Age engravings on Spain's Mediterranean side, reportedly the third-largest such collection in the country, long overlooked by visitors.",
+   "why": "An interesting heritage discovery with limited wider impact.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/for-centuries-visitors-walked-right-by-280-unseen-ice-age-cave-paintings/",
+   "score": 5,
+   "category": "Culture",
+   "region": "Spain",
+   "published": "2026-11-11T19:30:10Z",
+   "continent": "Europe",
+   "added": "2026-11-15T05:14:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Unes 280 gravats de l'Edat de Gel trobats en coves espanyoles",
+     "summary": "Els investigadors han identificat unes 280 gravats de l'Edat de Gel a la banda mediterrània d'Espanya; segons els informes, és la tercera col·lecció més gran del país, i els visitants l'havien passat per alt durant molt de temps.",
+     "why": "Un descobriment patrimonial interessant amb un impacte més ampli limitat."
+    },
+    "fr": {
+     "title": "Environ 280 gravures de l'âge de glace découvertes dans des grottes espagnoles",
+     "summary": "Des chercheurs ont identifié environ 280 gravures de l'âge de glace sur le versant méditerranéen de l'Espagne. Selon les informations, il s'agit de la troisième collection de ce type du pays, longtemps négligée par les visiteurs.",
+     "why": "Une découverte patrimoniale intéressante, à portée plus large limitée."
+    },
+    "ru": {
+     "title": "Около 280 гравюр эпохи ледникового периода найдены в испанских пещерах",
+     "summary": "Исследователи выявили около 280 гравюр эпохи ледникового периода на средиземноморском побережье Испании. По данным, это третья по величине подобная коллекция в стране, которую долгое время не замечали посетители.",
+     "why": "Интересное открытие в области наследия с ограниченным более широким значением."
+    }
+   }
+  },
+  {
+   "id": "mb-two-new-amazonian-howler-monkey-species-described",
+   "title": "Two new Amazonian howler monkey species described",
+   "summary": "A genomic study formally describes two previously unrecognised species of Amazonian red howler monkeys.",
+   "why": "Better recognition of species helps conservation planning.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/genetic-study-describes-two-new-species-of-amazonian-howler-monkeys/",
+   "score": 6,
+   "category": "Animals",
+   "region": "Amazon, Brazil",
+   "published": "2026-11-11T17:26:42Z",
+   "continent": "South America",
+   "added": "2026-11-15T05:14:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Descrites dues noves espècies de mico udol amazònic",
+     "summary": "Un estudi genòmic descriu formalment dues espècies de micos udols vermells amazònics fins ara no reconegudes.",
+     "why": "Un millor reconeixement de les espècies ajuda a planificar la conservació."
+    },
+    "fr": {
+     "title": "Deux nouvelles espèces de singes hurleurs amazoniens décrites",
+     "summary": "Une étude génomique décrit officiellement deux espèces de singes hurleurs roux d'Amazonie jusqu'alors non reconnues.",
+     "why": "Une meilleure reconnaissance des espèces facilite la planification de la conservation."
+    },
+    "ru": {
+     "title": "Описаны два новых вида амазонских ревунов",
+     "summary": "Геномное исследование официально описывает два ранее не признанных вида амазонских рыжих ревунов.",
+     "why": "Лучшее признание видов помогает планировать природоохранные меры."
     }
    }
   },
@@ -447,6 +881,37 @@
      "title": "Озоновая дыра над Антарктикой — седьмая по величине за всю историю наблюдений",
      "summary": "Озоновая дыра 2026 года выросла до седьмого по величине размера за всю историю наблюдений под влиянием необычных погодных условий. Учёные говорят, что ограничения на разрушающие озон вещества помогли избежать более серьёзного ущерба.",
      "why": "Большая дыра, однако заслуга в её ограничении принадлежит долгосрочному международному договору."
+    }
+   }
+  },
+  {
+   "id": "tbi-goa-town-composts-one-tonne-of-kitchen-waste-in-two-days",
+   "title": "Goa town composts one tonne of kitchen waste in two days",
+   "summary": "A BARC scientist's Nisargruna technology turns one tonne of kitchen scraps into compost in two days, as shown in a Goa town.",
+   "why": "A working local solution to organic waste.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/technology/sharad-kale-nisargruna-kitchen-waste-composting-bicholim-goa-12800983",
+   "score": 7,
+   "category": "Environment",
+   "region": "Goa, India",
+   "published": "2026-11-11T11:30:37Z",
+   "continent": "Asia",
+   "added": "2026-11-15T05:14:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Un municipi de Goa composta una tona de residus de cuina en dos dies",
+     "summary": "La tecnologia Nisargruna, d'un científic del BARC, converteix una tona de restes de cuina en compost en dos dies, tal com s'ha mostrat en un municipi de Goa.",
+     "why": "Una solució local que funciona per als residus orgànics."
+    },
+    "fr": {
+     "title": "Une ville de Goa composte une tonne de déchets de cuisine en deux jours",
+     "summary": "La technologie Nisargruna d'un scientifique du BARC transforme une tonne de déchets de cuisine en compost en deux jours, comme le montre une ville de Goa.",
+     "why": "Une solution locale efficace pour les déchets organiques."
+    },
+    "ru": {
+     "title": "Город в Гоа за два дня перерабатывает тонну пищевых отходов в компост",
+     "summary": "Технология Nisargruna, разработанная учёным из BARC, превращает тонну пищевых отходов в компост за два дня, как показано на примере одного из городков штата Гоа.",
+     "why": "Работающее местное решение проблемы органических отходов."
     }
    }
   },
