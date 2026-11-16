@@ -1,7 +1,6 @@
 {
- "updated": "2026-11-15T05:14:01Z",
+ "updated": "2026-11-16T05:13:21Z",
  "sources": [
-  "Positive News",
   "Good News Network",
   "Reasons to be Cheerful",
   "ScienceDaily",
@@ -12,10 +11,258 @@
   "Grist",
   "Africanews"
  ],
- "count": 45,
- "last_run": "run-20261115T0514Z.json",
- "note": "15 new, 15 skipped, 0 pruned, 0 translations added, failed feeds: none",
+ "count": 60,
+ "last_run": "run-20261116T0513Z.json",
+ "note": "15 new, 30 skipped, 0 pruned, 0 translations added, failed feeds: none",
  "stories": [
+  {
+   "id": "tbi-tomato-waste-leather-startup",
+   "title": "Indian startup makes leather alternative from tomato waste",
+   "summary": "The Bio Company turns discarded tomatoes into a material that can replace animal leather.",
+   "why": "An early-stage startup, but it reuses waste and avoids animal leather.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/web-stories/startup/tomato-waste-sustainable-leather-the-bio-company-pritesh-mistry-12807207",
+   "score": 6,
+   "category": "Environment",
+   "region": "India",
+   "published": "2026-11-16T04:06:56Z",
+   "continent": "Asia",
+   "added": "2026-11-16T05:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Una startup índia fa una alternativa al cuir a partir de residus de tomàquet",
+     "summary": "The Bio Company transforma els tomàquets descartats en un material que pot substituir el cuir animal.",
+     "why": "Una startup en fase inicial, però que aprofita residus i evita el cuir animal."
+    },
+    "fr": {
+     "title": "Une start-up indienne fabrique une alternative au cuir à partir de déchets de tomates",
+     "summary": "The Bio Company transforme les tomates jetées en un matériau pouvant remplacer le cuir animal.",
+     "why": "Une start-up en phase de démarrage, mais qui valorise des déchets et évite le cuir animal."
+    },
+    "ru": {
+     "title": "Индийский стартап создаёт альтернативу коже из томатных отходов",
+     "summary": "The Bio Company перерабатывает выброшенные помидоры в материал, который может заменить натуральную кожу животных.",
+     "why": "Стартап на ранней стадии, но он использует отходы и не требует животной кожи."
+    }
+   }
+  },
+  {
+   "id": "od-tourettes-wrist-device-trial",
+   "title": "Wrist device cut Tourette's tics by a quarter in UK trial",
+   "summary": "A trial with 121 people found that the Neupulse prototype wrist device reduced tic frequency by about 25 percent.",
+   "why": "A modest, drug-free benefit from a prototype in a small trial.",
+   "source": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/11/this-tourettes-wrist-device-cut-tics-by-a-quarter-in-a-uk-trial/",
+   "score": 6,
+   "category": "Health",
+   "region": "United Kingdom",
+   "published": "2026-11-16T00:00:57Z",
+   "continent": "Europe",
+   "added": "2026-11-16T05:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Un dispositiu de polsera redueix un quart els tics de Tourette en un assaig al Regne Unit",
+     "summary": "Un assaig amb 121 persones ha constatat que el prototip de polsera Neupulse redueix la freqüència dels tics aproximadament un 25 per cent.",
+     "why": "Un benefici modest i sense fàrmacs, obtingut amb un prototip en un assaig petit."
+    },
+    "fr": {
+     "title": "Un bracelet réduit d'un quart les tics liés au syndrome de Gilles de la Tourette, selon un essai britannique",
+     "summary": "Un essai portant sur 121 personnes a montré que le prototype de bracelet Neupulse réduit la fréquence des tics d'environ 25 %.",
+     "why": "Un bénéfice modeste et sans médicament, obtenu avec un prototype lors d'un essai de petite taille."
+    },
+    "ru": {
+     "title": "Браслет на запястье сократил тики при синдроме Туретта на четверть в испытании в Великобритании",
+     "summary": "Испытание с участием 121 человека показало, что прототип браслета Neupulse снижает частоту тиков примерно на 25 процентов.",
+     "why": "Умеренная польза без лекарств, полученная с помощью прототипа в небольшом испытании."
+    }
+   }
+  },
+  {
+   "id": "gnn-sf-parks-100m-gift",
+   "title": "San Francisco receives $100 million gift for public parks",
+   "summary": "Airbnb co-founder Brian Chesky announced a $100 million donation to the city's parks, the largest single-donor gift San Francisco has received.",
+   "why": "A large philanthropic gift will improve shared green space.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/san-francisco-gets-100m-gift-for-public-parks-from-airbnb-ceo/",
+   "score": 7,
+   "category": "Society",
+   "region": "San Francisco, USA",
+   "published": "2026-11-15T15:36:21Z",
+   "continent": "North America",
+   "added": "2026-11-16T05:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "San Francisco rep una donació de 100 milions de dòlars per als parcs públics",
+     "summary": "El cofundador d'Airbnb, Brian Chesky, ha anunciat una donació de 100 milions de dòlars per als parcs de la ciutat, la donació individual més gran que ha rebut San Francisco.",
+     "why": "Una gran donació filantròpica millorarà els espais verds compartits."
+    },
+    "fr": {
+     "title": "San Francisco reçoit un don de 100 millions de dollars pour ses parcs publics",
+     "summary": "Brian Chesky, cofondateur d'Airbnb, a annoncé un don de 100 millions de dollars en faveur des parcs de la ville, le plus important don unique jamais reçu par San Francisco.",
+     "why": "Un important don philanthropique améliorera les espaces verts partagés."
+    },
+    "ru": {
+     "title": "Сан-Франциско получил пожертвование в размере 100 миллионов долларов на городские парки",
+     "summary": "Соучредитель Airbnb Брайан Четски объявил о пожертвовании в 100 миллионов долларов в пользу городских парков — это крупнейшее пожертвование одного донора, которое когда-либо получал Сан-Франциско.",
+     "why": "Крупное благотворительное пожертвование улучшит общественные зелёные зоны."
+    }
+   }
+  },
+  {
+   "id": "tbi-pune-tree-mapping-volunteers",
+   "title": "Pune residents map riverside trees to protect urban greenery",
+   "summary": "Volunteers use phone apps and measuring tapes to document trees along Pune's rivers, building evidence to support conservation.",
+   "why": "Citizen-led data can strengthen the case for protecting city trees.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/conservation/nature/pune-tree-mapping-citizen-scientists-urban-tree-conservation-12807121",
+   "score": 6,
+   "category": "Environment",
+   "region": "Pune, India",
+   "published": "2026-11-15T08:03:06Z",
+   "continent": "Asia",
+   "added": "2026-11-16T05:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Veïns de Pune cartografien els arbres de les ribes per protegir el verd urbà",
+     "summary": "Voluntaris fan servir aplicacions al mòbil i cintes mètriques per documentar els arbres al llarg dels rius de Pune i reunir proves que donin suport a la conservació.",
+     "why": "Les dades recollides per la ciutadania poden reforçar l'argument a favor de protegir els arbres de la ciutat."
+    },
+    "fr": {
+     "title": "Des habitants de Pune recensent les arbres des berges pour protéger la végétation urbaine",
+     "summary": "Des bénévoles utilisent des applications mobiles et des mètres ruban pour documenter les arbres le long des rivières de Pune, afin de constituer des preuves à l'appui de la conservation.",
+     "why": "Des données collectées par des citoyens peuvent renforcer l'argument en faveur de la protection des arbres urbains."
+    },
+    "ru": {
+     "title": "Жители Пуны составляют карту деревьев на берегах рек, чтобы защитить городскую зелень",
+     "summary": "Волонтёры используют приложения для телефона и рулетки, чтобы документировать деревья вдоль рек Пуны и собирать доказательства в поддержку охраны природы.",
+     "why": "Данные, собранные силами местных жителей, могут укрепить аргументы в пользу защиты городских деревьев."
+    }
+   }
+  },
+  {
+   "id": "sd-erect-crested-penguin-survey",
+   "title": "Drone survey finds puzzling trend in endangered Erect-crested penguins",
+   "summary": "A drone count in New Zealand found that one population of the endangered penguins is behaving in a surprising way, giving scientists new data.",
+   "why": "Better monitoring helps conservation, though the finding is not clearly positive.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm",
+   "score": 5,
+   "category": "Animals",
+   "region": "New Zealand",
+   "published": "2026-11-15T03:42:52Z",
+   "continent": "Oceania",
+   "added": "2026-11-16T05:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Un estudi amb drons revela una tendència sorprenent en els pingüins de cresta erecta, en perill",
+     "summary": "Un recompte amb drons a Nova Zelanda ha constatat que una població d'aquests pingüins, catalogats com a en perill, es comporta de manera sorprenent, cosa que aporta noves dades als científics.",
+     "why": "Un seguiment més precís ajuda la conservació, tot i que la troballa no és clarament positiva."
+    },
+    "fr": {
+     "title": "Un relevé par drone met en évidence une tendance déroutante chez le gorfou de Sclater, espèce menacée",
+     "summary": "Un comptage par drone en Nouvelle-Zélande a montré qu'une population de ces gorfous, une espèce en danger, se comporte de façon surprenante, fournissant de nouvelles données aux scientifiques.",
+     "why": "Un meilleur suivi aide la conservation, même si la découverte n'est pas clairement positive."
+    },
+    "ru": {
+     "title": "Съёмка с дронов выявила загадочную тенденцию у исчезающих пингвинов Склейтера",
+     "summary": "Подсчёт с помощью дронов в Новой Зеландии показал, что одна популяция этих находящихся под угрозой пингвинов ведёт себя неожиданно, что дало учёным новые данные.",
+     "why": "Более точный мониторинг помогает охране природы, хотя результат нельзя однозначно назвать положительным."
+    }
+   }
+  },
+  {
+   "id": "tbi-shelkewadi-zero-electricity-bill",
+   "title": "Maharashtra village cuts electricity bills using biogas and solar",
+   "summary": "Shelkewadi in Kolhapur district relies on biogas, solar power and related systems to avoid electricity costs.",
+   "why": "A community-scale clean energy example others could copy.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/videos/reality-of-maharashtras-pink-village-zero-electricity-bill-shocking-12810594",
+   "score": 7,
+   "category": "Energy",
+   "region": "Maharashtra, India",
+   "published": "2026-11-15T03:30:04Z",
+   "continent": "Asia",
+   "added": "2026-11-16T05:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Un poble de Maharashtra redueix les factures d'electricitat amb biogàs i energia solar",
+     "summary": "Shelkewadi, al districte de Kolhapur, depèn del biogàs, de l'energia solar i de sistemes relacionats per evitar els costos d'electricitat.",
+     "why": "Un exemple d'energia neta a escala comunitària que altres podrien copiar."
+    },
+    "fr": {
+     "title": "Un village du Maharashtra réduit ses factures d'électricité grâce au biogaz et au solaire",
+     "summary": "Shelkewadi, dans le district de Kolhapur, s'appuie sur le biogaz, l'énergie solaire et des systèmes associés pour éviter les dépenses d'électricité.",
+     "why": "Un exemple d'énergie propre à l'échelle communautaire que d'autres pourraient reproduire."
+    },
+    "ru": {
+     "title": "Деревня в Махараштре сокращает счета за электроэнергию благодаря биогазу и солнечной энергии",
+     "summary": "Шелкевади в округе Колхапур использует биогаз, солнечную энергию и связанные с ними системы, чтобы избежать расходов на электроэнергию.",
+     "why": "Пример чистой энергетики в масштабах общины, который могут перенять другие."
+    }
+   }
+  },
+  {
+   "id": "mb-tusk-award-raabia-hawa",
+   "title": "Kenyan conservationist Raabia Hawa wins 2026 Tusk Award",
+   "summary": "Raabia Hawa, founder of the Ulinzi Africa Foundation, is honoured for defending Kenya's ecosystems despite being targeted by al-Shabaab.",
+   "why": "Recognition for a conservation leader, which can support her work.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/targeted-by-al-shabaab-for-defending-kenyas-ecosystems-foundation-founder-gets-award/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Kenya",
+   "published": "2026-11-15T02:07:52Z",
+   "continent": "Africa",
+   "added": "2026-11-16T05:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "La conservacionista keniana Raabia Hawa guanya el premi Tusk 2026",
+     "summary": "Raabia Hawa, fundadora de la Ulinzi Africa Foundation, és reconeguda per defensar els ecosistemes de Kenya malgrat ser objectiu d'al-Shabaab.",
+     "why": "Un reconeixement a una líder de la conservació, que pot donar suport a la seva feina."
+    },
+    "fr": {
+     "title": "La conservationniste kényane Raabia Hawa remporte le prix Tusk 2026",
+     "summary": "Raabia Hawa, fondatrice de l'Ulinzi Africa Foundation, est distinguée pour sa défense des écosystèmes du Kenya, malgré les menaces dont elle fait l'objet de la part d'al-Shabaab.",
+     "why": "Une reconnaissance pour une responsable de la conservation, susceptible de soutenir son action."
+    },
+    "ru": {
+     "title": "Кенийская природоохранница Рааби Хава получила премию Tusk 2026",
+     "summary": "Рааби Хава, основательница фонда Ulinzi Africa Foundation, удостоена награды за защиту экосистем Кении, несмотря на то что стала мишенью группировки «Аш-Шабаб».",
+     "why": "Признание заслуг лидера в области охраны природы, которое может поддержать её работу."
+    }
+   }
+  },
+  {
+   "id": "sd-euclid-early-quasars",
+   "title": "Euclid telescope finds 31 early quasars, two of them record-setting",
+   "summary": "ESA's Euclid space telescope identified 31 quasars from the early universe, including two that set new records.",
+   "why": "A scientific advance with no direct everyday benefit.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
+   "score": 6,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-11-15T01:52:47Z",
+   "continent": "Global",
+   "added": "2026-11-16T05:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "El telescopi Euclid troba 31 quàsars primitius, dos d'ells amb rècords",
+     "summary": "El telescopi espacial Euclid de l'ESA ha identificat 31 quàsars de l'univers primitiu, entre els quals n'hi ha dos que han establert nous rècords.",
+     "why": "Un avenç científic sense benefici directe quotidià."
+    },
+    "fr": {
+     "title": "Le télescope Euclid découvre 31 quasars primitifs, dont deux établissent des records",
+     "summary": "Le télescope spatial Euclid de l'ESA a identifié 31 quasars de l'univers primitif, dont deux battent de nouveaux records.",
+     "why": "Une avancée scientifique sans bénéfice direct au quotidien."
+    },
+    "ru": {
+     "title": "Телескоп «Евклид» нашёл 31 квазар ранней Вселенной, два из них установили рекорды",
+     "summary": "Космический телескоп «Евклид» Европейского космического агентства выявил 31 квазар из ранней Вселенной, включая два, которые установили новые рекорды.",
+     "why": "Научный прорыв, не дающий непосредственной пользы в повседневной жизни."
+    }
+   }
+  },
   {
    "id": "gnn-two-remote-pacific-atolls-declared-sanctuaries",
    "title": "Two remote Pacific atolls declared sanctuaries",
@@ -48,6 +295,37 @@
    }
   },
   {
+   "id": "sd-daily-routine-less-pain",
+   "title": "Consistent daily routine linked to less pain and depression in older adults",
+   "summary": "University of Missouri researchers found that older adults with regular daily schedules reported less pain and fewer depressive symptoms.",
+   "why": "Simple habit with possible benefit, though the study shows a link, not proof.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
+   "score": 6,
+   "category": "Health",
+   "region": "Missouri, USA",
+   "published": "2026-11-14T12:48:01Z",
+   "continent": "North America",
+   "added": "2026-11-16T05:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Una rutina diària constant s'associa amb menys dolor i depressió en persones grans",
+     "summary": "Investigadors de la Universitat de Missouri han constatat que les persones grans amb horaris diaris regulars reporten menys dolor i menys símptomes depressius.",
+     "why": "Un hàbit senzill amb un possible benefici, tot i que l'estudi mostra una associació, no una prova."
+    },
+    "fr": {
+     "title": "Une routine quotidienne régulière est associée à moins de douleurs et de dépression chez les seniors",
+     "summary": "Des chercheurs de l'Université du Missouri ont constaté que les personnes âgées ayant des horaires quotidiens réguliers déclarent moins de douleurs et moins de symptômes dépressifs.",
+     "why": "Une habitude simple qui pourrait être bénéfique, bien que l'étude montre un lien et non une preuve."
+    },
+    "ru": {
+     "title": "Постоянный распорядок дня связан с меньшей болью и депрессией у пожилых людей",
+     "summary": "Исследователи Университета Миссури выяснили, что пожилые люди, придерживающиеся регулярного распорядка дня, сообщают о меньшей боли и меньшем количестве депрессивных симптомов.",
+     "why": "Простая привычка, которая может быть полезна, однако исследование показывает связь, а не доказательство."
+    }
+   }
+  },
+  {
    "id": "sd-stanford-team-finds-brain-signals-that-may-predict-alzhei",
    "title": "Stanford team finds brain signals that may predict Alzheimer's early",
    "summary": "Stanford researchers found brain activity patterns that may flag Alzheimer's risk years before symptoms appear, earlier than current tools.",
@@ -75,6 +353,37 @@
      "title": "Исследователи из Стэнфорда нашли сигналы мозга, которые могут предсказать болезнь Альцгеймера на ранней стадии",
      "summary": "Стэнфордские исследователи обнаружили паттерны активности мозга, которые могут указывать на риск болезни Альцгеймера за годы до появления симптомов, раньше, чем существующие инструменты.",
      "why": "Перспективно для раннего выявления, но исследования пока на начальном этапе."
+    }
+   }
+  },
+  {
+   "id": "mb-zimbabwe-elephant-deterrents",
+   "title": "Zimbabwe village keeps elephants off crops without harming them",
+   "summary": "Villagers combine non-lethal measures, such as chili-laced balls and burning dung, to protect their fields from elephants.",
+   "why": "A low-cost, harmless way to reduce human-wildlife conflict in one village.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/spicy-ping-pong-balls-and-flaming-dung-keep-elephants-at-bay-in-zimbabwe/",
+   "score": 6,
+   "category": "Animals",
+   "region": "Zimbabwe",
+   "published": "2026-11-14T09:18:50Z",
+   "continent": "Africa",
+   "added": "2026-11-16T05:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Un poble de Zimbabwe evita que els elefants entrin als camps sense fer-los mal",
+     "summary": "Els vilatans combinen mesures no letals, com ara boles impregnades de xile i fems cremats, per protegir els seus camps dels elefants.",
+     "why": "Una manera barata i inofensiva de reduir el conflicte entre humans i fauna en un sol poble."
+    },
+    "fr": {
+     "title": "Un village du Zimbabwe protège ses cultures des éléphants sans leur nuire",
+     "summary": "Les villageois combinent des mesures non létales, comme des balles imprégnées de piment et des bouses enflammées, pour protéger leurs champs des éléphants.",
+     "why": "Une méthode peu coûteuse et inoffensive pour réduire les conflits entre humains et faune sauvage dans un village."
+    },
+    "ru": {
+     "title": "Деревня в Зимбабве защищает посевы от слонов, не причиняя им вреда",
+     "summary": "Жители деревни сочетают нелетальные меры, например шарики с перцем чили и тлеющий навоз, чтобы защитить свои поля от слонов.",
+     "why": "Недорогой и безвредный способ снизить конфликт между людьми и дикими животными в одной деревне."
     }
    }
   },
@@ -141,6 +450,37 @@
    }
   },
   {
+   "id": "mb-atlantic-forest-fruit-bats",
+   "title": "Fruit bats help restore Brazil's Atlantic Forest",
+   "summary": "Researchers are studying how fruit-eating bats spread seeds, making them useful partners in regrowing the damaged forest.",
+   "why": "Natural seed dispersal can speed up forest recovery, but the work is at research stage.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/fruit-bats-emerge-as-unlikely-allies-in-the-atlantic-forest-restoration/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Atlantic Forest, Brazil",
+   "published": "2026-11-13T15:22:50Z",
+   "continent": "South America",
+   "added": "2026-11-16T05:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Els ratpenats frugívors ajuden a restaurar la Mata Atlàntica del Brasil",
+     "summary": "Els investigadors estudien com els ratpenats que mengen fruita disseminen les llavors, cosa que els converteix en aliats útils per recuperar el bosc degradat.",
+     "why": "La dispersió natural de llavors pot accelerar la recuperació del bosc, però el treball està en fase de recerca."
+    },
+    "fr": {
+     "title": "Des chauves-souris frugivores contribuent à restaurer la forêt atlantique brésilienne",
+     "summary": "Des chercheurs étudient la manière dont les chauves-souris frugivores dispersent les graines, ce qui en fait des alliées précieuses pour la régénération de la forêt dégradée.",
+     "why": "La dispersion naturelle des graines peut accélérer la reconstitution de la forêt, mais les travaux en sont encore au stade de la recherche."
+    },
+    "ru": {
+     "title": "Плодоядные летучие мыши помогают восстанавливать Атлантический лес Бразилии",
+     "summary": "Исследователи изучают, как плодоядные летучие мыши распространяют семена, что делает их полезными союзниками в восстановлении пострадавшего леса.",
+     "why": "Естественное распространение семян может ускорить восстановление леса, однако работа находится на исследовательском этапе."
+    }
+   }
+  },
+  {
    "id": "an-nigeria-ebola-contacts-clear-monitoring",
    "title": "Nigeria reports no Ebola spread after imported case",
    "summary": "Nigeria has recorded no new Ebola cases since a woman arriving from Uganda tested positive last month, and her contacts finished 21 days of monitoring uninfected.",
@@ -199,6 +539,37 @@
      "title": "Младенец из Дубая перестал страдать от приступов после экспериментального препарата",
      "summary": "У ребёнка из Дубая с рождения приступы случались примерно каждые 13 минут. После приёма экспериментального препарата они прекратились. Наблюдение пока длится только несколько недель.",
      "why": "Впечатляющий результат для одного ребёнка, но лечение экспериментальное, а срок наблюдения короткий."
+    }
+   }
+  },
+  {
+   "id": "am-fiber-nanoplastic-absorption",
+   "title": "High-fibre diets reduced nanoplastic absorption in mouse studies",
+   "summary": "Two studies in mice found that diets rich in fibre lowered how much nanoplastic the gut absorbed.",
+   "why": "Early animal results that may not carry over to people.",
+   "source": "Anthropocene Magazine",
+   "url": "https://www.anthropocenemagazine.org/2026/11/nanoplastics-and-climate-change-have-an-unexpected-enemy-fiber/?utm_source=rss&utm_medium=rss&utm_campaign=is-a-low-carbon-diet-also-low-plastic",
+   "score": 5,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-11-13T13:00:31Z",
+   "continent": "Global",
+   "added": "2026-11-16T05:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Les dietes riques en fibra redueixen l'absorció de nanoplàstic en estudis amb ratolins",
+     "summary": "Dos estudis amb ratolins han constatat que les dietes riques en fibra redueixen la quantitat de nanoplàstic que absorbeix l'intestí.",
+     "why": "Resultats preliminars en animals que potser no es poden extrapolar a les persones."
+    },
+    "fr": {
+     "title": "Des régimes riches en fibres réduisent l'absorption de nanoplastiques, selon des études sur la souris",
+     "summary": "Deux études menées sur des souris ont montré que les régimes riches en fibres diminuent la quantité de nanoplastiques absorbée par l'intestin.",
+     "why": "Des résultats préliminaires chez l'animal, qui ne se confirmeront peut-être pas chez l'humain."
+    },
+    "ru": {
+     "title": "Диета с высоким содержанием клетчатки снижала всасывание наночастиц пластика в исследованиях на мышах",
+     "summary": "Два исследования на мышах показали, что диеты, богатые клетчаткой, уменьшали количество нанопластика, которое всасывалось кишечником.",
+     "why": "Ранние результаты на животных, которые могут не подтвердиться для людей."
     }
    }
   },
@@ -292,6 +663,68 @@
      "title": "Американские избиратели одобрили 27 миллиардов долларов на общественный транспорт",
      "summary": "3 ноября избиратели одобрили 22 из 27 транспортных инициатив, вынесенных на голосование, на общую сумму около 27,4 миллиарда долларов на ремонт и расширение транспортных систем.",
      "why": "Широкое финансирование общественного транспорта, хотя его реализация зависит от чиновников."
+    }
+   }
+  },
+  {
+   "id": "rtbc-maui-regenerative-tourism",
+   "title": "Maui explores regenerative tourism after the Lahaina fires",
+   "summary": "Residents and businesses on Maui are testing tourism models meant to restore communities and nature, following the 2023 wildfires that destroyed much of Lahaina.",
+   "why": "A recovery-focused approach, though still experimental.",
+   "source": "Reasons to be Cheerful",
+   "url": "https://reasonstobecheerful.world/maui-living-laboratory-regenerative-tourism/",
+   "score": 6,
+   "category": "Society",
+   "region": "Maui, USA",
+   "published": "2026-11-13T08:00:12Z",
+   "continent": "North America",
+   "added": "2026-11-16T05:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Maui explora el turisme regeneratiu després dels incendis de Lahaina",
+     "summary": "Residents i empreses de Maui proven models turístics que pretenen restaurar les comunitats i la natura, després dels incendis forestals del 2023 que van destruir gran part de Lahaina.",
+     "why": "Un enfocament orientat a la recuperació, tot i que encara és experimental."
+    },
+    "fr": {
+     "title": "Maui explore le tourisme régénératif après les incendies de Lahaina",
+     "summary": "Des habitants et des entreprises de Maui testent des modèles touristiques destinés à restaurer les communautés et la nature, à la suite des incendies de 2023 qui ont détruit une grande partie de Lahaina.",
+     "why": "Une approche axée sur la reconstruction, mais encore expérimentale."
+    },
+    "ru": {
+     "title": "Мауи изучает регенеративный туризм после пожаров в Лахайне",
+     "summary": "Жители и предприятия Мауи испытывают модели туризма, призванные восстанавливать сообщества и природу после лесных пожаров 2023 года, которые уничтожили большую часть Лахайны.",
+     "why": "Подход, ориентированный на восстановление, но пока экспериментальный."
+    }
+   }
+  },
+  {
+   "id": "mb-sri-lanka-17-tuskers",
+   "title": "Sri Lanka identifies 17 high-risk tuskers as incidents rise",
+   "summary": "The government has enlisted the armed forces in a task force to protect elephants that are especially at risk as human-elephant conflict spikes.",
+   "why": "A protection effort, but it responds to a worsening problem.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/as-incidents-spike-sri-lanka-identifies-17-tuskers-considered-at-high-risk/",
+   "score": 4,
+   "category": "Animals",
+   "region": "Sri Lanka",
+   "published": "2026-11-13T07:11:49Z",
+   "continent": "Asia",
+   "added": "2026-11-16T05:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Sri Lanka identifica 17 elefants amb ullals considerats d'alt risc a mesura que augmenten els incidents",
+     "summary": "El govern ha incorporat les forces armades en un grup de treball per protegir els elefants especialment en risc, mentre el conflicte entre humans i elefants s'intensifica.",
+     "why": "Un esforç de protecció, però que respon a un problema cada cop pitjor."
+    },
+    "fr": {
+     "title": "Le Sri Lanka recense 17 éléphants mâles à fort risque alors que les incidents se multiplient",
+     "summary": "Le gouvernement a mobilisé les forces armées au sein d'un groupe de travail chargé de protéger les éléphants particulièrement menacés, alors que le conflit entre humains et éléphants s'intensifie.",
+     "why": "Un effort de protection, mais qui répond à un problème en aggravation."
+    },
+    "ru": {
+     "title": "На Шри-Ланке выявлены 17 крупных слонов-самцов из группы высокого риска на фоне роста инцидентов",
+     "summary": "Правительство привлекло вооружённые силы к работе целевой группы по защите слонов, которым особенно угрожает опасность на фоне резкого роста конфликтов между людьми и слонами.",
+     "why": "Усилия по защите, однако они отвечают на ухудшение ситуации."
     }
    }
   },
@@ -509,6 +942,37 @@
      "title": "В цинк-воздушной батарее используется витамин B12",
      "summary": "Исследователи Кордовского университета создали перезаряжаемую цинк-воздушную батарею, в химии которой используется витамин B12.",
      "why": "Ранний лабораторный результат; практическое применение пока не показано."
+    }
+   }
+  },
+  {
+   "id": "sd-crows-fast-decisions",
+   "title": "Crows decide about twice as fast as humans in motion task",
+   "summary": "University of Tübingen researchers found crows judged the direction of moving dots in roughly half the time humans needed.",
+   "why": "Interesting animal-cognition result with no practical impact yet.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Germany",
+   "published": "2026-11-12T12:17:19Z",
+   "continent": "Europe",
+   "added": "2026-11-16T05:13:21Z",
+   "i18n": {
+    "ca": {
+     "title": "Els corbs decideixen gairebé el doble de ràpid que els humans en una tasca de moviment",
+     "summary": "Investigadors de la Universitat de Tübingen han constatat que els corbs van determinar la direcció de punts en moviment en aproximadament la meitat del temps que necessitaven els humans.",
+     "why": "Un resultat interessant sobre la cognició animal, sense impacte pràctic de moment."
+    },
+    "fr": {
+     "title": "Les corneilles prennent des décisions près de deux fois plus vite que les humains lors d'une tâche de mouvement",
+     "summary": "Des chercheurs de l'Université de Tübingen ont constaté que les corneilles déterminent la direction de points en mouvement en environ la moitié du temps nécessaire aux humains.",
+     "why": "Un résultat intéressant sur la cognition animale, sans application pratique pour l'instant."
+    },
+    "ru": {
+     "title": "Вороны принимают решения почти вдвое быстрее людей в задаче на движение",
+     "summary": "Исследователи Тюбингенского университета выяснили, что вороны определяют направление движения точек примерно за половину времени, которое требуется людям.",
+     "why": "Интересный результат в области познания животных, пока без практического применения."
     }
    }
   },

@@ -1,95 +1,6 @@
 {
- "updated": "2026-10-19T06:19:48Z",
+ "updated": "2026-11-16T09:52:16Z",
  "events": [
-  {
-   "id": "mmx-launch-2026",
-   "date": "2026-10-19",
-   "at": "2026-10-19T19:41:00Z",
-   "category": "Space",
-   "title": "Japan launches MMX to the moons of Mars",
-   "summary": "JAXA's probe lifts off on an H3 rocket to explore Phobos and Deimos, land the Franco-German rover Idefix, and bring a piece of Phobos back to Earth.",
-   "link": "https://www.mmx.jaxa.jp/en/",
-   "i18n": {
-    "ca": {
-     "title": "El Japó llança MMX cap a les llunes de Mart",
-     "summary": "La sonda de la JAXA s'enlaira en un coet H3 per explorar Fobos i Deimos, fer-hi aterrar el ròver francoalemany Idefix i portar a la Terra un tros de Fobos."
-    },
-    "fr": {
-     "title": "Le Japon lance MMX vers les lunes de Mars",
-     "summary": "La sonde de la JAXA décolle sur une fusée H3 pour explorer Phobos et Déimos, y poser le rover franco-allemand Idefix et rapporter sur Terre un morceau de Phobos."
-    },
-    "ru": {
-     "title": "Япония запускает MMX к спутникам Марса",
-     "summary": "Зонд JAXA стартует на ракете H3, чтобы исследовать Фобос и Деймос, высадить франко-германский ровер Idefix и доставить на Землю образец Фобоса."
-    }
-   }
-  },
-  {
-   "id": "orionids-2026",
-   "date": "2026-10-21",
-   "category": "Sky",
-   "title": "Orionid meteor shower peaks",
-   "summary": "Tiny pieces of Halley's Comet burn up in the sky. Best after midnight, away from city lights.",
-   "link": "https://starwalk.space/en/news/astronomy-calendar-2026",
-   "i18n": {
-    "ca": {
-     "title": "Màxim de la pluja d'estels Oriònides",
-     "summary": "Petits fragments del cometa Halley es cremen al cel. Millor després de mitjanit i lluny dels llums de la ciutat."
-    },
-    "fr": {
-     "title": "Pic des Orionides",
-     "summary": "De minuscules fragments de la comète de Halley se consument dans le ciel. Mieux après minuit, loin des lumières de la ville."
-    },
-    "ru": {
-     "title": "Пик метеорного потока Ориониды",
-     "summary": "Крошечные частицы кометы Галлея сгорают в атмосфере. Лучше наблюдать после полуночи вдали от городских огней."
-    }
-   }
-  },
-  {
-   "id": "un-day-2026",
-   "date": "2026-10-24",
-   "category": "Society",
-   "title": "United Nations Day",
-   "summary": "Marks the 1945 entry into force of the UN Charter and celebrates cooperation between nations for peace and development.",
-   "link": "https://www.un.org/en/observances/un-day",
-   "i18n": {
-    "ca": {
-     "title": "Dia de les Nacions Unides",
-     "summary": "Marca l'entrada en vigor de la Carta de les Nacions Unides el 1945 i celebra la cooperació entre nacions per a la pau i el desenvolupament."
-    },
-    "fr": {
-     "title": "Journée des Nations unies",
-     "summary": "Marque l'entrée en vigueur de la Charte des Nations unies en 1945 et célèbre la coopération entre les nations pour la paix et le développement."
-    },
-    "ru": {
-     "title": "День Организации Объединённых Наций",
-     "summary": "Отмечает вступление в силу Устава ООН в 1945 году и празднует сотрудничество между странами ради мира и развития."
-    }
-   }
-  },
-  {
-   "id": "diwali-2026",
-   "date": "2026-11-08",
-   "category": "Society",
-   "title": "Diwali, the festival of lights",
-   "summary": "Millions around the world light lamps to celebrate the victory of light over darkness, with family gatherings, sweets and shared joy.",
-   "link": "https://www.timeanddate.com/holidays/india/diwali",
-   "i18n": {
-    "ca": {
-     "title": "Diwali, el festival de la llum",
-     "summary": "Milions de persones al món encenen llanterns per celebrar la victòria de la llum sobre la foscor, amb trobades familiars, dolços i alegria compartida."
-    },
-    "fr": {
-     "title": "Diwali, le festival des lumières",
-     "summary": "Des millions de personnes dans le monde allument des lampes pour célébrer la victoire de la lumière sur l'obscurité, avec des réunions familiales, des friandises et une joie partagée."
-    },
-    "ru": {
-     "title": "Дивали, фестиваль огней",
-     "summary": "Миллионы людей по всему миру зажигают лампы, чтобы отметить победу света над тьмой, с семейными собраниями, сладостями и совместной радостью."
-    }
-   }
-  },
   {
    "id": "cop31-2026",
    "date": "2026-11-09",
@@ -110,72 +21,6 @@
     "ru": {
      "title": "Климатический саммит COP31 в Анталье",
      "summary": "Страны собираются в Анталье (Турция) на ежегодную климатическую конференцию ООН, чтобы договориться о сокращении выбросов и адаптации к потеплению."
-    }
-   }
-  },
-  {
-   "id": "world-science-day-2026",
-   "date": "2026-11-10",
-   "category": "Science",
-   "title": "World Science Day for Peace and Development",
-   "summary": "UNESCO's day celebrating how science improves lives and why it should be open to everyone.",
-   "link": "https://www.unesco.org/en/days/science-peace-development",
-   "i18n": {
-    "ca": {
-     "title": "Dia Mundial de la Ciència per la Pau i el Desenvolupament",
-     "summary": "El dia de la UNESCO que celebra com la ciència millora la vida de les persones i per què ha d'estar oberta a tothom."
-    },
-    "fr": {
-     "title": "Journée mondiale de la science au service de la paix et du développement",
-     "summary": "La journée de l'UNESCO qui célèbre la façon dont la science améliore nos vies et pourquoi elle doit être ouverte à tous."
-    },
-    "ru": {
-     "title": "Всемирный день науки за мир и развитие",
-     "summary": "День ЮНЕСКО о том, как наука улучшает жизнь людей и почему она должна быть открыта для всех."
-    }
-   }
-  },
-  {
-   "id": "world-kindness-day-2026",
-   "date": "2026-11-13",
-   "category": "Society",
-   "title": "World Kindness Day",
-   "summary": "A day to notice and practise small acts of kindness, marked by groups in dozens of countries.",
-   "link": "https://en.wikipedia.org/wiki/World_Kindness_Day",
-   "i18n": {
-    "ca": {
-     "title": "Dia Mundial de l'Amabilitat",
-     "summary": "Un dia per fixar-se en els petits gestos d'amabilitat i practicar-los, celebrat per grups de desenes de països."
-    },
-    "fr": {
-     "title": "Journée mondiale de la gentillesse",
-     "summary": "Une journée pour remarquer et pratiquer les petits gestes de gentillesse, célébrée dans des dizaines de pays."
-    },
-    "ru": {
-     "title": "Всемирный день доброты",
-     "summary": "День, чтобы замечать и совершать маленькие добрые поступки; его отмечают в десятках стран."
-    }
-   }
-  },
-  {
-   "id": "planets-lineup-2026-11",
-   "date": "2026-11-14",
-   "category": "Sky",
-   "title": "Four planets line up",
-   "summary": "Four planets appear along one arc across the sky; several are easy to see without a telescope.",
-   "link": "https://starwalk.space/en/news/astronomy-calendar-2026",
-   "i18n": {
-    "ca": {
-     "title": "Quatre planetes en filera",
-     "summary": "Quatre planetes apareixen alineades en un arc al cel; diverses es veuen fàcilment sense telescopi."
-    },
-    "fr": {
-     "title": "Quatre planètes alignées",
-     "summary": "Quatre planètes apparaissent le long d'un même arc dans le ciel ; plusieurs se voient facilement sans télescope."
-    },
-    "ru": {
-     "title": "Парад четырёх планет",
-     "summary": "Четыре планеты выстраиваются вдоль одной дуги на небе; несколько из них легко увидеть без телескопа."
     }
    }
   },
@@ -296,7 +141,7 @@
    "category": "Space",
    "title": "BepiColombo reaches Mercury",
    "summary": "After eight years in space, the European–Japanese mission enters orbit around Mercury to map it and study its magnetic field.",
-   "link": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo",
+   "link": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
    "i18n": {
     "ca": {
      "title": "BepiColombo arriba a Mercuri",
@@ -687,7 +532,95 @@
      "summary": "Юпитер в противостоянии с Солнцем и сияет всю ночь; в бинокль видны четыре его крупнейших спутника."
     }
    }
+  },
+  {
+   "id": "education-day-2027",
+   "date": "2027-01-24",
+   "category": "Society",
+   "title": "International Day of Education",
+   "summary": "The United Nations celebrates the power of learning for peace and development, with schools and communities marking the day worldwide.",
+   "link": "https://www.un.org/en/observances/international-day-of-education",
+   "i18n": {
+    "ca": {
+     "title": "Dia Internacional de l'Educació",
+     "summary": "Les Nacions Unides celebren el poder de l'aprenentatge per a la pau i el desenvolupament, amb escoles i comunitats que commemoren el dia arreu del món."
+    },
+    "fr": {
+     "title": "Journée internationale de l'éducation",
+     "summary": "Les Nations unies célèbrent le pouvoir de l'apprentissage au service de la paix et du développement, et les écoles et communautés du monde entier marquent cette journée."
+    },
+    "ru": {
+     "title": "Международный день образования",
+     "summary": "Организация Объединённых Наций отмечает роль образования в достижении мира и развития; школы и сообщества по всему миру отмечают этот день."
+    }
+   }
+  },
+  {
+   "id": "wetlands-day-2027",
+   "date": "2027-02-02",
+   "category": "Environment",
+   "title": "World Wetlands Day",
+   "summary": "A day to celebrate the marshes, mangroves and peatlands that clean water, store carbon and shelter wildlife, with events held around the world.",
+   "link": "https://www.worldwetlandsday.org/",
+   "i18n": {
+    "ca": {
+     "title": "Dia Mundial dels Aiguamolls",
+     "summary": "Un dia per celebrar els aiguamolls, els manglars i les turberes que netegen l'aigua, emmagatzemen carboni i acullen la fauna, amb actes arreu del món."
+    },
+    "fr": {
+     "title": "Journée mondiale des zones humides",
+     "summary": "Une journée pour célébrer les marais, les mangroves et les tourbières qui purifient l'eau, stockent le carbone et abritent la faune, avec des événements organisés dans le monde entier."
+    },
+    "ru": {
+     "title": "Всемирный день водно-болотных угодий",
+     "summary": "День, посвящённый болотам, мангровым лесам и торфяникам, которые очищают воду, накапливают углерод и служат убежищем для диких животных; по всему миру проходят мероприятия."
+    }
+   }
+  },
+  {
+   "id": "annular-eclipse-2027",
+   "date": "2027-02-06",
+   "category": "Sky",
+   "title": "Ring-of-fire solar eclipse over South America and Africa",
+   "summary": "The Moon crosses in front of the Sun, leaving a bright ring in a narrow path over Chile, Argentina and the Atlantic; a partial eclipse is seen more widely.",
+   "link": "https://www.timeanddate.com/eclipse/solar/2027-february-6",
+   "i18n": {
+    "ca": {
+     "title": "Eclipsi solar anular sobre Sud-amèrica i Àfrica",
+     "summary": "La Lluna passa davant del Sol i deixa un anell brillant en una franja estreta sobre Xile, l'Argentina i l'Atlàntic; un eclipsi parcial es pot veure en una zona més àmplia."
+    },
+    "fr": {
+     "title": "Éclipse solaire annulaire au-dessus de l'Amérique du Sud et de l'Afrique",
+     "summary": "La Lune passe devant le Soleil et laisse apparaître un anneau lumineux sur une bande étroite au-dessus du Chili, de l'Argentine et de l'Atlantique ; une éclipse partielle est visible sur une zone plus large."
+    },
+    "ru": {
+     "title": "Кольцеобразное солнечное затмение над Южной Америкой и Африкой",
+     "summary": "Луна проходит перед Солнцем, оставляя яркое кольцо на узкой полосе над Чили, Аргентиной и Атлантикой; частное затмение видно на значительно большей территории."
+    }
+   }
+  },
+  {
+   "id": "women-girls-science-2027",
+   "date": "2027-02-11",
+   "category": "Science",
+   "title": "International Day of Women and Girls in Science",
+   "summary": "Events worldwide encourage girls and women to pursue science, and celebrate the researchers who are already changing our world.",
+   "link": "https://www.un.org/en/observances/women-and-girls-in-science-day",
+   "i18n": {
+    "ca": {
+     "title": "Dia Internacional de les Dones i les Nenes en la Ciència",
+     "summary": "Actes arreu del món animen les noies i les dones a dedicar-se a la ciència i celebren les investigadores que ja estan transformant el nostre món."
+    },
+    "fr": {
+     "title": "Journée internationale des femmes et des filles de science",
+     "summary": "Des événements organisés dans le monde entier encouragent les filles et les femmes à se tourner vers les sciences et célèbrent les chercheuses qui transforment déjà notre monde."
+    },
+    "ru": {
+     "title": "Международный день женщин и девочек в науке",
+     "summary": "По всему миру проходят мероприятия, которые побуждают девочек и женщин заниматься наукой и чествуют исследовательниц, уже меняющих наш мир."
+    }
+   }
   }
  ],
- "source_file": "events-20261019T0555Z.json"
+ "source_file": "events-20261116T0659Z.json"
 }
