@@ -1,20 +1,330 @@
 {
- "updated": "2026-11-16T05:13:21Z",
+ "updated": "2026-11-17T05:14:58Z",
  "sources": [
+  "Positive News",
   "Good News Network",
   "Reasons to be Cheerful",
   "ScienceDaily",
   "Mongabay",
-  "The Optimist Daily",
   "The Better India",
   "Anthropocene Magazine",
   "Grist",
   "Africanews"
  ],
- "count": 60,
- "last_run": "run-20261116T0513Z.json",
- "note": "15 new, 30 skipped, 0 pruned, 0 translations added, failed feeds: none",
+ "count": 75,
+ "last_run": "run-20261117T0514Z.json",
+ "note": "15 new, 30 skipped, 0 pruned, 0 translations added, failed feeds: The Optimist Daily",
  "stories": [
+  {
+   "id": "an-kenyan-farmers-prepare-crops-and-soil-fo",
+   "title": "Kenyan farmers prepare crops and soil for El Niño rains",
+   "summary": "Farmers in central Kenya are taking steps to protect their crops and soil before the forecast El Niño rains.",
+   "why": "Useful preparation, but flooding risk remains.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/16/kenyan-farmers-race-to-protect-crops-and-soil-ahead-of-el-nino-rains/",
+   "score": 4,
+   "category": "Environment",
+   "region": "Kenya",
+   "published": "2026-11-16T17:03:12Z",
+   "continent": "Africa",
+   "added": "2026-11-17T05:14:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Els pagesos kenyans preparen cultius i sòls per a les pluges d'El Niño",
+     "summary": "Els pagesos del centre de Kenya estan prenent mesures per protegir els seus cultius i sòls abans de les pluges d'El Niño que s'han pronosticat.",
+     "why": "Una preparació útil, però el risc d'inundacions continua present."
+    },
+    "fr": {
+     "title": "Des agriculteurs kényans préparent leurs cultures et leurs sols aux pluies d'El Niño",
+     "summary": "Des agriculteurs du centre du Kenya prennent des mesures pour protéger leurs cultures et leurs sols avant les pluies d'El Niño prévues.",
+     "why": "Une préparation utile, mais le risque d'inondations demeure."
+    },
+    "ru": {
+     "title": "Фермеры Кении готовят посевы и почву к дождям Эль-Ниньо",
+     "summary": "Фермеры в центральной Кении принимают меры, чтобы защитить посевы и почву до прогнозируемых дождей Эль-Ниньо.",
+     "why": "Полезная подготовка, но риск наводнений сохраняется."
+    }
+   }
+  },
+  {
+   "id": "gnn-forever-chemicals-fall-in-english-rivers",
+   "title": "Forever chemicals fall in English rivers and fish",
+   "summary": "Two internationally restricted PFAS chemicals have dropped about 30% in English river water and 49% in fish, according to a BBC report.",
+   "why": "Restrictions are visibly working, though the chemicals persist.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/30-drop-in-levels-of-forever-chemicals-in-englands-rivers-49-in-fish-brilliant-to-see/",
+   "score": 7,
+   "category": "Environment",
+   "region": "England",
+   "published": "2026-11-16T16:30:13Z",
+   "continent": "Europe",
+   "added": "2026-11-17T05:14:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Els productes químics eterns baixen als rius i als peixos d'Anglaterra",
+     "summary": "Dos productes químics PFAS sotmesos a restriccions internacionals han baixat un 30 % a l'aigua dels rius anglesos i un 49 % als peixos, segons un informe de la BBC.",
+     "why": "Les restriccions estan donant resultats visibles, tot i que els productes químics persisteixen."
+    },
+    "fr": {
+     "title": "Les polluants éternels reculent dans les rivières et les poissons anglais",
+     "summary": "Deux substances PFAS soumises à des restrictions internationales ont diminué d'environ 30 % dans les eaux des rivières anglaises et de 49 % chez les poissons, selon un reportage de la BBC.",
+     "why": "Les restrictions produisent des effets visibles, même si ces substances persistent."
+    },
+    "ru": {
+     "title": "Вечные химикаты становятся меньше в английских реках и рыбе",
+     "summary": "По данным BBC, два международно ограниченных химических вещества PFAS снизились примерно на 30% в воде английских рек и на 49% в рыбе.",
+     "why": "Ограничения явно работают, хотя эти вещества сохраняются в окружающей среде."
+    }
+   }
+  },
+  {
+   "id": "tbi-maharashtra-village-runs-without-electri",
+   "title": "Maharashtra village runs without electricity bills",
+   "summary": "A video report looks at Shelkewadi, a Maharashtra village that has cut its electricity bills and supplies cooking gas through local energy projects.",
+   "why": "A community model that others could copy.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/videos/society/no-electricity-bills-free-gas-how-does-this-village-do-it-12815405",
+   "score": 7,
+   "category": "Energy",
+   "region": "Maharashtra, India",
+   "published": "2026-11-16T15:30:28Z",
+   "continent": "Asia",
+   "added": "2026-11-17T05:14:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Un poble de Maharashtra funciona sense factures d'electricitat",
+     "summary": "Un reportatge en vídeo explora Shelkewadi, un poble de Maharashtra que ha reduït les factures d'electricitat i proveeix gas per cuinar gràcies a projectes energètics locals.",
+     "why": "Un model comunitari que altres podrien copiar."
+    },
+    "fr": {
+     "title": "Un village du Maharashtra fonctionne sans factures d'électricité",
+     "summary": "Un reportage vidéo présente Shelkewadi, un village du Maharashtra qui a réduit ses factures d'électricité et fournit du gaz de cuisine grâce à des projets énergétiques locaux.",
+     "why": "Un modèle communautaire que d'autres pourraient reproduire."
+    },
+    "ru": {
+     "title": "Деревня в Махараштре живёт без счетов за электричество",
+     "summary": "Видеорепортаж рассказывает о Шелкевади, деревне в Махараштре, которая сократила расходы на электричество и обеспечивает жителей газом для приготовления пищи благодаря местным энергетическим проектам.",
+     "why": "Общинная модель, которую могут перенять другие."
+    }
+   }
+  },
+  {
+   "id": "gnn-tokyo-trials-robotic-street-bins-in-tour",
+   "title": "Tokyo trials robotic street bins in tourist areas",
+   "summary": "Tokyo is using solar-powered compactors and robots to haul rubbish away from busy tourist districts while keeping its tradition of tidy streets.",
+   "why": "A practical urban fix, limited to one city.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/tokyo-tackles-trash-troubles-with-new-generation-of-robotic-street-waste-bins/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Tokyo, Japan",
+   "published": "2026-11-16T14:00:03Z",
+   "continent": "Asia",
+   "added": "2026-11-17T05:14:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Tòquio prova papereres robotitzades als carrers de les zones turístiques",
+     "summary": "Tòquio fa servir compactadors alimentats amb energia solar i robots per retirar les deixalles dels barris turístics més concorreguts, mantenint la tradició de carrers nets.",
+     "why": "Una solució urbana pràctica, limitada a una sola ciutat."
+    },
+    "fr": {
+     "title": "Tokyo teste des poubelles de rue robotisées dans les zones touristiques",
+     "summary": "Tokyo utilise des compacteurs alimentés à l'énergie solaire et des robots pour évacuer les déchets des quartiers touristiques très fréquentés, tout en préservant sa tradition de rues propres.",
+     "why": "Une solution urbaine concrète, mais limitée à une seule ville."
+    },
+    "ru": {
+     "title": "Токио испытывает роботизированные уличные урны в туристических районах",
+     "summary": "Токио использует солнечные компакторы и роботов, чтобы вывозить мусор из оживлённых туристических районов и сохранять традицию чистых улиц.",
+     "why": "Практичное городское решение, пока ограниченное одним городом."
+    }
+   }
+  },
+  {
+   "id": "tbi-17-year-old-builds-ai-tool-to-help-blind",
+   "title": "17-year-old builds AI tool to help blind people read documents",
+   "summary": "Yash Bhatnagar, 17, created Visionably, an AI tool that helps blind people read bank statements and textbooks.",
+   "why": "Useful accessibility tech from a young creator, still early stage.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/innovation/ai-tool-makes-pdfs-accessible-for-the-blind-gurugram-visionably-yash-bhatnagar-12814698",
+   "score": 6,
+   "category": "Society",
+   "region": "India",
+   "published": "2026-11-16T13:48:53Z",
+   "continent": "Asia",
+   "added": "2026-11-17T05:14:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Un jove de 17 anys crea una eina d'IA per ajudar les persones cegues a llegir documents",
+     "summary": "Yash Bhatnagar, de 17 anys, ha creat Visionably, una eina d'IA que ajuda les persones cegues a llegir extractes bancaris i llibres de text.",
+     "why": "Tecnologia d'accessibilitat útil creada per una persona jove, encara en una fase inicial."
+    },
+    "fr": {
+     "title": "Un jeune de 17 ans crée un outil d'IA pour aider les personnes aveugles à lire des documents",
+     "summary": "Yash Bhatnagar, 17 ans, a créé Visionably, un outil d'IA qui aide les personnes aveugles à lire des relevés bancaires et des manuels scolaires.",
+     "why": "Une technologie d'accessibilité utile, portée par un jeune créateur, encore au stade précoce."
+    },
+    "ru": {
+     "title": "17-летний разработчик создал ИИ-инструмент, помогающий слепым читать документы",
+     "summary": "Яш Бхатнагар, 17 лет, создал Visionably, ИИ-инструмент, который помогает слепым читать банковские выписки и учебники.",
+     "why": "Полезная технология доступности от юного создателя, пока на ранней стадии."
+    }
+   }
+  },
+  {
+   "id": "tbi-aiims-delhi-performs-india-s-first-open",
+   "title": "AIIMS Delhi performs India's first open foetal repair",
+   "summary": "Doctors at AIIMS Delhi report India's first open foetal surgery repair, a procedure years in the making.",
+   "why": "A medical first that could help future families, though currently for few patients.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/health-care/aiims-delhi-spine-repair-inside-womb-open-foetal-surgery-12814583",
+   "score": 7,
+   "category": "Health",
+   "region": "Delhi, India",
+   "published": "2026-11-16T12:36:20Z",
+   "continent": "Asia",
+   "added": "2026-11-17T05:14:58Z",
+   "i18n": {
+    "ca": {
+     "title": "L'AIIMS de Delhi realitza la primera reparació fetal oberta de l'Índia",
+     "summary": "Els metges de l'AIIMS de Delhi informen de la primera reparació quirúrgica fetal oberta de l'Índia, un procediment en què han treballat durant anys.",
+     "why": "Un primer pas mèdic que podria ajudar futures famílies, tot i que de moment beneficia pocs pacients."
+    },
+    "fr": {
+     "title": "L'AIIMS de Delhi réalise la première réparation fœtale ouverte en Inde",
+     "summary": "Les médecins de l'AIIMS de Delhi annoncent la première réparation chirurgicale fœtale ouverte réalisée en Inde, une procédure mise au point depuis des années.",
+     "why": "Une première médicale qui pourrait aider de futures familles, bien qu'elle ne concerne pour l'instant que peu de patients."
+    },
+    "ru": {
+     "title": "AIIMS в Дели впервые в Индии провёл открытую внутриутробную операцию",
+     "summary": "Врачи AIIMS в Дели сообщили о первой в Индии открытой внутриутробной хирургической коррекции плода, для которой процедура готовилась несколько лет.",
+     "why": "Медицинское первенство, которое может помочь будущим семьям, хотя пока оно касается немногих пациентов."
+    }
+   }
+  },
+  {
+   "id": "gnn-climbers-carry-orphaned-monk-seal-pup-up",
+   "title": "Climbers carry orphaned monk seal pup up a cliff",
+   "summary": "Hikers in Greece found an orphaned seal pup on a beach below a cliff and carried it back up to safety.",
+   "why": "A small rescue for an endangered animal.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/climbers-lug-endangered-and-orphaned-seal-pup-up-a-cliff-to-safety/",
+   "score": 6,
+   "category": "Animals",
+   "region": "Greece",
+   "published": "2026-11-16T12:30:00Z",
+   "continent": "Europe",
+   "added": "2026-11-17T05:14:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Excursionistes pugen una cria orfe de foca monjo per un penya-segat",
+     "summary": "Excursionistes a Grècia han trobat una cria de foca orfe en una platja situada sota un penya-segat i l'han pujada fins a un lloc segur.",
+     "why": "Un petit rescat per a un animal en perill d'extinció."
+    },
+    "fr": {
+     "title": "Des randonneurs remontent un phoque moine orphelin en haut d'une falaise",
+     "summary": "Des randonneurs en Grèce ont trouvé un bébé phoque orphelin sur une plage au pied d'une falaise et l'ont ramené en lieu sûr, en haut.",
+     "why": "Un petit sauvetage pour un animal menacé."
+    },
+    "ru": {
+     "title": "Альпинисты подняли на скалу осиротевшего детёныша тюленя-монаха",
+     "summary": "Туристы в Греции нашли осиротевшего детёныша тюленя на пляже у подножия скалы и подняли его обратно в безопасное место.",
+     "why": "Небольшое спасение исчезающего вида."
+    }
+   }
+  },
+  {
+   "id": "an-libyan-zoo-welcomes-first-white-tiger-cu",
+   "title": "Libyan zoo welcomes first white tiger cub",
+   "summary": "A zoo in Libya has welcomed its first white tiger cub a few months after reopening.",
+   "why": "A light moment for a recovering zoo.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/16/libyan-zoo-welcomes-first-white-tiger-cub-months-after-reopening/",
+   "score": 5,
+   "category": "Animals",
+   "region": "Libya",
+   "published": "2026-11-16T11:21:43Z",
+   "continent": "Africa",
+   "added": "2026-11-17T05:14:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Un zoo de Líbia acull el seu primer cadell de tigre blanc",
+     "summary": "Un zoo de Líbia ha rebut el seu primer cadell de tigre blanc uns mesos després de tornar a obrir.",
+     "why": "Un moment alegre per a un zoo que es recupera."
+    },
+    "fr": {
+     "title": "Un zoo libyen accueille son premier bébé tigre blanc",
+     "summary": "Un zoo de Libye a accueilli son premier bébé tigre blanc quelques mois après sa réouverture.",
+     "why": "Un moment de légèreté pour un zoo en pleine reprise."
+    },
+    "ru": {
+     "title": "Зоопарк в Ливии впервые принял новорождённого белого тигрёнка",
+     "summary": "Зоопарк в Ливии получил первого белого тигрёнка через несколько месяцев после возобновления работы.",
+     "why": "Радостное событие для зоопарка, который восстанавливается."
+    }
+   }
+  },
+  {
+   "id": "pn-charity-donates-bicycles-to-people-seeki",
+   "title": "Charity donates bicycles to people seeking asylum in the UK",
+   "summary": "The Bike Project gives bicycles to asylum seekers in the UK, helping with transport poverty and daily life.",
+   "why": "Helps many people directly, on a modest scale.",
+   "source": "Positive News",
+   "url": "https://www.positive.news/society/getting-a-bike-was-a-resurrection-the-project-donating-bicycles-to-refugees/",
+   "score": 6,
+   "category": "Society",
+   "region": "United Kingdom",
+   "published": "2026-11-16T09:25:57Z",
+   "continent": "Europe",
+   "added": "2026-11-17T05:14:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Una entitat dona bicicletes a persones sol·licitants d'asil al Regne Unit",
+     "summary": "The Bike Project regala bicicletes a persones sol·licitants d'asil al Regne Unit, i ajuda a combatre la pobresa de transport i a facilitar la vida quotidiana.",
+     "why": "Ajuda directament moltes persones, a una escala modesta."
+    },
+    "fr": {
+     "title": "Une association offre des vélos à des demandeurs d'asile au Royaume-Uni",
+     "summary": "The Bike Project offre des vélos à des demandeurs d'asile au Royaume-Uni, pour lutter contre la précarité des transports et faciliter le quotidien.",
+     "why": "Aide directement de nombreuses personnes, à une échelle modeste."
+    },
+    "ru": {
+     "title": "Благотворительный проект передаёт велосипеды людям, ищущим убежище в Великобритании",
+     "summary": "The Bike Project передаёт велосипеды соискателям убежища в Великобритании, помогая бороться с транспортной бедностью и облегчая повседневную жизнь.",
+     "why": "Напрямую помогает многим людям, пусть и в скромных масштабах."
+    }
+   }
+  },
+  {
+   "id": "mb-rare-flat-headed-cat-recorded-in-sarawak",
+   "title": "Rare flat-headed cat recorded in Sarawak mangrove",
+   "summary": "A camera-trap survey in a Sarawak mangrove recorded the endangered flat-headed cat and showed it prefers elevated palms.",
+   "why": "New knowledge that can guide protection of a rare species.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/rare-flat-headed-cat-prefers-elevated-palms-in-malaysian-forest-says-study/",
+   "score": 6,
+   "category": "Animals",
+   "region": "Sarawak, Malaysia",
+   "published": "2026-11-16T05:31:39Z",
+   "continent": "Asia",
+   "added": "2026-11-17T05:14:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Es registra un gat de cap pla, molt rar, en un manglar de Sarawak",
+     "summary": "Un estudi amb càmeres-trampa en un manglar de Sarawak ha registrat el gat de cap pla, en perill d'extinció, i ha demostrat que prefereix les palmeres en zones elevades.",
+     "why": "Nous coneixements que poden orientar la protecció d'una espècie rara."
+    },
+    "fr": {
+     "title": "Un chat à tête plate, espèce rare, observé dans une mangrove de Sarawak",
+     "summary": "Un suivi par pièges photographiques dans une mangrove de Sarawak a permis d'observer le chat à tête plate, espèce en danger, qui préfère les palmiers en hauteur.",
+     "why": "Des connaissances nouvelles pouvant guider la protection d'une espèce rare."
+    },
+    "ru": {
+     "title": "В мангровых зарослях Саравака зафиксирован редкий плосколобый кот",
+     "summary": "Исследование с фотоловушками в мангровых зарослях Саравака зафиксировало исчезающего плосколобого кота и показало, что он предпочитает приподнятые пальмы.",
+     "why": "Новые знания, которые могут помочь в охране редкого вида."
+    }
+   }
+  },
   {
    "id": "tbi-tomato-waste-leather-startup",
    "title": "Indian startup makes leather alternative from tomato waste",
@@ -74,6 +384,37 @@
      "title": "Браслет на запястье сократил тики при синдроме Туретта на четверть в испытании в Великобритании",
      "summary": "Испытание с участием 121 человека показало, что прототип браслета Neupulse снижает частоту тиков примерно на 25 процентов.",
      "why": "Умеренная польза без лекарств, полученная с помощью прототипа в небольшом испытании."
+    }
+   }
+  },
+  {
+   "id": "gnn-first-bone-marrow-transplant-for-a-non-c",
+   "title": "First bone marrow transplant for a non-cancerous disease reported",
+   "summary": "Franciscan Health reports treating aplastic anemia with marrow from a deceased donor, a world first for a non-malignant disease.",
+   "why": "A promising first that may widen donor options, though one reported case.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/world-first-bone-marrow-transplant-successfully-treats-non-malignant-disease/",
+   "score": 7,
+   "category": "Health",
+   "region": "United States",
+   "published": "2026-11-15T20:32:08Z",
+   "continent": "North America",
+   "added": "2026-11-17T05:14:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Primer trasplantament de moll de l'os per a una malaltia no cancerosa",
+     "summary": "Franciscan Health informa d'haver tractat una anèmia aplàstica amb moll de l'os procedent d'un donant difunt, una primícia mundial en una malaltia no maligna.",
+     "why": "Un avenç prometedor que podria ampliar les opcions de donants, tot i que només hi ha un cas documentat."
+    },
+    "fr": {
+     "title": "Première greffe de moelle osseuse pour une maladie non cancéreuse",
+     "summary": "Franciscan Health annonce avoir traité une anémie aplasique grâce à de la moelle osseuse prélevée sur un donneur décédé, une première mondiale pour une maladie non maligne.",
+     "why": "Une avancée prometteuse qui pourrait élargir les options de donneurs, même si un seul cas est rapporté."
+    },
+    "ru": {
+     "title": "Впервые сообщено о пересадке костного мозга при незлокачественном заболевании",
+     "summary": "Franciscan Health сообщает о лечении апластической анемии с помощью костного мозга умершего донора, мировое первенство для незлокачественного заболевания.",
+     "why": "Перспективное достижение, которое может расширить круг доноров, хотя пока описан только один случай."
     }
    }
   },
@@ -419,6 +760,37 @@
    }
   },
   {
+   "id": "am-five-ways-to-cut-emissions-from-building",
+   "title": "Five ways to cut emissions from buildings",
+   "summary": "Buildings produce about 27 percent of global emissions, and the article outlines five approaches that lower their carbon footprint.",
+   "why": "Useful solutions for a large source of emissions.",
+   "source": "Anthropocene Magazine",
+   "url": "https://www.anthropocenemagazine.org/2026/11/five-fixes-for-low-carbon-buildings/?utm_source=rss&utm_medium=rss&utm_campaign=five-fixes-for-low-carbon-buildings",
+   "score": 6,
+   "category": "Environment",
+   "region": "Global",
+   "published": "2026-11-13T22:14:47Z",
+   "continent": "Global",
+   "added": "2026-11-17T05:14:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Cinc maneres de reduir les emissions dels edificis",
+     "summary": "Els edificis produeixen al voltant del 27 % de les emissions globals, i l'article descriu cinc enfocaments per reduir-ne l'empremta de carboni.",
+     "why": "Solucions útils per a una font important d'emissions."
+    },
+    "fr": {
+     "title": "Cinq moyens de réduire les émissions des bâtiments",
+     "summary": "Les bâtiments produisent environ 27 % des émissions mondiales ; l'article présente cinq approches permettant de réduire leur empreinte carbone.",
+     "why": "Des solutions utiles pour une source importante d'émissions."
+    },
+    "ru": {
+     "title": "Пять способов сократить выбросы от зданий",
+     "summary": "Здания дают около 27 процентов мировых выбросов; статья описывает пять подходов, которые снижают их углеродный след.",
+     "why": "Полезные решения для крупного источника выбросов."
+    }
+   }
+  },
+  {
    "id": "mb-honduras-declares-36-month-emergency-in-rio-platano-reser",
    "title": "Honduras declares 36-month emergency in Rio Platano reserve",
    "summary": "A presidential decree launches a 36-month environmental emergency in Rio Platano Biosphere Reserve, Honduras's largest protected area.",
@@ -508,6 +880,37 @@
      "title": "В Нигерии не выявлено распространения Эболы после завезённого случая",
      "summary": "В Нигерии не зарегистрировано новых случаев Эболы с тех пор, как в прошлом месяце у женщины, прибывшей из Уганды, был выявлен положительный результат теста. Её контакты завершили 21 день наблюдения без признаков инфекции.",
      "why": "В Нигерии удалось локализовать очаг, тогда как более широкая вспышка продолжается."
+    }
+   }
+  },
+  {
+   "id": "tbi-teen-helps-turn-bengaluru-school-storero",
+   "title": "Teen helps turn Bengaluru school storeroom into 2,000-book library",
+   "summary": "Seventeen-year-old Asavari Agrawal helped convert a school storage room into a library of 2,000 books.",
+   "why": "A local project that widens access to books.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/changemakers/asavari-agrawal-shape-the-future-bengaluru-government-school-children-library-teen-12807047",
+   "score": 6,
+   "category": "Society",
+   "region": "Bengaluru, India",
+   "published": "2026-11-13T14:03:38Z",
+   "continent": "Asia",
+   "added": "2026-11-17T05:14:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Una adolescent ajuda a convertir el magatzem d'una escola de Bengaluru en una biblioteca de 2.000 llibres",
+     "summary": "Asavari Agrawal, de 17 anys, ha ajudat a transformar una sala d'emmagatzematge d'una escola en una biblioteca de 2.000 llibres.",
+     "why": "Un projecte local que amplia l'accés als llibres."
+    },
+    "fr": {
+     "title": "Une adolescente transforme le local de rangement d'une école de Bengaluru en bibliothèque de 2 000 livres",
+     "summary": "Asavari Agrawal, 17 ans, a contribué à transformer une salle de stockage d'une école en une bibliothèque de 2 000 livres.",
+     "why": "Un projet local qui élargit l'accès aux livres."
+    },
+    "ru": {
+     "title": "17-летняя помогла превратить кладовку школы в Бенгалуру в библиотеку на 2000 книг",
+     "summary": "17-летняя Асавари Агравал помогла переоборудовать складское помещение школы в библиотеку на 2000 книг.",
+     "why": "Местный проект, который расширяет доступ к книгам."
     }
    }
   },
@@ -698,6 +1101,37 @@
    }
   },
   {
+   "id": "tbi-two-engineers-turn-waste-from-46-lakh-pe",
+   "title": "Two engineers turn waste from 46 lakh people into compost",
+   "summary": "Two engineers run waste collection for about 4.6 million people and convert the waste into compost.",
+   "why": "Large-scale waste reuse that reduces landfill.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/web-stories/sustainability/wevois-labs-waste-management-collecting-trash-reusing-recycling-empowering-sanitation-workers-12804397",
+   "score": 7,
+   "category": "Environment",
+   "region": "India",
+   "published": "2026-11-13T07:30:37Z",
+   "continent": "Asia",
+   "added": "2026-11-17T05:14:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Dos enginyers converteixen en compost els residus de 4,6 milions de persones",
+     "summary": "Dos enginyers gestionen la recollida de residus de prop de 4,6 milions de persones i els converteixen en compost.",
+     "why": "Reutilització de residus a gran escala que redueix l'abocament."
+    },
+    "fr": {
+     "title": "Deux ingénieurs transforment en compost les déchets de 4,6 millions de personnes",
+     "summary": "Deux ingénieurs assurent la collecte des déchets d'environ 4,6 millions de personnes et les transforment en compost.",
+     "why": "Une valorisation des déchets à grande échelle qui réduit la mise en décharge."
+    },
+    "ru": {
+     "title": "Два инженера превращают отходы 4,6 миллиона человек в компост",
+     "summary": "Два инженера организуют сбор отходов примерно для 4,6 миллиона человек и перерабатывают их в компост.",
+     "why": "Масштабная переработка отходов, которая сокращает объём свалок."
+    }
+   }
+  },
+  {
    "id": "mb-sri-lanka-17-tuskers",
    "title": "Sri Lanka identifies 17 high-risk tuskers as incidents rise",
    "summary": "The government has enlisted the armed forces in a task force to protect elephants that are especially at risk as human-elephant conflict spikes.",
@@ -725,6 +1159,37 @@
      "title": "На Шри-Ланке выявлены 17 крупных слонов-самцов из группы высокого риска на фоне роста инцидентов",
      "summary": "Правительство привлекло вооружённые силы к работе целевой группы по защите слонов, которым особенно угрожает опасность на фоне резкого роста конфликтов между людьми и слонами.",
      "why": "Усилия по защите, однако они отвечают на ухудшение ситуации."
+    }
+   }
+  },
+  {
+   "id": "tbi-tagged-spoon-billed-sandpiper-travels-fr",
+   "title": "Tagged spoon-billed sandpiper travels from Russia to Bengal coast",
+   "summary": "A critically endangered spoon-billed sandpiper tagged in Russia in July 2025 has been tracked to the coast of Bengal.",
+   "why": "Tracking data helps protect a species close to extinction.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/wildlife/spoon-billed-sandpiper-bengal-russia-migration-coastal-wetlands-12805610",
+   "score": 6,
+   "category": "Animals",
+   "region": "Bengal, India/Russia",
+   "published": "2026-11-13T06:30:37Z",
+   "continent": "Asia",
+   "added": "2026-11-17T05:14:58Z",
+   "i18n": {
+    "ca": {
+     "title": "Un bequerol de bec de cullera marcat viatja de Rússia a la costa de Bengala",
+     "summary": "Un bequerol de bec de cullera, en perill crític d'extinció, marcat a Rússia el juliol del 2025, ha estat rastrejat fins a la costa de Bengala.",
+     "why": "Les dades de seguiment ajuden a protegir una espècie al límit de l'extinció."
+    },
+    "fr": {
+     "title": "Un bécasseau spatule marqué en Russie gagne les côtes du Bengale",
+     "summary": "Un bécasseau spatule, espèce en danger critique d'extinction, marqué en Russie en juillet 2025, a été suivi jusqu'aux côtes du Bengale.",
+     "why": "Les données de suivi aident à protéger une espèce au bord de l'extinction."
+    },
+    "ru": {
+     "title": "Меченый кулик-лопатень перелетел из России на побережье Бенгалии",
+     "summary": "Кулик-лопатень, находящийся на грани исчезновения, помеченный в России в июле 2025 года, был отслежен до побережья Бенгалии.",
+     "why": "Данные о перемещениях помогают защищать вид, находящийся на грани вымирания."
     }
    }
   },
