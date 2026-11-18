@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T05:14:58Z",
+ "updated": "2026-11-18T05:14:10Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -11,10 +11,258 @@
   "Grist",
   "Africanews"
  ],
- "count": 75,
- "last_run": "run-20261117T0514Z.json",
- "note": "15 new, 30 skipped, 0 pruned, 0 translations added, failed feeds: The Optimist Daily",
+ "count": 89,
+ "last_run": "run-20261118T0514Z.json",
+ "note": "15 new, 45 skipped, 1 pruned, 0 translations added, failed feeds: The Optimist Daily",
  "stories": [
+  {
+   "id": "gnn-olive-ridley-hatchlings-released-california",
+   "title": "Rescued olive ridley sea turtle hatchlings released into the Pacific",
+   "summary": "Olive ridley hatchlings rescued ahead of a California storm were released into the Pacific, described as the first such release on the US West Coast.",
+   "why": "A small but hopeful rescue of a threatened species.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/west-coasts-first-ever-sea-turtle-hatchlings-released-into-the-pacific-look/",
+   "score": 6,
+   "category": "Animals",
+   "region": "California, USA",
+   "published": "2026-11-17T19:30:43Z",
+   "continent": "North America",
+   "added": "2026-11-18T05:14:10Z",
+   "i18n": {
+    "ca": {
+     "title": "Cries de tortuga marina olivàcia rescatades són alliberades al Pacífic",
+     "summary": "Les cries de tortuga olivàcia rescatades abans d'una tempesta a Califòrnia han estat alliberades al Pacífic, cosa que es descriu com el primer alliberament d'aquest tipus a la costa oest dels Estats Units.",
+     "why": "Un rescat petit però esperançador d'una espècie amenaçada."
+    },
+    "fr": {
+     "title": "Des bébés tortues olivâtres sauvés sont relâchés dans le Pacifique",
+     "summary": "Des bébés tortues olivâtres, sauvés avant une tempête en Californie, ont été relâchés dans le Pacifique, présenté comme le premier relâcher de ce type sur la côte ouest des États-Unis.",
+     "why": "Un sauvetage modeste mais porteur d'espoir pour une espèce menacée."
+    },
+    "ru": {
+     "title": "Спасённых детёнышей оливковой черепахи выпустили в Тихий океан",
+     "summary": "Детёнышей оливковой черепахи, спасённых перед штормом в Калифорнии, выпустили в Тихий океан. Это назвали первым подобным выпуском на западном побережье США.",
+     "why": "Небольшое, но обнадёживающее спасение вида, находящегося под угрозой исчезновения."
+    }
+   }
+  },
+  {
+   "id": "gnn-electric-school-bus-fleet-south-bronx",
+   "title": "New York's largest electric school bus fleet serves a South Bronx neighborhood",
+   "summary": "The largest electric school bus fleet in New York State now runs in a South Bronx neighborhood with high childhood asthma rates, cutting exposure to diesel exhaust.",
+   "why": "Cleaner air for children in a high-asthma area.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/largest-electric-bus-fleet-in-new-york-to-serve-bronx-neighborhood-riddled-with-asthma/",
+   "score": 7,
+   "category": "Environment",
+   "region": "New York, USA",
+   "published": "2026-11-17T14:00:28Z",
+   "continent": "North America",
+   "added": "2026-11-18T05:14:10Z",
+   "i18n": {
+    "ca": {
+     "title": "La flota d'autobusos escolars elèctrics més gran de Nova York presta servei en un barri del South Bronx",
+     "summary": "La flota d'autobusos escolars elèctrics més gran de l'estat de Nova York ja circula per un barri del South Bronx amb una alta incidència d'asma infantil, cosa que redueix l'exposició als gasos del dièsel.",
+     "why": "Aire més net per als infants en una zona amb molta asma."
+    },
+    "fr": {
+     "title": "La plus grande flotte de bus scolaires électriques de New York dessert un quartier du South Bronx",
+     "summary": "La plus grande flotte de bus scolaires électriques de l'État de New York circule désormais dans un quartier du South Bronx où les taux d'asthme chez les enfants sont élevés, ce qui réduit l'exposition aux gaz d'échappement diesel.",
+     "why": "Un air plus propre pour les enfants d'une zone touchée par l'asthme."
+    },
+    "ru": {
+     "title": "Крупнейший парк электрических школьных автобусов Нью-Йорка обслуживает район Южного Бронкса",
+     "summary": "Крупнейший в штате Нью-Йорк парк электрических школьных автобусов теперь работает в районе Южного Бронкса, где высок уровень детской астмы, что снижает воздействие выхлопов дизельного топлива.",
+     "why": "Более чистый воздух для детей в районе с высокой распространённостью астмы."
+    }
+   }
+  },
+  {
+   "id": "tbi-rewari-reviving-ponds-groundwater",
+   "title": "Rewari revives 10 ponds to store water as groundwater falls",
+   "summary": "TERI and Nokia India are restoring 10 village ponds in Haryana's Rewari district over 24 months, aiming to store 120 million litres of water.",
+   "why": "Practical local water security, though results are still to come.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/conservation/nature/rewari-haryana-village-pond-restoration-teri-water-conservation-12816963",
+   "score": 7,
+   "category": "Environment",
+   "region": "Rewari, India",
+   "published": "2026-11-17T12:14:02Z",
+   "continent": "Asia",
+   "added": "2026-11-18T05:14:10Z",
+   "i18n": {
+    "ca": {
+     "title": "Rewari recupera 10 estanys per emmagatzemar aigua mentre baixen les aigües subterrànies",
+     "summary": "TERI i Nokia India restauren 10 estanys de pobles del districte de Rewari, a Haryana, durant 24 mesos, amb l'objectiu d'emmagatzemar 120 milions de litres d'aigua.",
+     "why": "Seguretat hídrica local i pràctica, tot i que els resultats encara han d'arribar."
+    },
+    "fr": {
+     "title": "Rewari restaure 10 étangs pour stocker l'eau alors que la nappe phréatique baisse",
+     "summary": "TERI et Nokia India restaurent 10 étangs villageois dans le district de Rewari, au Haryana, sur une période de 24 mois, dans le but de stocker 120 millions de litres d'eau.",
+     "why": "Une sécurisation locale et concrète de l'eau, même si les résultats restent à venir."
+    },
+    "ru": {
+     "title": "Ревари восстанавливает 10 прудов для накопления воды на фоне падения уровня грунтовых вод",
+     "summary": "TERI и Nokia India восстанавливают 10 деревенских прудов в округе Ревари в штате Харьяна в течение 24 месяцев, чтобы накопить 120 миллионов литров воды.",
+     "why": "Практичная локальная защита водных ресурсов, хотя результаты ещё впереди."
+    }
+   }
+  },
+  {
+   "id": "tbi-takachar-turns-stubble-into-biochar",
+   "title": "Indian startup turns crop stubble into biochar",
+   "summary": "Takachar, an Earthshot Awards winner, uses portable equipment to convert crop stubble into biochar, offering farmers an alternative to burning.",
+   "why": "Could cut field-burning smoke, if it scales.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/conservation/nature/takachar-stubble-burning-biochar-earthshot-prize-12816727",
+   "score": 7,
+   "category": "Environment",
+   "region": "India",
+   "published": "2026-11-17T09:30:37Z",
+   "continent": "Asia",
+   "added": "2026-11-18T05:14:10Z",
+   "i18n": {
+    "ca": {
+     "title": "Una startup índia converteix el rostoll de les collites en biocarbó",
+     "summary": "Takachar, guanyadora dels premis Earthshot, utilitza equips portàtils per convertir el rostoll de les collites en biocarbó, i ofereix als agricultors una alternativa a cremar-lo.",
+     "why": "Podria reduir el fum de les cremes als camps, si arriba a escalar-se."
+    },
+    "fr": {
+     "title": "Une start-up indienne transforme les chaumes des cultures en biochar",
+     "summary": "Takachar, lauréate des Earthshot Awards, utilise des équipements portables pour transformer les chaumes des cultures en biochar, offrant aux agriculteurs une alternative au brûlage.",
+     "why": "Pourrait réduire la fumée des brûlis agricoles, si le procédé passe à plus grande échelle."
+    },
+    "ru": {
+     "title": "Индийский стартап превращает стерню в биоуголь",
+     "summary": "Takachar, победитель премии Earthshot Awards, использует переносное оборудование, чтобы превращать стерню в биоуголь, предлагая фермерам альтернативу сжиганию.",
+     "why": "Может сократить дым от сжигания полей, если проект масштабируется."
+    }
+   }
+  },
+  {
+   "id": "rtbc-people-who-became-wildlife-somerset",
+   "title": "Somerset volunteers take on the perspectives of local wildlife",
+   "summary": "Volunteers in the River Tone catchment in Somerset took on the viewpoints of animals such as kestrels to rethink how the landscape is managed.",
+   "why": "A creative community approach to nature recovery.",
+   "source": "Reasons to be Cheerful",
+   "url": "https://reasonstobecheerful.world/people-became-wildlife-river-tone/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Somerset, UK",
+   "published": "2026-11-17T08:00:02Z",
+   "continent": "Europe",
+   "added": "2026-11-18T05:14:10Z",
+   "i18n": {
+    "ca": {
+     "title": "Voluntaris de Somerset es posen en la pell de la fauna local",
+     "summary": "Voluntaris de la conca del riu Tone, a Somerset, han adoptat el punt de vista d'animals com el xoriguer per repensar com es gestiona el paisatge.",
+     "why": "Un enfocament comunitari creatiu per a la recuperació de la natura."
+    },
+    "fr": {
+     "title": "Des bénévoles de Somerset se mettent dans la peau de la faune locale",
+     "summary": "Des bénévoles du bassin versant de la rivière Tone, dans le Somerset, ont adopté le point de vue d'animaux comme le faucon crécerelle afin de repenser la gestion du paysage.",
+     "why": "Une approche communautaire créative pour la restauration de la nature."
+    },
+    "ru": {
+     "title": "Волонтёры из Сомерсета примеряют на себя точку зрения местной фауны",
+     "summary": "Волонтёры в бассейне реки Тоун в Сомерсете посмотрели на мир глазами животных, например пустельги, чтобы пересмотреть подходы к управлению ландшафтом.",
+     "why": "Творческий общинный подход к восстановлению природы."
+    }
+   }
+  },
+  {
+   "id": "tbi-aiims-delhi-foetal-surgery-25-weeks",
+   "title": "AIIMS Delhi performs open foetal surgery at 25 weeks",
+   "summary": "Surgeons at AIIMS Delhi repaired myelomeningocele, a spinal defect, in a baby before birth at 25 weeks of pregnancy.",
+   "why": "A medical milestone, though for a small number of patients.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/videos/health/this-babys-surgery-happened-at-25-weeks-12816250",
+   "score": 7,
+   "category": "Health",
+   "region": "Delhi, India",
+   "published": "2026-11-17T03:30:29Z",
+   "continent": "Asia",
+   "added": "2026-11-18T05:14:10Z",
+   "i18n": {
+    "ca": {
+     "title": "AIIMS Delhi practica una cirurgia fetal oberta a les 25 setmanes",
+     "summary": "Els cirurgians de l'AIIMS Delhi han reparat un mielomeningocele, un defecte de la columna vertebral, en un nadó abans del naixement, a les 25 setmanes d'embaràs.",
+     "why": "Una fita mèdica, tot i que per a un nombre reduït de pacients."
+    },
+    "fr": {
+     "title": "L'AIIMS de Delhi réalise une chirurgie fœtale ouverte à 25 semaines",
+     "summary": "Des chirurgiens de l'AIIMS de Delhi ont réparé un myéloméningocèle, une malformation de la colonne vertébrale, chez un bébé avant la naissance, à 25 semaines de grossesse.",
+     "why": "Une avancée médicale, même si elle concerne un petit nombre de patients."
+    },
+    "ru": {
+     "title": "Врачи AIIMS в Дели провели открытую операцию на плоде на 25-й неделе беременности",
+     "summary": "Хирурги AIIMS в Дели устранили миеломенингоцеле, дефект позвоночника, у ребёнка до рождения, на 25-й неделе беременности.",
+     "why": "Медицинская веха, хотя касается небольшого числа пациентов."
+    }
+   }
+  },
+  {
+   "id": "mb-japan-rice-paddies-flood-mitigation",
+   "title": "Japanese town uses rice paddies to hold floodwater",
+   "summary": "Osaki has installed more than 5,000 small earthen dams in surrounding rice paddies so the fields can hold floodwater and reduce flooding.",
+   "why": "Low-cost climate adaptation using existing farmland.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/the-power-of-the-paddy-japan-looks-to-rice-fields-to-help-mitigate-flooding/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Osaki, Japan",
+   "published": "2026-11-16T20:49:00Z",
+   "continent": "Asia",
+   "added": "2026-11-18T05:14:10Z",
+   "i18n": {
+    "ca": {
+     "title": "Una població japonesa aprofita els arrossars per retenir l'aigua de les inundacions",
+     "summary": "Osaki ha instal·lat més de 5.000 petites preses de terra als arrossars dels voltants perquè els camps puguin retenir l'aigua de les inundacions i reduir les inundacions.",
+     "why": "Adaptació climàtica de baix cost aprofitant terres de conreu existents."
+    },
+    "fr": {
+     "title": "Une ville japonaise utilise ses rizières pour retenir les eaux de crue",
+     "summary": "Osaki a installé plus de 5 000 petites digues en terre dans les rizières environnantes afin que les champs puissent retenir les eaux de crue et réduire les inondations.",
+     "why": "Une adaptation climatique à faible coût, s'appuyant sur des terres agricoles existantes."
+    },
+    "ru": {
+     "title": "Японский город использует рисовые поля для удержания паводковых вод",
+     "summary": "В Осаки на окружающих рисовых полях установили более 5 000 небольших земляных дамб, чтобы поля могли удерживать паводковую воду и уменьшать наводнения.",
+     "why": "Недорогая климатическая адаптация с использованием существующих сельхозугодий."
+    }
+   }
+  },
+  {
+   "id": "gnn-farmer-grows-ancient-grain-from-attic-seeds",
+   "title": "Italian farmer grows ancient wheat from seeds found in his attic",
+   "summary": "Claudio Grossi planted shriveled seeds found in his attic and grew an ancient grain, adding to interest in heritage crop varieties.",
+   "why": "A charming find with modest wider impact.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/farmer-finds-unknown-seeds-in-his-attic-and-grows-an-ancient-miracle-grain/",
+   "score": 5,
+   "category": "Culture",
+   "region": "Italy",
+   "published": "2026-11-16T19:30:28Z",
+   "continent": "Europe",
+   "added": "2026-11-18T05:14:10Z",
+   "i18n": {
+    "ca": {
+     "title": "Un pagès italià cultiva un cereal antic a partir de llavors trobades a les golfes",
+     "summary": "Claudio Grossi va plantar llavors arrugades trobades a les golfes i va cultivar un cereal antic, cosa que contribueix a l'interès per les varietats de cultius tradicionals.",
+     "why": "Una troballa encantadora amb un impacte més ampli modest."
+    },
+    "fr": {
+     "title": "Un agriculteur italien cultive un blé ancien à partir de graines trouvées dans son grenier",
+     "summary": "Claudio Grossi a semé des graines ratatinées découvertes dans son grenier et a fait pousser une céréale ancienne, ce qui renforce l'intérêt pour les variétés de cultures patrimoniales.",
+     "why": "Une découverte charmante, à l'impact plus large modeste."
+    },
+    "ru": {
+     "title": "Итальянский фермер вырастил древнюю пшеницу из семян, найденных у него на чердаке",
+     "summary": "Клаудио Гросси посадил сморщенные семена, найденные на чердаке, и вырастил древнее зерно, что добавляет интереса к сортам сельскохозяйственных культур с историческими корнями.",
+     "why": "Занятная находка с умеренным более широким эффектом."
+    }
+   }
+  },
   {
    "id": "an-kenyan-farmers-prepare-crops-and-soil-fo",
    "title": "Kenyan farmers prepare crops and soil for El Niño rains",
@@ -171,6 +419,37 @@
    }
   },
   {
+   "id": "mb-lost-firefly-species-rediscovered-us",
+   "title": "A firefly species not seen since 1983 is found again in the US",
+   "summary": "The similar firefly, last documented in 1983, was recorded in Virginia and Delaware in spring 2026.",
+   "why": "A rediscovery that offers hope for overlooked insects.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/a-lost-firefly-species-flashes-back-into-view-in-the-us/",
+   "score": 7,
+   "category": "Animals",
+   "region": "Virginia and Delaware, USA",
+   "published": "2026-11-16T13:00:50Z",
+   "continent": "North America",
+   "added": "2026-11-18T05:14:10Z",
+   "i18n": {
+    "ca": {
+     "title": "Una espècie de cuc de llum no vista des de 1983 torna a aparèixer als Estats Units",
+     "summary": "El cuc de llum similar, documentat per última vegada el 1983, va ser registrat a Virgínia i Delaware la primavera del 2026.",
+     "why": "Una redescoberta que dona esperança per als insectes oblidats."
+    },
+    "fr": {
+     "title": "Une espèce de luciole non observée depuis 1983 a été retrouvée aux États-Unis",
+     "summary": "Cette luciole semblable, dernière documentée en 1983, a été recensée en Virginie et dans le Delaware au printemps 2026.",
+     "why": "Une redécouverte qui redonne espoir pour les insectes méconnus."
+    },
+    "ru": {
+     "title": "Вид светлячков, не встречавшийся с 1983 года, вновь обнаружен в США",
+     "summary": "Этот похожий светлячок, последний раз зафиксированный в 1983 году, был отмечен весной 2026 года в Вирджинии и Делавэре.",
+     "why": "Повторное открытие, которое даёт надежду на забытых насекомых."
+    }
+   }
+  },
+  {
    "id": "tbi-aiims-delhi-performs-india-s-first-open",
    "title": "AIIMS Delhi performs India's first open foetal repair",
    "summary": "Doctors at AIIMS Delhi report India's first open foetal surgery repair, a procedure years in the making.",
@@ -233,6 +512,37 @@
    }
   },
   {
+   "id": "sd-245-animals-living-in-deep-sea-nodule",
+   "title": "Hundreds of animals found living in deep-sea mineral nodules",
+   "summary": "Researchers examined 244 metal-rich deep Pacific nodules and found over 4,100 animals in their cracks, showing the nodules support rich habitats.",
+   "why": "Interesting discovery, but it also highlights risks from deep-sea mining.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261114202133.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Pacific Ocean",
+   "published": "2026-11-16T11:40:14Z",
+   "continent": "Global",
+   "added": "2026-11-18T05:14:10Z",
+   "i18n": {
+    "ca": {
+     "title": "Troben centenars d'animals que viuen en nòduls minerals de les profunditats marines",
+     "summary": "Els investigadors han examinat 244 nòduls profunds del Pacífic, rics en metalls, i hi han trobat més de 4.100 animals en les seves esquerdes, cosa que demostra que els nòduls sostenen hàbitats rics.",
+     "why": "Descobriment interessant, però que també posa de manifest els riscos de la mineria en aigües profundes."
+    },
+    "fr": {
+     "title": "Des centaines d'animaux vivent dans des nodules minéraux des abysses",
+     "summary": "Des chercheurs ont examiné 244 nodules profonds du Pacifique, riches en métaux, et y ont trouvé plus de 4 100 animaux dans leurs fissures, ce qui montre que ces nodules abritent des habitats riches.",
+     "why": "Découverte intéressante, mais qui met aussi en lumière les risques de l'exploitation minière des fonds marins."
+    },
+    "ru": {
+     "title": "В минеральных конкрециях на морском дне обнаружены сотни животных",
+     "summary": "Исследователи изучили 244 богатые металлами глубоководные конкреции в Тихом океане и обнаружили более 4 100 животных в их трещинах, что показывает богатство этих мест обитания.",
+     "why": "Интересное открытие, но оно также показывает риски глубоководной добычи полезных ископаемых."
+    }
+   }
+  },
+  {
    "id": "an-libyan-zoo-welcomes-first-white-tiger-cu",
    "title": "Libyan zoo welcomes first white tiger cub",
    "summary": "A zoo in Libya has welcomed its first white tiger cub a few months after reopening.",
@@ -264,6 +574,68 @@
    }
   },
   {
+   "id": "an-sudan-revolution-band-plays-again",
+   "title": "Band that voiced Sudan's revolution records together again in Cairo",
+   "summary": "Musician Mohamed al-Mustafa is recording in Cairo with his band, whose members were scattered across countries by the war in Sudan.",
+   "why": "A cultural comeback amid ongoing conflict.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/16/scattered-by-war-the-band-that-gave-voice-to-sudans-revolution-plays-again/",
+   "score": 6,
+   "category": "Culture",
+   "region": "Sudan",
+   "published": "2026-11-16T10:02:44Z",
+   "continent": "Africa",
+   "added": "2026-11-18T05:14:10Z",
+   "i18n": {
+    "ca": {
+     "title": "La banda que va donar veu a la revolució sudanesa torna a gravar junta al Caire",
+     "summary": "El músic Mohamed al-Mustafa grava al Caire amb la seva banda, els membres de la qual van quedar dispersos per diversos països a causa de la guerra al Sudan.",
+     "why": "Un retorn cultural en mig d'un conflicte que continua."
+    },
+    "fr": {
+     "title": "Le groupe qui a porté la voix de la révolution soudanaise enregistre à nouveau ensemble au Caire",
+     "summary": "Le musicien Mohamed al-Mustafa enregistre au Caire avec son groupe, dont les membres ont été dispersés dans plusieurs pays par la guerre au Soudan.",
+     "why": "Un retour culturel au milieu d'un conflit toujours en cours."
+    },
+    "ru": {
+     "title": "Группа, ставшая голосом революции в Судане, снова записывается вместе в Каире",
+     "summary": "Музыкант Мохаммед аль-Мустафа записывается в Каире вместе со своей группой, участники которой были разбросаны по разным странам войной в Судане.",
+     "why": "Культурное возвращение на фоне продолжающегося конфликта."
+    }
+   }
+  },
+  {
+   "id": "gr-liquid-co2-laundry-without-water",
+   "title": "Liquid carbon dioxide could wash clothes without water",
+   "summary": "Liquid CO2, a cleaning method developed for aerospace parts, can wash clothes without water or a dryer, according to Grist.",
+   "why": "An early-stage idea with potential water and energy savings.",
+   "source": "Grist",
+   "url": "https://grist.org/science/carbon-dioxide-is-a-climate-problem-it-might-also-be-a-laundry-solution/",
+   "score": 5,
+   "category": "Environment",
+   "region": "USA",
+   "published": "2026-11-16T09:45:00Z",
+   "continent": "North America",
+   "added": "2026-11-18T05:14:10Z",
+   "i18n": {
+    "ca": {
+     "title": "El diòxid de carboni líquid podria rentar la roba sense aigua",
+     "summary": "El CO2 líquid, un mètode de neteja desenvolupat per a peces aeroespacials, pot rentar la roba sense aigua ni assecadora, segons Grist.",
+     "why": "Una idea en fase inicial amb un potencial d'estalvi d'aigua i energia."
+    },
+    "fr": {
+     "title": "Le dioxyde de carbone liquide pourrait laver les vêtements sans eau",
+     "summary": "Le CO2 liquide, une méthode de nettoyage mise au point pour les pièces aérospatiales, permet de laver les vêtements sans eau ni sèche-linge, selon Grist.",
+     "why": "Une idée en phase précoce, aux économies potentielles d'eau et d'énergie."
+    },
+    "ru": {
+     "title": "Жидкий углекислый газ может стирать одежду без воды",
+     "summary": "Жидкий CO2, метод очистки, разработанный для деталей аэрокосмической техники, может стирать одежду без воды и сушилки, пишет Grist.",
+     "why": "Идея на раннем этапе, которая может сэкономить воду и энергию."
+    }
+   }
+  },
+  {
    "id": "pn-charity-donates-bicycles-to-people-seeki",
    "title": "Charity donates bicycles to people seeking asylum in the UK",
    "summary": "The Bike Project gives bicycles to asylum seekers in the UK, helping with transport poverty and daily life.",
@@ -291,6 +663,68 @@
      "title": "Благотворительный проект передаёт велосипеды людям, ищущим убежище в Великобритании",
      "summary": "The Bike Project передаёт велосипеды соискателям убежища в Великобритании, помогая бороться с транспортной бедностью и облегчая повседневную жизнь.",
      "why": "Напрямую помогает многим людям, пусть и в скромных масштабах."
+    }
+   }
+  },
+  {
+   "id": "rtbc-barbershops-blood-pressure-black-men",
+   "title": "Barbershop blood-pressure screenings aim to improve Black men's health",
+   "summary": "The CLIP program brought blood-pressure screenings into 22 Black-owned barbershops, using community trust to reach men who often avoid clinics.",
+   "why": "Practical health outreach for an underserved group.",
+   "source": "Reasons to be Cheerful",
+   "url": "https://reasonstobecheerful.world/barbershops-black-men-hypertension-screenings/",
+   "score": 7,
+   "category": "Health",
+   "region": "USA",
+   "published": "2026-11-16T08:00:15Z",
+   "continent": "North America",
+   "added": "2026-11-18T05:14:10Z",
+   "i18n": {
+    "ca": {
+     "title": "Les barberies ofereixen controls de pressió arterial per millorar la salut dels homes negres",
+     "summary": "El programa CLIP ha portat controls de pressió arterial a 22 barberies de propietat negra, aprofitant la confiança de la comunitat per arribar a homes que sovint eviten les clíniques.",
+     "why": "Una iniciativa sanitària pràctica per a un grup desatès."
+    },
+    "fr": {
+     "title": "Des dépistages de la tension artérielle chez les coiffeurs visent à améliorer la santé des hommes noirs",
+     "summary": "Le programme CLIP a installé des dépistages de la tension artérielle dans 22 salons de barbier appartenant à des Noirs, s'appuyant sur la confiance de la communauté pour toucher des hommes qui évitent souvent les cliniques.",
+     "why": "Une démarche de santé concrète pour un groupe mal desservi."
+    },
+    "ru": {
+     "title": "Измерение давления в барбершопах призвано улучшить здоровье чернокожих мужчин",
+     "summary": "Программа CLIP организовала измерение артериального давления в 22 барбершопах, принадлежащих чернокожим владельцам, опираясь на доверие общины, чтобы охватить мужчин, которые часто избегают поликлиник.",
+     "why": "Практичная работа по охране здоровья для недостаточно охваченной группы."
+    }
+   }
+  },
+  {
+   "id": "an-cape-verde-neves-reelection-projected",
+   "title": "Cape Verde's president projected to win re-election",
+   "summary": "Preliminary results from 98% of ballots show incumbent José Maria Neves at about 64%, in an election that included the country's first female candidate.",
+   "why": "A calm democratic process, though a routine one.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/16/cape-verdes-president-neves-projected-to-win-re-election-with-64-of-vote/",
+   "score": 5,
+   "category": "Society",
+   "region": "Cape Verde",
+   "published": "2026-11-16T05:53:45Z",
+   "continent": "Africa",
+   "added": "2026-11-18T05:14:10Z",
+   "i18n": {
+    "ca": {
+     "title": "Es projecta que el president de Cap Verd guanyarà la reelecció",
+     "summary": "Els resultats preliminars amb el 98% de les paperetes mostren que el president en funcions, José Maria Neves, obté al voltant del 64%, en unes eleccions que han inclòs la primera candidata femenina del país.",
+     "why": "Un procés democràtic tranquil, tot i que rutinari."
+    },
+    "fr": {
+     "title": "Le président du Cap-Vert pressenti pour remporter sa réélection",
+     "summary": "Les résultats préliminaires portant sur 98 % des bulletins donnent le président sortant José Maria Neves à environ 64 %, lors d'un scrutin qui comptait la première candidate femme du pays.",
+     "why": "Un processus démocratique calme, mais de routine."
+    },
+    "ru": {
+     "title": "Президент Кабо-Верде, по прогнозам, победит на переизбрании",
+     "summary": "Предварительные результаты по 98% бюллетеней показывают, что действующий президент Жозе Мария Невеш набирает около 64%. На выборах баллотировалась первая в истории страны женщина-кандидат.",
+     "why": "Спокойный демократический процесс, хотя и рутинный."
     }
    }
   },
@@ -446,6 +880,37 @@
      "title": "Сан-Франциско получил пожертвование в размере 100 миллионов долларов на городские парки",
      "summary": "Соучредитель Airbnb Брайан Четски объявил о пожертвовании в 100 миллионов долларов в пользу городских парков — это крупнейшее пожертвование одного донора, которое когда-либо получал Сан-Франциско.",
      "why": "Крупное благотворительное пожертвование улучшит общественные зелёные зоны."
+    }
+   }
+  },
+  {
+   "id": "sd-osteoporosis-drug-blocked-spinal-damage",
+   "title": "Osteoporosis drug prevented spinal degeneration in a study",
+   "summary": "Researchers linked a genetic factor to spinal degeneration and showed that an existing osteoporosis drug prevented the damage in the experiments.",
+   "why": "Early research, but it points to repurposing an approved drug.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+   "score": 6,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-11-15T14:03:39Z",
+   "continent": "Global",
+   "added": "2026-11-18T05:14:10Z",
+   "i18n": {
+    "ca": {
+     "title": "Un fàrmac contra l'osteoporosi evita la degeneració de la columna en un estudi",
+     "summary": "Els investigadors han relacionat un factor genètic amb la degeneració de la columna i han demostrat que un fàrmac contra l'osteoporosi ja existent va evitar el dany en els experiments.",
+     "why": "Recerca inicial, però que apunta a reutilitzar un fàrmac ja aprovat."
+    },
+    "fr": {
+     "title": "Un médicament contre l'ostéoporose empêche la dégénérescence de la colonne vertébrale dans une étude",
+     "summary": "Des chercheurs ont établi un lien entre un facteur génétique et la dégénérescence de la colonne vertébrale, et ont montré qu'un médicament existant contre l'ostéoporose a empêché ces lésions lors des expériences.",
+     "why": "Recherche préliminaire, mais qui suggère de réutiliser un médicament déjà approuvé."
+    },
+    "ru": {
+     "title": "Препарат от остеопороза предотвратил дегенерацию позвоночника в исследовании",
+     "summary": "Исследователи связали генетический фактор с дегенерацией позвоночника и показали, что уже существующий препарат от остеопороза предотвращал повреждения в экспериментах.",
+     "why": "Ранние исследования, которые указывают на возможность применить уже одобренный препарат в новой роли."
     }
    }
   },
@@ -2306,37 +2771,6 @@
      "title": "Обученные собаки находят инвазивные растения примерно в 75% случаев",
      "summary": "Немецкие исследователи обучили добровольческие команды «проводник — собака» находить инвазивные растения в природе; успешность составила около трёх четвертей.",
      "why": "Перспективный недорогой инструмент для защиты природных экосистем."
-    }
-   }
-  },
-  {
-   "id": "sd-high-dose-flu-shot-alzheimers-link",
-   "title": "High-dose flu vaccine linked to lower Alzheimer's risk",
-   "summary": "A study of nearly 200,000 adults over 65 linked high-dose flu vaccination to lower Alzheimer's risk than standard-dose.",
-   "why": "Observational finding; promising but not proof of cause.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm",
-   "score": 5,
-   "category": "Health",
-   "region": "USA",
-   "published": "2026-11-08T02:52:28Z",
-   "continent": "North America",
-   "added": "2026-11-11T05:13:22Z",
-   "i18n": {
-    "ca": {
-     "title": "La vacuna antigripal d'alta dosi, associada a un risc menor d'Alzheimer",
-     "summary": "Un estudi amb gairebé 200.000 adults de més de 65 anys va relacionar la vacunació antigripal d'alta dosi amb un risc d'Alzheimer més baix que el de la dosi estàndard.",
-     "why": "Resultat observacional prometedor, però no prova de causa."
-    },
-    "fr": {
-     "title": "Le vaccin antigrippal à forte dose associé à un risque plus faible de maladie d'Alzheimer",
-     "summary": "Une étude portant sur près de 200 000 adultes de plus de 65 ans a associé la vaccination antigrippale à forte dose à un risque de maladie d'Alzheimer plus faible que la dose standard.",
-     "why": "Constat observationnel prometteur, mais qui ne prouve pas une relation de cause à effet."
-    },
-    "ru": {
-     "title": "Высокодозная вакцина от гриппа связана с меньшим риском болезни Альцгеймера",
-     "summary": "Исследование почти 200 000 взрослых старше 65 лет связало вакцинацию высокодозной противогриппозной вакциной с меньшим риском болезни Альцгеймера по сравнению со стандартной дозой.",
-     "why": "Наблюдательный результат, многообещающий, но не доказывающий причинно-следственную связь."
     }
    }
   }
