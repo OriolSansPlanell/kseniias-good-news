@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T05:14:10Z",
+ "updated": "2026-11-19T05:13:40Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -11,10 +11,258 @@
   "Grist",
   "Africanews"
  ],
- "count": 89,
- "last_run": "run-20261118T0514Z.json",
- "note": "15 new, 45 skipped, 1 pruned, 0 translations added, failed feeds: The Optimist Daily",
+ "count": 101,
+ "last_run": "run-20261119T0513Z.json",
+ "note": "15 new, 45 skipped, 3 pruned, 0 translations added, failed feeds: The Optimist Daily",
  "stories": [
+  {
+   "id": "gnn-students-work-to-save-a-plant-found-only-near-thei",
+   "title": "Students work to save a plant found only near their campus",
+   "summary": "Santa Clara University scientists are protecting the Santa Clara Valley liveforever, a rare succulent threatened by poaching.",
+   "why": "Local conservation effort protecting a very rare plant.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/students-fighting-to-save-poached-plant-species-that-only-exists-near-their-campus/",
+   "score": 6,
+   "category": "Environment",
+   "region": "California, USA",
+   "published": "2026-11-18T19:30:50Z",
+   "continent": "North America",
+   "added": "2026-11-19T05:13:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Estudiants treballen per salvar una planta que només es troba prop del seu campus",
+     "summary": "Científics de la Universitat de Santa Clara protegeixen el Santa Clara Valley liveforever, una suculenta rara amenaçada pel furtivisme.",
+     "why": "Iniciativa local de conservació que protegeix una planta molt rara."
+    },
+    "fr": {
+     "title": "Des étudiants se mobilisent pour sauver une plante qui ne pousse qu'à proximité de leur campus",
+     "summary": "Des scientifiques de l'Université de Santa Clara protègent la Santa Clara Valley liveforever, une plante grasse rare menacée par le prélèvement illégal.",
+     "why": "Initiative locale de conservation qui protège une plante très rare."
+    },
+    "ru": {
+     "title": "Студенты борются за спасение растения, которое растёт только рядом с их кампусом",
+     "summary": "Учёные Университета Санта-Клары защищают Santa Clara Valley liveforever, редкое суккулентное растение, которому угрожает незаконный сбор.",
+     "why": "Местная природоохранная работа по защите очень редкого растения."
+    }
+   }
+  },
+  {
+   "id": "gnn-antarctic-blue-whale-population-grows-about-tenfol",
+   "title": "Antarctic blue whale population grows about tenfold since whaling ended",
+   "summary": "Antarctic blue whales rose from 418 individuals in 1973 to roughly 4,018, growing about 4.5% a year after commercial whaling stopped.",
+   "why": "Clear recovery of a once-nearly-extinct species, though numbers remain small.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling/",
+   "score": 8,
+   "category": "Animals",
+   "region": "Antarctic Ocean",
+   "published": "2026-11-18T14:00:45Z",
+   "continent": "Antarctica",
+   "added": "2026-11-19T05:13:40Z",
+   "i18n": {
+    "ca": {
+     "title": "La població de balenes blaves de l'Antàrtida s'ha multiplicat per deu des de la fi de la caça de balenes",
+     "summary": "Les balenes blaves de l'Antàrtida han passat de 418 individus el 1973 a unes 4.018, i han crescut un 4,5% cada any després que s'aturés la caça comercial de balenes.",
+     "why": "Clara recuperació d'una espècie que va estar a punt d'extingir-se, tot i que les xifres encara són petites."
+    },
+    "fr": {
+     "title": "La population de baleines bleues de l'Antarctique a été multipliée par dix depuis la fin de la chasse à la baleine",
+     "summary": "Les baleines bleues de l'Antarctique sont passées de 418 individus en 1973 à environ 4 018, avec une croissance d'environ 4,5 % par an depuis l'arrêt de la chasse commerciale à la baleine.",
+     "why": "Redressement manifeste d'une espèce qui a frôlé l'extinction, même si les effectifs restent faibles."
+    },
+    "ru": {
+     "title": "Популяция антарктических синих китов выросла примерно в десять раз после прекращения китобойного промысла",
+     "summary": "Численность антарктических синих китов выросла с 418 особей в 1973 году примерно до 4018, а после прекращения коммерческого китобойного промысла ежегодный прирост составляет около 4,5%.",
+     "why": "Явное восстановление вида, который когда-то был почти полностью истреблён, хотя численность по-прежнему невелика."
+    }
+   }
+  },
+  {
+   "id": "tbi-two-women-turn-burnt-crop-straw-into-a-business",
+   "title": "Two women turn burnt crop straw into a business",
+   "summary": "Founders from Haryana and Rajasthan started SSAR Biomass Green, turning farm straw that is often burned into useful products.",
+   "why": "Reduces burning and pollution while creating income.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/startup/haryana-women-paddy-stubble-biofuel-business-12820239",
+   "score": 7,
+   "category": "Environment",
+   "region": "Haryana and Rajasthan, India",
+   "published": "2026-11-18T12:47:37Z",
+   "continent": "Asia",
+   "added": "2026-11-19T05:13:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Dues dones converteixen la palla cremada dels conreus en un negoci",
+     "summary": "Les fundadores d'Haryana i Rajasthan van crear SSAR Biomass Green, que transforma la palla de les collites, sovint cremada, en productes útils.",
+     "why": "Redueix les cremades i la contaminació alhora que genera ingressos."
+    },
+    "fr": {
+     "title": "Deux femmes transforment la paille brûlée des cultures en entreprise",
+     "summary": "Les fondatrices, originaires de l'Haryana et du Rajasthan, ont créé SSAR Biomass Green, qui transforme la paille agricole, souvent brûlée, en produits utiles.",
+     "why": "Réduit le brûlage et la pollution tout en créant des revenus."
+    },
+    "ru": {
+     "title": "Две женщины превращают сожжённую солому в бизнес",
+     "summary": "Основательницы из Харьяны и Раджастхана создали SSAR Biomass Green, которая превращает сельскохозяйственную солому, которую часто сжигают, в полезные продукты.",
+     "why": "Сокращает сжигание и загрязнение и приносит доход."
+    }
+   }
+  },
+  {
+   "id": "gnn-immune-cell-therapy-clears-brain-tumors-in-mice",
+   "title": "Immune cell therapy clears brain tumors in mice",
+   "summary": "UC San Francisco researchers designed an immune cell therapy that activates only inside the brain, eliminating aggressive tumors in every mouse tested.",
+   "why": "Promising but only tested in mice so far.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/scientists-cure-deadly-brain-tumors-in-every-mouse-tested-with-new-cancer-therapy/",
+   "score": 5,
+   "category": "Health",
+   "region": "California, USA",
+   "published": "2026-11-18T12:30:20Z",
+   "continent": "North America",
+   "added": "2026-11-19T05:13:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Una teràpia amb cèl·lules immunitàries elimina tumors cerebrals en ratolins",
+     "summary": "Investigadors de la Universitat de Califòrnia a San Francisco han dissenyat una teràpia amb cèl·lules immunitàries que només s'activa dins del cervell i que ha eliminat els tumors agressius en tots els ratolins analitzats.",
+     "why": "Prometedora, però només s'ha provat en ratolins fins ara."
+    },
+    "fr": {
+     "title": "Une thérapie à base de cellules immunitaires élimine des tumeurs cérébrales chez la souris",
+     "summary": "Des chercheurs de l'Université de Californie à San Francisco ont conçu une thérapie à base de cellules immunitaires qui ne s'active qu'à l'intérieur du cerveau et qui a éliminé les tumeurs agressives chez toutes les souris testées.",
+     "why": "Prometteuse, mais testée uniquement chez la souris pour l'instant."
+    },
+    "ru": {
+     "title": "Иммунноклеточная терапия уничтожает опухоли мозга у мышей",
+     "summary": "Исследователи Калифорнийского университета в Сан-Франциско разработали иммунноклеточную терапию, которая активируется только внутри мозга, и она устранила агрессивные опухоли у всех протестированных мышей.",
+     "why": "Перспективно, но пока испытано только на мышах."
+    }
+   }
+  },
+  {
+   "id": "sd-protein-sorla-reduces-alzheimer-s-related-damage-i",
+   "title": "Protein SORLA reduces Alzheimer's-related damage in mice",
+   "summary": "Boosting the protein SORLA in mice lowered toxic tau tangles and preserved brain function, pointing to a possible new treatment target.",
+   "why": "Early animal research, far from human treatment.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261114202233.htm",
+   "score": 5,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-11-18T11:53:30Z",
+   "continent": "Global",
+   "added": "2026-11-19T05:13:40Z",
+   "i18n": {
+    "ca": {
+     "title": "La proteïna SORLA redueix els danys relacionats amb l'Alzheimer en ratolins",
+     "summary": "Augmentar la proteïna SORLA en ratolins va reduir els cabdells tòxics de tau i va preservar la funció cerebral, cosa que apunta a una possible nova diana terapèutica.",
+     "why": "Investigació preliminar amb animals, lluny de ser un tractament per a humans."
+    },
+    "fr": {
+     "title": "La protéine SORLA réduit les dommages liés à Alzheimer chez la souris",
+     "summary": "L'augmentation de la protéine SORLA chez la souris a réduit les enchevêtrements toxiques de protéine tau et préservé les fonctions cérébrales, ce qui ouvre la voie à une nouvelle cible thérapeutique possible.",
+     "why": "Recherche animale préliminaire, encore loin d'un traitement pour l'humain."
+    },
+    "ru": {
+     "title": "Белок SORLA снижает повреждения, связанные с болезнью Альцгеймера, у мышей",
+     "summary": "Повышение уровня белка SORLA у мышей уменьшило количество токсичных клубков тау-белка и сохранило функции мозга, что указывает на возможную новую мишень для лечения.",
+     "why": "Ранние исследования на животных, до лечения людей ещё далеко."
+    }
+   }
+  },
+  {
+   "id": "tbi-india-wins-10th-saff-football-title-with-a-second",
+   "title": "India wins 10th SAFF football title with a second-string squad",
+   "summary": "India beat Pakistan to claim its tenth SAFF Championship title without its star players.",
+   "why": "Sporting success and community pride.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/videos/association-football/no-star-players-still-champions-india-wins-10th-saff-title-12821332",
+   "score": 6,
+   "category": "Culture",
+   "region": "India",
+   "published": "2026-11-18T10:38:18Z",
+   "continent": "Asia",
+   "added": "2026-11-19T05:13:40Z",
+   "i18n": {
+    "ca": {
+     "title": "L'Índia guanya el 10è títol de la SAFF amb una selecció de segona fila",
+     "summary": "L'Índia va vèncer el Pakistan i es va proclamar campiona del seu desè títol del Campionat SAFF sense els seus jugadors estrella.",
+     "why": "Èxit esportiu i orgull per a la comunitat."
+    },
+    "fr": {
+     "title": "L'Inde remporte le 10e titre de la SAFF avec une équipe de remplaçants",
+     "summary": "L'Inde a battu le Pakistan et a remporté son dixième titre de championne de la SAFF sans ses joueurs vedettes.",
+     "why": "Succès sportif et fierté collective."
+    },
+    "ru": {
+     "title": "Индия выигрывает 10-й титул чемпиона SAFF составом из запасных игроков",
+     "summary": "Индия обыграла Пакистан и завоевала десятый титул чемпиона Чемпионата SAFF без своих звёздных игроков.",
+     "why": "Спортивный успех и общественная гордость."
+    }
+   }
+  },
+  {
+   "id": "sd-hippos-roamed-the-arabian-desert-125-000-years-ago",
+   "title": "Hippos roamed the Arabian Desert 125,000 years ago",
+   "summary": "A Saudi Arabian site dated to about 125,000 years ago holds thousands of hippo-related traces, showing the region was once green and wet.",
+   "why": "Interesting science rather than news of impact.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261115085537.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Saudi Arabia",
+   "published": "2026-11-18T01:52:47Z",
+   "continent": "Asia",
+   "added": "2026-11-19T05:13:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Hipopòtams habitaven el desert d'Aràbia fa 125.000 anys",
+     "summary": "Un jaciment d'Aràbia Saudita datat fa uns 125.000 anys conserva milers de vestigis relacionats amb hipopòtams, cosa que demostra que la regió va ser un dia verda i humida.",
+     "why": "Ciència interessant més que notícia d'impacte."
+    },
+    "fr": {
+     "title": "Des hippopotames peuplaient le désert d'Arabie il y a 125 000 ans",
+     "summary": "Un site d'Arabie saoudite daté d'environ 125 000 ans recèle des milliers de traces liées aux hippopotames, ce qui montre que la région était autrefois verte et humide.",
+     "why": "Une science intéressante plutôt qu'une actualité à fort impact."
+    },
+    "ru": {
+     "title": "Бегемоты обитали в Аравийской пустыне 125 000 лет назад",
+     "summary": "Место в Саудовской Аравии, датируемое примерно 125 000 годами назад, содержит тысячи следов, связанных с бегемотами, что указывает на то, что когда-то регион был зелёным и влажным.",
+     "why": "Интересная наука, а не новость о значимом влиянии."
+    }
+   }
+  },
+  {
+   "id": "mb-isolated-aw-people-encountered-in-brazil-exposing",
+   "title": "Isolated Awá people encountered in Brazil, exposing their vulnerability",
+   "summary": "About 20 Awá people living in voluntary isolation approached outsiders in Brazil, highlighting the threats to their territory.",
+   "why": "Shows the risks facing uncontacted people.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/rare-encounter-with-isolated-indigenous-awa-people-in-brazil-exposes-vulnerability/",
+   "score": 3,
+   "category": "Society",
+   "region": "Maranhão, Brazil",
+   "published": "2026-11-17T23:20:01Z",
+   "continent": "South America",
+   "added": "2026-11-19T05:13:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Es produeix un contacte amb el poble awá aïllat al Brasil, que evidencia la seva vulnerabilitat",
+     "summary": "Unes 20 persones del poble awá, que viuen en aïllament voluntari, es van acostar a persones externes al Brasil, cosa que posa de manifest les amenaces al seu territori.",
+     "why": "Mostra els riscos als quals s'enfronten els pobles no contactats."
+    },
+    "fr": {
+     "title": "Des Awá isolés rencontrés au Brésil, ce qui met en lumière leur vulnérabilité",
+     "summary": "Une vingtaine d'Awá vivant en isolement volontaire se sont approchés de personnes extérieures au Brésil, mettant en évidence les menaces qui pèsent sur leur territoire.",
+     "why": "Illustre les risques auxquels sont exposés les peuples non contactés."
+    },
+    "ru": {
+     "title": "Изолированные авá в Бразилии вышли на контакт, что подчёркивает их уязвимость",
+     "summary": "Около 20 человек из народа авá, живущего в добровольной изоляции, приблизились к посторонним в Бразилии, что подчёркивает угрозы их территории.",
+     "why": "Показывает риски, с которыми сталкиваются незатронутые контактом народы."
+    }
+   }
+  },
   {
    "id": "gnn-olive-ridley-hatchlings-released-california",
    "title": "Rescued olive ridley sea turtle hatchlings released into the Pacific",
@@ -43,6 +291,130 @@
      "title": "Спасённых детёнышей оливковой черепахи выпустили в Тихий океан",
      "summary": "Детёнышей оливковой черепахи, спасённых перед штормом в Калифорнии, выпустили в Тихий океан. Это назвали первым подобным выпуском на западном побережье США.",
      "why": "Небольшое, но обнадёживающее спасение вида, находящегося под угрозой исчезновения."
+    }
+   }
+  },
+  {
+   "id": "mb-earthshot-prize-winners-honoured-in-mumbai",
+   "title": "Earthshot Prize winners honoured in Mumbai",
+   "summary": "Prince William presented five Earthshot Prize winners with one million pounds each for environmental solutions at a ceremony in Mumbai.",
+   "why": "Funding boosts proven environmental projects.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/prince-williams-presents-earthshot-prize-winners-with-1-3m-each-in-mumbai/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Mumbai, India",
+   "published": "2026-11-17T18:31:16Z",
+   "continent": "Asia",
+   "added": "2026-11-19T05:13:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Guardonats amb el Earthshot Prize a Mumbai",
+     "summary": "El príncep Guillem va lliurar a cinc guanyadors de l'Earthshot Prize un milió de lliures a cadascun per a solucions ambientals, en una cerimònia a Mumbai.",
+     "why": "El finançament impulsa projectes ambientals ja comprovats."
+    },
+    "fr": {
+     "title": "Les lauréats de l'Earthshot Prize récompensés à Mumbai",
+     "summary": "Le prince William a remis à cinq lauréats de l'Earthshot Prize un million de livres chacun pour des solutions environnementales, lors d'une cérémonie à Mumbai.",
+     "why": "Le financement soutient des projets environnementaux éprouvés."
+    },
+    "ru": {
+     "title": "Лауреаты премии Earthshot отмечены в Мумбаи",
+     "summary": "Принц Уильям вручил пяти лауреатам премии Earthshot по миллиону фунтов каждому за экологические решения на церемонии в Мумбаи.",
+     "why": "Финансирование поддерживает уже зарекомендовавшие себя экологические проекты."
+    }
+   }
+  },
+  {
+   "id": "an-fela-kuti-becomes-first-african-inducted-into-rock",
+   "title": "Fela Kuti becomes first African inducted into Rock & Roll Hall of Fame",
+   "summary": "The Nigerian Afrobeat pioneer has been inducted into the Rock & Roll Hall of Fame, the first African artist to receive the honour.",
+   "why": "A landmark recognition for African music.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/17/fela-kuti-becomes-first-african-to-be-inducted-in-rock-roll-hall-of-fame/",
+   "score": 7,
+   "category": "Culture",
+   "region": "Nigeria",
+   "published": "2026-11-17T17:21:26Z",
+   "continent": "Africa",
+   "added": "2026-11-19T05:13:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Fela Kuti és el primer africà incorporat al Rock and Roll Hall of Fame",
+     "summary": "El pioner nigerià de l'afrobeat ha estat incorporat al Rock and Roll Hall of Fame, i és el primer artista africà a rebre aquest honor.",
+     "why": "Un reconeixement històric per a la música africana."
+    },
+    "fr": {
+     "title": "Fela Kuti est le premier Africain intronisé au Rock & Roll Hall of Fame",
+     "summary": "Le pionnier nigérian de l'afrobeat a été intronisé au Rock & Roll Hall of Fame, premier artiste africain à recevoir cet honneur.",
+     "why": "Une reconnaissance historique pour la musique africaine."
+    },
+    "ru": {
+     "title": "Фела Кути стал первым африканцем, введённым в Зал славы рок-н-ролла",
+     "summary": "Нигерийский пионер афробита введён в Зал славы рок-н-ролла и стал первым африканским артистом, удостоенным этой чести.",
+     "why": "Знаковое признание африканской музыки."
+    }
+   }
+  },
+  {
+   "id": "mb-scimitar-horned-oryx-returns-to-chad",
+   "title": "Scimitar-horned oryx returns to Chad",
+   "summary": "A reintroduction programme led by Sahara Conservation has rebuilt a wild population of the scimitar-horned oryx in Chad.",
+   "why": "Successful return of a species once extinct in the wild.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/the-scimitar-horned-oryx-is-back-in-chad/",
+   "score": 8,
+   "category": "Animals",
+   "region": "Chad",
+   "published": "2026-11-17T16:58:40Z",
+   "continent": "Africa",
+   "added": "2026-11-19T05:13:40Z",
+   "i18n": {
+    "ca": {
+     "title": "L'òryx de banyes en cimitarra torna al Txad",
+     "summary": "Un programa de reintroducció dirigit per Sahara Conservation ha reconstruït una població salvatge d'òryx de banyes en cimitarra al Txad.",
+     "why": "Retorn exitós d'una espècie que va desaparèixer de la natura."
+    },
+    "fr": {
+     "title": "L'oryx algazelle revient au Tchad",
+     "summary": "Un programme de réintroduction mené par Sahara Conservation a permis de reconstituer une population sauvage d'oryx algazelles au Tchad.",
+     "why": "Retour réussi d'une espèce disparue à l'état sauvage."
+    },
+    "ru": {
+     "title": "Сабельные ориксы возвращаются в Чад",
+     "summary": "Программа реинтродукции под руководством Sahara Conservation восстановила дикую популяцию сабельных ориксов в Чаде.",
+     "why": "Успешное возвращение вида, который когда-то полностью исчез из дикой природы."
+    }
+   }
+  },
+  {
+   "id": "gnn-warren-buffett-donates-5-5-billion-in-shares-ahead",
+   "title": "Warren Buffett donates $5.5 billion in shares ahead of Thanksgiving",
+   "summary": "Warren Buffett converted Berkshire Hathaway shares into a $5.5 billion gift for charitable foundations, saying kindness is important.",
+   "why": "Large donation helping many causes.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/warren-buffett-gives-away-5-5-billion-thanksgiving-gift/",
+   "score": 7,
+   "category": "Society",
+   "region": "USA",
+   "published": "2026-11-17T15:55:24Z",
+   "continent": "North America",
+   "added": "2026-11-19T05:13:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Warren Buffett fa una donació de 5.500 milions de dòlars en accions abans del Dia d'Acció de Gràcies",
+     "summary": "Warren Buffett ha convertit accions de Berkshire Hathaway en un regal de 5.500 milions de dòlars per a fundacions benèfiques, i ha dit que l'amabilitat és important.",
+     "why": "Donació important que ajuda moltes causes."
+    },
+    "fr": {
+     "title": "Warren Buffett fait don de 5,5 milliards de dollars en actions à l'approche de Thanksgiving",
+     "summary": "Warren Buffett a converti des actions de Berkshire Hathaway en un don de 5,5 milliards de dollars au profit de fondations caritatives, en affirmant que la gentillesse est importante.",
+     "why": "Un don considérable qui profite à de nombreuses causes."
+    },
+    "ru": {
+     "title": "Уоррен Баффетт передаёт акции на 5,5 млрд долларов накануне Дня благодарения",
+     "summary": "Уоррен Баффетт превратил акции Berkshire Hathaway в дар благотворительным фондам на 5,5 млрд долларов, заявив, что доброта важна.",
+     "why": "Крупное пожертвование, которое поможет многим благим делам."
     }
    }
   },
@@ -136,6 +508,68 @@
      "title": "Индийский стартап превращает стерню в биоуголь",
      "summary": "Takachar, победитель премии Earthshot Awards, использует переносное оборудование, чтобы превращать стерню в биоуголь, предлагая фермерам альтернативу сжиганию.",
      "why": "Может сократить дым от сжигания полей, если проект масштабируется."
+    }
+   }
+  },
+  {
+   "id": "an-african-artists-take-four-of-five-global-album-spo",
+   "title": "African artists take four of five global album spots in 2027 Grammy nominations",
+   "summary": "African musicians received four of the five nominations in the Grammy global music album category.",
+   "why": "Wider recognition of African music.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/17/2027-grammy-nominations-african-artists-take-four-of-five-global-album-spots/",
+   "score": 6,
+   "category": "Culture",
+   "region": "Africa",
+   "published": "2026-11-17T09:09:26Z",
+   "continent": "Africa",
+   "added": "2026-11-19T05:13:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Artistes africans obtenen quatre de les cinc nominacions a l'àlbum de música global dels Grammy 2027",
+     "summary": "Músics africans han rebut quatre de les cinc nominacions a la categoria d'àlbum de música global dels Grammy.",
+     "why": "Un reconeixement més ampli de la música africana."
+    },
+    "fr": {
+     "title": "Des artistes africains obtiennent quatre des cinq nominations dans la catégorie album de musique mondiale aux Grammy 2027",
+     "summary": "Des musiciens africains ont reçu quatre des cinq nominations dans la catégorie album de musique mondiale des Grammy.",
+     "why": "Une reconnaissance plus large de la musique africaine."
+    },
+    "ru": {
+     "title": "Африканские исполнители получили четыре из пяти номинаций на глобальный альбом премии «Грэмми» 2027",
+     "summary": "Африканские музыканты получили четыре из пяти номинаций в категории «Глобальный музыкальный альбом» премии «Грэмми».",
+     "why": "Более широкое признание африканской музыки."
+    }
+   }
+  },
+  {
+   "id": "mb-proposed-marine-protected-area-could-safeguard-wha",
+   "title": "Proposed marine protected area could safeguard whale sharks in Indonesia",
+   "summary": "Plans for a marine protected area in Indonesia's Saleh Bay would cover important habitat for whale sharks.",
+   "why": "Still a plan, not yet in force.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/plans-for-a-new-marine-protected-area-boost-whale-shark-conservation-in-indonesias-saleh-bay/",
+   "score": 6,
+   "category": "Animals",
+   "region": "Saleh Bay, Indonesia",
+   "published": "2026-11-17T08:10:41Z",
+   "continent": "Asia",
+   "added": "2026-11-19T05:13:40Z",
+   "i18n": {
+    "ca": {
+     "title": "Una proposta de zona marina protegida podria protegir els taurons balena a Indonèsia",
+     "summary": "Els plans per crear una zona marina protegida a la badia de Saleh, a Indonèsia, abastarien un hàbitat important per als taurons balena.",
+     "why": "Encara és un pla, no està en vigor."
+    },
+    "fr": {
+     "title": "Une future aire marine protégée pourrait préserver les requins-baleines en Indonésie",
+     "summary": "Le projet d'aire marine protégée dans la baie de Saleh, en Indonésie, couvrirait un habitat important pour les requins-baleines.",
+     "why": "Il ne s'agit encore que d'un projet, non encore en vigueur."
+    },
+    "ru": {
+     "title": "Предлагаемая морская охраняемая зона может защитить китовых акул в Индонезии",
+     "summary": "Планы создания морской охраняемой зоны в заливе Салех в Индонезии охватят важную среду обитания китовых акул.",
+     "why": "Пока это только план, он ещё не вступил в силу."
     }
    }
   },
@@ -415,6 +849,37 @@
      "title": "17-летний разработчик создал ИИ-инструмент, помогающий слепым читать документы",
      "summary": "Яш Бхатнагар, 17 лет, создал Visionably, ИИ-инструмент, который помогает слепым читать банковские выписки и учебники.",
      "why": "Полезная технология доступности от юного создателя, пока на ранней стадии."
+    }
+   }
+  },
+  {
+   "id": "sd-hera-spacecraft-images-the-crater-covered-side-of",
+   "title": "Hera spacecraft images the crater-covered side of NASA-impacted asteroid",
+   "summary": "ESA's Hera mission has imaged the asteroid Dimorphos after NASA's 2022 impact, revealing a surprising cratered surface.",
+   "why": "Useful planetary defence knowledge.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm",
+   "score": 6,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-11-16T13:40:11Z",
+   "continent": "Global",
+   "added": "2026-11-19T05:13:40Z",
+   "i18n": {
+    "ca": {
+     "title": "La nau Hera fotografia la cara coberta de cràters de l'asteroide impactat per la NASA",
+     "summary": "La missió Hera de l'ESA ha fotografiat l'asteroide Dimorphos després de l'impacte de la NASA del 2022, i ha revelat una superfície sorprenentment plena de cràters.",
+     "why": "Coneixement útil per a la defensa planetària."
+    },
+    "fr": {
+     "title": "La sonde Hera photographie la face criblée de cratères de l'astéroïde percuté par la NASA",
+     "summary": "La mission Hera de l'ESA a photographié l'astéroïde Dimorphos après l'impact de la NASA en 2022, révélant une surface étonnamment couverte de cratères.",
+     "why": "Connaissances utiles pour la défense planétaire."
+    },
+    "ru": {
+     "title": "Зонд «Гера» снял кратерную сторону астероида, в который врезалась NASA",
+     "summary": "Миссия ESA «Гера» сфотографировала астероид Диморф после столкновения NASA в 2022 году и обнаружила неожиданно изрытую кратерами поверхность.",
+     "why": "Полезные знания для планетарной защиты."
     }
    }
   },
@@ -2678,99 +3143,6 @@
      "title": "Заросли мерля у берегов Шотландии восстанавливаются после запрета на драгирование гребешков",
      "summary": "Через десять лет после запрета на драгирование заросли мерля вокруг островов Саммер-Айлс процветают и поддерживают местные запасы рыбы.",
      "why": "Защита привела к измеримому восстановлению среды обитания и рыбных запасов."
-    }
-   }
-  },
-  {
-   "id": "gnn-glowworms-return-north-yorkshire",
-   "title": "Glowworms return to North Yorkshire reserve",
-   "summary": "A volunteer breeds glowworm larvae in his garden shed and releases them into a reserve where the insects had been absent for a century.",
-   "why": "Local species restoration, small in scale but successful.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/glowworms-shine-again-in-the-uk-from-larvae-reared-pro-bono-in-garden-shed/",
-   "score": 7,
-   "category": "Animals",
-   "region": "North Yorkshire, UK",
-   "published": "2026-11-09T12:30:57Z",
-   "continent": "Europe",
-   "added": "2026-11-11T05:13:22Z",
-   "i18n": {
-    "ca": {
-     "title": "Els cucs de llum tornen a una reserva del North Yorkshire",
-     "summary": "Un voluntari cria larves de cuc de llum en un cobert del seu jardí i les allibera en una reserva on aquests insectes havien desaparegut fa un segle.",
-     "why": "Restauració d'una espècie local, petita en escala però reeixida."
-    },
-    "fr": {
-     "title": "Les vers luisants reviennent dans une réserve du North Yorkshire",
-     "summary": "Un bénévole élève des larves de ver luisant dans le cabanon de son jardin et les relâche dans une réserve où ces insectes avaient disparu depuis un siècle.",
-     "why": "Restauration d'une espèce locale, modeste par son ampleur mais réussie."
-    },
-    "ru": {
-     "title": "Светлячки возвращаются в заповедник на севере Йоркшира",
-     "summary": "Волонтёр выращивает личинки светляков в сарае на своём участке и выпускает их в заповедник, где эти насекомые не появлялись около века.",
-     "why": "Восстановление местного вида: масштаб невелик, но результат успешен."
-    }
-   }
-  },
-  {
-   "id": "an-kenya-synthetic-hair-upcycling",
-   "title": "Kenyan women turn discarded synthetic hair into crafts",
-   "summary": "Women in Kenya are reusing synthetic hair, which becomes waste after hairstyles are removed, to make handmade products.",
-   "why": "Small-scale waste reduction with income benefits.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/11/09/kenyan-women-turn-discarded-synthetic-hair-into-handmade-products/",
-   "score": 6,
-   "category": "Environment",
-   "region": "Kenya",
-   "published": "2026-11-09T10:22:51Z",
-   "continent": "Africa",
-   "added": "2026-11-11T05:13:22Z",
-   "i18n": {
-    "ca": {
-     "title": "Dones de Kenya converteixen en artesania els cabells sintètics descartats",
-     "summary": "Dones de Kenya reutilitzen els cabells sintètics, que es converteixen en residu després de desfer els pentinats, per fabricar productes artesanals.",
-     "why": "Reducció de residus a petita escala amb beneficis per als ingressos."
-    },
-    "fr": {
-     "title": "Au Kenya, des femmes transforment des cheveux synthétiques usagés en objets artisanaux",
-     "summary": "Des femmes kényanes réutilisent les cheveux synthétiques, qui deviennent des déchets une fois les coiffures retirées, pour fabriquer des produits artisanaux.",
-     "why": "Réduction des déchets à petite échelle, avec des retombées sur les revenus."
-    },
-    "ru": {
-     "title": "Кенийки превращают использованные синтетические волосы в изделия ручной работы",
-     "summary": "Женщины в Кении повторно используют синтетические волосы, которые становятся отходами после снятия причёсок, для изготовления изделий ручной работы.",
-     "why": "Небольшое по масштабу сокращение отходов с выгодой для доходов."
-    }
-   }
-  },
-  {
-   "id": "gnn-dogs-detect-invasive-plants",
-   "title": "Trained dogs find invasive plants about 75% of the time",
-   "summary": "German researchers trained volunteer handler-dog teams to locate invasive plants in the wild, with roughly three-quarters success.",
-   "why": "Promising low-cost tool for protecting native ecosystems.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/dogs-can-sniff-out-invasive-plant-species-with-75pt-accuracy/",
-   "score": 6,
-   "category": "Science",
-   "region": "Germany",
-   "published": "2026-11-08T18:36:02Z",
-   "continent": "Europe",
-   "added": "2026-11-11T05:13:22Z",
-   "i18n": {
-    "ca": {
-     "title": "Gossos entrenats troben plantes invasores aproximadament el 75% de les vegades",
-     "summary": "Investigadors alemanys van entrenar equips formats per voluntaris i els seus gossos perquè localitzessin plantes invasores en el medi natural, amb un èxit d'uns tres quarts.",
-     "why": "Eina prometedora i de baix cost per protegir els ecosistemes autòctons."
-    },
-    "fr": {
-     "title": "Des chiens dressés trouvent les plantes invasives environ 75 % du temps",
-     "summary": "Des chercheurs allemands ont entraîné des équipes de bénévoles, composées d'un maître et de son chien, à localiser des plantes invasives dans la nature, avec un taux de réussite d'environ trois quarts.",
-     "why": "Outil prometteur et peu coûteux pour protéger les écosystèmes natifs."
-    },
-    "ru": {
-     "title": "Обученные собаки находят инвазивные растения примерно в 75% случаев",
-     "summary": "Немецкие исследователи обучили добровольческие команды «проводник — собака» находить инвазивные растения в природе; успешность составила около трёх четвертей.",
-     "why": "Перспективный недорогой инструмент для защиты природных экосистем."
     }
    }
   }
