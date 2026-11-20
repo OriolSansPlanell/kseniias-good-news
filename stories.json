@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T05:13:40Z",
+ "updated": "2026-11-20T05:13:11Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -11,10 +11,320 @@
   "Grist",
   "Africanews"
  ],
- "count": 101,
- "last_run": "run-20261119T0513Z.json",
- "note": "15 new, 45 skipped, 3 pruned, 0 translations added, failed feeds: The Optimist Daily",
+ "count": 106,
+ "last_run": "run-20261120T0513Z.json",
+ "note": "15 new, 45 skipped, 10 pruned, 0 translations added, failed feeds: The Optimist Daily",
  "stories": [
+  {
+   "id": "gnn-neighbor-raises-funds-parkinsons",
+   "title": "Neighbor's check-in leads strangers to raise over $109,000 for woman, 87",
+   "summary": "After a neighbor checked on a noisy upstairs resident, strangers raised more than $109,000 for Carole, 87, who lives alone with Parkinson's disease.",
+   "why": "Direct, lasting help for one person and an inspiring act of community.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/loud-neighbor-parkinsons-gofundme/",
+   "score": 7,
+   "category": "Society",
+   "region": "United States",
+   "published": "2026-11-19T16:26:23Z",
+   "continent": "North America",
+   "added": "2026-11-20T05:13:11Z",
+   "i18n": {
+    "ca": {
+     "title": "La visita d'un veí fa que desconeguts recaptin més de 109.000 dòlars per a una dona de 87 anys",
+     "summary": "Després que un veí anés a veure una persona del pis de dalt, que feia molt de soroll, desconeguts han recaptat més de 109.000 dòlars per a la Carole, de 87 anys, que viu sola amb la malaltia de Parkinson.",
+     "why": "Ajuda directa i duradora per a una persona i un acte de solidaritat comunitària inspirador."
+    },
+    "fr": {
+     "title": "La visite d'un voisin pousse des inconnus à collecter plus de 109 000 dollars pour une femme de 87 ans",
+     "summary": "Après qu'un voisin est allé voir une personne du dernier étage, qui faisait beaucoup de bruit, des inconnus ont récolté plus de 109 000 dollars pour Carole, 87 ans, qui vit seule avec la maladie de Parkinson.",
+     "why": "Aide directe et durable pour une personne, et geste de solidarité communautaire inspirant."
+    },
+    "ru": {
+     "title": "Визит соседа побудил незнакомцев собрать более 109 000 долларов для 87-летней женщины",
+     "summary": "После того как сосед зашёл проверить жильца из квартиры наверху, который шумел, незнакомые люди собрали более 109 000 долларов для Кэрол, 87 лет, которая живёт одна и страдает болезнью Паркинсона.",
+     "why": "Прямая и долгосрочная помощь одному человеку и вдохновляющий пример общественной солидарности."
+    }
+   }
+  },
+  {
+   "id": "tbi-paddy-straw-mushrooms-icar",
+   "title": "Indian research turns paddy straw into a mushroom growing medium",
+   "summary": "ICAR-NRRI research shows rice straw can be used to grow mushrooms, offering an alternative use for crop stubble.",
+   "why": "Practical idea that could cut stubble burning and add farm income.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/videos/food/stubble-to-mushrooms-how-is-it-even-possible-12824864",
+   "score": 7,
+   "category": "Environment",
+   "region": "India",
+   "published": "2026-11-19T15:52:46Z",
+   "continent": "Asia",
+   "added": "2026-11-20T05:13:11Z",
+   "i18n": {
+    "ca": {
+     "title": "Una recerca índia converteix la palla d'arròs en substrat per cultivar bolets",
+     "summary": "Una recerca de l'ICAR-NRRI demostra que la palla d'arròs es pot utilitzar per cultivar bolets, cosa que ofereix un ús alternatiu per al rostoll dels cultius.",
+     "why": "Idea pràctica que podria reduir la crema del rostoll i augmentar els ingressos dels agricultors."
+    },
+    "fr": {
+     "title": "Une recherche indienne transforme la paille de riz en substrat de culture de champignons",
+     "summary": "Des travaux de l'ICAR-NRRI montrent que la paille de riz peut servir à faire pousser des champignons, offrant une autre utilisation aux chaumes des cultures.",
+     "why": "Idée concrète qui pourrait réduire le brûlage des chaumes et augmenter les revenus agricoles."
+    },
+    "ru": {
+     "title": "Индийские учёные предложили использовать рисовую солому как субстрат для выращивания грибов",
+     "summary": "Исследование ICAR-NRRI показало, что рисовую солому можно использовать для выращивания грибов, что даёт альтернативное применение стерне.",
+     "why": "Практичная идея, которая может сократить сжигание стерни и увеличить доходы фермеров."
+    }
+   }
+  },
+  {
+   "id": "gnn-voyager-1-one-light-day",
+   "title": "Voyager 1 passes one light-day from Earth",
+   "summary": "The Empire State Building was lit gold to mark Voyager 1 reaching a distance of one light-day from Earth, a milestone for the long-running NASA mission.",
+   "why": "A space-exploration milestone with little direct impact on lives.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/empire-state-building-lit-up-with-gold-to-celebrate-nasa-spacecraft-passing-one-light-day-from-earth/",
+   "score": 6,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-11-19T14:00:49Z",
+   "continent": "Global",
+   "added": "2026-11-20T05:13:11Z",
+   "i18n": {
+    "ca": {
+     "title": "La Voyager 1 arriba a una distància d'un dia llum de la Terra",
+     "summary": "L'Empire State Building es va il·luminar d'or per celebrar que la Voyager 1 ha arribat a una distància d'un dia llum de la Terra, una fita de la llarga missió de la NASA.",
+     "why": "Una fita de l'exploració espacial amb poc impacte directe en la vida de les persones."
+    },
+    "fr": {
+     "title": "Voyager 1 franchit la distance d'un jour-lumière de la Terre",
+     "summary": "L'Empire State Building a été illuminé en or pour marquer le passage de Voyager 1 à une distance d'un jour-lumière de la Terre, une étape de la longue mission de la NASA.",
+     "why": "Une étape de l'exploration spatiale, sans impact direct notable sur la vie quotidienne."
+    },
+    "ru": {
+     "title": "«Вояджер-1» удалился от Земли на расстояние одного светового дня",
+     "summary": "Empire State Building окрасили в золотой цвет в честь того, что «Вояджер-1» достиг отметки в один световой день от Земли, — это рубеж долгой миссии NASA.",
+     "why": "Веха в освоении космоса с небольшим прямым влиянием на жизнь людей."
+    }
+   }
+  },
+  {
+   "id": "tbi-fetal-monitoring-million-pregnancies",
+   "title": "IIT Bombay startup's AI monitor has screened 1 million pregnancies in India",
+   "summary": "A startup born at IIT Bombay has screened one million pregnancies across India with AI-powered fetal and labour monitoring devices.",
+   "why": "Wide reach in maternal healthcare in India.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/videos/health/the-device-that-screened-1-million-pregnancies-across-india-12824907",
+   "score": 8,
+   "category": "Health",
+   "region": "India",
+   "published": "2026-11-19T12:30:18Z",
+   "continent": "Asia",
+   "added": "2026-11-20T05:13:11Z",
+   "i18n": {
+    "ca": {
+     "title": "L'aparell d'una startup de l'IIT Bombay amb IA ha examinat un milió d'embarassos a l'Índia",
+     "summary": "Una startup sorgida de l'IIT Bombay ha examinat un milió d'embarassos a tot l'Índia amb dispositius d'intel·ligència artificial per al monitoratge fetal i del part.",
+     "why": "Gran abast en l'atenció a la salut materna a l'Índia."
+    },
+    "fr": {
+     "title": "Le moniteur IA d'une start-up issue de l'IIT Bombay a examiné un million de grossesses en Inde",
+     "summary": "Une start-up née à l'IIT Bombay a examiné un million de grossesses à travers l'Inde grâce à des appareils de surveillance fœtale et du travail fondés sur l'IA.",
+     "why": "Large portée pour la santé maternelle en Inde."
+    },
+    "ru": {
+     "title": "ИИ-монитор стартапа из IIT Bombay обследовал миллион беременностей в Индии",
+     "summary": "Стартап, возникший при IIT Bombay, обследовал миллион беременностей по всей Индии с помощью устройств на основе ИИ для мониторинга плода и родовой деятельности.",
+     "why": "Широкий охват в сфере материнского здравоохранения Индии."
+    }
+   }
+  },
+  {
+   "id": "gnn-cave-bear-skeletons-alps",
+   "title": "Over 100 cave bear skeletons found in an Alpine cave",
+   "summary": "Authorities revealed a cave holding more than 100 extinct cave bear skeletons, found by a mountain guide and kept secret to protect the site.",
+   "why": "A notable scientific find protected from looting.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/over-100-cave-bear-skeletons-found-in-sensational-discovery-by-alpine-guide/",
+   "score": 6,
+   "category": "Science",
+   "region": "Alps",
+   "published": "2026-11-19T12:30:10Z",
+   "continent": "Europe",
+   "added": "2026-11-20T05:13:11Z",
+   "i18n": {
+    "ca": {
+     "title": "Més de 100 esquelets d'ós de cavern trobats en una cova alpina",
+     "summary": "Les autoritats han revelat una cova amb més de 100 esquelets d'ossos de cavern extints, descoberta per un guia de muntanya i mantinguda en secret per protegir el lloc.",
+     "why": "Un descobriment científic notable protegit del saqueig."
+    },
+    "fr": {
+     "title": "Plus de 100 squelettes d'ours des cavernes découverts dans une grotte alpine",
+     "summary": "Les autorités ont révélé une grotte contenant plus de 100 squelettes d'ours des cavernes disparus, découverte par un guide de montagne et tenue secrète pour protéger le site.",
+     "why": "Une découverte scientifique notable, préservée du pillage."
+    },
+    "ru": {
+     "title": "В альпийской пещере найдено более 100 скелетов пещерных медведей",
+     "summary": "Власти сообщили о пещере, в которой обнаружено более 100 скелетов вымерших пещерных медведей. Находку сделал горный проводник, а её держали в секрете, чтобы защитить место.",
+     "why": "Заметная научная находка, защищённая от мародёров."
+    }
+   }
+  },
+  {
+   "id": "pn-earthshot-prize-2026-winners",
+   "title": "Earthshot Prize 2026 winners announced",
+   "summary": "The 2026 Earthshot Prize winners were announced, and for the first time research on positive tipping points helped shape the selection.",
+   "why": "Recognition for environmental solutions, but a prize rather than delivered impact.",
+   "source": "Positive News",
+   "url": "https://www.positive.news/economics/torchbearers-of-a-global-movement-prince-william-celebrates-winners-of-earthshot-prize-2026/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Global",
+   "published": "2026-11-19T10:57:46Z",
+   "continent": "Global",
+   "added": "2026-11-20T05:13:11Z",
+   "i18n": {
+    "ca": {
+     "title": "Anunciats els guanyadors del Premi Earthshot 2026",
+     "summary": "S'han anunciat els guanyadors del Premi Earthshot 2026 i, per primera vegada, la recerca sobre punts d'inflexió positius ha ajudat a configurar la selecció.",
+     "why": "Reconeixement de solucions ambientals, però es tracta d'un premi i no d'un impacte ja aconseguit."
+    },
+    "fr": {
+     "title": "Les lauréats du Earthshot Prize 2026 annoncés",
+     "summary": "Les lauréats du Earthshot Prize 2026 ont été annoncés et, pour la première fois, des travaux sur les points de bascule positifs ont contribué à la sélection.",
+     "why": "Reconnaissance de solutions environnementales, mais un prix plutôt qu'un impact concret."
+    },
+    "ru": {
+     "title": "Объявлены победители премии Earthshot 2026",
+     "summary": "Названы победители премии Earthshot 2026, и впервые при отборе учитывались исследования положительных точек перелома.",
+     "why": "Признание экологических решений, но это награда, а не реально достигнутый результат."
+    }
+   }
+  },
+  {
+   "id": "rtbc-co2-laundry-machines",
+   "title": "Washing machines that clean clothes with liquid carbon dioxide",
+   "summary": "Liquid carbon dioxide under pressure can clean fabrics without water or dryer heat, and manufacturers are developing machines that use it.",
+   "why": "Promising water and energy savings, but still early in adoption.",
+   "source": "Reasons to be Cheerful",
+   "url": "https://reasonstobecheerful.world/carbon-dioxide-laundry-machine/",
+   "score": 7,
+   "category": "Energy",
+   "region": "Global",
+   "published": "2026-11-19T08:00:13Z",
+   "continent": "Global",
+   "added": "2026-11-20T05:13:11Z",
+   "i18n": {
+    "ca": {
+     "title": "Rentadores que netegen la roba amb diòxid de carboni líquid",
+     "summary": "El diòxid de carboni líquid a pressió pot netejar els teixits sense aigua ni calor de l'assecadora, i alguns fabricants desenvolupen màquines que l'utilitzen.",
+     "why": "Estalvi prometedor d'aigua i energia, però encara en una fase inicial d'adopció."
+    },
+    "fr": {
+     "title": "Des machines à laver qui nettoient le linge au dioxyde de carbone liquide",
+     "summary": "Le dioxyde de carbone liquide sous pression peut nettoyer les textiles sans eau ni chaleur de séchage, et des fabricants mettent au point des machines qui l'utilisent.",
+     "why": "Économies d'eau et d'énergie prometteuses, mais adoption encore débutante."
+    },
+    "ru": {
+     "title": "Стиральные машины, которые очищают одежду жидким углекислым газом",
+     "summary": "Жидкий углекислый газ под давлением может очищать ткани без воды и без нагрева в сушилке, и производители разрабатывают машины, которые его используют.",
+     "why": "Перспективная экономия воды и энергии, но внедрение пока на раннем этапе."
+    }
+   }
+  },
+  {
+   "id": "mb-borneo-indigenous-land-rights-stone",
+   "title": "Borneo Indigenous groups mark land-rights victory with memorial stone",
+   "summary": "Berawan, Penan and Tering communities in Malaysian Borneo placed a memorial stone marking their land-rights win and as a message to future generations.",
+   "why": "A legal win for communities, tempered by continuing pressures.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/borneo-indigenous-groups-turn-land-rights-victory-into-warning-for-future-generations/",
+   "score": 7,
+   "category": "Society",
+   "region": "Sarawak, Malaysia",
+   "published": "2026-11-18T23:34:38Z",
+   "continent": "Asia",
+   "added": "2026-11-20T05:13:11Z",
+   "i18n": {
+    "ca": {
+     "title": "Els grups indígenes del Borneo marquen amb una pedra commemorativa la seva victòria en drets sobre la terra",
+     "summary": "Les comunitats berawan, penan i tering del Borneo malai han col·locat una pedra commemorativa per marcar la seva victòria en drets sobre la terra i com a missatge per a les generacions futures.",
+     "why": "Una victòria legal per a les comunitats, amb pressions que continuen."
+    },
+    "fr": {
+     "title": "Des peuples autochtones de Bornéo marquent leur victoire sur les droits fonciers par une stèle commémorative",
+     "summary": "Les communautés berawan, penan et tering du Bornéo malaisien ont érigé une pierre commémorative pour marquer leur victoire en matière de droits fonciers et adresser un message aux générations futures.",
+     "why": "Une victoire juridique pour ces communautés, mais des pressions persistent."
+    },
+    "ru": {
+     "title": "Коренные народы Борнео отметили победу в борьбе за земельные права памятным камнем",
+     "summary": "Общины беравань, пенан и теринг в малайзийском Борнео установили памятный камень в честь своей победы в вопросе земельных прав и как послание будущим поколениям.",
+     "why": "Правовая победа для общин, однако давление продолжается."
+    }
+   }
+  },
+  {
+   "id": "an-tunisia-olive-oil-exports",
+   "title": "Tunisia's olive oil exports jump nearly 50% after bumper harvest",
+   "summary": "Tunisia's olive oil exports rose by nearly 50% on a bumper harvest, boosting income for the sector.",
+   "why": "Economic gain for producers, tied to one good harvest.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/18/tunisia-olive-oil-exports-jump-nearly-50-on-bumper-harvest/",
+   "score": 6,
+   "category": "Society",
+   "region": "Tunisia",
+   "published": "2026-11-18T20:39:15Z",
+   "continent": "Africa",
+   "added": "2026-11-20T05:13:11Z",
+   "i18n": {
+    "ca": {
+     "title": "Les exportacions d'oli d'oliva de Tunísia pugen gairebé un 50% després d'una collita abundant",
+     "summary": "Les exportacions d'oli d'oliva de Tunísia han augmentat gairebé un 50% gràcies a una collita abundant, cosa que ha millorat els ingressos del sector.",
+     "why": "Guany econòmic per als productors, vinculat a una bona collita."
+    },
+    "fr": {
+     "title": "Les exportations d'huile d'olive de la Tunisie bondissent de près de 50 % après une récolte abondante",
+     "summary": "Les exportations d'huile d'olive de la Tunisie ont progressé de près de 50 % grâce à une récolte abondante, ce qui a accru les revenus du secteur.",
+     "why": "Gain économique pour les producteurs, lié à une seule bonne récolte."
+    },
+    "ru": {
+     "title": "Экспорт оливкового масла из Туниса вырос почти на 50% после обильного урожая",
+     "summary": "Экспорт оливкового масла из Туниса вырос почти на 50% благодаря обильному урожаю, что увеличило доходы отрасли.",
+     "why": "Экономическая выгода для производителей, но связанная с одним удачным урожаем."
+    }
+   }
+  },
+  {
+   "id": "mb-greenpeace-attenboulder-north-sea",
+   "title": "Greenpeace places boulders to deter bottom trawling in UK marine reserve",
+   "summary": "Greenpeace put about ten boulders on the seafloor of a protected area in the Southern North Sea to stop bottom trawlers damaging it.",
+   "why": "Protects seabed habitat locally, though the action is symbolic and contested.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/greenpeace-drops-attenboulder-to-deter-uk-bottom-trawlers-in-a-marine-protected-area/",
+   "score": 5,
+   "category": "Environment",
+   "region": "Southern North Sea, UK",
+   "published": "2026-11-18T20:31:20Z",
+   "continent": "Europe",
+   "added": "2026-11-20T05:13:11Z",
+   "i18n": {
+    "ca": {
+     "title": "Greenpeace col·loca pedres per dissuadir l'arrossegament de fons en una reserva marina britànica",
+     "summary": "Greenpeace ha col·locat unes deu pedres grans sobre el fons marí d'una àrea protegida del sud del mar del Nord per evitar que els arrossegadors de fons la malmetin.",
+     "why": "Protegeix localment l'hàbitat del fons marí, tot i que l'acció és simbòlica i controvertida."
+    },
+    "fr": {
+     "title": "Greenpeace pose des blocs pour dissuader le chalutage de fond dans une réserve marine britannique",
+     "summary": "Greenpeace a déposé une dizaine de gros blocs sur le fond marin d'une zone protégée de la mer du Nord méridionale, afin d'empêcher les chalutiers de fond de l'endommager.",
+     "why": "Protège localement l'habitat des fonds marins, bien que l'action soit symbolique et contestée."
+    },
+    "ru": {
+     "title": "Greenpeace выложила валуны, чтобы помешать донному траулингу в британском морском заповеднике",
+     "summary": "Greenpeace разместила около десяти валунов на морском дне охраняемого района в южной части Северного моря, чтобы донные траулеры не могли его повредить.",
+     "why": "Локально защищает донные местообитания, хотя эта акция символическая и вызывает споры."
+    }
+   }
+  },
   {
    "id": "gnn-students-work-to-save-a-plant-found-only-near-thei",
    "title": "Students work to save a plant found only near their campus",
@@ -47,6 +357,37 @@
    }
   },
   {
+   "id": "gnn-sky-ladder-china-mother",
+   "title": "Siblings hand-build 430-step staircase for their mother in China",
+   "summary": "The children of an elderly Chinese mother built a staircase up a mountainside so she could keep living in her home rather than move to the city.",
+   "why": "A heartwarming family story with local impact.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/siblings-build-430-step-sky-ladder-for-their-mother-who-refuses-to-live-in-the-city/",
+   "score": 6,
+   "category": "Society",
+   "region": "China",
+   "published": "2026-11-18T16:30:42Z",
+   "continent": "Asia",
+   "added": "2026-11-20T05:13:11Z",
+   "i18n": {
+    "ca": {
+     "title": "Els germans construeixen a mà una escala de 430 graons per a la seva mare a la Xina",
+     "summary": "Els fills d'una mare gran xinesa han construït una escala per la vessant d'una muntanya perquè pugui continuar vivint a casa seva en lloc de traslladar-se a la ciutat.",
+     "why": "Una història familiar entranyable amb un impacte local."
+    },
+    "fr": {
+     "title": "Une fratrie construit à la main un escalier de 430 marches pour leur mère en Chine",
+     "summary": "Les enfants d'une mère âgée chinoise ont construit un escalier à flanc de montagne pour qu'elle puisse continuer à vivre chez elle plutôt que de déménager en ville.",
+     "why": "Une histoire familiale touchante aux retombées locales."
+    },
+    "ru": {
+     "title": "Братья и сёстры сами построили лестницу из 430 ступеней для своей матери в Китае",
+     "summary": "Дети пожилой китаянки построили лестницу вверх по горному склону, чтобы мать могла жить в своём доме, а не переезжать в город.",
+     "why": "Трогательная семейная история с местным значением."
+    }
+   }
+  },
+  {
    "id": "gnn-antarctic-blue-whale-population-grows-about-tenfol",
    "title": "Antarctic blue whale population grows about tenfold since whaling ended",
    "summary": "Antarctic blue whales rose from 418 individuals in 1973 to roughly 4,018, growing about 4.5% a year after commercial whaling stopped.",
@@ -74,6 +415,68 @@
      "title": "Популяция антарктических синих китов выросла примерно в десять раз после прекращения китобойного промысла",
      "summary": "Численность антарктических синих китов выросла с 418 особей в 1973 году примерно до 4018, а после прекращения коммерческого китобойного промысла ежегодный прирост составляет около 4,5%.",
      "why": "Явное восстановление вида, который когда-то был почти полностью истреблён, хотя численность по-прежнему невелика."
+    }
+   }
+  },
+  {
+   "id": "mb-jaguar-connectivity-americas",
+   "title": "Study maps jaguar habitat links across the Americas",
+   "summary": "A Global Change Biology study assesses habitat connectivity for jaguars across the Americas to guide efforts to help populations recover.",
+   "why": "Useful planning tool for conservation; results depend on follow-up action.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/study-maps-jaguars-across-the-americas-to-help-their-populations-rebound/",
+   "score": 6,
+   "category": "Animals",
+   "region": "Americas",
+   "published": "2026-11-18T13:14:25Z",
+   "continent": "South America",
+   "added": "2026-11-20T05:13:11Z",
+   "i18n": {
+    "ca": {
+     "title": "Un estudi cartografia els enllaços d'hàbitat dels jaguars a tot Amèrica",
+     "summary": "Un estudi publicat a Global Change Biology avalua la connectivitat de l'hàbitat dels jaguars a tot Amèrica per orientar els esforços que ajudin les poblacions a recuperar-se.",
+     "why": "Eina de planificació útil per a la conservació; els resultats depenen de les accions posteriors."
+    },
+    "fr": {
+     "title": "Une étude cartographie les corridors d'habitat du jaguar à travers les Amériques",
+     "summary": "Une étude parue dans Global Change Biology évalue la connectivité des habitats du jaguar à travers les Amériques afin d'orienter les efforts de rétablissement des populations.",
+     "why": "Outil de planification utile pour la conservation ; les résultats dépendent des actions qui suivront."
+    },
+    "ru": {
+     "title": "Исследование показало, как связаны места обитания ягуаров по всей Америке",
+     "summary": "Исследование, опубликованное в Global Change Biology, оценивает связность мест обитания ягуаров на всём американском континенте, чтобы помочь восстановлению их популяций.",
+     "why": "Полезный инструмент планирования для охраны природы; итоги зависят от последующих действий."
+    }
+   }
+  },
+  {
+   "id": "am-acorn-mice-lyme-disease",
+   "title": "Thirty-year study links acorn years to Lyme disease risk",
+   "summary": "A 30-year study in New York forests finds surges in deer tick numbers follow mouse booms triggered by heavy acorn crops, helping predict Lyme risk.",
+   "why": "Better prediction can help prevent disease, though it is research rather than a cure.",
+   "source": "Anthropocene Magazine",
+   "url": "https://www.anthropocenemagazine.org/2026/11/ecologists-followed-an-acorn-trail-it-led-to-lyme-disease/?utm_source=rss&utm_medium=rss&utm_campaign=ecologists-followed-an-acorn-trail-it-led-to-lyme-disease",
+   "score": 6,
+   "category": "Health",
+   "region": "New York, United States",
+   "published": "2026-11-18T13:00:00Z",
+   "continent": "North America",
+   "added": "2026-11-20T05:13:11Z",
+   "i18n": {
+    "ca": {
+     "title": "Un estudi de trenta anys relaciona els anys de glans amb el risc de la malaltia de Lyme",
+     "summary": "Un estudi de 30 anys en boscos de Nova York constata que els augments de paparres segueixen els brots de ratolins desencadenats per collites abundants de glans, cosa que ajuda a predir el risc de Lyme.",
+     "why": "Una millor predicció pot ajudar a prevenir la malaltia, tot i que és recerca i no una cura."
+    },
+    "fr": {
+     "title": "Une étude de trente ans relie les années de glands au risque de maladie de Lyme",
+     "summary": "Une étude de 30 ans menée dans les forêts de New York montre que les hausses du nombre de tiques suivent les explosions de populations de souris, déclenchées par d'abondantes récoltes de glands, ce qui permet de prévoir le risque de maladie de Lyme.",
+     "why": "Une meilleure prévision peut aider à prévenir la maladie, même s'il s'agit de recherche et non d'un remède."
+    },
+    "ru": {
+     "title": "Тридцатилетнее исследование связывает урожайные годы желудей с риском болезни Лайма",
+     "summary": "Тридцатилетнее исследование в лесах Нью-Йорка показало, что рост численности оленьих клещей следует за всплесками популяции мышей, которые, в свою очередь, вызваны обильными урожаями желудей. Это помогает прогнозировать риск болезни Лайма.",
+     "why": "Лучшее прогнозирование может помочь предотвращать заболевание, хотя это исследование, а не лекарство."
     }
    }
   },
@@ -198,6 +601,37 @@
      "title": "Индия выигрывает 10-й титул чемпиона SAFF составом из запасных игроков",
      "summary": "Индия обыграла Пакистан и завоевала десятый титул чемпиона Чемпионата SAFF без своих звёздных игроков.",
      "why": "Спортивный успех и общественная гордость."
+    }
+   }
+  },
+  {
+   "id": "mb-basque-culinary-prize-chinampas",
+   "title": "Lucio Usobiaga wins Basque Culinary World Prize for protecting Mexico's chinampas",
+   "summary": "Usobiaga won the 2026 Basque Culinary World Prize for Arca Tierra, a network supporting farmers who maintain Mexico's chinampa ecosystem.",
+   "why": "Recognition and support for traditional, sustainable farming.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/lucio-usobiaga-wins-2026-nobel-prize-of-gastronomy-for-protecting-mexicos-chinampas-ecosystem/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Mexico",
+   "published": "2026-11-18T09:31:11Z",
+   "continent": "North America",
+   "added": "2026-11-20T05:13:11Z",
+   "i18n": {
+    "ca": {
+     "title": "Lucio Usobiaga guanya el Basque Culinary World Prize per la protecció de les chinampes de Mèxic",
+     "summary": "Usobiaga ha guanyat el Basque Culinary World Prize 2026 pel projecte Arca Tierra, una xarxa que dona suport als agricultors que mantenen l'ecosistema de les chinampes de Mèxic.",
+     "why": "Reconeixement i suport a l'agricultura tradicional i sostenible."
+    },
+    "fr": {
+     "title": "Lucio Usobiaga remporte le Basque Culinary World Prize pour la protection des chinampas mexicaines",
+     "summary": "Usobiaga a remporté le Basque Culinary World Prize 2026 pour Arca Tierra, un réseau qui soutient les agriculteurs entretenant l'écosystème des chinampas du Mexique.",
+     "why": "Reconnaissance et soutien à une agriculture traditionnelle et durable."
+    },
+    "ru": {
+     "title": "Лусио Усобиага получил Basque Culinary World Prize за защиту чинампас в Мексике",
+     "summary": "Усобиага стал лауреатом премии Basque Culinary World Prize 2026 за проект Arca Tierra — сеть, которая поддерживает фермеров, сохраняющих экосистему чинампас в Мексике.",
+     "why": "Признание и поддержка традиционного устойчивого земледелия."
     }
    }
   },
@@ -787,6 +1221,37 @@
      "title": "Деревня в Махараштре живёт без счетов за электричество",
      "summary": "Видеорепортаж рассказывает о Шелкевади, деревне в Махараштре, которая сократила расходы на электричество и обеспечивает жителей газом для приготовления пищи благодаря местным энергетическим проектам.",
      "why": "Общинная модель, которую могут перенять другие."
+    }
+   }
+  },
+  {
+   "id": "mb-right-whale-census-382",
+   "title": "North Atlantic right whale population estimated at about 382",
+   "summary": "A new census estimates about 382 North Atlantic right whales remain, down from 389 in 2024, with fishing gear and ship strikes still major threats.",
+   "why": "A continued decline for a critically endangered species.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/drowned-in-fishing-gear-struck-by-boats-north-atlantic-right-whales-in-serious-trouble/",
+   "score": 2,
+   "category": "Animals",
+   "region": "North Atlantic",
+   "published": "2026-11-16T14:48:11Z",
+   "continent": "North America",
+   "added": "2026-11-20T05:13:11Z",
+   "i18n": {
+    "ca": {
+     "title": "Un nou cens estima que queden unes 382 balenes franques de l'Atlàntic Nord",
+     "summary": "Un cens nou calcula que queden unes 382 balenes franques de l'Atlàntic Nord, davant les 389 del 2024, i els engins de pesca i les col·lisions amb vaixells continuen sent amenaces importants.",
+     "why": "Un descens continuat per a una espècie en perill crític d'extinció."
+    },
+    "fr": {
+     "title": "La population de baleines franches de l'Atlantique Nord est estimée à environ 382 individus",
+     "summary": "Un nouveau recensement estime qu'il reste environ 382 baleines franches de l'Atlantique Nord, contre 389 en 2024, et que les engins de pêche ainsi que les collisions avec les navires restent les principales menaces.",
+     "why": "Un déclin qui se poursuit pour une espèce en danger critique d'extinction."
+    },
+    "ru": {
+     "title": "Популяция северных атлантических гладких китов оценивается примерно в 382 особи",
+     "summary": "Новая перепись оценивает число северных атлантических гладких китов примерно в 382 особи против 389 в 2024 году. Основными угрозами по-прежнему остаются рыболовные снасти и столкновения с судами.",
+     "why": "Продолжающееся сокращение численности вида, находящегося в критическом состоянии."
     }
    }
   },
@@ -2833,316 +3298,6 @@
      "title": "Бразилия опубликовала добровольную дорожную карту поэтапного отказа от ископаемого топлива",
      "summary": "Бразилия представила глобальную дорожную карту поэтапного отказа от угля, нефти и газа в три этапа в период с 2028 по 2033 год. Она не имеет обязательной силы.",
      "why": "Заметный шаг, но добровольный и без механизмов контроля исполнения."
-    }
-   }
-  },
-  {
-   "id": "gnn-atacama-desert-record-bloom",
-   "title": "Atacama Desert sees record flower bloom",
-   "summary": "About 200 plant species have flowered in Chile's Atacama Desert, possibly its largest recorded floral display.",
-   "why": "Striking natural spectacle, but a rare weather-driven event.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/worlds-driest-desert-erupts-into-record-breaking-bloom-boom-look/",
-   "score": 6,
-   "category": "Environment",
-   "region": "Chile",
-   "published": "2026-11-10T12:30:35Z",
-   "continent": "South America",
-   "added": "2026-11-11T05:13:22Z",
-   "i18n": {
-    "ca": {
-     "title": "El desert d'Atacama registra una floració rècord",
-     "summary": "Unes 200 espècies de plantes han florit al desert d'Atacama, a Xile, possiblement la floració més gran registrada.",
-     "why": "Un espectacle natural impressionant, però un fenomen rar impulsat pel clima."
-    },
-    "fr": {
-     "title": "Le désert d'Atacama connaît une floraison record",
-     "summary": "Environ 200 espèces végétales ont fleuri dans le désert d'Atacama, au Chili, probablement la plus grande floraison jamais enregistrée.",
-     "why": "Un spectacle naturel saisissant, mais un événement rare lié à la météo."
-    },
-    "ru": {
-     "title": "Пустыня Атакама переживает рекордное цветение",
-     "summary": "В пустыне Атакама в Чили зацвели около 200 видов растений, возможно, это самое масштабное из когда-либо зафиксированных цветений.",
-     "why": "Впечатляющее природное зрелище, но редкое явление, вызванное погодой."
-    }
-   }
-  },
-  {
-   "id": "tbi-assam-dung-paper-elrhino",
-   "title": "Assam venture makes paper from elephant and rhino dung",
-   "summary": "Elrhino produces handmade paper and stationery from elephant and rhino dung, giving rural villagers an income.",
-   "why": "Creative livelihood tied to conservation, small scale.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/startup/elephant-rhino-dung-paper-assam-wildlife-conservation-elrhino-startup-india-12789296",
-   "score": 6,
-   "category": "Society",
-   "region": "Assam, India",
-   "published": "2026-11-10T11:00:37Z",
-   "continent": "Asia",
-   "added": "2026-11-11T05:13:22Z",
-   "i18n": {
-    "ca": {
-     "title": "Una empresa d'Assam fa paper amb excrements d'elefant i de rinoceront",
-     "summary": "Elrhino produeix paper fet a mà i material d'escriptori a partir d'excrements d'elefant i de rinoceront, cosa que proporciona ingressos als habitants de les zones rurals.",
-     "why": "Una activitat econòmica creativa vinculada a la conservació, de petita escala."
-    },
-    "fr": {
-     "title": "Une entreprise d'Assam fabrique du papier à partir d'excréments d'éléphant et de rhinocéros",
-     "summary": "Elrhino produit du papier fait main et des articles de papeterie à partir d'excréments d'éléphant et de rhinocéros, offrant un revenu aux villageois ruraux.",
-     "why": "Une activité créative liée à la conservation, à petite échelle."
-    },
-    "ru": {
-     "title": "Компания из Ассама делает бумагу из слоновьего и носорожьего помёта",
-     "summary": "Elrhino производит бумагу ручной работы и канцелярские товары из слоновьего и носорожьего помёта, давая заработок сельским жителям.",
-     "why": "Креативный источник дохода, связанный с охраной природы, небольшого масштаба."
-    }
-   }
-  },
-  {
-   "id": "tbi-sundarbans-tiger-response-teams",
-   "title": "Villagers trained to handle tiger encounters in the Sundarbans",
-   "summary": "Thirty-three local volunteers in Kultali, West Bengal, are being trained to respond safely when tigers enter villages.",
-   "why": "Protects both people and tigers, but limited to one area.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/wildlife/sundarbans-tiger-response-teams-villagers-training-wildlife-conflict-safety-12791625",
-   "score": 7,
-   "category": "Animals",
-   "region": "Sundarbans, India",
-   "published": "2026-11-10T09:05:41Z",
-   "continent": "Asia",
-   "added": "2026-11-11T05:13:22Z",
-   "i18n": {
-    "ca": {
-     "title": "Formen habitants de pobles per afrontar la presència de tigres als Sundarbans",
-     "summary": "Trenta-tres voluntaris locals de Kultali, a Bengala Occidental, reben formació per actuar de manera segura quan els tigres entren als pobles.",
-     "why": "Protegeix tant les persones com els tigres, però només en una zona."
-    },
-    "fr": {
-     "title": "Des villageois formés à gérer les rencontres avec des tigres dans les Sundarbans",
-     "summary": "Trente-trois bénévoles locaux de Kultali, au Bengale-Occidental, sont formés à intervenir en toute sécurité lorsque des tigres pénètrent dans les villages.",
-     "why": "Protège à la fois les habitants et les tigres, mais ne concerne qu'une seule zone."
-    },
-    "ru": {
-     "title": "Жителей деревень обучают безопасным действиям при встречах с тиграми в Сундарбанах",
-     "summary": "Тридцать три местных волонтёра из Культали в Западной Бенгалии проходят обучение безопасным действиям на случай, если тигры заходят в деревни.",
-     "why": "Защищает и людей, и тигров, но охватывает только одну территорию."
-    }
-   }
-  },
-  {
-   "id": "mb-bali-firefly-breeding-program",
-   "title": "Program breeds fireflies to restore Bali's populations",
-   "summary": "The Bring Back the Light program breeds fireflies in captivity and releases them to rebuild wild populations in Bali.",
-   "why": "Active recovery effort for a declining insect.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/11/a-plan-to-save-balis-vanishing-fireflies-takes-root-in-organic-farming/",
-   "score": 6,
-   "category": "Animals",
-   "region": "Bali, Indonesia",
-   "published": "2026-11-10T08:14:19Z",
-   "continent": "Asia",
-   "added": "2026-11-11T05:13:22Z",
-   "i18n": {
-    "ca": {
-     "title": "Un programa cria lluernes per restaurar les poblacions de Bali",
-     "summary": "El programa Bring Back the Light cria lluernes en captivitat i les allibera per recuperar les poblacions salvatges de Bali.",
-     "why": "Un esforç actiu de recuperació d'un insecte en declivi."
-    },
-    "fr": {
-     "title": "Un programme élève des lucioles pour restaurer les populations de Bali",
-     "summary": "Le programme « Bring Back the Light » élève des lucioles en captivité et les relâche pour reconstituer les populations sauvages de Bali.",
-     "why": "Un effort de restauration actif pour un insecte en déclin."
-    },
-    "ru": {
-     "title": "Программа разводит светлячков для восстановления их популяций на Бали",
-     "summary": "Программа «Bring Back the Light» разводит светлячков в неволе и выпускает их, чтобы восстановить дикие популяции на Бали.",
-     "why": "Активные меры по восстановлению вида насекомых, численность которого сокращается."
-    }
-   }
-  },
-  {
-   "id": "mb-kerala-orchids-rescued-road-project",
-   "title": "Over 27,000 orchids rescued from road project in Kerala",
-   "summary": "Researchers moved more than 27,000 orchids from trees slated for felling and replanted them; about three-quarters survived two years later.",
-   "why": "Effective rescue with good survival rates.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/11/tens-of-thousands-of-orchids-saved-from-road-development-in-southern-india/",
-   "score": 7,
-   "category": "Environment",
-   "region": "Kerala, India",
-   "published": "2026-11-10T05:48:56Z",
-   "continent": "Asia",
-   "added": "2026-11-11T05:13:22Z",
-   "i18n": {
-    "ca": {
-     "title": "Més de 27.000 orquídies rescatades d'un projecte de carretera a Kerala",
-     "summary": "Investigadors van traslladar més de 27.000 orquídies dels arbres destinats a ser talats i les van replantar; dos anys després, unes tres quartes parts hi han sobreviscut.",
-     "why": "Rescat efectiu amb bones taxes de supervivència."
-    },
-    "fr": {
-     "title": "Plus de 27 000 orchidées sauvées d'un projet routier au Kerala",
-     "summary": "Des chercheurs ont déplacé plus de 27 000 orchidées des arbres destinés à être abattus et les ont replantées ; deux ans plus tard, environ les trois quarts ont survécu.",
-     "why": "Un sauvetage efficace avec de bons taux de survie."
-    },
-    "ru": {
-     "title": "Более 27 000 орхидей спасли от строительства дороги в Керале",
-     "summary": "Исследователи перенесли более 27 000 орхидей с деревьев, подлежавших вырубке, и пересадили их; через два года около трёх четвертей из них выжили.",
-     "why": "Эффективное спасение с высокой долей выживших растений."
-    }
-   }
-  },
-  {
-   "id": "od-electric-hydrofoil-ferries-us",
-   "title": "Electric hydrofoil ferries arrive in the US",
-   "summary": "Hydrofoil ferries lift their hulls above water to cut drag, making battery power practical. San Francisco plans a fleet electrification worth about half a billion dollars.",
-   "why": "Practical clean-transport technology, still early in deployment.",
-   "source": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/11/electric-ferries-that-fly-above-water-are-arriving-in-the-us/",
-   "score": 7,
-   "category": "Energy",
-   "region": "San Francisco, USA",
-   "published": "2026-11-10T00:00:15Z",
-   "continent": "North America",
-   "added": "2026-11-11T05:13:22Z",
-   "i18n": {
-    "ca": {
-     "title": "Arriben als Estats Units els ferris elèctrics amb hidroales",
-     "summary": "Els ferris amb hidroales aixequen el casc per sobre de l'aigua per reduir la resistència, cosa que fa viable l'energia de bateries. San Francisco planeja electrificar la seva flota, amb un valor d'uns mig miliard de dòlars.",
-     "why": "Tecnologia de transport net i pràctica, però encara en una fase inicial de desplegament."
-    },
-    "fr": {
-     "title": "Des ferries électriques à hydroptères arrivent aux États-Unis",
-     "summary": "Les ferries à hydroptères soulèvent leur coque au-dessus de l'eau pour réduire la traînée, ce qui rend la propulsion par batterie envisageable. San Francisco prévoit d'électrifier sa flotte, un projet d'environ un demi-milliard de dollars.",
-     "why": "Technologie de transport propre et concrète, mais encore au début de son déploiement."
-    },
-    "ru": {
-     "title": "Электрические паромы на подводных крыльях прибывают в США",
-     "summary": "Паромы на подводных крыльях поднимают корпус над водой, снижая сопротивление, что делает питание от аккумуляторов практичным. Сан-Франциско планирует электрификацию флота стоимостью около полумиллиарда долларов.",
-     "why": "Практичная технология чистого транспорта, но её внедрение пока на ранней стадии."
-    }
-   }
-  },
-  {
-   "id": "an-ethiopia-reusable-sanitary-pads",
-   "title": "Reusable pads help Ethiopian girls stay in school",
-   "summary": "Ethiopia imports all its sanitary pads, making them costly. Reusable pads help girls who cannot afford disposables keep attending school.",
-   "why": "Practical help for education access.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/11/09/ethiopia-reusable-sanitary-pads-help-girls-break-the-silence-around-menstruation/",
-   "score": 7,
-   "category": "Society",
-   "region": "Ethiopia",
-   "published": "2026-11-09T17:42:28Z",
-   "continent": "Africa",
-   "added": "2026-11-11T05:13:22Z",
-   "i18n": {
-    "ca": {
-     "title": "Les compreses reutilitzables ajuden les noies etíops a continuar a l'escola",
-     "summary": "Etiòpia importa totes les seves compreses, cosa que les fa cares. Les compreses reutilitzables ajuden les noies que no es poden permetre les d'un sol ús a seguir anant a classe.",
-     "why": "Ajuda pràctica per a l'accés a l'educació."
-    },
-    "fr": {
-     "title": "Des serviettes hygiéniques réutilisables aident les jeunes Éthiopiennes à rester scolarisées",
-     "summary": "L'Éthiopie importe l'intégralité de ses serviettes hygiéniques, ce qui les rend coûteuses. Les serviettes réutilisables aident les filles qui n'ont pas les moyens d'acheter des protections jetables à continuer d'aller à l'école.",
-     "why": "Une aide concrète pour l'accès à l'éducation."
-    },
-    "ru": {
-     "title": "Многоразовые прокладки помогают эфиопским девочкам продолжать учёбу",
-     "summary": "Эфиопия полностью импортирует гигиенические прокладки, из-за чего они дороги. Многоразовые прокладки помогают девочкам, которые не могут позволить себе одноразовые, продолжать посещать школу.",
-     "why": "Практическая помощь в доступе к образованию."
-    }
-   }
-  },
-  {
-   "id": "rtbc-rural-colleges-support-student-parents",
-   "title": "Rural colleges add support for student parents",
-   "summary": "Colleges are offering family study rooms, stipends and peer groups for student parents, though reliable data on their numbers is lacking.",
-   "why": "Helpful local support, scale still unclear.",
-   "source": "Reasons to be Cheerful",
-   "url": "https://reasonstobecheerful.world/rural-colleges-student-parents-support/",
-   "score": 6,
-   "category": "Society",
-   "region": "USA",
-   "published": "2026-11-09T16:39:10Z",
-   "continent": "North America",
-   "added": "2026-11-11T05:13:22Z",
-   "i18n": {
-    "ca": {
-     "title": "Els col·legis rurals reforcen el suport als estudiants que són pares",
-     "summary": "Els col·legis ofereixen sales d'estudi familiars, subsidis i grups de suport entre iguals per als estudiants que són pares, tot i que no hi ha dades fiables sobre el seu nombre.",
-     "why": "Suport local útil, però l'abast encara no es coneix."
-    },
-    "fr": {
-     "title": "Des établissements ruraux renforcent leur soutien aux étudiants parents",
-     "summary": "Ces établissements proposent des salles d'étude familiales, des allocations et des groupes de pairs pour les étudiants parents, bien que les données fiables sur leur nombre fassent défaut.",
-     "why": "Soutien local utile, mais dont l'ampleur reste incertaine."
-    },
-    "ru": {
-     "title": "Сельские колледжи расширяют поддержку студентов, которые являются родителями",
-     "summary": "Колледжи предлагают семейные учебные комнаты, стипендии и группы взаимной поддержки для студентов-родителей, однако надёжных данных об их числе нет.",
-     "why": "Полезная местная поддержка, но масштаб пока неясен."
-    }
-   }
-  },
-  {
-   "id": "gnn-teen-builds-autism-cue-app",
-   "title": "Teen builds free app to help read autistic communication cues",
-   "summary": "A 15-year-old taught himself machine learning to create Kora, a free app helping caregivers interpret emotional cues. It has over 700 users in 12 countries.",
-   "why": "Helpful tool for families, though still small in reach.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/15-yo-teaches-himself-machine-learning-to-build-app-that-interprets-autistic-communication/",
-   "score": 7,
-   "category": "Society",
-   "region": "Global",
-   "published": "2026-11-09T16:30:23Z",
-   "continent": "Global",
-   "added": "2026-11-11T05:13:22Z",
-   "i18n": {
-    "ca": {
-     "title": "Un adolescent crea una aplicació gratuïta per interpretar els senyals de comunicació autista",
-     "summary": "Un jove de 15 anys es va ensenyar aprenentatge automàtic per crear Kora, una aplicació gratuïta que ajuda els cuidadors a interpretar els senyals emocionals. Té més de 700 usuaris en 12 països.",
-     "why": "Una eina útil per a les famílies, tot i que encara té un abast reduït."
-    },
-    "fr": {
-     "title": "Un adolescent crée une application gratuite pour aider à décoder la communication autistique",
-     "summary": "Un garçon de 15 ans s'est appris seul l'apprentissage automatique pour créer Kora, une application gratuite qui aide les proches à interpréter les signaux émotionnels. Elle compte plus de 700 utilisateurs dans 12 pays.",
-     "why": "Un outil utile pour les familles, mais dont la portée reste limitée."
-    },
-    "ru": {
-     "title": "Подросток создал бесплатное приложение, помогающее читать коммуникативные сигналы аутистов",
-     "summary": "15-летний юноша самостоятельно освоил машинное обучение и создал Kora, бесплатное приложение, которое помогает опекунам распознавать эмоциональные сигналы. Им пользуются более 700 человек в 12 странах.",
-     "why": "Полезный инструмент для семей, но пока его охват невелик."
-    }
-   }
-  },
-  {
-   "id": "gnn-maerl-seabeds-recover-scotland",
-   "title": "Scottish maerl seabeds recover after scallop dredging ban",
-   "summary": "A decade after dredging was banned, maerl seabeds around the Summer Isles are thriving and supporting local fish stocks.",
-   "why": "Protection led to measurable recovery of habitat and fish.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/fish-stocks-thrive-thanks-to-this-strange-seaweed-and-locals-who-protected-it/",
-   "score": 8,
-   "category": "Environment",
-   "region": "Summer Isles, Scotland",
-   "published": "2026-11-09T15:49:42Z",
-   "continent": "Europe",
-   "added": "2026-11-11T05:13:22Z",
-   "i18n": {
-    "ca": {
-     "title": "Els fons de maërl escocesos es recuperen després de la prohibició de la draga per a vieires",
-     "summary": "Una dècada després que es prohibís la draga, els fons de maërl al voltant de les Summer Isles prosperen i sostenen les poblacions de peixos locals.",
-     "why": "La protecció ha permès una recuperació mesurable de l'hàbitat i dels peixos."
-    },
-    "fr": {
-     "title": "Les fonds de maerl écossais se rétablissent après l'interdiction de la drague à coquilles Saint-Jacques",
-     "summary": "Dix ans après l'interdiction de la drague, les fonds de maerl autour des Summer Isles prospèrent et soutiennent les stocks de poissons locaux.",
-     "why": "La protection a permis une récupération mesurable de l'habitat et des stocks de poissons."
-    },
-    "ru": {
-     "title": "Заросли мерля у берегов Шотландии восстанавливаются после запрета на драгирование гребешков",
-     "summary": "Через десять лет после запрета на драгирование заросли мерля вокруг островов Саммер-Айлс процветают и поддерживают местные запасы рыбы.",
-     "why": "Защита привела к измеримому восстановлению среды обитания и рыбных запасов."
     }
    }
   }
