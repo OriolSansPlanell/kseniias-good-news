@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:13:11Z",
+ "updated": "2026-11-21T05:13:29Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -11,10 +11,351 @@
   "Grist",
   "Africanews"
  ],
- "count": 106,
- "last_run": "run-20261120T0513Z.json",
- "note": "15 new, 45 skipped, 10 pruned, 0 translations added, failed feeds: The Optimist Daily",
+ "count": 119,
+ "last_run": "run-20261121T0513Z.json",
+ "note": "15 new, 45 skipped, 2 pruned, 0 translations added, failed feeds: The Optimist Daily",
  "stories": [
+  {
+   "id": "tbi-tamiraparani-river-grant",
+   "title": "Young researchers win $15,000 for Tamiraparani river work",
+   "summary": "A team studying a 30-km stretch of Tamil Nadu's Tamiraparani river won a $15,000 grant for community-based monitoring of a river facing pollution.",
+   "why": "Recognition and funding for river protection, with pollution still a problem.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/changemakers/tamiraparani-river-conservation-personhood-two-young-women-12826763",
+   "score": 6,
+   "category": "Environment",
+   "region": "Tamil Nadu, India",
+   "published": "2026-11-20T14:30:37Z",
+   "continent": "Asia",
+   "added": "2026-11-21T05:13:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Joves investigadors guanyen 15.000 dòlars per un projecte al riu Tamiraparani",
+     "summary": "Un equip que estudia un tram de 30 km del riu Tamiraparani, a Tamil Nadu, ha guanyat una beca de 15.000 dòlars per fer un seguiment comunitari d'un riu amb problemes de contaminació.",
+     "why": "Reconeixement i finançament per a la protecció d'un riu, tot i que la contaminació continua sent un problema."
+    },
+    "fr": {
+     "title": "De jeunes chercheurs remportent 15 000 dollars pour leurs travaux sur la rivière Tamiraparani",
+     "summary": "Une équipe qui étudie un tronçon de 30 km de la rivière Tamiraparani, au Tamil Nadu, a remporté une subvention de 15 000 dollars pour assurer un suivi participatif d'un cours d'eau confronté à la pollution.",
+     "why": "Reconnaissance et financement pour la protection d'une rivière, alors que la pollution reste un problème."
+    },
+    "ru": {
+     "title": "Молодые исследователи получили грант в 15 000 долларов на работу с рекой Тамирапарани",
+     "summary": "Команда, изучающая 30-километровый участок реки Тамирапарани в индийском штате Тамил-Наду, получила грант в 15 000 долларов на мониторинг реки, которой угрожает загрязнение, силами местного сообщества.",
+     "why": "Признание и финансирование защиты реки, при этом загрязнение остаётся проблемой."
+    }
+   }
+  },
+  {
+   "id": "an-south-africa-murder-rate-falls",
+   "title": "South Africa's murder rate keeps falling but remains high",
+   "summary": "South Africa recorded 5,590 murders between July and September, continuing a downward trend, though the country still averages about 60 killings a day.",
+   "why": "A falling trend, but the level is still very high.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/20/south-africas-murder-rate-falls-but-killings-average-60-a-day/",
+   "score": 4,
+   "category": "Society",
+   "region": "South Africa",
+   "published": "2026-11-20T14:26:35Z",
+   "continent": "Africa",
+   "added": "2026-11-21T05:13:29Z",
+   "i18n": {
+    "ca": {
+     "title": "La taxa d'homicidis de Sud-àfrica continua baixant, però segueix sent alta",
+     "summary": "Sud-àfrica va registrar 5.590 homicidis entre juliol i setembre, en la línia d'una tendència a la baixa, però el país encara té uns 60 assassinats diaris de mitjana.",
+     "why": "Una tendència a la baixa, però el nivell continua sent molt alt."
+    },
+    "fr": {
+     "title": "Le taux d'homicides en Afrique du Sud continue de baisser mais reste élevé",
+     "summary": "L'Afrique du Sud a enregistré 5 590 homicides entre juillet et septembre, poursuivant une tendance à la baisse, mais le pays compte encore environ 60 meurtres par jour en moyenne.",
+     "why": "Une tendance à la baisse, mais un niveau toujours très élevé."
+    },
+    "ru": {
+     "title": "Уровень убийств в ЮАР продолжает снижаться, но остаётся высоким",
+     "summary": "В ЮАР с июля по сентябрь было зафиксировано 5 590 убийств. Тенденция продолжает идти на спад, однако в среднем в стране по-прежнему происходит около 60 убийств в день.",
+     "why": "Устойчивое снижение, но уровень по-прежнему очень высок."
+    }
+   }
+  },
+  {
+   "id": "gnn-rhino-dung-paper",
+   "title": "Family business makes paper from rhino dung in India",
+   "summary": "A father and daughter in India turn rhino dung collected by villagers into paper and stationery, giving locals steady income and a reason to protect the animals.",
+   "why": "Local income tied directly to rhino protection, though on a small scale.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/father-daughter-business-sells-paper-and-stationery-made-from-rhino-dung/",
+   "score": 7,
+   "category": "Animals",
+   "region": "India",
+   "published": "2026-11-20T14:00:46Z",
+   "continent": "Asia",
+   "added": "2026-11-21T05:13:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Un negoci familiar fa paper amb excrements de rinoceront a l'Índia",
+     "summary": "Un pare i una filla de l'Índia converteixen en paper i material d'escriptori els excrements de rinoceront que recullen els habitants de la zona. Això dona ingressos estables a la població local i un motiu per protegir els animals.",
+     "why": "Ingressos locals vinculats directament a la protecció dels rinoceronts, tot i que a petita escala."
+    },
+    "fr": {
+     "title": "Une entreprise familiale fabrique du papier à partir d'excréments de rhinocéros en Inde",
+     "summary": "Un père et sa fille, en Inde, transforment en papier et en articles de papeterie les excréments de rhinocéros collectés par des villageois. Cela procure aux habitants un revenu stable et une raison de protéger les animaux.",
+     "why": "Des revenus locaux directement liés à la protection des rhinocéros, bien qu'à petite échelle."
+    },
+    "ru": {
+     "title": "Семейный бизнес делает бумагу из помёта носорогов в Индии",
+     "summary": "Отец и дочь из Индии перерабатывают помёт носорогов, который собирают жители деревень, в бумагу и канцелярские товары. Это даёт местным жителям стабильный доход и стимул защищать животных.",
+     "why": "Местный доход напрямую связан с защитой носорогов, хотя и в небольшом масштабе."
+    }
+   }
+  },
+  {
+   "id": "sd-moon-dust-bricks",
+   "title": "Moon dust 3D-printed into interlocking bricks",
+   "summary": "Researchers printed lunar dust into interlocking bricks that could one day help build Moon bases, although the experimental blocks still need to be made stronger.",
+   "why": "Early-stage experiment with a clear technical hurdle left.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-11-20T12:34:56Z",
+   "continent": "Global",
+   "added": "2026-11-21T05:13:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Pols lunar imprès en 3D en maons que encaixen entre si",
+     "summary": "Investigadors han imprès pols lunar en maons que encaixen entre si, i que algun dia podrien ajudar a construir bases a la Lluna. Els blocs experimentals encara han de ser més resistents.",
+     "why": "Experiment en fase inicial, amb un obstacle tècnic clar pendent."
+    },
+    "fr": {
+     "title": "De la poussière lunaire imprimée en 3D en briques emboîtables",
+     "summary": "Des chercheurs ont imprimé de la poussière lunaire en briques emboîtables qui pourraient un jour contribuer à la construction de bases lunaires, même si les blocs expérimentaux doivent encore être renforcés.",
+     "why": "Expérience en phase précoce, avec un obstacle technique clair à franchir."
+    },
+    "ru": {
+     "title": "Лунную пыль напечатали на 3D-принтере в виде блоков, которые соединяются друг с другом",
+     "summary": "Исследователи напечатали из лунной пыли блоки, которые в будущем могут помочь в строительстве лунных баз. Экспериментальные блоки пока нужно сделать прочнее.",
+     "why": "Ранний эксперимент с понятной технической задачей, которую предстоит решить."
+    }
+   }
+  },
+  {
+   "id": "gnn-chef-cooks-for-100",
+   "title": "Toronto-area chef cooks weekly meals for 100 people in need",
+   "summary": "Chef Maddy Goldberg volunteers every Tuesday, preparing meals for 100 people from whatever ingredients a local food bank has available.",
+   "why": "A reliable community kindness that helps many neighbours.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/every-tuesday-this-chef-cooks-for-100-people-in-need-using-random-food-bank-ingredients/",
+   "score": 6,
+   "category": "Society",
+   "region": "Toronto area, Canada",
+   "published": "2026-11-20T12:30:29Z",
+   "continent": "North America",
+   "added": "2026-11-21T05:13:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Un xef de la zona de Toronto cuina cada setmana per a 100 persones necessitades",
+     "summary": "Maddy Goldberg, xef, fa voluntariat cada dimarts i prepara menjar per a 100 persones amb els ingredients que hi ha disponibles en un banc d'aliments local.",
+     "why": "Un gest de solidaritat constant que ajuda molts veïns."
+    },
+    "fr": {
+     "title": "Un chef de la région de Toronto cuisine chaque semaine pour 100 personnes dans le besoin",
+     "summary": "Maddy Goldberg, chef, fait du bénévolat tous les mardis et prépare des repas pour 100 personnes, à partir des ingrédients disponibles dans une banque alimentaire locale.",
+     "why": "Un geste de solidarité régulier qui aide de nombreux voisins."
+    },
+    "ru": {
+     "title": "Шеф-повар из района Торонто каждую неделю готовит для 100 нуждающихся",
+     "summary": "Шеф-повар Мэдди Голдберг каждый вторник безвозмездно готовит еду для 100 человек из продуктов, которые есть в местном продовольственном банке.",
+     "why": "Постоянная помощь местной общине, которая поддерживает многих соседей."
+    }
+   }
+  },
+  {
+   "id": "sd-cern-rare-particle-decay",
+   "title": "CERN finds first evidence of extremely rare particle decay",
+   "summary": "Researchers at CERN found first evidence of a particle decay expected only about once in every 10 billion beauty particles, after a roughly 40-year search.",
+   "why": "A scientific milestone, with no direct benefit to people yet.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
+   "score": 6,
+   "category": "Science",
+   "region": "CERN, Switzerland",
+   "published": "2026-11-20T12:23:23Z",
+   "continent": "Europe",
+   "added": "2026-11-21T05:13:29Z",
+   "i18n": {
+    "ca": {
+     "title": "El CERN troba les primeres evidències d'una desintegració de partícules extremadament rara",
+     "summary": "Investigadors del CERN han trobat les primeres evidències d'una desintegració de partícules que s'espera aproximadament una vegada cada 10.000 milions de partícules beauty, després d'una recerca d'uns 40 anys.",
+     "why": "Una fita científica, sense benefici directe per a les persones de moment."
+    },
+    "fr": {
+     "title": "Le CERN observe pour la première fois une désintégration de particule extrêmement rare",
+     "summary": "Des chercheurs du CERN ont trouvé les premières preuves d'une désintégration de particule attendue environ une fois sur 10 milliards de particules beauté, après une recherche d'environ 40 ans.",
+     "why": "Une avancée scientifique, sans bénéfice direct pour les populations pour l'instant."
+    },
+    "ru": {
+     "title": "В CERN впервые получены свидетельства крайне редкого распада частицы",
+     "summary": "Исследователи CERN впервые зафиксировали признаки распада, который ожидается примерно раз на 10 миллиардов бьюти-частиц, после поисков длиной около 40 лет.",
+     "why": "Научная веха, пока без прямой пользы для людей."
+    }
+   }
+  },
+  {
+   "id": "rtbc-montreal-ocean-sounds",
+   "title": "Montreal park uses ocean sounds to soften traffic noise",
+   "summary": "A Montreal park now plays recorded coastal sounds to make the space calmer beside busy roads. The project draws on Magdalen Islands heritage and has been made permanent.",
+   "why": "A low-cost urban comfort fix, local in reach.",
+   "source": "Reasons to be Cheerful",
+   "url": "https://reasonstobecheerful.world/montreal-harnessing-ocean-sounds-countering-traffic-noise/",
+   "score": 6,
+   "category": "Society",
+   "region": "Montreal, Canada",
+   "published": "2026-11-20T08:00:05Z",
+   "continent": "North America",
+   "added": "2026-11-21T05:13:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Un parc de Mont-real utilitza sons de l'oceà per atenuar el soroll del trànsit",
+     "summary": "Un parc de Mont-real reprodueix ara sons gravats de la costa per fer més tranquil l'espai situat al costat de carreteres transitades. El projecte s'inspira en el patrimoni de les illes de la Magdalena i ara és permanent.",
+     "why": "Una millora urbana de baix cost i a l'abast de la comunitat local."
+    },
+    "fr": {
+     "title": "Un parc de Montréal diffuse des bruits de l'océan pour atténuer le bruit de la circulation",
+     "summary": "Un parc de Montréal diffuse désormais des sons côtiers enregistrés pour rendre plus apaisant l'espace situé à côté de routes très fréquentées. Le projet s'inspire du patrimoine des îles de la Madeleine et a été rendu permanent.",
+     "why": "Une amélioration urbaine peu coûteuse et accessible localement."
+    },
+    "ru": {
+     "title": "В парке Монреаля звуки океана смягчают шум транспорта",
+     "summary": "В одном из парков Монреаля теперь звучат записи прибрежных звуков, которые делают пространство рядом с оживлёнными дорогами более спокойным. Проект опирается на наследие Магдаленских островов и стал постоянным.",
+     "why": "Недорогое городское решение для комфорта, доступное местным жителям."
+    }
+   }
+  },
+  {
+   "id": "sd-fat-burning-compound-mice",
+   "title": "Compound burns fat in mice without major muscle loss",
+   "summary": "A UC Berkeley compound raised energy use and caused weight loss in mice without major muscle loss, and worked better alongside GLP-1 drugs.",
+   "why": "Early animal results, far from available treatment.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+   "score": 5,
+   "category": "Health",
+   "region": "California, United States",
+   "published": "2026-11-20T00:19:49Z",
+   "continent": "North America",
+   "added": "2026-11-21T05:13:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Un compost crema greix en ratolins sense una pèrdua important de múscul",
+     "summary": "Un compost de la Universitat de Califòrnia a Berkeley va augmentar la despesa energètica i va provocar una pèrdua de pes en ratolins sense una pèrdua important de múscul. Va funcionar millor combinat amb medicaments GLP-1.",
+     "why": "Resultats inicials en animals, lluny de ser un tractament disponible."
+    },
+    "fr": {
+     "title": "Un composé brûle les graisses chez la souris sans perte musculaire importante",
+     "summary": "Un composé mis au point à l'université de Californie à Berkeley a augmenté la dépense énergétique et provoqué une perte de poids chez des souris, sans perte musculaire importante. Il s'est révélé plus efficace associé à des médicaments GLP-1.",
+     "why": "Premiers résultats sur des animaux, loin d'un traitement disponible."
+    },
+    "ru": {
+     "title": "Соединение сжигает жир у мышей без значительной потери мышечной массы",
+     "summary": "Соединение, разработанное в Калифорнийском университете в Беркли, повысило энергозатраты и вызвало снижение веса у мышей, не приведя к заметной потере мышечной массы. В сочетании с препаратами GLP-1 оно работало лучше.",
+     "why": "Предварительные результаты на животных, до доступного лечения далеко."
+    }
+   }
+  },
+  {
+   "id": "an-zimbabwe-landmines-destroyed",
+   "title": "Zimbabwe has destroyed 250,000 landmines since 2013",
+   "summary": "The HALO Trust says it has cleared 250,000 landmines in Zimbabwe since 2013, but warns that funding shortfalls threaten the goal of finishing by 2030.",
+   "why": "Large safety gain for communities, with the finish line at risk.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/19/zimbabwe-destroys-250000-landmines-but-funding-threatens-2030-clearance-goal/",
+   "score": 8,
+   "category": "Society",
+   "region": "Zimbabwe",
+   "published": "2026-11-19T20:05:03Z",
+   "continent": "Africa",
+   "added": "2026-11-21T05:13:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Zimbabwe ha destruït 250.000 mines terrestres des del 2013",
+     "summary": "The HALO Trust assegura que des del 2013 ha netejat 250.000 mines terrestres a Zimbabwe, però avisa que la falta de finançament amenaça l'objectiu d'acabar la tasca el 2030.",
+     "why": "Gran millora de la seguretat per a les comunitats, però la meta final està en risc."
+    },
+    "fr": {
+     "title": "Le Zimbabwe a détruit 250 000 mines terrestres depuis 2013",
+     "summary": "The HALO Trust affirme avoir déminé 250 000 mines au Zimbabwe depuis 2013, mais met en garde : le manque de financements menace l'objectif d'achever le déminage d'ici 2030.",
+     "why": "Un gain de sécurité important pour les communautés, mais la ligne d'arrivée est menacée."
+    },
+    "ru": {
+     "title": "С 2013 года в Зимбабве уничтожено 250 000 наземных мин",
+     "summary": "По словам The HALO Trust, с 2013 года в Зимбабве обезврежено 250 000 мин, однако организация предупреждает: нехватка финансирования ставит под угрозу цель завершить разминирование к 2030 году.",
+     "why": "Большой шаг к безопасности местных общин, но финишная черта под угрозой."
+    }
+   }
+  },
+  {
+   "id": "mb-sri-lanka-peafowl-cities",
+   "title": "Wild animals moving into Sri Lankan cities as habitat shifts",
+   "summary": "Peafowl are appearing in growing numbers in Colombo neighbourhoods where they were not seen before, with experts linking this to habitat and environmental changes.",
+   "why": "A warning sign of habitat pressure rather than clear progress.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/in-sri-lanka-human-actions-are-driving-wild-animals-into-cities-and-suburbs/",
+   "score": 4,
+   "category": "Animals",
+   "region": "Colombo, Sri Lanka",
+   "published": "2026-11-19T18:18:34Z",
+   "continent": "Asia",
+   "added": "2026-11-21T05:13:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Animals salvatges entren a les ciutats de Sri Lanka a mesura que canvia el seu hàbitat",
+     "summary": "Els paons apareixen cada cop en més nombre en barris de Colombo on abans no se'n veien, i els experts ho relacionen amb canvis en l'hàbitat i en el medi ambient.",
+     "why": "Un senyal d'alerta sobre la pressió que pateixen els hàbitats, més que un progrés clar."
+    },
+    "fr": {
+     "title": "Des animaux sauvages s'installent dans les villes du Sri Lanka à mesure que leur habitat évolue",
+     "summary": "Des paons apparaissent en nombre croissant dans des quartiers de Colombo où on ne les voyait pas auparavant. Selon les experts, ce phénomène est lié à des changements de l'habitat et de l'environnement.",
+     "why": "Un signal d'alerte sur la pression exercée sur les habitats, plutôt qu'un progrès clair."
+    },
+    "ru": {
+     "title": "Дикие животные переселяются в города Шри-Ланки по мере изменения среды обитания",
+     "summary": "Павлины всё чаще появляются в районах Коломбо, где раньше их не было. Эксперты связывают это с изменениями среды обитания и окружающей среды.",
+     "why": "Тревожный признак давления на среду обитания, а не явный прогресс."
+    }
+   }
+  },
+  {
+   "id": "an-deaf-nigerians-sign-languages",
+   "title": "Deaf Nigerians work to preserve indigenous sign languages",
+   "summary": "Deaf people in Nigeria are working to keep indigenous sign languages alive, with Hausa sign serving as a common language in the north and central to their identity.",
+   "why": "Cultural preservation effort by a community, modest in scale.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/19/our-culture-and-identity-deaf-nigerians-fight-to-preserve-indigenous-sign-languages/",
+   "score": 6,
+   "category": "Culture",
+   "region": "Nigeria",
+   "published": "2026-11-19T17:02:40Z",
+   "continent": "Africa",
+   "added": "2026-11-21T05:13:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Persones sordes de Nigèria lluiten per preservar les llengües de signes autòctones",
+     "summary": "Persones sordes de Nigèria treballen per mantenir vives les llengües de signes autòctones. La llengua de signes haussa, llengua comuna al nord i al centre del país, és un element central de la seva identitat.",
+     "why": "Esforç de preservació cultural impulsat per la pròpia comunitat, de dimensions modestes."
+    },
+    "fr": {
+     "title": "Des sourds nigérians s'efforcent de préserver les langues des signes autochtones",
+     "summary": "Des personnes sourdes au Nigeria œuvrent à la sauvegarde des langues des signes autochtones. La langue des signes haoussa, langue commune dans le nord et le centre du pays, est au cœur de leur identité.",
+     "why": "Un effort de préservation culturelle porté par la communauté, de portée modeste."
+    },
+    "ru": {
+     "title": "Глухие жители Нигерии сохраняют местные жестовые языки",
+     "summary": "Глухие люди в Нигерии работают над сохранением местных жестовых языков. Хаусанский жестовый язык, распространённый на севере и в центре страны, является важной частью их самобытности.",
+     "why": "Усилия общины по сохранению культуры, скромные по масштабу."
+    }
+   }
+  },
   {
    "id": "gnn-neighbor-raises-funds-parkinsons",
    "title": "Neighbor's check-in leads strangers to raise over $109,000 for woman, 87",
@@ -105,6 +446,68 @@
      "title": "«Вояджер-1» удалился от Земли на расстояние одного светового дня",
      "summary": "Empire State Building окрасили в золотой цвет в честь того, что «Вояджер-1» достиг отметки в один световой день от Земли, — это рубеж долгой миссии NASA.",
      "why": "Веха в освоении космоса с небольшим прямым влиянием на жизнь людей."
+    }
+   }
+  },
+  {
+   "id": "am-wind-blade-waste-graphene",
+   "title": "Old wind turbine blades turned into stronger new material",
+   "summary": "Tsinghua University researchers used flash heating to convert ground blade waste into silicon carbide and graphene, which made new epoxy resin stiffer and stronger.",
+   "why": "Promising answer to wind blade waste, still at lab stage.",
+   "source": "Anthropocene Magazine",
+   "url": "https://www.anthropocenemagazine.org/2026/11/wind-power-has-a-trash-problem-a-lightning-fast-fix-turns-old-blades-into-graphene/?utm_source=rss&utm_medium=rss&utm_campaign=turning-old-wind-turbine-blades-into-new-ones",
+   "score": 6,
+   "category": "Energy",
+   "region": "China",
+   "published": "2026-11-19T13:00:59Z",
+   "continent": "Asia",
+   "added": "2026-11-21T05:13:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Les pales antigues d'aerogeneradors es converteixen en un material més resistent",
+     "summary": "Investigadors de la Universitat Tsinghua van utilitzar un escalfament ràpid per convertir residus de pales triturades en carbur de silici i grafè. Els materials obtinguts van fer la nova resina epoxi més rígida i resistent.",
+     "why": "Resposta prometedora als residus de les pales eòliques, encara en fase de laboratori."
+    },
+    "fr": {
+     "title": "De vieilles pales d'éoliennes transformées en un matériau plus solide",
+     "summary": "Des chercheurs de l'université Tsinghua ont utilisé un chauffage flash pour transformer des déchets de pales broyées en carbure de silicium et en graphène. Les matériaux obtenus ont rendu une nouvelle résine époxy plus rigide et plus solide.",
+     "why": "Solution prometteuse au problème des déchets de pales d'éoliennes, encore au stade du laboratoire."
+    },
+    "ru": {
+     "title": "Старые лопасти ветряков превращают в более прочный материал",
+     "summary": "Исследователи из Университета Цинхуа с помощью быстрого нагрева превратили измельчённые отходы лопастей в карбид кремния и графен. Полученные материалы сделали новую эпоксидную смолу жёстче и прочнее.",
+     "why": "Перспективное решение проблемы отходов лопастей ветряков, пока на лабораторном этапе."
+    }
+   }
+  },
+  {
+   "id": "mb-lundy-island-conservation",
+   "title": "Lundy island profiled as a conservation success",
+   "summary": "A video feature looks at Lundy, a small island in the Bristol Channel between Wales and England, and the conservation results achieved there.",
+   "why": "A local conservation success that offers a model for others.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/how-one-tiny-island-made-conservation-work/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Lundy, United Kingdom",
+   "published": "2026-11-19T12:34:42Z",
+   "continent": "Europe",
+   "added": "2026-11-21T05:13:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Lundy, una illa petita, presentada com a exemple d'èxit en conservació",
+     "summary": "Un reportatge en vídeo presenta Lundy, una petita illa del canal de Bristol entre Gal·les i Anglaterra, i els resultats de conservació que s'hi han aconseguit.",
+     "why": "Un èxit local de conservació que ofereix un model per a altres llocs."
+    },
+    "fr": {
+     "title": "Lundy, une petite île présentée comme un succès de la conservation",
+     "summary": "Un reportage vidéo présente Lundy, une petite île du canal de Bristol entre le pays de Galles et l'Angleterre, ainsi que les résultats de conservation obtenus sur place.",
+     "why": "Un succès local de conservation qui peut servir de modèle à d'autres."
+    },
+    "ru": {
+     "title": "Остров Лунди признан образцом успешной охраны природы",
+     "summary": "Видеоматериал рассказывает о Лунди, небольшом острове в Бристольском канале между Уэльсом и Англией, и о достигнутых там результатах в охране природы.",
+     "why": "Местный успех в охране природы, который может стать примером для других."
     }
    }
   },
@@ -229,6 +632,37 @@
      "title": "Стиральные машины, которые очищают одежду жидким углекислым газом",
      "summary": "Жидкий углекислый газ под давлением может очищать ткани без воды и без нагрева в сушилке, и производители разрабатывают машины, которые его используют.",
      "why": "Перспективная экономия воды и энергии, но внедрение пока на раннем этапе."
+    }
+   }
+  },
+  {
+   "id": "mb-giant-anteaters-return",
+   "title": "Giant anteaters return to parts of their former range",
+   "summary": "Habitat restoration and rewilding are bringing vulnerable giant anteaters back to areas they left; one was recorded in Argentina's Alma Guaraní reserve in 2025, the first there since 1986.",
+   "why": "Real recovery for a vulnerable species, still in limited areas.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/world-anteater-day-rewilding-and-restoration-offer-hope-for-enigmatic-species/",
+   "score": 7,
+   "category": "Animals",
+   "region": "Argentina",
+   "published": "2026-11-19T06:52:26Z",
+   "continent": "South America",
+   "added": "2026-11-21T05:13:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Els óssos formiguers gegants tornen a parts del seu antic territori",
+     "summary": "La restauració d'hàbitats i la reintroducció d'animals salvatges fan tornar els óssos formiguers gegants, una espècie vulnerable, a zones d'on havien desaparegut. El 2025 se'n va registrar un a la reserva Alma Guaraní, a l'Argentina, el primer des del 1986.",
+     "why": "Recuperació real d'una espècie vulnerable, encara en zones limitades."
+    },
+    "fr": {
+     "title": "Les grands fourmiliers reviennent dans certaines zones de leur ancienne aire de répartition",
+     "summary": "La restauration des habitats et le réensauvagement permettent à ce grand fourmilier, une espèce vulnérable, de revenir dans des zones qu'il avait quittées. En 2025, un individu a été observé dans la réserve Alma Guaraní, en Argentine, le premier depuis 1986.",
+     "why": "Une véritable reprise pour une espèce vulnérable, encore limitée à certaines zones."
+    },
+    "ru": {
+     "title": "Большие муравьеды возвращаются в некоторые части своего прежнего ареала",
+     "summary": "Восстановление среды обитания и возвращение диких животных в природу помогают вернуть уязвимых больших муравьедов в места, которые они покинули. В 2025 году одного из них зафиксировали в заповеднике Альма-Гуарани в Аргентине, впервые там с 1986 года.",
+     "why": "Реальное восстановление популяции уязвимого вида, пока на ограниченных территориях."
     }
    }
   },
@@ -818,6 +1252,37 @@
      "title": "Сабельные ориксы возвращаются в Чад",
      "summary": "Программа реинтродукции под руководством Sahara Conservation восстановила дикую популяцию сабельных ориксов в Чаде.",
      "why": "Успешное возвращение вида, который когда-то полностью исчез из дикой природы."
+    }
+   }
+  },
+  {
+   "id": "gnn-algeria-thanks-kansans",
+   "title": "Algeria repays hospitality shown to its World Cup team by Kansans",
+   "summary": "Kansans visiting Algeria were greeted at 4:30 a.m. with flowers by officials and hospitality workers, repaying the welcome Kansas gave Algeria's World Cup team.",
+   "why": "A warm goodwill gesture between communities.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/algeria-returns-kindness-shown-by-kansans-who-welcomed-its-world-cup-team-with-the-trip-of-a-lifetime/",
+   "score": 6,
+   "category": "Society",
+   "region": "Algeria",
+   "published": "2026-11-17T16:30:41Z",
+   "continent": "Africa",
+   "added": "2026-11-21T05:13:29Z",
+   "i18n": {
+    "ca": {
+     "title": "Algèria torna l'hospitalitat que els kansans van mostrar a la selecció del Mundial",
+     "summary": "Uns kansans que visitaven Algèria van ser rebuts a les 4:30 del matí amb flors per part de funcionaris i personal d'hostaleria, en resposta a la benvinguda que Kansas havia donat a la selecció algeriana del Mundial.",
+     "why": "Un gest de bona voluntat entre comunitats."
+    },
+    "fr": {
+     "title": "L'Algérie rend la pareille aux habitants du Kansas pour l'accueil réservé à son équipe de Coupe du monde",
+     "summary": "Des habitants du Kansas en visite en Algérie ont été accueillis à 4 h 30 du matin avec des fleurs par des responsables et du personnel hôtelier, en retour de l'accueil que le Kansas avait réservé à l'équipe algérienne de la Coupe du monde.",
+     "why": "Un geste de bienveillance entre deux communautés."
+    },
+    "ru": {
+     "title": "Алжир отплатил добром жителям Канзаса за тёплый приём своей сборной на чемпионате мира",
+     "summary": "Жителей Канзаса, приехавших в Алжир, в 4:30 утра встретили цветами официальные лица и работники сферы гостеприимства. Так Алжир ответил на тёплый приём, который Канзас оказал сборной Алжира на чемпионате мира.",
+     "why": "Жест доброй воли между общинами."
     }
    }
   },
@@ -3236,68 +3701,6 @@
      "title": "Город в Гоа за два дня перерабатывает тонну пищевых отходов в компост",
      "summary": "Технология Nisargruna, разработанная учёным из BARC, превращает тонну пищевых отходов в компост за два дня, как показано на примере одного из городков штата Гоа.",
      "why": "Работающее местное решение проблемы органических отходов."
-    }
-   }
-  },
-  {
-   "id": "mb-uttarakhand-women-keep-native-bees-in-walls",
-   "title": "Women in Uttarakhand keep native bees in house-wall hives",
-   "summary": "Households in India's Himalayan Uttarakhand region keep Indian honey bees in hives built into mud walls, mostly tended by women, helping sustain native bee populations.",
-   "why": "A traditional practice that supports native pollinators.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/11/in-north-india-women-protect-native-bees-in-traditional-home-walls/",
-   "score": 6,
-   "category": "Animals",
-   "region": "Uttarakhand, India",
-   "published": "2026-11-11T10:56:11Z",
-   "continent": "Asia",
-   "added": "2026-11-14T05:13:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Les dones d'Uttarakhand tenen abelles autòctones en ruscs als murs de casa",
-     "summary": "Les famílies de la regió himalaiana d'Uttarakhand, a l'Índia, tenen abelles de mel índies en ruscs construïts dins de parets de fang, sovint cuidats per dones, cosa que ajuda a mantenir les poblacions d'abelles autòctones.",
-     "why": "Una pràctica tradicional que ajuda els pol·linitzadors autòctons."
-    },
-    "fr": {
-     "title": "Dans l'Uttarakhand, des femmes élèvent des abeilles indigènes dans des ruches intégrées aux murs des maisons",
-     "summary": "Dans la région himalayenne indienne de l'Uttarakhand, des foyers élèvent des abeilles mellifères indiennes dans des ruches aménagées dans les murs en terre, souvent entretenues par des femmes, ce qui contribue à préserver les populations d'abeilles indigènes.",
-     "why": "Une pratique traditionnelle qui soutient les pollinisateurs indigènes."
-    },
-    "ru": {
-     "title": "Женщины Уттаракханда держат местных пчёл в ульях, встроенных в стены домов",
-     "summary": "В гималайском регионе Уттаракханд в Индии семьи держат индийских медоносных пчёл в ульях, встроенных в глинобитные стены, а ухаживают за ними в основном женщины. Это помогает сохранять популяции местных пчёл.",
-     "why": "Традиционная практика, которая поддерживает местных опылителей."
-    }
-   }
-  },
-  {
-   "id": "od-brazil-fossil-fuel-phaseout-roadmap",
-   "title": "Brazil publishes voluntary roadmap to phase out fossil fuels",
-   "summary": "Brazil released a global roadmap for phasing out coal, oil and gas in three phases between 2028 and 2033. It is non-binding.",
-   "why": "Notable step, but voluntary and unenforced.",
-   "source": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/11/brazil-releases-the-worlds-first-fossil-fuel-phaseout-roadmap/",
-   "score": 6,
-   "category": "Energy",
-   "region": "Brazil",
-   "published": "2026-11-11T00:00:37Z",
-   "continent": "South America",
-   "added": "2026-11-11T05:13:22Z",
-   "i18n": {
-    "ca": {
-     "title": "El Brasil publica una full de ruta voluntària per eliminar gradualment els combustibles fòssils",
-     "summary": "El Brasil ha publicat una full de ruta mundial per eliminar gradualment el carbó, el petroli i el gas en tres fases entre el 2028 i el 2033. No és vinculant.",
-     "why": "Un pas notable, però voluntari i sense mecanismes d'aplicació."
-    },
-    "fr": {
-     "title": "Le Brésil publie une feuille de route volontaire pour sortir des énergies fossiles",
-     "summary": "Le Brésil a publié une feuille de route mondiale pour l'abandon progressif du charbon, du pétrole et du gaz, en trois phases entre 2028 et 2033. Elle n'est pas contraignante.",
-     "why": "Une étape notable, mais volontaire et sans application contraignante."
-    },
-    "ru": {
-     "title": "Бразилия опубликовала добровольную дорожную карту поэтапного отказа от ископаемого топлива",
-     "summary": "Бразилия представила глобальную дорожную карту поэтапного отказа от угля, нефти и газа в три этапа в период с 2028 по 2033 год. Она не имеет обязательной силы.",
-     "why": "Заметный шаг, но добровольный и без механизмов контроля исполнения."
     }
    }
   }
