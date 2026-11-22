@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T05:13:29Z",
+ "updated": "2026-11-22T05:12:26Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -11,10 +11,413 @@
   "Grist",
   "Africanews"
  ],
- "count": 119,
- "last_run": "run-20261121T0513Z.json",
- "note": "15 new, 45 skipped, 2 pruned, 0 translations added, failed feeds: The Optimist Daily",
+ "count": 125,
+ "last_run": "run-20261122T0512Z.json",
+ "note": "15 new, 45 skipped, 9 pruned, 0 translations added, failed feeds: The Optimist Daily",
  "stories": [
+  {
+   "id": "gnn-whale-breath-drone-genome",
+   "title": "Drone-collected whale breath yields a full genome",
+   "summary": "Researchers used a drone to gather exhaled breath from a whale and sequenced a complete genome from it, avoiding the need for invasive sampling.",
+   "why": "A non-invasive method that could make wildlife genetics research easier on animals.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/breath-of-whale-captured-via-drone-to-complete-genome-sequence/",
+   "score": 7,
+   "category": "Animals",
+   "region": "Global",
+   "published": "2026-11-21T17:30:30Z",
+   "continent": "Global",
+   "added": "2026-11-22T05:12:26Z",
+   "i18n": {
+    "ca": {
+     "title": "Un drone recull l'alè d'una balena i permet obtenir un genoma complet",
+     "summary": "Investigadors han fet servir un drone per recollir l'aire exhalat d'una balena i n'han seqüenciat un genoma complet, sense necessitat de fer mostrejos invasius.",
+     "why": "Un mètode no invasiu que podria facilitar la recerca genètica sobre la fauna salvatge sense perjudicar els animals."
+    },
+    "fr": {
+     "title": "Un drone recueille le souffle d'une baleine et permet de séquencer son génome complet",
+     "summary": "Des chercheurs ont utilisé un drone pour recueillir le souffle expiré d'une baleine et en ont séquencé un génome complet, sans recourir à un prélèvement invasif.",
+     "why": "Une méthode non invasive qui pourrait faciliter la recherche génétique sur la faune sauvage tout en ménageant les animaux."
+    },
+    "ru": {
+     "title": "Дрон собрал выдыхаемый китом воздух, и по нему удалось получить полный геном",
+     "summary": "Исследователи с помощью дрона собрали выдыхаемый китом воздух и секвенировали из него полный геном, что позволило обойтись без инвазивного забора проб.",
+     "why": "Неинвазивный метод, который может упростить генетические исследования диких животных и снизить нагрузку на них."
+    }
+   }
+  },
+  {
+   "id": "gnn-crispr-single-infusion-cholesterol",
+   "title": "One-time CRISPR therapy cuts bad cholesterol by about half in early trial",
+   "summary": "A Phase 1 trial at Cleveland Clinic found a single infusion of a CRISPR gene-editing therapy lowered harmful cholesterol by roughly 50%.",
+   "why": "Promising result, but it is an early human trial with a small group.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/first-human-trial-to-slash-bad-cholesterol-by-50pt-with-one-crispr-injection/",
+   "score": 6,
+   "category": "Health",
+   "region": "Ohio, USA",
+   "published": "2026-11-21T14:24:30Z",
+   "continent": "North America",
+   "added": "2026-11-22T05:12:26Z",
+   "i18n": {
+    "ca": {
+     "title": "Una teràpia CRISPR administrada una sola vegada redueix a la meitat aproximadament el colesterol dolent en un assaig inicial",
+     "summary": "Un assaig de fase 1 a la Cleveland Clinic ha constatat que una sola infusió d'una teràpia d'edició gènica CRISPR va reduir el colesterol nociu en aproximadament un 50%.",
+     "why": "Resultat prometedor, però es tracta d'un assaig humà inicial amb un grup reduït."
+    },
+    "fr": {
+     "title": "Une thérapie CRISPR en une seule injection réduit de moitié environ le mauvais cholestérol lors d'un essai précoce",
+     "summary": "Un essai de phase 1 mené à la Cleveland Clinic a montré qu'une seule perfusion d'une thérapie d'édition génique CRISPR a fait baisser le cholestérol nocif d'environ 50 %.",
+     "why": "Résultat prometteur, mais il s'agit d'un essai précoce sur l'humain portant sur un petit groupe."
+    },
+    "ru": {
+     "title": "Однократная терапия CRISPR снизила уровень «плохого» холестерина примерно вдвое в раннем испытании",
+     "summary": "Испытание первой фазы в Клинике Кливленда показало, что однократная инфузия терапии на основе редактирования генов CRISPR снизила уровень вредного холестерина примерно на 50%.",
+     "why": "Перспективный результат, однако это ранее испытание на людях с небольшой группой участников."
+    }
+   }
+  },
+  {
+   "id": "tbi-india-geological-sites-unesco",
+   "title": "Nine Indian geological sites seek UNESCO World Heritage recognition",
+   "summary": "An article profiles nine geological sites in India that are on or proposed for UNESCO's Tentative List.",
+   "why": "Recognition could help protect natural heritage.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/culture/indian-natural-heritage-sites-unesco-responsible-travel-12826958",
+   "score": 5,
+   "category": "Culture",
+   "region": "India",
+   "published": "2026-11-21T10:30:37Z",
+   "continent": "Asia",
+   "added": "2026-11-22T05:12:26Z",
+   "i18n": {
+    "ca": {
+     "title": "Nou indrets geològics de l'Índia aspiren al reconeixement de patrimoni mundial de la UNESCO",
+     "summary": "Un article presenta nou jaciments geològics de l'Índia que són a la Llista Indicativa de la UNESCO o hi han estat proposats.",
+     "why": "El reconeixement podria ajudar a protegir el patrimoni natural."
+    },
+    "fr": {
+     "title": "Neuf sites géologiques indiens demandent à être reconnus au patrimoine mondial de l'UNESCO",
+     "summary": "Un article présente neuf sites géologiques indiens, inscrits sur la Liste indicative de l'UNESCO ou proposés pour y figurer.",
+     "why": "Cette reconnaissance pourrait contribuer à protéger le patrimoine naturel."
+    },
+    "ru": {
+     "title": "Девять геологических объектов Индии добиваются включения в список всемирного наследия ЮНЕСКО",
+     "summary": "В статье рассказывается о девяти геологических объектах Индии, которые включены в предварительный список ЮНЕСКО или предложены для него.",
+     "why": "Признание может помочь защитить природное наследие."
+    }
+   }
+  },
+  {
+   "id": "mb-lundy-island-nature-deal",
+   "title": "Lundy Island shows results of decades of conservation",
+   "summary": "A video report describes how long-running conservation on Lundy Island in the Bristol Channel has brought wildlife back.",
+   "why": "Long-term protection delivering visible recovery.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Lundy, United Kingdom",
+   "published": "2026-11-21T09:10:37Z",
+   "continent": "Europe",
+   "added": "2026-11-22T05:12:26Z",
+   "i18n": {
+    "ca": {
+     "title": "L'illa de Lundy mostra els resultats de dècades de conservació",
+     "summary": "Un reportatge en vídeo explica com la conservació duradora a l'illa de Lundy, al canal de Bristol, ha permès recuperar la fauna salvatge.",
+     "why": "Protecció a llarg termini que dona resultats visibles de recuperació."
+    },
+    "fr": {
+     "title": "L'île de Lundy montre les résultats de plusieurs décennies de conservation",
+     "summary": "Un reportage vidéo décrit comment la conservation menée depuis des décennies sur l'île de Lundy, dans le canal de Bristol, a permis le retour de la faune sauvage.",
+     "why": "Une protection sur le long terme qui produit une récupération visible."
+    },
+    "ru": {
+     "title": "Остров Лунди демонстрирует результаты многолетней охраны природы",
+     "summary": "В видеорепортаже рассказывается, как долговременная природоохранная работа на острове Лунди в Бристольском заливе вернула дикую природу.",
+     "why": "Долгосрочная охрана, которая приносит заметное восстановление природы."
+    }
+   }
+  },
+  {
+   "id": "sd-mercury-xray-telescope-first-light",
+   "title": "X-ray telescope bound for Mercury makes first observations",
+   "summary": "After eight years in space, an X-ray telescope on its way to Mercury has made its first cosmic observations and is working well.",
+   "why": "A scientific milestone, with limited direct benefit to daily life.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+   "score": 6,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-11-21T02:11:14Z",
+   "continent": "Global",
+   "added": "2026-11-22T05:12:26Z",
+   "i18n": {
+    "ca": {
+     "title": "Un telescopi de raigs X destinat a Mercuri fa les primeres observacions",
+     "summary": "Després de vuit anys a l'espai, un telescopi de raigs X que es dirigeix a Mercuri ha fet les primeres observacions còsmiques i funciona bé.",
+     "why": "Fita científica amb un benefici directe limitat per a la vida quotidiana."
+    },
+    "fr": {
+     "title": "Un télescope à rayons X destiné à Mercure réalise ses premières observations",
+     "summary": "Après huit ans dans l'espace, un télescope à rayons X en route vers Mercure a réalisé ses premières observations cosmiques et fonctionne correctement.",
+     "why": "Une étape scientifique, avec un bénéfice direct limité pour la vie quotidienne."
+    },
+    "ru": {
+     "title": "Рентгеновский телескоп, направляющийся к Меркурию, провёл первые наблюдения",
+     "summary": "Спустя восемь лет в космосе рентгеновский телескоп, который движется к Меркурию, провёл первые космические наблюдения и работает исправно.",
+     "why": "Научная веха с ограниченной непосредственной пользой для повседневной жизни."
+    }
+   }
+  },
+  {
+   "id": "mb-american-samoa-seabed-mining-lease",
+   "title": "US leases American Samoan seabed for mining despite court ruling",
+   "summary": "The US auctioned about 12.7 million hectares of seabed off American Samoa for mining in a sale a court found illegal.",
+   "why": "Harmful for ocean ecosystems.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/us-leases-american-samoan-seabed-for-mining-in-auction-deemed-illegal-by-court/",
+   "score": 2,
+   "category": "Environment",
+   "region": "American Samoa",
+   "published": "2026-11-20T22:18:33Z",
+   "continent": "Oceania",
+   "added": "2026-11-22T05:12:26Z",
+   "i18n": {
+    "ca": {
+     "title": "Els EUA lloguen el fons marí de Samoa Nord-americana per a la mineria malgrat una sentència judicial",
+     "summary": "Els EUA han subhastat uns 12,7 milions d'hectàrees de fons marí al voltant de Samoa Nord-americana per a la mineria, en una venda que un tribunal ha considerat il·legal.",
+     "why": "Perjudicial per als ecosistemes marins."
+    },
+    "fr": {
+     "title": "Les États-Unis louent le fond marin des Samoa américaines pour l'exploitation minière malgré une décision de justice",
+     "summary": "Les États-Unis ont mis aux enchères environ 12,7 millions d'hectares de fond marin au large des Samoa américaines pour l'exploitation minière, dans une vente jugée illégale par un tribunal.",
+     "why": "Préjudiciable pour les écosystèmes océaniques."
+    },
+    "ru": {
+     "title": "США сдают в аренду морское дно у Американского Самоа под добычу полезных ископаемых вопреки решению суда",
+     "summary": "США провели аукцион по продаже около 12,7 млн гектаров морского дна у Американского Самоа для добычи полезных ископаемых; суд признал эту продажу незаконной.",
+     "why": "Наносит вред морским экосистемам."
+    }
+   }
+  },
+  {
+   "id": "mb-abq-biopark-bugarium-reopens",
+   "title": "Albuquerque BUGarium reopens to connect people with insects",
+   "summary": "The ABQ BioPark BUGarium in New Mexico reopened in October 2026 after a $1.4 million renovation.",
+   "why": "A local education project fostering appreciation of insects.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/renovated-bugarium-in-the-us-aims-to-connect-people-and-insects/",
+   "score": 5,
+   "category": "Culture",
+   "region": "New Mexico, USA",
+   "published": "2026-11-20T19:59:10Z",
+   "continent": "North America",
+   "added": "2026-11-22T05:12:26Z",
+   "i18n": {
+    "ca": {
+     "title": "El BUGarium d'Albuquerque reobre per acostar la gent als insectes",
+     "summary": "El BUGarium de l'ABQ BioPark, a Nou Mèxic, ha reobert l'octubre de 2026 després d'una reforma de 1,4 milions de dòlars.",
+     "why": "Un projecte educatiu local que fomenta l'apreciació dels insectes."
+    },
+    "fr": {
+     "title": "Le BUGarium d'Albuquerque rouvre pour rapprocher les gens des insectes",
+     "summary": "Le BUGarium de l'ABQ BioPark, au Nouveau-Mexique, a rouvert en octobre 2026 après une rénovation de 1,4 million de dollars.",
+     "why": "Un projet éducatif local qui favorise l'intérêt pour les insectes."
+    },
+    "ru": {
+     "title": "BUGarium в Альбукерке вновь открылся, чтобы познакомить людей с насекомыми",
+     "summary": "BUGarium в составе ABQ BioPark в Нью-Мексико вновь открылся в октябре 2026 года после реконструкции стоимостью 1,4 млн долларов.",
+     "why": "Местный образовательный проект, который повышает интерес к насекомым."
+    }
+   }
+  },
+  {
+   "id": "mb-laos-short-tailed-langur-new-species",
+   "title": "Researchers propose short-tailed langur as a new species in Laos",
+   "summary": "Scientists have proposed Trachypithecus brevicaudus as a new langur species based on its short tail, though not all agree.",
+   "why": "An interesting discovery, still debated.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/could-a-short-tail-mean-a-new-monkey-species-in-laos-some-scientists-think-so/",
+   "score": 5,
+   "category": "Science",
+   "region": "Laos",
+   "published": "2026-11-20T17:30:56Z",
+   "continent": "Asia",
+   "added": "2026-11-22T05:12:26Z",
+   "i18n": {
+    "ca": {
+     "title": "Investigadors proposen que el langur de cua curta de Laos sigui una espècie nova",
+     "summary": "Els científics han proposat Trachypithecus brevicaudus com a nova espècie de langur, basant-se en la seva cua curta, tot i que no tothom hi està d'acord.",
+     "why": "Un descobriment interessant, encara en debat."
+    },
+    "fr": {
+     "title": "Des chercheurs proposent de reconnaître le langur à queue courte du Laos comme une nouvelle espèce",
+     "summary": "Des scientifiques ont proposé de classer Trachypithecus brevicaudus comme nouvelle espèce de langur, en se fondant sur sa queue courte, mais tous ne sont pas d'accord.",
+     "why": "Une découverte intéressante, qui reste débattue."
+    },
+    "ru": {
+     "title": "Исследователи предлагают выделить короткохвостого лангура из Лаоса в отдельный вид",
+     "summary": "Учёные предложили выделить Trachypithecus brevicaudus как новый вид лангуров на основании короткого хвоста, однако не все с этим согласны.",
+     "why": "Интересное открытие, которое пока обсуждается."
+    }
+   }
+  },
+  {
+   "id": "mb-peru-quechua-andean-bear-camera-traps",
+   "title": "Quechua community in Peru runs its own Andean bear camera-trap project",
+   "summary": "The Quechua community of Pillco Grande uses camera traps on its reserve in Pumataki to study Andean bears.",
+   "why": "Community-led monitoring supports protection of a vulnerable species.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/quechua-community-in-peru-builds-up-andean-bear-camera-trap-project-on-their-own-reserve/",
+   "score": 7,
+   "category": "Animals",
+   "region": "Peru",
+   "published": "2026-11-20T17:28:27Z",
+   "continent": "South America",
+   "added": "2026-11-22T05:12:26Z",
+   "i18n": {
+    "ca": {
+     "title": "Una comunitat quítxua del Perú impulsa el seu propi projecte de fototrampeig de l'ós andí",
+     "summary": "La comunitat quítxua de Pillco Grande fa servir càmeres-trampa a la seva reserva de Pumataki per estudiar els óssos andins.",
+     "why": "El seguiment liderat per la comunitat contribueix a la protecció d'una espècie vulnerable."
+    },
+    "fr": {
+     "title": "Une communauté quechua du Pérou mène son propre projet de pièges photographiques pour l'ours andin",
+     "summary": "La communauté quechua de Pillco Grande utilise des pièges photographiques dans sa réserve de Pumataki pour étudier l'ours andin.",
+     "why": "Un suivi dirigé par la communauté contribue à la protection d'une espèce vulnérable."
+    },
+    "ru": {
+     "title": "Община кечуа в Перу самостоятельно ведёт проект по наблюдению за андскими медведями с помощью фотоловушек",
+     "summary": "Община кечуа Пилько-Гранде использует фотоловушки в своём заповеднике в Пуматаки, чтобы изучать андских медведей.",
+     "why": "Мониторинг, который ведётся силами местного сообщества, помогает защищать уязвимый вид."
+    }
+   }
+  },
+  {
+   "id": "gnn-kansas-teen-landscaper-equipment-replaced",
+   "title": "Community replaces teen landscaper's stolen equipment",
+   "summary": "After about $20,000 of landscaping gear was stolen from a teenage business owner in Kansas, local people stepped in to replace it.",
+   "why": "A local act of kindness that helps one young entrepreneur.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/community-steps-up-to-replace-teen-business-owners-stolen-landscaping-equipment/",
+   "score": 6,
+   "category": "Society",
+   "region": "Kansas, USA",
+   "published": "2026-11-20T16:00:53Z",
+   "continent": "North America",
+   "added": "2026-11-22T05:12:26Z",
+   "i18n": {
+    "ca": {
+     "title": "La comunitat reposa l'equip robat a un adolescent paisatgista",
+     "summary": "Després que a un adolescent propietari d'un negoci de jardineria de Kansas li robessin uns 20.000 dòlars en equip, persones de la localitat s'han mobilitzat per reposar-lo.",
+     "why": "Un acte de solidaritat local que ajuda un jove emprenedor."
+    },
+    "fr": {
+     "title": "La communauté remplace le matériel volé à un adolescent paysagiste",
+     "summary": "Après le vol d'environ 20 000 dollars de matériel de paysagisme appartenant à un adolescent chef d'entreprise du Kansas, des habitants de la région se sont mobilisés pour le remplacer.",
+     "why": "Un geste de solidarité locale qui aide un jeune entrepreneur."
+    },
+    "ru": {
+     "title": "Местное сообщество возместило украденное оборудование подростка-садовника",
+     "summary": "После кражи примерно на 20 000 долларов садового оборудования у подростка, владельца бизнеса в Канзасе, местные жители помогли заменить его.",
+     "why": "Проявление местной доброты, которое помогает молодому предпринимателю."
+    }
+   }
+  },
+  {
+   "id": "mb-japan-offshore-wind-commercial",
+   "title": "Japan begins commercial offshore wind power",
+   "summary": "Japan's offshore wind sector has started commercial operations with about 0.5 GW online, though hurdles to expansion remain.",
+   "why": "Real clean energy progress, still small and facing obstacles.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/japan-looks-to-offshore-wind-to-boost-energy-security-but-hurdles-remain/",
+   "score": 6,
+   "category": "Energy",
+   "region": "Japan",
+   "published": "2026-11-20T15:46:23Z",
+   "continent": "Asia",
+   "added": "2026-11-22T05:12:26Z",
+   "i18n": {
+    "ca": {
+     "title": "El Japó inicia la producció comercial d'energia eòlica marina",
+     "summary": "El sector eòlic marí del Japó ha començat les operacions comercials, amb uns 0,5 GW en funcionament, tot i que encara hi ha obstacles per a l'expansió.",
+     "why": "Progrés real en energia neta, encara petit i amb obstacles."
+    },
+    "fr": {
+     "title": "Le Japon lance l'exploitation commerciale de l'éolien en mer",
+     "summary": "Le secteur japonais de l'éolien en mer a commencé ses activités commerciales avec environ 0,5 GW raccordés au réseau, mais des obstacles freinent encore son développement.",
+     "why": "Un réel progrès pour l'énergie propre, encore modeste et confronté à des obstacles."
+    },
+    "ru": {
+     "title": "Япония начинает коммерческую эксплуатацию морской ветроэнергетики",
+     "summary": "Японский сектор морской ветроэнергетики начал коммерческую работу: в сеть введено около 0,5 ГВт, однако препятствия для расширения сохраняются.",
+     "why": "Реальный прогресс в области чистой энергетики, пока небольшой и сталкивающийся с трудностями."
+    }
+   }
+  },
+  {
+   "id": "an-christina-assi-cpj-press-freedom-award",
+   "title": "Journalist Christina Assi receives CPJ Press Freedom Award",
+   "summary": "AFP journalist Christina Assi, who lost a leg in an Israeli strike while reporting in Lebanon, received the CPJ Press Freedom Award.",
+   "why": "Recognition of press freedom, born of a harmful event.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/20/lebanese-journalist-injured-in-israeli-strike-receives-cpj-press-freedom-award/",
+   "score": 5,
+   "category": "Society",
+   "region": "Lebanon",
+   "published": "2026-11-20T15:34:40Z",
+   "continent": "Asia",
+   "added": "2026-11-22T05:12:26Z",
+   "i18n": {
+    "ca": {
+     "title": "La periodista Christina Assi rep el premi de llibertat de premsa del CPJ",
+     "summary": "La periodista de l'AFP Christina Assi, que va perdre una cama en un atac israelià mentre informava al Líban, ha rebut el premi de llibertat de premsa del CPJ.",
+     "why": "Reconeixement de la llibertat de premsa, nascut d'un esdeveniment dolorós."
+    },
+    "fr": {
+     "title": "La journaliste Christina Assi reçoit le prix de la liberté de la presse du CPJ",
+     "summary": "La journaliste de l'AFP Christina Assi, qui a perdu une jambe lors d'une frappe israélienne alors qu'elle couvrait la situation au Liban, a reçu le prix de la liberté de la presse du CPJ.",
+     "why": "Une reconnaissance de la liberté de la presse, née d'un événement douloureux."
+    },
+    "ru": {
+     "title": "Журналистка Кристина Асси получила премию CPJ за свободу прессы",
+     "summary": "Журналистка агентства AFP Кристина Асси, которая лишилась ноги в результате израильского удара во время работы в Ливане, получила премию CPJ за свободу прессы.",
+     "why": "Признание свободы прессы, вызванное трагическим событием."
+    }
+   }
+  },
+  {
+   "id": "mb-floating-wind-momentum",
+   "title": "Floating wind gains momentum toward commercial scale",
+   "summary": "Floating turbines, which work in deep water, remain at small demonstration scale but industry momentum toward commercialization is growing.",
+   "why": "Promising technology that is not yet widely deployed.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/floating-wind-is-building-a-lot-of-momentum-toward-commercialization/",
+   "score": 6,
+   "category": "Energy",
+   "region": "Global",
+   "published": "2026-11-20T15:18:42Z",
+   "continent": "Global",
+   "added": "2026-11-22T05:12:26Z",
+   "i18n": {
+    "ca": {
+     "title": "L'eòlica flotant guanya impuls cap a la escala comercial",
+     "summary": "Les turbines flotants, que funcionen en aigües profundes, encara són a escala de demostració reduïda, però l'impuls de la indústria cap a la comercialització creix.",
+     "why": "Tecnologia prometedora que encara no està gaire desplegada."
+    },
+    "fr": {
+     "title": "L'éolien flottant gagne en élan vers une échelle commerciale",
+     "summary": "Les éoliennes flottantes, qui fonctionnent en eau profonde, restent à l'échelle de démonstration, mais la dynamique de l'industrie vers la commercialisation s'accroît.",
+     "why": "Technologie prometteuse qui n'est pas encore largement déployée."
+    },
+    "ru": {
+     "title": "Плавучая ветроэнергетика набирает темп на пути к коммерческому масштабу",
+     "summary": "Плавучие турбины, которые работают на больших глубинах, пока остаются на уровне небольших демонстрационных проектов, однако движение отрасли к коммерциализации усиливается.",
+     "why": "Перспективная технология, которая пока не получила широкого распространения."
+    }
+   }
+  },
   {
    "id": "tbi-tamiraparani-river-grant",
    "title": "Young researchers win $15,000 for Tamiraparani river work",
@@ -109,6 +512,37 @@
    }
   },
   {
+   "id": "am-all-algae-diet-trout",
+   "title": "Trout raised on an all-algae diet could reduce wild fish use in farming",
+   "summary": "Researchers fed farmed rainbow trout a diet made entirely of two marine microalgae, pointing to a way to stop using wild fish as feed.",
+   "why": "Promising for ocean health, but still a research result.",
+   "source": "Anthropocene Magazine",
+   "url": "https://www.anthropocenemagazine.org/2026/11/if-humans-eat-eco-friendly-diets-why-cant-our-seafood-do-the-same/?utm_source=rss&utm_medium=rss&utm_campaign=if-humans-eat-eco-friendly-diets-why-cant-our-seafood-do-the-same",
+   "score": 7,
+   "category": "Environment",
+   "region": "Global",
+   "published": "2026-11-20T13:00:14Z",
+   "continent": "Global",
+   "added": "2026-11-22T05:12:26Z",
+   "i18n": {
+    "ca": {
+     "title": "Les truites criades amb una dieta només d'algues podrien reduir l'ús de peix salvatge en l'aqüicultura",
+     "summary": "Investigadors han alimentat truites arc de Sant Martí criades en piscifactoria amb una dieta formada íntegrament per dues microalgues marines, cosa que apunta a una manera de deixar d'utilitzar peix salvatge com a aliment.",
+     "why": "Prometedor per a la salut dels oceans, però encara és un resultat de recerca."
+    },
+    "fr": {
+     "title": "Des truites élevées avec un régime exclusivement à base d'algues pourraient réduire le recours aux poissons sauvages dans l'élevage",
+     "summary": "Des chercheurs ont nourri des truites arc-en-ciel d'élevage avec un régime composé entièrement de deux microalgues marines, ce qui ouvre la voie à l'arrêt de l'utilisation de poissons sauvages comme aliment.",
+     "why": "Prometteur pour la santé des océans, mais il ne s'agit encore que d'un résultat de recherche."
+    },
+    "ru": {
+     "title": "Форель, выращенная на диете только из водорослей, может сократить использование диких рыб в аквакультуре",
+     "summary": "Исследователи кормили товарную радужную форель рационом, состоящим целиком из двух морских микроводорослей, что указывает на способ отказаться от использования диких рыб в качестве корма.",
+     "why": "Перспективно для здоровья океанов, но пока это лишь результат исследования."
+    }
+   }
+  },
+  {
    "id": "sd-moon-dust-bricks",
    "title": "Moon dust 3D-printed into interlocking bricks",
    "summary": "Researchers printed lunar dust into interlocking bricks that could one day help build Moon bases, although the experimental blocks still need to be made stronger.",
@@ -198,6 +632,37 @@
      "title": "В CERN впервые получены свидетельства крайне редкого распада частицы",
      "summary": "Исследователи CERN впервые зафиксировали признаки распада, который ожидается примерно раз на 10 миллиардов бьюти-частиц, после поисков длиной около 40 лет.",
      "why": "Научная веха, пока без прямой пользы для людей."
+    }
+   }
+  },
+  {
+   "id": "mb-rock-habitat-reptiles-unprotected",
+   "title": "A quarter of land reptiles depend on rocky habitats that lack protection",
+   "summary": "A study of 9,729 reptile species found over 25% use rocky habitats, which are poorly protected.",
+   "why": "A useful warning that points to a clear conservation gap.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/one-in-four-land-reptiles-depends-on-rock-habitats-lack-of-protection-leaves-them-in-a-hard-place/",
+   "score": 3,
+   "category": "Animals",
+   "region": "Global",
+   "published": "2026-11-20T11:04:15Z",
+   "continent": "Global",
+   "added": "2026-11-22T05:12:26Z",
+   "i18n": {
+    "ca": {
+     "title": "Un quart dels rèptils terrestres depèn d'hàbitats rocosos que no tenen protecció",
+     "summary": "Un estudi de 9.729 espècies de rèptils ha constatat que més del 25% usen hàbitats rocosos, que estan poc protegits.",
+     "why": "Un avís útil que assenyala una clara llacuna en la conservació."
+    },
+    "fr": {
+     "title": "Un quart des reptiles terrestres dépend d'habitats rocheux qui ne sont pas protégés",
+     "summary": "Une étude portant sur 9 729 espèces de reptiles a montré que plus de 25 % d'entre elles utilisent des habitats rocheux, qui sont mal protégés.",
+     "why": "Un avertissement utile qui met en évidence un déficit clair en matière de conservation."
+    },
+    "ru": {
+     "title": "Четверть наземных рептилий зависит от каменистых местообитаний, которые не защищены",
+     "summary": "Исследование 9 729 видов рептилий показало, что более 25% из них обитают в каменистых местах, которые слабо охраняются.",
+     "why": "Полезное предупреждение, указывающее на явный пробел в охране природы."
     }
    }
   },
@@ -3422,285 +3887,6 @@
      "title": "В Ассаме ограничили полёты дронов вблизи мест ночёвки амурских соколов",
      "summary": "Лесное управление штата Ассам ограничило несанкционированные полёты дронов вблизи мест ночёвки амурских соколов, чтобы не нарушать их миграцию.",
      "why": "Практическая мера защиты перелётных птиц."
-    }
-   }
-  },
-  {
-   "id": "od-los-angeles-bans-new-oil-drilling",
-   "title": "Los Angeles bans new oil drilling and phases out existing wells",
-   "summary": "The city council banned new oil drilling and will phase out existing operations within city limits over 20 years, after a decade of pressure from nearby residents.",
-   "why": "Meaningful health and climate gain for neighbourhoods near wells, with a long phase-out.",
-   "source": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/11/after-a-decade-of-community-pressure-la-bans-oil-drilling-for-good/",
-   "score": 8,
-   "category": "Environment",
-   "region": "Los Angeles, USA",
-   "published": "2026-11-12T00:00:35Z",
-   "continent": "North America",
-   "added": "2026-11-14T05:13:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Los Angeles prohibeix les noves perforacions petrolieres i eliminarà gradualment els pous existents",
-     "summary": "El consell municipal ha prohibit les noves perforacions petrolieres i eliminarà gradualment les operacions existents dins dels límits de la ciutat al llarg de 20 anys, després d'una dècada de pressió dels veïns de la zona.",
-     "why": "Millora important per a la salut i el clima dels barris propers als pous, amb una eliminació gradual llarga."
-    },
-    "fr": {
-     "title": "Los Angeles interdit les nouveaux forages pétroliers et supprimera progressivement les puits existants",
-     "summary": "Le conseil municipal a interdit les nouveaux forages pétroliers et supprimera progressivement les exploitations existantes sur le territoire de la ville d'ici 20 ans, après une décennie de pressions des riverains.",
-     "why": "Gain important pour la santé et le climat des quartiers proches des puits, avec une sortie progressive sur une longue période."
-    },
-    "ru": {
-     "title": "Лос-Анджелес запрещает новое бурение нефтяных скважин и поэтапно закроет действующие",
-     "summary": "Городской совет запретил новое бурение нефтяных скважин и в течение 20 лет поэтапно прекратит действующие разработки в черте города, после десятилетнего давления со стороны жителей соседних кварталов.",
-     "why": "Существенная выгода для здоровья и климата в районах рядом со скважинами при длительном поэтапном отказе от добычи."
-    }
-   }
-  },
-  {
-   "id": "mb-historic-ocean-liner-sunk-to-create-giant-artificial-reef",
-   "title": "Historic ocean liner sunk to create giant artificial reef",
-   "summary": "The former liner SS United States was scuttled off Florida's Panhandle to form what is described as the largest artificial reef.",
-   "why": "Offers new marine habitat, though artificial reefs have trade-offs.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/11/this-ocean-liner-was-the-worlds-fastest-its-being-sunk-to-make-the-largest-artificial-reef/",
-   "score": 5,
-   "category": "Environment",
-   "region": "Florida, United States",
-   "published": "2026-11-11T22:10:05Z",
-   "continent": "North America",
-   "added": "2026-11-15T05:14:01Z",
-   "i18n": {
-    "ca": {
-     "title": "Un antic transatlàntic enfonsat per crear un gran escull artificial",
-     "summary": "L'antic transatlàntic SS United States ha estat enfonsat davant del Panhandle de Florida per formar el que es descriu com el major escull artificial.",
-     "why": "Ofereix un nou hàbitat marí, tot i que els esculls artificials tenen contrapartides."
-    },
-    "fr": {
-     "title": "Un paquebot historique coulé pour créer le plus grand récif artificiel",
-     "summary": "L'ancien paquebot SS United States a été coulé au large du Panhandle de Floride pour former ce qui est décrit comme le plus grand récif artificiel.",
-     "why": "Offre un nouvel habitat marin, bien que les récifs artificiels présentent des compromis."
-    },
-    "ru": {
-     "title": "Исторический океанский лайнер затоплен для создания крупнейшего искусственного рифа",
-     "summary": "Бывший лайнер SS United States затоплен у побережья Панхэндла штата Флорида, чтобы создать то, что описывается как крупнейший искусственный риф.",
-     "why": "Создаёт новую морскую среду обитания, хотя у искусственных рифов есть свои компромиссы."
-    }
-   }
-  },
-  {
-   "id": "gnn-about-280-ice-age-engravings-found-in-spanish-caves",
-   "title": "About 280 Ice Age engravings found in Spanish caves",
-   "summary": "Researchers identified roughly 280 Ice Age engravings on Spain's Mediterranean side, reportedly the third-largest such collection in the country, long overlooked by visitors.",
-   "why": "An interesting heritage discovery with limited wider impact.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/for-centuries-visitors-walked-right-by-280-unseen-ice-age-cave-paintings/",
-   "score": 5,
-   "category": "Culture",
-   "region": "Spain",
-   "published": "2026-11-11T19:30:10Z",
-   "continent": "Europe",
-   "added": "2026-11-15T05:14:01Z",
-   "i18n": {
-    "ca": {
-     "title": "Unes 280 gravats de l'Edat de Gel trobats en coves espanyoles",
-     "summary": "Els investigadors han identificat unes 280 gravats de l'Edat de Gel a la banda mediterrània d'Espanya; segons els informes, és la tercera col·lecció més gran del país, i els visitants l'havien passat per alt durant molt de temps.",
-     "why": "Un descobriment patrimonial interessant amb un impacte més ampli limitat."
-    },
-    "fr": {
-     "title": "Environ 280 gravures de l'âge de glace découvertes dans des grottes espagnoles",
-     "summary": "Des chercheurs ont identifié environ 280 gravures de l'âge de glace sur le versant méditerranéen de l'Espagne. Selon les informations, il s'agit de la troisième collection de ce type du pays, longtemps négligée par les visiteurs.",
-     "why": "Une découverte patrimoniale intéressante, à portée plus large limitée."
-    },
-    "ru": {
-     "title": "Около 280 гравюр эпохи ледникового периода найдены в испанских пещерах",
-     "summary": "Исследователи выявили около 280 гравюр эпохи ледникового периода на средиземноморском побережье Испании. По данным, это третья по величине подобная коллекция в стране, которую долгое время не замечали посетители.",
-     "why": "Интересное открытие в области наследия с ограниченным более широким значением."
-    }
-   }
-  },
-  {
-   "id": "mb-two-new-amazonian-howler-monkey-species-described",
-   "title": "Two new Amazonian howler monkey species described",
-   "summary": "A genomic study formally describes two previously unrecognised species of Amazonian red howler monkeys.",
-   "why": "Better recognition of species helps conservation planning.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/11/genetic-study-describes-two-new-species-of-amazonian-howler-monkeys/",
-   "score": 6,
-   "category": "Animals",
-   "region": "Amazon, Brazil",
-   "published": "2026-11-11T17:26:42Z",
-   "continent": "South America",
-   "added": "2026-11-15T05:14:01Z",
-   "i18n": {
-    "ca": {
-     "title": "Descrites dues noves espècies de mico udol amazònic",
-     "summary": "Un estudi genòmic descriu formalment dues espècies de micos udols vermells amazònics fins ara no reconegudes.",
-     "why": "Un millor reconeixement de les espècies ajuda a planificar la conservació."
-    },
-    "fr": {
-     "title": "Deux nouvelles espèces de singes hurleurs amazoniens décrites",
-     "summary": "Une étude génomique décrit officiellement deux espèces de singes hurleurs roux d'Amazonie jusqu'alors non reconnues.",
-     "why": "Une meilleure reconnaissance des espèces facilite la planification de la conservation."
-    },
-    "ru": {
-     "title": "Описаны два новых вида амазонских ревунов",
-     "summary": "Геномное исследование официально описывает два ранее не признанных вида амазонских рыжих ревунов.",
-     "why": "Лучшее признание видов помогает планировать природоохранные меры."
-    }
-   }
-  },
-  {
-   "id": "gnn-spain-brown-bear-population-doubles",
-   "title": "Spain's Cantabrian brown bears have doubled in 20 years",
-   "summary": "The Cantabrian brown bear population has roughly doubled over two decades to about 370 animals, and their range now covers around 6,500 square miles.",
-   "why": "Clear conservation recovery of a threatened species over two decades.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/",
-   "score": 8,
-   "category": "Animals",
-   "region": "Spain",
-   "published": "2026-11-11T16:30:25Z",
-   "continent": "Europe",
-   "added": "2026-11-14T05:13:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Els óssos bruns cantàbrics d'Espanya s'han duplicat en 20 anys",
-     "summary": "La població d'ós bru cantàbric s'ha gairebé duplicat en dues dècades i ara és d'uns 370 animals, i el seu territori abasta al voltant de 6.500 milles quadrades.",
-     "why": "Recuperació clara d'una espècie amenaçada gràcies a la conservació al llarg de dues dècades."
-    },
-    "fr": {
-     "title": "Les ours bruns cantabriques d'Espagne ont doublé en 20 ans",
-     "summary": "La population d'ours bruns cantabriques a à peu près doublé en deux décennies, pour atteindre environ 370 animaux, et leur aire de répartition couvre désormais environ 6 500 milles carrés.",
-     "why": "Net rétablissement, grâce à la conservation, d'une espèce menacée sur deux décennies."
-    },
-    "ru": {
-     "title": "Кантабрийские бурые медведи в Испании за 20 лет увеличились вдвое",
-     "summary": "Популяция кантабрийского бурого медведя за два десятилетия примерно удвоилась и составляет около 370 особей, а ареал теперь занимает около 6 500 квадратных миль.",
-     "why": "Явное восстановление исчезающего вида за два десятилетия благодаря природоохранным мерам."
-    }
-   }
-  },
-  {
-   "id": "mb-eu-audit-marine-protected-areas-failing",
-   "title": "Audit finds EU marine protected areas fall short of 2030 goal",
-   "summary": "The European Court of Auditors says the EU has not built an effective marine protected area network and that reaching 30% protection by 2030 is highly unlikely.",
-   "why": "Bad news, but a useful warning that could prompt action.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/11/audit-says-europes-marine-protected-areas-failing-as-2030-deadline-looms/",
-   "score": 3,
-   "category": "Environment",
-   "region": "European Union",
-   "published": "2026-11-11T16:14:04Z",
-   "continent": "Europe",
-   "added": "2026-11-14T05:13:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Una auditoria constata que les àrees marines protegides de la UE no arriben a l'objectiu del 2030",
-     "summary": "El Tribunal de Comptes Europeu afirma que la UE no ha construït una xarxa eficaç d'àrees marines protegides i que és molt poc probable assolir el 30 % de protecció el 2030.",
-     "why": "Notícia dolenta, però un avís útil que podria impulsar l'acció."
-    },
-    "fr": {
-     "title": "Un audit constate que les aires marines protégées de l'UE n'atteindront pas l'objectif de 2030",
-     "summary": "La Cour des comptes européenne affirme que l'UE n'a pas mis en place de réseau efficace d'aires marines protégées et qu'atteindre une protection de 30 % d'ici 2030 est très peu probable.",
-     "why": "Mauvaise nouvelle, mais un avertissement utile qui pourrait inciter à agir."
-    },
-    "ru": {
-     "title": "Аудит показал, что морские охраняемые территории ЕС не соответствуют цели на 2030 год",
-     "summary": "Европейская палата аудиторов заявляет, что ЕС не создал эффективной сети морских охраняемых территорий и что достижение 30 % защиты к 2030 году крайне маловероятно.",
-     "why": "Плохие новости, но полезное предупреждение, которое может побудить к действию."
-    }
-   }
-  },
-  {
-   "id": "mb-angolan-hunters-protect-okavango-wetland",
-   "title": "Angolan villagers monitor hunting to protect Okavango source wetlands",
-   "summary": "Villages in Angola's southeastern highlands appointed Watchers to enforce traditional hunting rules, protecting the wetlands that feed the Okavango system.",
-   "why": "Community-led conservation protecting an internationally important wetland.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/11/angolan-hunters-protect-southern-africas-internationally-important-wetland/",
-   "score": 7,
-   "category": "Environment",
-   "region": "Angola",
-   "published": "2026-11-11T13:30:33Z",
-   "continent": "Africa",
-   "added": "2026-11-14T05:13:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Els habitants de pobles d'Angola vigilen la caça per protegir els aiguamolls de l'Okavango",
-     "summary": "Els pobles de les terres altes del sud-est d'Angola han designat vigilants per fer complir les normes tradicionals de caça, que protegeixen els aiguamolls que alimenten el sistema de l'Okavango.",
-     "why": "Conservació liderada per la comunitat que protegeix un aiguamoll d'importància internacional."
-    },
-    "fr": {
-     "title": "Des villageois angolais surveillent la chasse pour protéger les zones humides sources de l'Okavango",
-     "summary": "Des villages des hautes terres du sud-est de l'Angola ont désigné des « gardiens » chargés de faire respecter les règles traditionnelles de chasse, afin de protéger les zones humides qui alimentent le système de l'Okavango.",
-     "why": "Conservation menée par les communautés, qui protège une zone humide d'importance internationale."
-    },
-    "ru": {
-     "title": "Жители ангольских деревень следят за охотой, защищая водно-болотные угодья Окаванго",
-     "summary": "В деревнях в юго-восточном нагорье Анголы назначены «наблюдатели», которые следят за соблюдением традиционных правил охоты. Это защищает водно-болотные угодья, питающие систему Окаванго.",
-     "why": "Природоохранная работа, которую ведёт сама община, защищает водно-болотные угодья международного значения."
-    }
-   }
-  },
-  {
-   "id": "sd-antarctic-ozone-hole-seventh-largest",
-   "title": "Antarctic ozone hole is seventh-largest on record",
-   "summary": "The 2026 ozone hole grew to its seventh-largest size, driven by unusual weather. Scientists say restrictions on ozone-depleting chemicals prevented greater damage.",
-   "why": "Large hole, but the long-term treaty is credited with limiting it.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
-   "score": 3,
-   "category": "Environment",
-   "region": "Antarctica",
-   "published": "2026-11-11T12:32:48Z",
-   "continent": "Antarctica",
-   "added": "2026-11-14T05:13:58Z",
-   "i18n": {
-    "ca": {
-     "title": "El forat de la capa d'ozó de l'Antàrtida és el setè més gran registrat",
-     "summary": "El forat de la capa d'ozó del 2026 ha crescut fins a ser el setè més gran registrat, impulsat per unes condicions meteorològiques inusuals. Els científics afirmen que les restriccions a les substàncies que esgoten la capa d'ozó han evitat més danys.",
-     "why": "Un forat gran, però se n'atribueix el mèrit al tractat de llarga durada que l'ha limitat."
-    },
-    "fr": {
-     "title": "Le trou dans la couche d'ozone au-dessus de l'Antarctique est le septième plus grand jamais enregistré",
-     "summary": "Le trou de la couche d'ozone de 2026 s'est étendu jusqu'à devenir le septième plus grand jamais observé, sous l'effet de conditions météorologiques inhabituelles. Les scientifiques affirment que les restrictions imposées aux substances qui appauvrissent la couche d'ozone ont permis d'éviter des dégâts plus importants.",
-     "why": "Un trou important, mais ce traité de long terme est reconnu pour l'avoir limité."
-    },
-    "ru": {
-     "title": "Озоновая дыра над Антарктикой — седьмая по величине за всю историю наблюдений",
-     "summary": "Озоновая дыра 2026 года выросла до седьмого по величине размера за всю историю наблюдений под влиянием необычных погодных условий. Учёные говорят, что ограничения на разрушающие озон вещества помогли избежать более серьёзного ущерба.",
-     "why": "Большая дыра, однако заслуга в её ограничении принадлежит долгосрочному международному договору."
-    }
-   }
-  },
-  {
-   "id": "tbi-goa-town-composts-one-tonne-of-kitchen-waste-in-two-days",
-   "title": "Goa town composts one tonne of kitchen waste in two days",
-   "summary": "A BARC scientist's Nisargruna technology turns one tonne of kitchen scraps into compost in two days, as shown in a Goa town.",
-   "why": "A working local solution to organic waste.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/technology/sharad-kale-nisargruna-kitchen-waste-composting-bicholim-goa-12800983",
-   "score": 7,
-   "category": "Environment",
-   "region": "Goa, India",
-   "published": "2026-11-11T11:30:37Z",
-   "continent": "Asia",
-   "added": "2026-11-15T05:14:01Z",
-   "i18n": {
-    "ca": {
-     "title": "Un municipi de Goa composta una tona de residus de cuina en dos dies",
-     "summary": "La tecnologia Nisargruna, d'un científic del BARC, converteix una tona de restes de cuina en compost en dos dies, tal com s'ha mostrat en un municipi de Goa.",
-     "why": "Una solució local que funciona per als residus orgànics."
-    },
-    "fr": {
-     "title": "Une ville de Goa composte une tonne de déchets de cuisine en deux jours",
-     "summary": "La technologie Nisargruna d'un scientifique du BARC transforme une tonne de déchets de cuisine en compost en deux jours, comme le montre une ville de Goa.",
-     "why": "Une solution locale efficace pour les déchets organiques."
-    },
-    "ru": {
-     "title": "Город в Гоа за два дня перерабатывает тонну пищевых отходов в компост",
-     "summary": "Технология Nisargruna, разработанная учёным из BARC, превращает тонну пищевых отходов в компост за два дня, как показано на примере одного из городков штата Гоа.",
-     "why": "Работающее местное решение проблемы органических отходов."
     }
    }
   }
