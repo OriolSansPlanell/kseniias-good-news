@@ -1,162 +1,6 @@
 {
- "updated": "2026-11-16T09:52:16Z",
+ "updated": "2026-11-23T13:05:07Z",
  "events": [
-  {
-   "id": "cop31-2026",
-   "date": "2026-11-09",
-   "end": "2026-11-20",
-   "category": "Environment",
-   "title": "COP31 climate summit in Antalya",
-   "summary": "Countries meet in Antalya, Türkiye, for the UN's yearly climate conference to agree next steps on cutting emissions and adapting to a warmer world.",
-   "link": "https://unfccc.int/cop31",
-   "i18n": {
-    "ca": {
-     "title": "Cimera del clima COP31 a Antalya",
-     "summary": "Els països es reuneixen a Antalya, Turquia, a la conferència anual del clima de l'ONU per acordar els passos següents per reduir emissions i adaptar-se a un món més càlid."
-    },
-    "fr": {
-     "title": "Sommet climatique COP31 à Antalya",
-     "summary": "Les pays se réunissent à Antalya, en Turquie, pour la conférence annuelle de l'ONU sur le climat afin de convenir des prochaines étapes pour réduire les émissions et s'adapter."
-    },
-    "ru": {
-     "title": "Климатический саммит COP31 в Анталье",
-     "summary": "Страны собираются в Анталье (Турция) на ежегодную климатическую конференцию ООН, чтобы договориться о сокращении выбросов и адаптации к потеплению."
-    }
-   }
-  },
-  {
-   "id": "mars-jupiter-2026",
-   "date": "2026-11-16",
-   "category": "Sky",
-   "title": "Mars meets Jupiter",
-   "summary": "The red planet and the giant planet appear very close together in the night sky.",
-   "link": "https://starwalk.space/en/news/astronomy-calendar-2026",
-   "i18n": {
-    "ca": {
-     "title": "Mart es troba amb Júpiter",
-     "summary": "El planeta vermell i el planeta gegant es veuen molt a prop l'un de l'altre al cel nocturn."
-    },
-    "fr": {
-     "title": "Mars rencontre Jupiter",
-     "summary": "La planète rouge et la planète géante apparaissent très proches l'une de l'autre dans le ciel nocturne."
-    },
-    "ru": {
-     "title": "Марс встречается с Юпитером",
-     "summary": "Красная планета и планета-гигант видны на ночном небе совсем рядом друг с другом."
-    }
-   }
-  },
-  {
-   "id": "tolerance-day-2026",
-   "date": "2026-11-16",
-   "category": "Society",
-   "title": "International Day for Tolerance",
-   "summary": "A UN day encouraging mutual understanding and respect between cultures, peoples and beliefs.",
-   "link": "https://www.un.org/en/observances/tolerance-day",
-   "i18n": {
-    "ca": {
-     "title": "Dia Internacional de la Tolerància",
-     "summary": "Un dia de les Nacions Unides que fomenta la comprensió i el respecte mutu entre cultures, pobles i creences."
-    },
-    "fr": {
-     "title": "Journée internationale de la tolérance",
-     "summary": "Une journée de l'ONU encourageant la compréhension mutuelle et le respect entre les cultures, les peuples et les croyances."
-    },
-    "ru": {
-     "title": "Международный день толерантности",
-     "summary": "День ООН, поощряющий взаимное понимание и уважение между культурами, народами и убеждениями."
-    }
-   }
-  },
-  {
-   "id": "earthshot-2026",
-   "date": "2026-11-17",
-   "category": "Environment",
-   "title": "Earthshot Prize awards in Mumbai",
-   "summary": "Five winners each receive £1 million to scale up solutions to the planet's biggest environmental problems; the first ceremony held in India.",
-   "link": "https://earthshotprize.org/mumbai2026/",
-   "i18n": {
-    "ca": {
-     "title": "Premis Earthshot a Bombai",
-     "summary": "Cinc guanyadors reben un milió de lliures cadascun per ampliar solucions als grans problemes ambientals del planeta; és la primera cerimònia a l'Índia."
-    },
-    "fr": {
-     "title": "Remise des prix Earthshot à Bombay",
-     "summary": "Cinq lauréats reçoivent chacun un million de livres pour développer des solutions aux grands problèmes environnementaux ; première cérémonie en Inde."
-    },
-    "ru": {
-     "title": "Вручение премии Earthshot в Мумбаи",
-     "summary": "Пять победителей получат по миллиону фунтов на развитие решений главных экологических проблем планеты; церемония впервые проходит в Индии."
-    }
-   }
-  },
-  {
-   "id": "leonids-2026",
-   "date": "2026-11-17",
-   "end": "2026-11-18",
-   "category": "Sky",
-   "title": "Leonid meteor shower peaks",
-   "summary": "Fast, bright meteors from Comet Tempel–Tuttle, best seen in the hours before dawn.",
-   "link": "https://starwalk.space/en/news/astronomy-calendar-2026",
-   "i18n": {
-    "ca": {
-     "title": "Màxim de les Leònides",
-     "summary": "Meteors ràpids i brillants del cometa Tempel-Tuttle, millor visibles les hores abans de l'alba."
-    },
-    "fr": {
-     "title": "Pic des Léonides",
-     "summary": "Des météores rapides et brillants issus de la comète Tempel-Tuttle, à observer de préférence avant l'aube."
-    },
-    "ru": {
-     "title": "Пик метеорного потока Леониды",
-     "summary": "Быстрые яркие метеоры кометы Темпеля — Туттля; лучше всего видны в предрассветные часы."
-    }
-   }
-  },
-  {
-   "id": "world-childrens-day-2026",
-   "date": "2026-11-20",
-   "category": "Society",
-   "title": "World Children's Day",
-   "summary": "UNICEF's day for children's rights, when young people take over spaces usually run by adults and are heard.",
-   "link": "https://www.unicef.org/world-childrens-day",
-   "i18n": {
-    "ca": {
-     "title": "Dia Mundial de la Infància",
-     "summary": "El dia de l'UNICEF pels drets dels infants, en què els joves ocupen espais normalment dirigits per adults i se'ls escolta."
-    },
-    "fr": {
-     "title": "Journée mondiale de l'enfance",
-     "summary": "La journée de l'UNICEF pour les droits de l'enfant, où les jeunes prennent la parole dans des lieux habituellement tenus par des adultes."
-    },
-    "ru": {
-     "title": "Всемирный день ребёнка",
-     "summary": "День ЮНИСЕФ, посвящённый правам детей: молодые люди получают слово там, где обычно решают взрослые."
-    }
-   }
-  },
-  {
-   "id": "bepicolombo-mercury-2026",
-   "date": "2026-11-21",
-   "category": "Space",
-   "title": "BepiColombo reaches Mercury",
-   "summary": "After eight years in space, the European–Japanese mission enters orbit around Mercury to map it and study its magnetic field.",
-   "link": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
-   "i18n": {
-    "ca": {
-     "title": "BepiColombo arriba a Mercuri",
-     "summary": "Després de vuit anys a l'espai, la missió europea i japonesa entra en òrbita al voltant de Mercuri per cartografiar-lo i estudiar-ne el camp magnètic."
-    },
-    "fr": {
-     "title": "BepiColombo arrive à Mercure",
-     "summary": "Après huit ans dans l'espace, la mission européenne et japonaise se met en orbite autour de Mercure pour la cartographier et étudier son champ magnétique."
-    },
-    "ru": {
-     "title": "BepiColombo достигает Меркурия",
-     "summary": "После восьми лет в космосе европейско-японская миссия выходит на орбиту Меркурия, чтобы картографировать планету и изучить её магнитное поле."
-    }
-   }
-  },
   {
    "id": "supermoon-2026-11",
    "date": "2026-11-24",
@@ -445,6 +289,28 @@
    }
   },
   {
+   "id": "ursids-2026",
+   "date": "2026-12-22",
+   "category": "Sky",
+   "title": "Ursid meteor shower peaks",
+   "summary": "A quiet but charming shower of shooting stars from the Little Dipper, best seen on dark nights around the solstice.",
+   "link": "https://starwalk.space/en/news/astronomy-calendar-2026",
+   "i18n": {
+    "ca": {
+     "title": "Pic de la pluja de meteors de les Ursids",
+     "summary": "Una pluja d'estels fugaços discreta però encantadora, des de l'Óssa Menor, millor visible en nits fosques al voltant del solstici."
+    },
+    "fr": {
+     "title": "Pic de la pluie de météores des Ursides",
+     "summary": "Une averse d'étoiles filantes discrète mais charmante, issue de la Petite Ourse, mieux visible les nuits sombres autour du solstice."
+    },
+    "ru": {
+     "title": "Пик метеорного потока Урсиды",
+     "summary": "Тихий, но очаровательный метеорный поток, видимый из созвездия Малой Медведицы; лучше всего наблюдать в тёмные ночи около солнцестояния."
+    }
+   }
+  },
+  {
    "id": "supermoon-2026-12",
    "date": "2026-12-24",
    "category": "Sky",
@@ -512,6 +378,28 @@
    }
   },
   {
+   "id": "braille-day-2027",
+   "date": "2027-01-04",
+   "category": "Society",
+   "title": "World Braille Day",
+   "summary": "A day celebrating Braille as a tool for independence, reading and full participation for blind and partially sighted people.",
+   "link": "https://www.un.org/en/observances/world-braille-day",
+   "i18n": {
+    "ca": {
+     "title": "Dia Mundial del Braille",
+     "summary": "Dia per celebrar el braille com a eina d'autonomia, lectura i plena participació de les persones cegues i amb discapacitat visual."
+    },
+    "fr": {
+     "title": "Journée mondiale du braille",
+     "summary": "Journée qui célèbre le braille comme outil d'autonomie, de lecture et de pleine participation des personnes aveugles et malvoyantes."
+    },
+    "ru": {
+     "title": "Всемирный день Брайля",
+     "summary": "День, посвящённый шрифту Брайля как инструменту самостоятельности, чтения и полноценного участия незрячих и слабовидящих людей."
+    }
+   }
+  },
+  {
    "id": "jupiter-opposition-2027",
    "date": "2027-01-10",
    "category": "Sky",
@@ -556,6 +444,28 @@
    }
   },
   {
+   "id": "clean-energy-day-2027",
+   "date": "2027-01-26",
+   "category": "Environment",
+   "title": "International Day of Clean Energy",
+   "summary": "A day to celebrate the spread of clean, affordable energy and the cooperation that helps communities everywhere switch to it.",
+   "link": "https://www.un.org/en/observances/clean-energy-day",
+   "i18n": {
+    "ca": {
+     "title": "Dia Internacional de l'Energia Neta",
+     "summary": "Dia per celebrar l'expansió de l'energia neta i assequible i la cooperació que ajuda les comunitats de tot el món a fer-hi el canvi."
+    },
+    "fr": {
+     "title": "Journée internationale de l'énergie propre",
+     "summary": "Journée pour célébrer le développement d'une énergie propre et abordable, et la coopération qui aide les communautés du monde entier à y passer."
+    },
+    "ru": {
+     "title": "Международный день чистой энергии",
+     "summary": "День, посвящённый распространению чистой и доступной энергии и сотрудничеству, которое помогает сообществам по всему миру перейти на неё."
+    }
+   }
+  },
+  {
    "id": "wetlands-day-2027",
    "date": "2027-02-02",
    "category": "Environment",
@@ -574,6 +484,28 @@
     "ru": {
      "title": "Всемирный день водно-болотных угодий",
      "summary": "День, посвящённый болотам, мангровым лесам и торфяникам, которые очищают воду, накапливают углерод и служат убежищем для диких животных; по всему миру проходят мероприятия."
+    }
+   }
+  },
+  {
+   "id": "human-fraternity-2027",
+   "date": "2027-02-04",
+   "category": "Society",
+   "title": "International Day of Human Fraternity",
+   "summary": "A day promoting dialogue, mutual respect and friendship between people of different cultures and beliefs.",
+   "link": "https://www.un.org/en/observances/human-fraternity-day",
+   "i18n": {
+    "ca": {
+     "title": "Dia Internacional de la Fraternitat Humana",
+     "summary": "Dia que promou el diàleg, el respecte mutu i l'amistat entre persones de cultures i creences diferents."
+    },
+    "fr": {
+     "title": "Journée internationale de la fraternité humaine",
+     "summary": "Journée qui promeut le dialogue, le respect mutuel et l'amitié entre des personnes de cultures et de croyances différentes."
+    },
+    "ru": {
+     "title": "Международный день человеческого братства",
+     "summary": "День, посвящённый диалогу, взаимному уважению и дружбе между людьми разных культур и убеждений."
     }
    }
   },
@@ -600,6 +532,28 @@
    }
   },
   {
+   "id": "lunar-new-year-2027",
+   "date": "2027-02-06",
+   "category": "Society",
+   "title": "Lunar New Year begins, Year of the Goat",
+   "summary": "Hundreds of millions of people across Asia and beyond welcome the new year with family reunions, lanterns, food and festivals.",
+   "link": "https://www.timeanddate.com/holidays/china/chinese-new-year",
+   "i18n": {
+    "ca": {
+     "title": "Comença l'Any Nou Lunar, any de la Cabra",
+     "summary": "Milions de persones d'Àsia i més enllà donen la benvinguda a l'any nou amb reunions familiars, fanalets, menjar i festes."
+    },
+    "fr": {
+     "title": "Début du Nouvel An lunaire, année de la Chèvre",
+     "summary": "Des centaines de millions de personnes en Asie et au-delà accueillent la nouvelle année avec des réunions de famille, des lanternes, des repas et des fêtes."
+    },
+    "ru": {
+     "title": "Начинается Лунный Новый год, год Козы",
+     "summary": "Сотни миллионов людей в Азии и за её пределами встречают новый год семейными встречами, фонариками, угощениями и праздниками."
+    }
+   }
+  },
+  {
    "id": "women-girls-science-2027",
    "date": "2027-02-11",
    "category": "Science",
@@ -620,7 +574,73 @@
      "summary": "По всему миру проходят мероприятия, которые побуждают девочек и женщин заниматься наукой и чествуют исследовательниц, уже меняющих наш мир."
     }
    }
+  },
+  {
+   "id": "radio-day-2027",
+   "date": "2027-02-13",
+   "category": "Society",
+   "title": "World Radio Day",
+   "summary": "A UN day celebrating radio as a way to share news, culture and community voices, even in remote places.",
+   "link": "https://www.un.org/en/observances/world-radio-day",
+   "i18n": {
+    "ca": {
+     "title": "Dia Mundial de la Ràdio",
+     "summary": "Dia de les Nacions Unides que celebra la ràdio com a mitjà per compartir notícies, cultura i veus de la comunitat, fins i tot en llocs remots."
+    },
+    "fr": {
+     "title": "Journée mondiale de la radio",
+     "summary": "Journée des Nations unies qui célèbre la radio comme moyen de partager l'information, la culture et les voix des communautés, y compris dans les régions isolées."
+    },
+    "ru": {
+     "title": "Всемирный день радио",
+     "summary": "День ООН, посвящённый радио как способу делиться новостями, культурой и голосами сообществ, в том числе в отдалённых местах."
+    }
+   }
+  },
+  {
+   "id": "social-justice-day-2027",
+   "date": "2027-02-20",
+   "category": "Society",
+   "title": "World Day of Social Justice",
+   "summary": "A day to promote fairness, decent work and equal opportunity so that everyone can share in progress.",
+   "link": "https://www.un.org/en/observances/world-day-social-justice",
+   "i18n": {
+    "ca": {
+     "title": "Dia Mundial de la Justícia Social",
+     "summary": "Dia per promoure la igualtat, el treball digne i les mateixes oportunitats perquè tothom pugui participar del progrés."
+    },
+    "fr": {
+     "title": "Journée mondiale de la justice sociale",
+     "summary": "Journée qui promeut l'équité, le travail décent et l'égalité des chances afin que chacun puisse profiter du progrès."
+    },
+    "ru": {
+     "title": "Всемирный день социальной справедливости",
+     "summary": "День, посвящённый справедливости, достойному труду и равным возможностям, чтобы каждый мог участвовать в прогрессе."
+    }
+   }
+  },
+  {
+   "id": "mother-language-2027",
+   "date": "2027-02-21",
+   "category": "Society",
+   "title": "International Mother Language Day",
+   "summary": "A day celebrating linguistic diversity and the effort to keep endangered languages alive and taught.",
+   "link": "https://www.un.org/en/observances/international-mother-language-day",
+   "i18n": {
+    "ca": {
+     "title": "Dia Internacional de la Llengua Materna",
+     "summary": "Dia que celebra la diversitat lingüística i l'esforç per mantenir vives i ensenyades les llengües en perill d'extinció."
+    },
+    "fr": {
+     "title": "Journée internationale de la langue maternelle",
+     "summary": "Journée qui célèbre la diversité linguistique et les efforts pour préserver et enseigner les langues menacées."
+    },
+    "ru": {
+     "title": "Международный день родного языка",
+     "summary": "День, посвящённый языковому многообразию и усилиям по сохранению и преподаванию исчезающих языков."
+    }
+   }
   }
  ],
- "source_file": "events-20261116T0659Z.json"
+ "source_file": "events-20261123T0653Z.json"
 }

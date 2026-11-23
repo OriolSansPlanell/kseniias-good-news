@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T05:12:26Z",
+ "updated": "2026-11-23T05:13:01Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -11,10 +11,196 @@
   "Grist",
   "Africanews"
  ],
- "count": 125,
- "last_run": "run-20261122T0512Z.json",
- "note": "15 new, 45 skipped, 9 pruned, 0 translations added, failed feeds: The Optimist Daily",
+ "count": 120,
+ "last_run": "run-20261123T0513Z.json",
+ "note": "15 new, 45 skipped, 20 pruned, 0 translations added, failed feeds: The Optimist Daily",
  "stories": [
+  {
+   "id": "tbi-dharwad-women-farmers-win-award-for-desi-seed-conservati",
+   "title": "Karnataka women's group wins national award for saving indigenous seeds",
+   "summary": "A self-help group of women farmers in Dharwad won a national award and ten lakh rupees for conserving more than 250 indigenous seed varieties.",
+   "why": "Protects crop diversity and recognises local farmers.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/conservation/nature/dharwad-women-farmers-indigenous-seed-conservation-award-12827412",
+   "score": 7,
+   "category": "Environment",
+   "region": "Dharwad, Karnataka, India",
+   "published": "2026-11-23T00:00:00Z",
+   "continent": "Asia",
+   "added": "2026-11-23T05:13:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Un grup de dones pageses de Karnataka guanya un premi nacional per conservar llavors autòctones",
+     "summary": "Un grup d'autoajuda de dones pageses de Dharwad va guanyar un premi nacional i deu lakh de rupies per conservar més de 250 varietats de llavors autòctones.",
+     "why": "Protegeix la diversitat de cultius i reconeix els pagesos locals."
+    },
+    "fr": {
+     "title": "Un groupe de femmes agricultrices du Karnataka remporte un prix national pour la sauvegarde de semences indigènes",
+     "summary": "Un groupe d'entraide de femmes agricultrices de Dharwad a remporté un prix national et dix lakhs de roupies pour la conservation de plus de 250 variétés de semences indigènes.",
+     "why": "Protège la diversité des cultures et reconnaît le travail des agriculteurs locaux."
+    },
+    "ru": {
+     "title": "Группа женщин-фермеров из Карнатаки получила национальную премию за сохранение местных семян",
+     "summary": "Группа взаимопомощи женщин-фермеров из Дхарвада получила национальную премию и десять лакхов рупий за сохранение более 250 местных сортов семян.",
+     "why": "Сохраняет разнообразие культур и признаёт заслуги местных фермеров."
+    }
+   }
+  },
+  {
+   "id": "gnn-baxdrostat-may-cure-hormone-driven-high-blood-pressure",
+   "title": "Drug baxdrostat reverses hormone-driven high blood pressure in study",
+   "summary": "A study of the FDA-approved drug baxdrostat found it reversed high blood pressure caused by excess hormone production in patients with the condition.",
+   "why": "Promising results for a common, hard-to-treat condition, though from a single study.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/drug-may-actually-cure-high-blood-pressure-caused-by-hormones/",
+   "score": 7,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-11-22T00:00:00Z",
+   "continent": "Global",
+   "added": "2026-11-23T05:13:01Z",
+   "i18n": {
+    "ca": {
+     "title": "El fàrmac baxdrostat revoca la hipertensió arterial d'origen hormonal en un estudi",
+     "summary": "Un estudi del fàrmac baxdrostat, aprovat per la FDA, va constatar que revertia la hipertensió arterial causada per una producció excessiva d'hormones en pacients amb aquesta afecció.",
+     "why": "Resultats prometedors per a una afecció comuna i difícil de tractar, tot i que procedeixen d'un únic estudi."
+    },
+    "fr": {
+     "title": "Le médicament baxdrostat inverse l'hypertension d'origine hormonale selon une étude",
+     "summary": "Une étude sur le baxdrostat, médicament approuvé par la FDA, montre qu'il inverse l'hypertension artérielle causée par une production excessive d'hormones chez les patients concernés.",
+     "why": "Résultats prometteurs pour une affection courante et difficile à traiter, mais issus d'une seule étude."
+    },
+    "ru": {
+     "title": "Препарат баксдростат обращает вспять гормональную артериальную гипертензию, показало исследование",
+     "summary": "Исследование одобренного FDA препарата баксдростат показало, что он обращает вспять артериальную гипертензию, вызванную избыточной выработкой гормонов, у пациентов с этим заболеванием.",
+     "why": "Обнадёживающие результаты для распространённого и трудно поддающегося лечению состояния, однако они получены в одном исследовании."
+    }
+   }
+  },
+  {
+   "id": "gnn-museum-built-in-childrens-hospital-new-orleans",
+   "title": "Children's Hospital of New Orleans opens museum inside the hospital",
+   "summary": "A young patient wanted a place for play and fresh air during treatment, and the hospital built a museum space for children to be distracted and enjoy time outdoors.",
+   "why": "A kind, local initiative that helps children in care.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/the-first-museum-built-in-a-childrens-hospital-fulfills-dying-boys-wish/",
+   "score": 6,
+   "category": "Society",
+   "region": "New Orleans, USA",
+   "published": "2026-11-22T00:00:00Z",
+   "continent": "North America",
+   "added": "2026-11-23T05:13:01Z",
+   "i18n": {
+    "ca": {
+     "title": "L'Hospital Infantil de Nova Orleans obre un museu dins de l'hospital",
+     "summary": "Un jove pacient volia un lloc on jugar i respirar aire fresc durant el tractament, i l'hospital va construir un espai de museu perquè els infants es distreguin i gaudeixin del temps a l'aire lliure.",
+     "why": "Una iniciativa local i amable que ajuda els infants en tractament."
+    },
+    "fr": {
+     "title": "L'hôpital pour enfants de La Nouvelle-Orléans ouvre un musée en son sein",
+     "summary": "Un jeune patient souhaitait un lieu où jouer et prendre l'air pendant son traitement ; l'hôpital a donc aménagé un espace muséal où les enfants peuvent se distraire et profiter du plein air.",
+     "why": "Une initiative locale et bienveillante qui aide les enfants pris en charge."
+    },
+    "ru": {
+     "title": "Детская больница Нового Орлеана открыла музей внутри своего здания",
+     "summary": "Юному пациенту хотелось места для игр и свежего воздуха во время лечения, и больница создала музейное пространство, где дети могут отвлечься и проводить время на открытом воздухе.",
+     "why": "Добрая местная инициатива, которая помогает детям, находящимся на лечении."
+    }
+   }
+  },
+  {
+   "id": "tbi-assam-village-feeds-elephants-instead-of-chasing-them",
+   "title": "Assam village shifts from chasing elephants to feeding and mapping them",
+   "summary": "Residents of Hatikhuli village in Assam changed their approach to wild elephants, feeding them and mapping their movements rather than driving them away.",
+   "why": "A community-led approach to coexistence with wildlife.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/videos/tourism/300-elephants-one-village-an-extraordinary-idea-12832348",
+   "score": 7,
+   "category": "Animals",
+   "region": "Assam, India",
+   "published": "2026-11-22T00:00:00Z",
+   "continent": "Asia",
+   "added": "2026-11-23T05:13:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Un poble d'Assam deixa de perseguir els elefants i passa a alimentar-los i a cartografiar-los",
+     "summary": "Els habitants del poble de Hatikhuli, a Assam, van canviar la seva manera de tractar els elefants salvatges: els alimenten i en tracen els moviments, en lloc d'allunyar-los.",
+     "why": "Un enfocament liderat per la comunitat per conviure amb la fauna salvatge."
+    },
+    "fr": {
+     "title": "Un village d'Assam ne chasse plus les éléphants : il les nourrit et cartographie leurs déplacements",
+     "summary": "Les habitants du village de Hatikhuli, dans l'Assam, ont changé d'approche face aux éléphants sauvages : ils les nourrissent et cartographient leurs déplacements au lieu de les chasser.",
+     "why": "Une approche menée par la communauté pour cohabiter avec la faune sauvage."
+    },
+    "ru": {
+     "title": "Деревня в Ассаме перестала отгонять слонов и стала их подкармливать и отслеживать",
+     "summary": "Жители деревни Хатикхули в Ассаме изменили свой подход к диким слонам: вместо того чтобы отгонять их, они подкармливают животных и отслеживают их перемещения.",
+     "why": "Подход к сосуществованию с дикой природой, который реализует сама местная община."
+    }
+   }
+  },
+  {
+   "id": "tbi-iit-roorkee-creates-new-spring-in-uttarakhand-village",
+   "title": "IIT Roorkee team creates new spring to double village drinking water",
+   "summary": "Researchers from IIT Roorkee located underground water and created a new spring in Unchaun village, Uttarakhand, raising drinking water supply in the lean season.",
+   "why": "Tangible water access for a village, and a method others could copy.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/conservation/nature/iit-roorkee-new-spring-doubles-drinking-water-uttarakhand-village-12827613",
+   "score": 7,
+   "category": "Environment",
+   "region": "Uttarakhand, India",
+   "published": "2026-11-22T00:00:00Z",
+   "continent": "Asia",
+   "added": "2026-11-23T05:13:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Un equip de l'IIT Roorkee crea una nova font per duplicar l'aigua potable d'un poble d'Uttarakhand",
+     "summary": "Investigadors de l'IIT Roorkee van localitzar aigua subterrània i van crear una nova font al poble d'Unchaun, a Uttarakhand, cosa que ha augmentat el subministrament d'aigua potable en l'època de escassetat.",
+     "why": "Accés tangible a l'aigua per a un poble, i un mètode que altres podrien copiar."
+    },
+    "fr": {
+     "title": "Une équipe de l'IIT Roorkee crée une nouvelle source pour doubler l'eau potable d'un village de l'Uttarakhand",
+     "summary": "Des chercheurs de l'IIT Roorkee ont localisé des eaux souterraines et créé une nouvelle source dans le village d'Unchaun, dans l'Uttarakhand, ce qui augmente l'approvisionnement en eau potable en saison creuse.",
+     "why": "Un accès concret à l'eau pour un village, et une méthode que d'autres pourraient reproduire."
+    },
+    "ru": {
+     "title": "Команда IIT Roorkee создала новый родник, который удваивает запасы питьевой воды в деревне Уттаракханда",
+     "summary": "Исследователи из IIT Roorkee нашли подземные воды и создали новый родник в деревне Унчаун в штате Уттаракханд, что увеличило запасы питьевой воды в маловодный период.",
+     "why": "Реальный доступ деревни к воде и метод, который могут повторить и другие."
+    }
+   }
+  },
+  {
+   "id": "an-zimbabwean-author-cleared-of-using-ai-for-prize-story",
+   "title": "Zimbabwean author cleared of using AI to write prize-winning story",
+   "summary": "After a month-long investigation, Simbarashe Kundizeza's prize-winning entry was found to have been written by a human.",
+   "why": "A good outcome for one writer.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/22/zimbabwean-author-cleared-of-using-ai-to-write-prize-winning-story/",
+   "score": 6,
+   "category": "Culture",
+   "region": "Zimbabwe",
+   "published": "2026-11-22T00:00:00Z",
+   "continent": "Africa",
+   "added": "2026-11-23T05:13:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Un autor zimbabwès queda exonerat d'haver usat IA per escriure un relat premiat",
+     "summary": "Després d'una investigació d'un mes, es va determinar que el relat premiat de Simbarashe Kundizeza va ser escrit per una persona.",
+     "why": "Un bon resultat per a un escriptor."
+    },
+    "fr": {
+     "title": "Un auteur zimbabwéen blanchi d'avoir utilisé l'IA pour écrire une nouvelle primée",
+     "summary": "Après une enquête d'un mois, il a été établi que la nouvelle primée de Simbarashe Kundizeza avait été écrite par un humain.",
+     "why": "Une bonne issue pour un écrivain."
+    },
+    "ru": {
+     "title": "Зимбабвийского автора оправдали в обвинении в использовании ИИ для написания премированного рассказа",
+     "summary": "После месячного расследования выяснилось, что премированное произведение Симбараше Кундизезы написано человеком.",
+     "why": "Хороший исход для одного писателя."
+    }
+   }
+  },
   {
    "id": "gnn-whale-breath-drone-genome",
    "title": "Drone-collected whale breath yields a full genome",
@@ -167,6 +353,130 @@
      "title": "Рентгеновский телескоп, направляющийся к Меркурию, провёл первые наблюдения",
      "summary": "Спустя восемь лет в космосе рентгеновский телескоп, который движется к Меркурию, провёл первые космические наблюдения и работает исправно.",
      "why": "Научная веха с ограниченной непосредственной пользой для повседневной жизни."
+    }
+   }
+  },
+  {
+   "id": "gnn-pub-owner-funds-festive-light-display-knaresborough",
+   "title": "Pub owner funds large festive light display to lift locals' spirits",
+   "summary": "Pub owner Christian Ogley spent thousands on a festive light display in Knaresborough, England, hoping to cheer up residents feeling low.",
+   "why": "A warm community gesture with a small reach.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/pub-owner-spends-thousands-on-stunning-holiday-display-all-to-cheer-up-depressed-locals/",
+   "score": 5,
+   "category": "Society",
+   "region": "Knaresborough, England",
+   "published": "2026-11-21T00:00:00Z",
+   "continent": "Europe",
+   "added": "2026-11-23T05:13:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Un propietari de pub finança una gran il·luminació nadalenca per animar els veïns",
+     "summary": "Christian Ogley, propietari d'un pub, va gastar milers en una gran il·luminació nadalenca a Knaresborough (Anglaterra), amb l'objectiu d'animar els residents que tenien l'ànim baix.",
+     "why": "Un gest càlid de la comunitat, amb un abast reduït."
+    },
+    "fr": {
+     "title": "Le propriétaire d'un pub finance une grande décoration lumineuse de fêtes pour remonter le moral des habitants",
+     "summary": "Christian Ogley, propriétaire d'un pub, a dépensé des milliers pour une grande décoration lumineuse de fêtes à Knaresborough, en Angleterre, afin de remonter le moral des habitants.",
+     "why": "Un geste chaleureux pour la communauté, à la portée limitée."
+    },
+    "ru": {
+     "title": "Владелец паба оплатил большую праздничную иллюминацию, чтобы подбодрить местных жителей",
+     "summary": "Владелец паба Кристиан Огли потратил тысячи на праздничную иллюминацию в Нерсборо (Англия), желая поднять настроение жителям, которые чувствовали себя подавленно.",
+     "why": "Тёплый жест по отношению к местному сообществу, но с небольшим охватом."
+    }
+   }
+  },
+  {
+   "id": "gr-michigan-first-virtual-power-plant-net-zero-community",
+   "title": "Michigan net-zero community to become state's first virtual power plant",
+   "summary": "Homes in the Veridian development in Ann Arbor will join a DTE Energy pilot that lets the utility draw on residential energy resources to support the grid.",
+   "why": "A useful pilot for clean, flexible power, still small in scale.",
+   "source": "Grist",
+   "url": "https://grist.org/cities/new-net-zero-community-will-become-michigans-first-virtual-power-plant/",
+   "score": 6,
+   "category": "Energy",
+   "region": "Michigan, USA",
+   "published": "2026-11-21T00:00:00Z",
+   "continent": "North America",
+   "added": "2026-11-23T05:13:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Una comunitat de zero emissions netes de Michigan serà la primera central elèctrica virtual de l'estat",
+     "summary": "Les llars de la promoció Veridian, a Ann Arbor, s'uniran a un projecte pilot de DTE Energy que permet a la companyia aprofitar els recursos energètics residencials per donar suport a la xarxa.",
+     "why": "Un projecte pilot útil per a l'energia neta i flexible, encara de petita escala."
+    },
+    "fr": {
+     "title": "Une communauté à bilan carbone net zéro du Michigan deviendra la première centrale électrique virtuelle de l'État",
+     "summary": "Les logements du programme Veridian, à Ann Arbor, rejoindront un projet pilote de DTE Energy qui permet à l'opérateur de puiser dans les ressources énergétiques résidentielles pour soutenir le réseau.",
+     "why": "Un projet pilote utile pour une énergie propre et flexible, mais encore de petite taille."
+    },
+    "ru": {
+     "title": "Жилой комплекс с нулевым углеродным балансом в Мичигане станет первой виртуальной электростанцией штата",
+     "summary": "Дома в жилом комплексе Veridian в Энн-Арборе войдут в пилотный проект DTE Energy, который позволяет энергокомпании использовать ресурсы жилых домов для поддержки энергосети.",
+     "why": "Полезный пилотный проект чистой и гибкой энергетики, пока небольшого масштаба."
+    }
+   }
+  },
+  {
+   "id": "sd-westminster-abbey-roman-coffin-occupant-may-be-identified",
+   "title": "New dating may identify occupant of Westminster Abbey's Roman coffin",
+   "summary": "New dating evidence suggests the skeleton found in a Roman sarcophagus at Westminster Abbey belonged to a high-ranking person, possibly solving a 150-year mystery.",
+   "why": "A neat historical finding, not consequential for most people.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "London, England",
+   "published": "2026-11-21T00:00:00Z",
+   "continent": "Europe",
+   "added": "2026-11-23T05:13:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Una nova datació podria identificar l'ocupant del sarcòfag romà de l'abadia de Westminster",
+     "summary": "Noves dades de datació indiquen que l'esquelet trobat en un sarcòfag romà de l'abadia de Westminster pertanyia a una persona d'alt rang, cosa que podria resoldre un misteri de 150 anys.",
+     "why": "Un descobriment històric interessant, poc rellevant per a la majoria de la gent."
+    },
+    "fr": {
+     "title": "Une nouvelle datation pourrait permettre d'identifier l'occupant du sarcophage romain de l'abbaye de Westminster",
+     "summary": "De nouvelles données de datation suggèrent que le squelette trouvé dans un sarcophage romain de l'abbaye de Westminster appartenait à une personne de haut rang, ce qui pourrait résoudre un mystère vieux de 150 ans.",
+     "why": "Une découverte historique intéressante, peu importante pour la plupart des gens."
+    },
+    "ru": {
+     "title": "Новое датирование может помочь установить, кому принадлежал римский саркофаг в Вестминстерском аббатстве",
+     "summary": "Новые данные датирования указывают, что скелет, найденный в римском саркофаге в Вестминстерском аббатстве, принадлежал человеку высокого ранга, что может разгадать 150-летнюю загадку.",
+     "why": "Интересная историческая находка, которая мало влияет на жизнь большинства людей."
+    }
+   }
+  },
+  {
+   "id": "an-french-police-jailed-for-assaulting-black-music-producer",
+   "title": "French police officers jailed for assaulting Black music producer",
+   "summary": "A French court sentenced three officers to five years in prison, partly suspended, and treated racism as an aggravating factor in the assault.",
+   "why": "Accountability for police violence, though the case itself is a harm.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/21/french-police-officers-sentenced-to-jail-for-assaulting-black-music-producer/",
+   "score": 6,
+   "category": "Society",
+   "region": "France",
+   "published": "2026-11-21T00:00:00Z",
+   "continent": "Europe",
+   "added": "2026-11-23T05:13:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Tres policies francesos condemnats a presó per agredir un productor musical negre",
+     "summary": "Un tribunal francès va condemnar tres agents a cinc anys de presó, parcialment suspesos, i va considerar el racisme com a circumstància agreujant de l'agressió.",
+     "why": "Rendició de comptes per la violència policial, tot i que el cas en si és un perjudici."
+    },
+    "fr": {
+     "title": "Trois policiers français condamnés à de la prison pour avoir agressé un producteur de musique noir",
+     "summary": "Un tribunal français a condamné trois policiers à cinq ans de prison, dont une partie avec sursis, et a retenu le racisme comme circonstance aggravante de l'agression.",
+     "why": "Une reddition de comptes pour des violences policières, même si l'affaire elle-même constitue un préjudice."
+    },
+    "ru": {
+     "title": "Французские полицейские приговорены к тюремному сроку за нападение на чернокожего музыкального продюсера",
+     "summary": "Французский суд приговорил трёх полицейских к пяти годам лишения свободы, частично условно, и признал расизм отягчающим обстоятельством нападения.",
+     "why": "Привлечение к ответственности за полицейское насилие, хотя сам случай является вредом."
     }
    }
   },
@@ -729,6 +1039,99 @@
    }
   },
   {
+   "id": "sd-taung-child-fossil-suggests-more-early-hominin-groups",
+   "title": "Taung Child fossil study points to more complex early human evolution",
+   "summary": "A study of the 3-million-year-old Taung Child fossil suggests several early hominin groups once thought to be one species may have been separate.",
+   "why": "Interesting science with no direct benefit yet.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "South Africa",
+   "published": "2026-11-20T00:00:00Z",
+   "continent": "Africa",
+   "added": "2026-11-23T05:13:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Un estudi sobre el fòssil del Nen de Taung apunta a una evolució humana primerenca més complexa",
+     "summary": "Un estudi del fòssil del Nen de Taung, de 3 milions d'anys, suggereix que diversos grups d'homínids primerencs que es creien d'una mateixa espècie podrien haver estat separats.",
+     "why": "Ciència interessant sense cap benefici directe encara."
+    },
+    "fr": {
+     "title": "Une étude sur le fossile de l'Enfant de Taung suggère une évolution humaine plus complexe",
+     "summary": "Une étude du fossile de l'Enfant de Taung, vieux de 3 millions d'années, laisse penser que plusieurs groupes d'hominines primitifs, considérés comme une seule espèce, pourraient avoir été distincts.",
+     "why": "Découverte scientifique intéressante, sans bénéfice direct pour l'instant."
+    },
+    "ru": {
+     "title": "Исследование ископаемых останков Таунгского ребёнка указывает на более сложную эволюцию ранних людей",
+     "summary": "Исследование ископаемых останков Таунгского ребёнка, возраст которых составляет 3 миллиона лет, показывает, что несколько групп ранних гоминин, считавшихся одним видом, могли быть отдельными.",
+     "why": "Интересное научное открытие, пока без прямой пользы."
+    }
+   }
+  },
+  {
+   "id": "an-benin-requests-return-of-35-looted-artifacts-from-paris",
+   "title": "Benin asks Paris museum to return 35 looted artifacts",
+   "summary": "Benin formally requested the return of 35 artifacts held by a Paris museum, five years after France returned other items.",
+   "why": "A request only; outcome is not yet decided.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/20/benin-requests-return-of-35-looted-artifacts-from-paris-museum/",
+   "score": 5,
+   "category": "Culture",
+   "region": "Benin",
+   "published": "2026-11-20T00:00:00Z",
+   "continent": "Africa",
+   "added": "2026-11-23T05:13:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Benín demana al museu de París la devolució de 35 objectes espoliats",
+     "summary": "Benín ha demanat formalment la devolució de 35 objectes conservats en un museu de París, cinc anys després que França retornés altres peces.",
+     "why": "Només és una sol·licitud; el resultat encara no s'ha decidit."
+    },
+    "fr": {
+     "title": "Le Bénin demande à un musée parisien la restitution de 35 objets pillés",
+     "summary": "Le Bénin a officiellement demandé la restitution de 35 objets conservés dans un musée parisien, cinq ans après que la France a restitué d'autres pièces.",
+     "why": "Il ne s'agit que d'une demande ; l'issue n'est pas encore décidée."
+    },
+    "ru": {
+     "title": "Бенин требует от парижского музея вернуть 35 награбленных артефактов",
+     "summary": "Бенин официально попросил вернуть 35 артефактов, хранящихся в парижском музее, через пять лет после того, как Франция вернула другие предметы.",
+     "why": "Пока это только запрос; решение ещё не принято."
+    }
+   }
+  },
+  {
+   "id": "mb-philippine-t-boli-farmers-test-chemical-farming-erosion-l",
+   "title": "Indigenous Philippine farmers investigate farming and soil erosion link",
+   "summary": "T'boli farmers in Lake Sebu, Mindanao, with NGO and scientific support, are testing whether chemical farming contributes to soil erosion.",
+   "why": "Community-led research with practical potential.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/philippine-corn-farmers-investigate-links-between-chemical-farming-and-soil-erosion/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Mindanao, Philippines",
+   "published": "2026-11-20T00:00:00Z",
+   "continent": "Asia",
+   "added": "2026-11-23T05:13:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Agricultors indígenes de les Filipines investiguen el vincle entre l'agricultura química i l'erosió del sòl",
+     "summary": "Agricultors T'boli de Lake Sebu, a Mindanao, amb el suport d'una ONG i de científics, comproven si l'agricultura química contribueix a l'erosió del sòl.",
+     "why": "Recerca liderada per la comunitat amb potencial pràctic."
+    },
+    "fr": {
+     "title": "Des agriculteurs autochtones philippins étudient le lien entre agriculture chimique et érosion des sols",
+     "summary": "Des agriculteurs T'boli du lac Sebu, à Mindanao, soutenus par une ONG et des scientifiques, testent si l'agriculture chimique contribue à l'érosion des sols.",
+     "why": "Une recherche menée par la communauté, au potentiel pratique."
+    },
+    "ru": {
+     "title": "Коренные фермеры Филиппин изучают связь между химическим земледелием и эрозией почвы",
+     "summary": "Фермеры народа T'boli из Лейк-Себу на Минданао при поддержке НПО и учёных проверяют, способствует ли химическое земледелие эрозии почвы.",
+     "why": "Исследование, которое ведётся самим сообществом и имеет практический потенциал."
+    }
+   }
+  },
+  {
    "id": "an-zimbabwe-landmines-destroyed",
    "title": "Zimbabwe has destroyed 250,000 landmines since 2013",
    "summary": "The HALO Trust says it has cleared 250,000 landmines in Zimbabwe since 2013, but warns that funding shortfalls threaten the goal of finishing by 2030.",
@@ -1128,6 +1531,68 @@
      "title": "Большие муравьеды возвращаются в некоторые части своего прежнего ареала",
      "summary": "Восстановление среды обитания и возвращение диких животных в природу помогают вернуть уязвимых больших муравьедов в места, которые они покинули. В 2025 году одного из них зафиксировали в заповеднике Альма-Гуарани в Аргентине, впервые там с 1986 года.",
      "why": "Реальное восстановление популяции уязвимого вида, пока на ограниченных территориях."
+    }
+   }
+  },
+  {
+   "id": "mb-peru-tarantula-seizure-count-rises-to-12000",
+   "title": "Peruvian officials raise tarantula seizure count to over 12,000",
+   "summary": "Authorities raised their tally of tarantulas seized at Lima's airport from 3,000 to 12,796, reportedly.",
+   "why": "Animals seized, but it reveals large-scale trafficking.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/peruvian-officials-reportedly-increase-tally-to-more-than-12000-tarantulas-in-recent-seizure/",
+   "score": 5,
+   "category": "Animals",
+   "region": "Peru",
+   "published": "2026-11-19T00:00:00Z",
+   "continent": "South America",
+   "added": "2026-11-23T05:13:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Les autoritats peruanes eleven a més de 12.000 el nombre de taràntules confiscades",
+     "summary": "Les autoritats van elevar de 3.000 a 12.796 el recompte de taràntules confiscades a l'aeroport de Lima, segons els informes.",
+     "why": "Animals confiscats, però revela un tràfic a gran escala."
+    },
+    "fr": {
+     "title": "Les autorités péruviennes portent à plus de 12 000 le nombre de tarentules saisies",
+     "summary": "Les autorités ont relevé de 3 000 à 12 796 le nombre de tarentules saisies à l'aéroport de Lima, selon les informations disponibles.",
+     "why": "Des animaux saisis, mais cela révèle un trafic à grande échelle."
+    },
+    "ru": {
+     "title": "Власти Перу увеличили число конфискованных тарантулов более чем до 12 000",
+     "summary": "Власти увеличили количество тарантулов, конфискованных в аэропорту Лимы, с 3 000 до 12 796, как сообщается.",
+     "why": "Животных конфисковали, но это показывает масштабы торговли ими."
+    }
+   }
+  },
+  {
+   "id": "mb-hong-kong-hub-for-australian-reptile-trafficking",
+   "title": "Hong Kong seizures reveal hub for trafficking Australian reptiles",
+   "summary": "Hong Kong customs seized live Australian reptiles, including lizards hidden in sheepskin boots, showing the city's role in the illegal trade.",
+   "why": "Seizures help, but the trafficking harms native wildlife.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/skinks-in-boots-how-hong-kong-emerges-as-key-hub-in-australias-native-reptile-trafficking/",
+   "score": 3,
+   "category": "Animals",
+   "region": "Australia",
+   "published": "2026-11-19T00:00:00Z",
+   "continent": "Oceania",
+   "added": "2026-11-23T05:13:01Z",
+   "i18n": {
+    "ca": {
+     "title": "Les confiscacions a Hong Kong revelen un centre de tràfic de rèptils australians",
+     "summary": "La duana de Hong Kong va confiscar rèptils australians vius, inclosos sargantanes amagades en botes de pell d'ovella, cosa que mostra el paper de la ciutat en el comerç il·legal.",
+     "why": "Les confiscacions ajuden, però el tràfic perjudica la fauna autòctona."
+    },
+    "fr": {
+     "title": "Des saisies à Hong Kong révèlent une plaque tournante du trafic de reptiles australiens",
+     "summary": "Les douanes de Hong Kong ont saisi des reptiles australiens vivants, dont des lézards dissimulés dans des bottes en peau de mouton, ce qui montre le rôle de la ville dans ce commerce illégal.",
+     "why": "Les saisies aident, mais le trafic nuit à la faune sauvage indigène."
+    },
+    "ru": {
+     "title": "Конфискации в Гонконге выявили центр торговли австралийскими рептилиями",
+     "summary": "Таможня Гонконга конфисковала живых австралийских рептилий, в том числе ящериц, спрятанных в ботинках из овчины, что показывает роль города в незаконной торговле.",
+     "why": "Конфискации помогают, но торговля вредит местной дикой природе."
     }
    }
   },
@@ -3267,626 +3732,6 @@
      "title": "Младенец из Дубая перестал страдать от приступов после экспериментального препарата",
      "summary": "У ребёнка из Дубая с рождения приступы случались примерно каждые 13 минут. После приёма экспериментального препарата они прекратились. Наблюдение пока длится только несколько недель.",
      "why": "Впечатляющий результат для одного ребёнка, но лечение экспериментальное, а срок наблюдения короткий."
-    }
-   }
-  },
-  {
-   "id": "am-fiber-nanoplastic-absorption",
-   "title": "High-fibre diets reduced nanoplastic absorption in mouse studies",
-   "summary": "Two studies in mice found that diets rich in fibre lowered how much nanoplastic the gut absorbed.",
-   "why": "Early animal results that may not carry over to people.",
-   "source": "Anthropocene Magazine",
-   "url": "https://www.anthropocenemagazine.org/2026/11/nanoplastics-and-climate-change-have-an-unexpected-enemy-fiber/?utm_source=rss&utm_medium=rss&utm_campaign=is-a-low-carbon-diet-also-low-plastic",
-   "score": 5,
-   "category": "Health",
-   "region": "Global",
-   "published": "2026-11-13T13:00:31Z",
-   "continent": "Global",
-   "added": "2026-11-16T05:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Les dietes riques en fibra redueixen l'absorció de nanoplàstic en estudis amb ratolins",
-     "summary": "Dos estudis amb ratolins han constatat que les dietes riques en fibra redueixen la quantitat de nanoplàstic que absorbeix l'intestí.",
-     "why": "Resultats preliminars en animals que potser no es poden extrapolar a les persones."
-    },
-    "fr": {
-     "title": "Des régimes riches en fibres réduisent l'absorption de nanoplastiques, selon des études sur la souris",
-     "summary": "Deux études menées sur des souris ont montré que les régimes riches en fibres diminuent la quantité de nanoplastiques absorbée par l'intestin.",
-     "why": "Des résultats préliminaires chez l'animal, qui ne se confirmeront peut-être pas chez l'humain."
-    },
-    "ru": {
-     "title": "Диета с высоким содержанием клетчатки снижала всасывание наночастиц пластика в исследованиях на мышах",
-     "summary": "Два исследования на мышах показали, что диеты, богатые клетчаткой, уменьшали количество нанопластика, которое всасывалось кишечником.",
-     "why": "Ранние результаты на животных, которые могут не подтвердиться для людей."
-    }
-   }
-  },
-  {
-   "id": "an-swiss-hospital-discharges-ebola-patient-after-treatment",
-   "title": "Swiss hospital discharges Ebola patient after treatment",
-   "summary": "A Swiss woman infected with the Ebola strain linked to the DR Congo outbreak was discharged after successful treatment.",
-   "why": "A good outcome for one patient amid a wider outbreak.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/11/13/swiss-hospital-discharges-ebola-patient-after-successful-treatment/",
-   "score": 6,
-   "category": "Health",
-   "region": "Switzerland",
-   "published": "2026-11-13T11:31:24Z",
-   "continent": "Europe",
-   "added": "2026-11-15T05:14:01Z",
-   "i18n": {
-    "ca": {
-     "title": "Un hospital suís dona d'alta una pacient d'ebola després del tractament",
-     "summary": "Una dona suïssa infectada per la soca d'ebola vinculada al brot de la RD del Congo ha rebut l'alta després d'un tractament satisfactori.",
-     "why": "Un bon resultat per a una pacient en el context d'un brot més ampli."
-    },
-    "fr": {
-     "title": "Un hôpital suisse libère une patiente atteinte d'Ebola après son traitement",
-     "summary": "Une Suissesse infectée par la souche d'Ebola liée à l'épidémie en RD Congo a quitté l'hôpital après un traitement réussi.",
-     "why": "Une bonne issue pour une patiente, dans le contexte d'une épidémie plus large."
-    },
-    "ru": {
-     "title": "Швейцарская больница выписала пациентку с Эболой после успешного лечения",
-     "summary": "Швейцарка, инфицированная штаммом Эболы, связанным со вспышкой в ДР Конго, выписана после успешного лечения.",
-     "why": "Хороший исход для одной пациентки на фоне более широкой вспышки."
-    }
-   }
-  },
-  {
-   "id": "tbi-bengaluru-startup-turns-office-acs-into-air-purifiers",
-   "title": "Bengaluru startup converts office air conditioners into air purifiers",
-   "summary": "Clairco, a Bengaluru startup, retrofits office air conditioners to purify air. The company says its technology benefits around 1.5 million people.",
-   "why": "Useful local innovation; the reach figure is the company's own claim.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/web-stories/startup/ac-air-purifier-technology-clairco-bengaluru-startup-12806292",
-   "score": 6,
-   "category": "Environment",
-   "region": "Bengaluru, India",
-   "published": "2026-11-13T11:00:15Z",
-   "continent": "Asia",
-   "added": "2026-11-14T05:13:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Una startup de Bengaluru converteix els aires condicionats d'oficina en purificadors d'aire",
-     "summary": "Clairco, una startup de Bengaluru, adapta els aires condicionats d'oficina per purificar l'aire. L'empresa afirma que la seva tecnologia beneficia unes 1,5 milions de persones.",
-     "why": "Innovació local útil; la xifra d'abast és una afirmació de la mateixa empresa."
-    },
-    "fr": {
-     "title": "Une start-up de Bengaluru transforme les climatiseurs de bureau en purificateurs d'air",
-     "summary": "Clairco, une start-up de Bengaluru, adapte les climatiseurs de bureau pour purifier l'air. L'entreprise affirme que sa technologie profite à environ 1,5 million de personnes.",
-     "why": "Innovation locale utile ; le chiffre de portée est une affirmation de l'entreprise elle-même."
-    },
-    "ru": {
-     "title": "Стартап из Бенгалуру превращает офисные кондиционеры в воздухоочистители",
-     "summary": "Стартап Clairco из Бенгалуру дооснащает офисные кондиционеры функцией очистки воздуха. По словам компании, её технология приносит пользу около 1,5 миллиона человек.",
-     "why": "Полезная местная разработка; цифра охвата приведена самой компанией."
-    }
-   }
-  },
-  {
-   "id": "gr-voters-approve-billions-for-public-transit",
-   "title": "US voters approve $27 billion in transit measures",
-   "summary": "Voters approved 22 of 27 transit ballot measures on November 3, worth about $27.4 billion for repairs and expansion of transit systems.",
-   "why": "Broad funding for public transport, though delivery depends on officials.",
-   "source": "Grist",
-   "url": "https://grist.org/transportation/the-affordability-election-delivered-billions-for-public-transit/",
-   "score": 7,
-   "category": "Society",
-   "region": "USA",
-   "published": "2026-11-13T09:45:00Z",
-   "continent": "North America",
-   "added": "2026-11-14T05:13:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Els votants dels EUA aproven 27.000 milions de dòlars en mesures de transport públic",
-     "summary": "Els votants van aprovar 22 de les 27 mesures de transport sotmeses a votació el 3 de novembre, que representen uns 27.400 milions de dòlars per a la reparació i l'ampliació dels sistemes de transport.",
-     "why": "Un finançament ampli per al transport públic, tot i que la seva execució depèn dels càrrecs públics."
-    },
-    "fr": {
-     "title": "Les électeurs américains approuvent 27 milliards de dollars pour les transports en commun",
-     "summary": "Les électeurs ont approuvé 22 des 27 mesures soumises au vote sur les transports le 3 novembre, pour un montant d'environ 27,4 milliards de dollars destinés à la réparation et à l'extension des réseaux de transport.",
-     "why": "Financement important pour les transports publics, même si sa mise en œuvre dépend des responsables publics."
-    },
-    "ru": {
-     "title": "Американские избиратели одобрили 27 миллиардов долларов на общественный транспорт",
-     "summary": "3 ноября избиратели одобрили 22 из 27 транспортных инициатив, вынесенных на голосование, на общую сумму около 27,4 миллиарда долларов на ремонт и расширение транспортных систем.",
-     "why": "Широкое финансирование общественного транспорта, хотя его реализация зависит от чиновников."
-    }
-   }
-  },
-  {
-   "id": "rtbc-maui-regenerative-tourism",
-   "title": "Maui explores regenerative tourism after the Lahaina fires",
-   "summary": "Residents and businesses on Maui are testing tourism models meant to restore communities and nature, following the 2023 wildfires that destroyed much of Lahaina.",
-   "why": "A recovery-focused approach, though still experimental.",
-   "source": "Reasons to be Cheerful",
-   "url": "https://reasonstobecheerful.world/maui-living-laboratory-regenerative-tourism/",
-   "score": 6,
-   "category": "Society",
-   "region": "Maui, USA",
-   "published": "2026-11-13T08:00:12Z",
-   "continent": "North America",
-   "added": "2026-11-16T05:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Maui explora el turisme regeneratiu després dels incendis de Lahaina",
-     "summary": "Residents i empreses de Maui proven models turístics que pretenen restaurar les comunitats i la natura, després dels incendis forestals del 2023 que van destruir gran part de Lahaina.",
-     "why": "Un enfocament orientat a la recuperació, tot i que encara és experimental."
-    },
-    "fr": {
-     "title": "Maui explore le tourisme régénératif après les incendies de Lahaina",
-     "summary": "Des habitants et des entreprises de Maui testent des modèles touristiques destinés à restaurer les communautés et la nature, à la suite des incendies de 2023 qui ont détruit une grande partie de Lahaina.",
-     "why": "Une approche axée sur la reconstruction, mais encore expérimentale."
-    },
-    "ru": {
-     "title": "Мауи изучает регенеративный туризм после пожаров в Лахайне",
-     "summary": "Жители и предприятия Мауи испытывают модели туризма, призванные восстанавливать сообщества и природу после лесных пожаров 2023 года, которые уничтожили большую часть Лахайны.",
-     "why": "Подход, ориентированный на восстановление, но пока экспериментальный."
-    }
-   }
-  },
-  {
-   "id": "tbi-two-engineers-turn-waste-from-46-lakh-pe",
-   "title": "Two engineers turn waste from 46 lakh people into compost",
-   "summary": "Two engineers run waste collection for about 4.6 million people and convert the waste into compost.",
-   "why": "Large-scale waste reuse that reduces landfill.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/web-stories/sustainability/wevois-labs-waste-management-collecting-trash-reusing-recycling-empowering-sanitation-workers-12804397",
-   "score": 7,
-   "category": "Environment",
-   "region": "India",
-   "published": "2026-11-13T07:30:37Z",
-   "continent": "Asia",
-   "added": "2026-11-17T05:14:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Dos enginyers converteixen en compost els residus de 4,6 milions de persones",
-     "summary": "Dos enginyers gestionen la recollida de residus de prop de 4,6 milions de persones i els converteixen en compost.",
-     "why": "Reutilització de residus a gran escala que redueix l'abocament."
-    },
-    "fr": {
-     "title": "Deux ingénieurs transforment en compost les déchets de 4,6 millions de personnes",
-     "summary": "Deux ingénieurs assurent la collecte des déchets d'environ 4,6 millions de personnes et les transforment en compost.",
-     "why": "Une valorisation des déchets à grande échelle qui réduit la mise en décharge."
-    },
-    "ru": {
-     "title": "Два инженера превращают отходы 4,6 миллиона человек в компост",
-     "summary": "Два инженера организуют сбор отходов примерно для 4,6 миллиона человек и перерабатывают их в компост.",
-     "why": "Масштабная переработка отходов, которая сокращает объём свалок."
-    }
-   }
-  },
-  {
-   "id": "mb-sri-lanka-17-tuskers",
-   "title": "Sri Lanka identifies 17 high-risk tuskers as incidents rise",
-   "summary": "The government has enlisted the armed forces in a task force to protect elephants that are especially at risk as human-elephant conflict spikes.",
-   "why": "A protection effort, but it responds to a worsening problem.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/11/as-incidents-spike-sri-lanka-identifies-17-tuskers-considered-at-high-risk/",
-   "score": 4,
-   "category": "Animals",
-   "region": "Sri Lanka",
-   "published": "2026-11-13T07:11:49Z",
-   "continent": "Asia",
-   "added": "2026-11-16T05:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Sri Lanka identifica 17 elefants amb ullals considerats d'alt risc a mesura que augmenten els incidents",
-     "summary": "El govern ha incorporat les forces armades en un grup de treball per protegir els elefants especialment en risc, mentre el conflicte entre humans i elefants s'intensifica.",
-     "why": "Un esforç de protecció, però que respon a un problema cada cop pitjor."
-    },
-    "fr": {
-     "title": "Le Sri Lanka recense 17 éléphants mâles à fort risque alors que les incidents se multiplient",
-     "summary": "Le gouvernement a mobilisé les forces armées au sein d'un groupe de travail chargé de protéger les éléphants particulièrement menacés, alors que le conflit entre humains et éléphants s'intensifie.",
-     "why": "Un effort de protection, mais qui répond à un problème en aggravation."
-    },
-    "ru": {
-     "title": "На Шри-Ланке выявлены 17 крупных слонов-самцов из группы высокого риска на фоне роста инцидентов",
-     "summary": "Правительство привлекло вооружённые силы к работе целевой группы по защите слонов, которым особенно угрожает опасность на фоне резкого роста конфликтов между людьми и слонами.",
-     "why": "Усилия по защите, однако они отвечают на ухудшение ситуации."
-    }
-   }
-  },
-  {
-   "id": "tbi-tagged-spoon-billed-sandpiper-travels-fr",
-   "title": "Tagged spoon-billed sandpiper travels from Russia to Bengal coast",
-   "summary": "A critically endangered spoon-billed sandpiper tagged in Russia in July 2025 has been tracked to the coast of Bengal.",
-   "why": "Tracking data helps protect a species close to extinction.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/wildlife/spoon-billed-sandpiper-bengal-russia-migration-coastal-wetlands-12805610",
-   "score": 6,
-   "category": "Animals",
-   "region": "Bengal, India/Russia",
-   "published": "2026-11-13T06:30:37Z",
-   "continent": "Asia",
-   "added": "2026-11-17T05:14:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Un bequerol de bec de cullera marcat viatja de Rússia a la costa de Bengala",
-     "summary": "Un bequerol de bec de cullera, en perill crític d'extinció, marcat a Rússia el juliol del 2025, ha estat rastrejat fins a la costa de Bengala.",
-     "why": "Les dades de seguiment ajuden a protegir una espècie al límit de l'extinció."
-    },
-    "fr": {
-     "title": "Un bécasseau spatule marqué en Russie gagne les côtes du Bengale",
-     "summary": "Un bécasseau spatule, espèce en danger critique d'extinction, marqué en Russie en juillet 2025, a été suivi jusqu'aux côtes du Bengale.",
-     "why": "Les données de suivi aident à protéger une espèce au bord de l'extinction."
-    },
-    "ru": {
-     "title": "Меченый кулик-лопатень перелетел из России на побережье Бенгалии",
-     "summary": "Кулик-лопатень, находящийся на грани исчезновения, помеченный в России в июле 2025 года, был отслежен до побережья Бенгалии.",
-     "why": "Данные о перемещениях помогают защищать вид, находящийся на грани вымирания."
-    }
-   }
-  },
-  {
-   "id": "tbi-dehradun-founders-build-pocket-sized-ecg-device",
-   "title": "Dehradun founders build pocket-sized ECG device",
-   "summary": "Sunfox Technologies built Spandan, a smartphone-connected ECG device that gives a heart reading in about two minutes, aimed at rural India.",
-   "why": "Low-cost diagnostics can widen access to heart checks.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/health-care/sunfox-spandan-portable-ecg-device-rural-india-12804214",
-   "score": 6,
-   "category": "Health",
-   "region": "Uttarakhand, India",
-   "published": "2026-11-13T02:30:37Z",
-   "continent": "Asia",
-   "added": "2026-11-15T05:14:01Z",
-   "i18n": {
-    "ca": {
-     "title": "Fundadors de Dehradun creen un electrocardiograma de butxaca",
-     "summary": "Sunfox Technologies ha creat Spandan, un dispositiu d'electrocardiograma connectat al mòbil que obté una lectura del cor en uns dos minuts, pensat per a les zones rurals de l'Índia.",
-     "why": "Els diagnòstics de baix cost poden ampliar l'accés a les revisions del cor."
-    },
-    "fr": {
-     "title": "Des fondateurs de Dehradun mettent au point un électrocardiographe de poche",
-     "summary": "Sunfox Technologies a conçu Spandan, un appareil ECG connecté à un smartphone qui fournit une lecture cardiaque en environ deux minutes, destiné aux zones rurales de l'Inde.",
-     "why": "Des diagnostics à faible coût peuvent élargir l'accès aux contrôles cardiaques."
-    },
-    "ru": {
-     "title": "Основатели из Дехрадуна создали карманное устройство для ЭКГ",
-     "summary": "Компания Sunfox Technologies разработала Spandan — подключаемое к смартфону устройство ЭКГ, которое за около двух минут снимает показания сердца и предназначено для сельских районов Индии.",
-     "why": "Недорогая диагностика может расширить доступ к проверкам сердца."
-    }
-   }
-  },
-  {
-   "id": "od-microplastics-removal-atlantic-city",
-   "title": "Wastewater plant in New Jersey installs microplastics-capturing system",
-   "summary": "A treatment plant in Atlantic City has installed a system designed by former Princeton students that traps microplastics before they reach the ocean, mimicking wetland plants.",
-   "why": "Promising pilot-style technology at a single plant so far.",
-   "source": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/11/how-two-princeton-graduates-built-the-worlds-first-microplastics-removal-system/",
-   "score": 6,
-   "category": "Environment",
-   "region": "New Jersey, USA",
-   "published": "2026-11-13T00:00:54Z",
-   "continent": "North America",
-   "added": "2026-11-14T05:13:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Una depuradora de Nova Jersey instal·la un sistema que captura microplàstics",
-     "summary": "Una planta de tractament d'Atlantic City ha instal·lat un sistema dissenyat per antics estudiants de Princeton que atrapa els microplàstics abans que arribin a l'oceà, imitant les plantes dels aiguamolls.",
-     "why": "Tecnologia prometedora, de tipus pilot, en una sola planta fins ara."
-    },
-    "fr": {
-     "title": "Une station d'épuration du New Jersey installe un système de capture des microplastiques",
-     "summary": "Une station d'épuration d'Atlantic City a installé un système conçu par d'anciens étudiants de Princeton, qui piège les microplastiques avant qu'ils n'atteignent l'océan, en imitant les plantes des zones humides.",
-     "why": "Technologie prometteuse, encore au stade pilote, dans une seule station pour l'instant."
-    },
-    "ru": {
-     "title": "На очистных сооружениях в Нью-Джерси установили систему улавливания микропластика",
-     "summary": "На очистной станции в Атлантик-Сити установлена система, разработанная бывшими студентами Принстона, которая задерживает микропластик до того, как он попадёт в океан, подражая растениям водно-болотных угодий.",
-     "why": "Перспективная технология, пока испытываемая на одной станции."
-    }
-   }
-  },
-  {
-   "id": "mb-pantanal-jaguars-more-social-than-thought",
-   "title": "Pantanal jaguars found to be more social than thought",
-   "summary": "A 13-year study in Brazil's Pantanal identified 459 jaguars and recorded 167 pair interactions, nearly half between two males, suggesting more sociality than assumed.",
-   "why": "Interesting science on a healthy jaguar population; no direct change for the animals.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/11/in-brazils-prey-rich-pantanal-jaguars-reveal-a-surprisingly-social-side/",
-   "score": 5,
-   "category": "Animals",
-   "region": "Pantanal, Brazil",
-   "published": "2026-11-12T20:45:40Z",
-   "continent": "South America",
-   "added": "2026-11-14T05:13:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Els jaguars del Pantanal resulten ser més socials del que es pensava",
-     "summary": "Un estudi de 13 anys al Pantanal brasiler va identificar 459 jaguars i va registrar 167 interaccions entre parells, gairebé la meitat entre dos mascles, cosa que suggereix més sociabilitat de la que se suposava.",
-     "why": "Ciència interessant sobre una població de jaguars sana; no suposa cap canvi directe per als animals."
-    },
-    "fr": {
-     "title": "Les jaguars du Pantanal se révèlent plus sociaux qu'on ne le pensait",
-     "summary": "Une étude de 13 ans menée dans le Pantanal brésilien a identifié 459 jaguars et enregistré 167 interactions entre paires, dont près de la moitié entre deux mâles, ce qui suggère une sociabilité plus grande qu'on ne le supposait.",
-     "why": "Découverte scientifique intéressante sur une population de jaguars en bonne santé ; aucun changement direct pour les animaux."
-    },
-    "ru": {
-     "title": "Ягуары Пантанала оказались общительнее, чем считалось",
-     "summary": "В ходе 13-летнего исследования в бразильском Пантанале было выявлено 459 ягуаров и зафиксировано 167 взаимодействий между парами животных, почти половина из которых — между двумя самцами. Это указывает на большую общительность, чем предполагалось.",
-     "why": "Интересное научное открытие о популяции ягуаров в хорошем состоянии; прямых перемен для животных это не несёт."
-    }
-   }
-  },
-  {
-   "id": "gnn-china-liquid-air-energy-storage",
-   "title": "China starts world's largest liquid-air energy storage plant",
-   "summary": "A demonstration plant in western China now stores renewable electricity by liquefying air, then releasing it to drive a turbine when power is needed.",
-   "why": "A large demonstration of cheap grid storage, though still a demonstration plant.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/",
-   "score": 7,
-   "category": "Energy",
-   "region": "China",
-   "published": "2026-11-12T19:30:02Z",
-   "continent": "Asia",
-   "added": "2026-11-14T05:13:58Z",
-   "i18n": {
-    "ca": {
-     "title": "La Xina posa en marxa la planta d'emmagatzematge d'energia en aire líquid més gran del món",
-     "summary": "Una planta de demostració de l'oest de la Xina emmagatzema ara l'electricitat renovable liquant l'aire i, després, alliberant-lo per moure una turbina quan cal energia.",
-     "why": "Una gran demostració d'emmagatzematge econòmic per a la xarxa, tot i que encara és una planta de demostració."
-    },
-    "fr": {
-     "title": "La Chine met en service la plus grande centrale de stockage d'énergie à air liquide au monde",
-     "summary": "Une installation de démonstration dans l'ouest de la Chine stocke désormais l'électricité renouvelable en liquéfiant l'air, puis en le libérant pour faire tourner une turbine lorsque l'énergie est nécessaire.",
-     "why": "Une grande démonstration de stockage bon marché pour le réseau, bien qu'il s'agisse encore d'une installation de démonstration."
-    },
-    "ru": {
-     "title": "В Китае запущена крупнейшая в мире установка накопления энергии на основе сжиженного воздуха",
-     "summary": "Демонстрационная установка на западе Китая теперь накапливает электроэнергию из возобновляемых источников, сжижая воздух, а затем выпуская его для вращения турбины, когда требуется электричество.",
-     "why": "Масштабная демонстрация недорогого накопления энергии для энергосети, хотя это пока демонстрационный проект."
-    }
-   }
-  },
-  {
-   "id": "mb-suriname-removes-mennonite-farmers-sipaliwini",
-   "title": "Suriname removes Mennonites farming state land in Amazon region",
-   "summary": "Authorities removed more than 50 Mennonites from state land in Sipaliwini, citing expired residency permits, after years of controversy over large-scale Amazon farming plans.",
-   "why": "Mixed: limits feared forest clearing, but involves deportations.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/11/after-years-of-speculation-suriname-evicts-mennonites-farming-in-the-amazon/",
-   "score": 4,
-   "category": "Environment",
-   "region": "Suriname",
-   "published": "2026-11-12T17:40:19Z",
-   "continent": "South America",
-   "added": "2026-11-14T05:13:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Surinam desallotja menonites que conreaven terres de l'Estat a la regió amazònica",
-     "summary": "Les autoritats han desallotjat més de 50 menonites de terres estatals a Sipaliwini, al·legant que els seus permisos de residència havien caducat, després d'anys de controvèrsia pels plans de conreu a gran escala a l'Amazònia.",
-     "why": "Resultat mixt: limita la temuda tala de boscos, però implica deportacions."
-    },
-    "fr": {
-     "title": "Le Suriname évacue des mennonites exploitant des terres de l'État en région amazonienne",
-     "summary": "Les autorités ont évacué plus de 50 mennonites des terres de l'État à Sipaliwini, invoquant l'expiration de leurs titres de séjour, après des années de polémique autour de projets agricoles à grande échelle en Amazonie.",
-     "why": "Bilan mitigé : cela limite le défrichement forestier redouté, mais implique des expulsions."
-    },
-    "ru": {
-     "title": "Суринам выселяет меннонитов, ведущих сельское хозяйство на госземлях в Амазонии",
-     "summary": "Власти вывели более 50 меннонитов с государственных земель в Сипалиуини, сославшись на истёкшие разрешения на проживание, после многолетних споров о масштабных планах сельскохозяйственного освоения амазонских земель.",
-     "why": "Неоднозначный итог: ограничивает опасения по поводу вырубки лесов, но сопровождается депортациями."
-    }
-   }
-  },
-  {
-   "id": "mb-taiwan-tea-growers-turn-to-natural-cultivation-as-climate",
-   "title": "Taiwan tea growers turn to natural cultivation as climate shifts",
-   "summary": "Alishan oolong growers are moving away from chemical inputs toward natural and wild cultivation to adapt to climate change.",
-   "why": "A community adapting in a way that benefits the land.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/11/taiwans-tea-growers-adapt-to-climate-change-by-letting-nature-take-control/",
-   "score": 6,
-   "category": "Environment",
-   "region": "Taiwan",
-   "published": "2026-11-12T15:13:38Z",
-   "continent": "Asia",
-   "added": "2026-11-15T05:14:01Z",
-   "i18n": {
-    "ca": {
-     "title": "Els productors de te de Taiwan opten pel cultiu natural davant el canvi climàtic",
-     "summary": "Els productors d'oolong d'Alishan s'allunyen dels insums químics i avancen cap al cultiu natural i silvestre per adaptar-se al canvi climàtic.",
-     "why": "Una comunitat que s'adapta d'una manera que beneficia la terra."
-    },
-    "fr": {
-     "title": "Les producteurs de thé de Taïwan optent pour la culture naturelle face au changement climatique",
-     "summary": "Les producteurs de thé oolong d'Alishan abandonnent les intrants chimiques au profit d'une culture naturelle et sauvage pour s'adapter au changement climatique.",
-     "why": "Une communauté qui s'adapte d'une manière bénéfique pour les terres."
-    },
-    "ru": {
-     "title": "Чайные производители Тайваня переходят к натуральному выращиванию из-за изменения климата",
-     "summary": "Производители улуна из Алишани отказываются от химических средств в пользу естественного и дикорастущего выращивания, чтобы адаптироваться к изменению климата.",
-     "why": "Сообщество, которое адаптируется способом, полезным для земли."
-    }
-   }
-  },
-  {
-   "id": "am-zinc-air-battery-uses-vitamin-b12",
-   "title": "Zinc-air battery uses vitamin B12",
-   "summary": "University of Cordoba researchers built a rechargeable zinc-air battery that uses vitamin B12 in its chemistry.",
-   "why": "Early lab result; real-world use is not yet shown.",
-   "source": "Anthropocene Magazine",
-   "url": "https://www.anthropocenemagazine.org/2026/11/this-battery-runs-on-vitamin-b12/?utm_source=rss&utm_medium=rss&utm_campaign=this-battery-runs-on-vtaimin-b12",
-   "score": 5,
-   "category": "Energy",
-   "region": "Spain",
-   "published": "2026-11-12T13:00:16Z",
-   "continent": "Europe",
-   "added": "2026-11-15T05:14:01Z",
-   "i18n": {
-    "ca": {
-     "title": "Una bateria de zinc-aire utilitza vitamina B12",
-     "summary": "Investigadors de la Universitat de Còrdova han construït una bateria recarregable de zinc-aire que utilitza vitamina B12 en la seva química.",
-     "why": "Resultat inicial de laboratori; encara no es mostra l'ús en el món real."
-    },
-    "fr": {
-     "title": "Une batterie zinc-air utilise la vitamine B12",
-     "summary": "Des chercheurs de l'université de Cordoue ont conçu une batterie zinc-air rechargeable qui utilise la vitamine B12 dans sa chimie.",
-     "why": "Résultat de laboratoire préliminaire ; l'usage concret n'est pas encore démontré."
-    },
-    "ru": {
-     "title": "В цинк-воздушной батарее используется витамин B12",
-     "summary": "Исследователи Кордовского университета создали перезаряжаемую цинк-воздушную батарею, в химии которой используется витамин B12.",
-     "why": "Ранний лабораторный результат; практическое применение пока не показано."
-    }
-   }
-  },
-  {
-   "id": "sd-crows-fast-decisions",
-   "title": "Crows decide about twice as fast as humans in motion task",
-   "summary": "University of Tübingen researchers found crows judged the direction of moving dots in roughly half the time humans needed.",
-   "why": "Interesting animal-cognition result with no practical impact yet.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Germany",
-   "published": "2026-11-12T12:17:19Z",
-   "continent": "Europe",
-   "added": "2026-11-16T05:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Els corbs decideixen gairebé el doble de ràpid que els humans en una tasca de moviment",
-     "summary": "Investigadors de la Universitat de Tübingen han constatat que els corbs van determinar la direcció de punts en moviment en aproximadament la meitat del temps que necessitaven els humans.",
-     "why": "Un resultat interessant sobre la cognició animal, sense impacte pràctic de moment."
-    },
-    "fr": {
-     "title": "Les corneilles prennent des décisions près de deux fois plus vite que les humains lors d'une tâche de mouvement",
-     "summary": "Des chercheurs de l'Université de Tübingen ont constaté que les corneilles déterminent la direction de points en mouvement en environ la moitié du temps nécessaire aux humains.",
-     "why": "Un résultat intéressant sur la cognition animale, sans application pratique pour l'instant."
-    },
-    "ru": {
-     "title": "Вороны принимают решения почти вдвое быстрее людей в задаче на движение",
-     "summary": "Исследователи Тюбингенского университета выяснили, что вороны определяют направление движения точек примерно за половину времени, которое требуется людям.",
-     "why": "Интересный результат в области познания животных, пока без практического применения."
-    }
-   }
-  },
-  {
-   "id": "sd-ai-model-improves-brain-implant-vision",
-   "title": "AI model improves predictions for brain-implant vision",
-   "summary": "Researchers used AI to model how one blind man's brain responds to electrical stimulation, improving predictions of the flashes and shapes he sees through a brain implant.",
-   "why": "Early research on a single participant.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Global",
-   "published": "2026-11-12T11:55:55Z",
-   "continent": "Global",
-   "added": "2026-11-14T05:13:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Un model d'IA millora les previsions de la visió amb implants cerebrals",
-     "summary": "Els investigadors han fet servir la IA per modelar com respon el cervell d'un home cec a l'estimulació elèctrica, cosa que millora les previsions dels destells i les formes que veu a través d'un implant cerebral.",
-     "why": "Recerca inicial amb un únic participant."
-    },
-    "fr": {
-     "title": "Un modèle d'IA améliore les prévisions de vision pour les implants cérébraux",
-     "summary": "Des chercheurs ont utilisé l'IA pour modéliser la réponse du cerveau d'un homme aveugle à une stimulation électrique, ce qui améliore la prévision des flashs lumineux et des formes qu'il perçoit grâce à un implant cérébral.",
-     "why": "Recherche préliminaire sur un seul participant."
-    },
-    "ru": {
-     "title": "ИИ-модель улучшает прогнозы зрительного восприятия при работе мозговых имплантов",
-     "summary": "Исследователи применили ИИ для моделирования реакции мозга одного слепого мужчины на электрическую стимуляцию, что улучшило прогнозы вспышек и форм, которые он видит с помощью мозгового импланта.",
-     "why": "Ранние исследования с участием одного человека."
-    }
-   }
-  },
-  {
-   "id": "sd-perseverance-finds-complex-organic-carbon-in-ancient-mart",
-   "title": "Perseverance finds complex organic carbon in ancient Martian rock",
-   "summary": "NASA's Perseverance rover confirmed complex organic carbon just beneath the surface of ancient Martian rocks, a key ingredient for life.",
-   "why": "Interesting science, but it does not yet show life.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Space",
-   "published": "2026-11-12T11:37:06Z",
-   "continent": "Global",
-   "added": "2026-11-15T05:14:01Z",
-   "i18n": {
-    "ca": {
-     "title": "Perseverance troba carboni orgànic complex en roca marciana antiga",
-     "summary": "El rover Perseverance de la NASA ha confirmat carboni orgànic complex just sota la superfície de roques marcianes antigues, un ingredient clau per a la vida.",
-     "why": "Ciència interessant, però encara no mostra vida."
-    },
-    "fr": {
-     "title": "Perseverance découvre du carbone organique complexe dans une ancienne roche martienne",
-     "summary": "Le rover Perseverance de la NASA a confirmé la présence de carbone organique complexe juste sous la surface d'anciennes roches martiennes, un ingrédient clé pour la vie.",
-     "why": "Science intéressante, mais qui ne montre pas encore la vie."
-    },
-    "ru": {
-     "title": "Perseverance обнаружил сложный органический углерод в древней марсианской породе",
-     "summary": "Марсоход NASA Perseverance подтвердил наличие сложного органического углерода непосредственно под поверхностью древних марсианских пород — ключевого компонента для жизни.",
-     "why": "Интересная наука, но пока не доказывает наличие жизни."
-    }
-   }
-  },
-  {
-   "id": "sd-familiar-tropical-butterfly-turns-out-to-be-three-species",
-   "title": "Familiar tropical butterfly turns out to be three species",
-   "summary": "Genetic analysis showed a well-known tropical butterfly is actually three nearly identical species, one of them previously unknown to science.",
-   "why": "A modest but useful advance in understanding biodiversity.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261110042556.htm",
-   "score": 5,
-   "category": "Animals",
-   "region": "Tropics",
-   "published": "2026-11-12T10:47:43Z",
-   "continent": "Global",
-   "added": "2026-11-15T05:14:01Z",
-   "i18n": {
-    "ca": {
-     "title": "Una papallona tropical coneguda resulta ser tres espècies",
-     "summary": "L'anàlisi genètica ha demostrat que una papallona tropical ben coneguda són en realitat tres espècies gairebé idèntiques, una d'elles desconeguda fins ara per la ciència.",
-     "why": "Un avenç modest però útil per comprendre la biodiversitat."
-    },
-    "fr": {
-     "title": "Un papillon tropical familier se révèle être trois espèces",
-     "summary": "L'analyse génétique a montré qu'un papillon tropical bien connu correspond en fait à trois espèces presque identiques, dont une était jusqu'ici inconnue de la science.",
-     "why": "Une avancée modeste mais utile pour la compréhension de la biodiversité."
-    },
-    "ru": {
-     "title": "Известная тропическая бабочка оказалась тремя видами",
-     "summary": "Генетический анализ показал, что хорошо известная тропическая бабочка на самом деле представляет собой три практически неотличимых вида, один из которых ранее был неизвестен науке.",
-     "why": "Скромный, но полезный шаг в понимании биоразнообразия."
-    }
-   }
-  },
-  {
-   "id": "tbi-assam-restricts-drones-near-amur-falcon-roosts",
-   "title": "Assam restricts drones near Amur falcon roosts",
-   "summary": "Assam's Forest Department restricted unauthorised drone operations near Amur falcon roosts to keep the birds' migration undisturbed.",
-   "why": "A practical protection for migratory birds.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/wildlife/assam-amur-falcon-roosts-drone-restrictions-migratory-birds-12803487",
-   "score": 6,
-   "category": "Animals",
-   "region": "Assam, India",
-   "published": "2026-11-12T09:33:59Z",
-   "continent": "Asia",
-   "added": "2026-11-15T05:14:01Z",
-   "i18n": {
-    "ca": {
-     "title": "Assam restringeix els drons prop dels dormidors del falcó d'Amur",
-     "summary": "El Departament Forestal d'Assam ha restringit les operacions de drons no autoritzades prop dels dormidors del falcó d'Amur per no pertorbar la migració dels ocells.",
-     "why": "Una protecció pràctica per a les aus migratòries."
-    },
-    "fr": {
-     "title": "L'Assam restreint les drones près des dortoirs des faucons d'Amour",
-     "summary": "Le département des forêts de l'Assam a restreint les vols de drones non autorisés à proximité des dortoirs des faucons d'Amour afin de préserver la migration des oiseaux.",
-     "why": "Une protection concrète pour les oiseaux migrateurs."
-    },
-    "ru": {
-     "title": "В Ассаме ограничили полёты дронов вблизи мест ночёвки амурских соколов",
-     "summary": "Лесное управление штата Ассам ограничило несанкционированные полёты дронов вблизи мест ночёвки амурских соколов, чтобы не нарушать их миграцию.",
-     "why": "Практическая мера защиты перелётных птиц."
     }
    }
   }
