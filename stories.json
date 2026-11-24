@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:13:01Z",
+ "updated": "2026-11-24T05:14:12Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -11,10 +11,351 @@
   "Grist",
   "Africanews"
  ],
- "count": 120,
- "last_run": "run-20261123T0513Z.json",
- "note": "15 new, 45 skipped, 20 pruned, 0 translations added, failed feeds: The Optimist Daily",
+ "count": 127,
+ "last_run": "run-20261124T0514Z.json",
+ "note": "15 new, 45 skipped, 8 pruned, 0 translations added, failed feeds: The Optimist Daily",
  "stories": [
+  {
+   "id": "tbi-mumbai-network-turns-used-clothes-into-income-for-",
+   "title": "Mumbai network turns used clothes into income for workers",
+   "summary": "The Textile Waste Innovation Network collects used clothes in Mumbai and routes them to reuse and recycling, creating income while keeping textiles out of landfill.",
+   "why": "A community-level recycling model that also supports livelihoods.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/sustainability/mumbai-bhandiwalas-waghari-workers-textile-waste-management-twin-vikram-shahi-social-entrepreneur-12834828",
+   "score": 6,
+   "category": "Environment",
+   "region": "Mumbai, India",
+   "published": "2026-11-24T04:07:05Z",
+   "continent": "Asia",
+   "added": "2026-11-24T05:14:12Z",
+   "i18n": {
+    "ca": {
+     "title": "Una xarxa de Mumbai converteix la roba usada en ingressos per als treballadors",
+     "summary": "La Textile Waste Innovation Network recull roba usada a Mumbai i la destina a la reutilització i al reciclatge, cosa que genera ingressos i evita que els teixits acabin als abocadors.",
+     "why": "Un model de reciclatge a escala comunitària que també dona suport als mitjans de vida."
+    },
+    "fr": {
+     "title": "Un réseau de Mumbai transforme les vêtements usagés en revenus pour les travailleurs",
+     "summary": "Le Textile Waste Innovation Network collecte les vêtements usagés à Mumbai et les oriente vers la réutilisation et le recyclage, ce qui crée des revenus tout en évitant que les textiles finissent en décharge.",
+     "why": "Un modèle de recyclage à l'échelle communautaire qui soutient aussi les moyens de subsistance."
+    },
+    "ru": {
+     "title": "Сеть из Мумбаи превращает старую одежду в доход для работников",
+     "summary": "Textile Waste Innovation Network собирает старую одежду в Мумбаи и направляет её на повторное использование и переработку, создавая доходы и не допуская попадания текстиля на свалки.",
+     "why": "Модель переработки на уровне сообщества, которая также поддерживает средства к существованию."
+    }
+   }
+  },
+  {
+   "id": "gnn-one-of-a-kind-refuge-to-200-000-walrus-protected-f",
+   "title": "One-of-a-Kind Refuge to 200,000 Walrus Protected Forever in Alaska",
+   "summary": "Conservationists secured lasting protection for barrier islands off Point Lay, Alaska, where large numbers of Pacific walrus gather.",
+   "why": "Permanent protection of a key habitat for a large walrus population.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/one-of-a-kind-refuge-to-200000-walrus-protected-forever-in-alaska/",
+   "score": 8,
+   "category": "Animals",
+   "region": "Alaska, USA",
+   "published": "2026-11-23T16:04:07Z",
+   "continent": "North America",
+   "added": "2026-11-24T05:14:12Z",
+   "i18n": {
+    "ca": {
+     "title": "Un refugi únic per a 200.000 morses, protegit per sempre a Alaska",
+     "summary": "Els conservacionistes han aconseguit la protecció permanent de les illes barrera davant de Point Lay, a Alaska, on es reuneixen grans quantitats de morses del Pacífic.",
+     "why": "Protecció permanent d'un hàbitat clau per a una població gran de morses."
+    },
+    "fr": {
+     "title": "Un refuge unique pour 200 000 morses protégé à perpétuité en Alaska",
+     "summary": "Des associations de protection de la nature ont obtenu la protection durable des îles-barrières au large de Point Lay, en Alaska, où se rassemblent de grands nombres de morses du Pacifique.",
+     "why": "Protection permanente d'un habitat clé pour une grande population de morses."
+    },
+    "ru": {
+     "title": "Уникальное убежище для 200 000 моржей защищено навсегда на Аляске",
+     "summary": "Природоохранники добились долгосрочной защиты барьерных островов у Пойнт-Лей на Аляске, где собираются большие группы тихоокеанских моржей.",
+     "why": "Постоянная защита ключевой среды обитания крупной популяции моржей."
+    }
+   }
+  },
+  {
+   "id": "an-south-african-township-turns-shipping-container-in",
+   "title": "South African township turns shipping container into sensory therapy room",
+   "summary": "Afrika Tikkun and Sensory-Space converted a recycled shipping container into a sensory therapy space for children in a township community.",
+   "why": "Low-cost therapy access for a community, at a small scale.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/23/south-african-township-turns-discarded-shipping-container-into-community-sensory-therapy-r/",
+   "score": 6,
+   "category": "Health",
+   "region": "South Africa",
+   "published": "2026-11-23T12:30:03Z",
+   "continent": "Africa",
+   "added": "2026-11-24T05:14:12Z",
+   "i18n": {
+    "ca": {
+     "title": "Un barri de Sud-àfrica converteix un contenidor marítim en una sala de teràpia sensorial",
+     "summary": "Afrika Tikkun i Sensory-Space han transformat un contenidor marítim reciclat en un espai de teràpia sensorial per a infants d'una comunitat del barri.",
+     "why": "Accés a teràpia de baix cost per a una comunitat, a petita escala."
+    },
+    "fr": {
+     "title": "Une township sud-africaine transforme un conteneur maritime en salle de thérapie sensorielle",
+     "summary": "Afrika Tikkun et Sensory-Space ont transformé un conteneur maritime recyclé en espace de thérapie sensorielle pour les enfants d'une communauté de township.",
+     "why": "Un accès à une thérapie à bas coût pour une communauté, à petite échelle."
+    },
+    "ru": {
+     "title": "В южноафриканском посёлке грузовой контейнер превратили в комнату сенсорной терапии",
+     "summary": "Afrika Tikkun и Sensory-Space переоборудовали переработанный грузовой контейнер в пространство сенсорной терапии для детей из местного сообщества.",
+     "why": "Доступная по цене терапия для местного сообщества, пусть и в небольшом масштабе."
+    }
+   }
+  },
+  {
+   "id": "mb-wolves-help-spread-wild-blueberries-us-study-finds",
+   "title": "Wolves help spread wild blueberries, US study finds",
+   "summary": "Blueberry seeds that passed through wolves sprouted faster and more often than seeds taken straight from the fruit, suggesting wolves aid plant dispersal.",
+   "why": "Research showing a benefit of predators for ecosystems, though a small study.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/",
+   "score": 6,
+   "category": "Science",
+   "region": "USA",
+   "published": "2026-11-23T10:57:42Z",
+   "continent": "North America",
+   "added": "2026-11-24T05:14:12Z",
+   "i18n": {
+    "ca": {
+     "title": "Un estudi dels EUA conclou que els llops ajuden a dispersar els nabius silvestres",
+     "summary": "Les llavors de nabiu que han passat per l'aparell digestiu dels llops han germinat més ràpid i en més proporció que les llavors extretes directament del fruit, cosa que suggereix que els llops ajuden a dispersar la planta.",
+     "why": "Investigació que mostra un benefici dels depredadors per als ecosistemes, tot i que és un estudi petit."
+    },
+    "fr": {
+     "title": "Les loups contribuent à la dispersion des myrtilles sauvages, selon une étude américaine",
+     "summary": "Les graines de myrtille ayant transité par des loups ont germé plus vite et plus souvent que celles prélevées directement sur le fruit, ce qui laisse penser que les loups favorisent la dispersion des plantes.",
+     "why": "Une recherche qui montre un bénéfice des prédateurs pour les écosystèmes, bien qu'il s'agisse d'une petite étude."
+    },
+    "ru": {
+     "title": "Волки помогают распространять дикую чернику, показало исследование из США",
+     "summary": "Семена черники, прошедшие через волков, прорастали быстрее и чаще, чем семена, взятые непосредственно из ягод, что говорит о роли волков в распространении растений.",
+     "why": "Исследование, показывающее пользу хищников для экосистем, хотя оно небольшое."
+    }
+   }
+  },
+  {
+   "id": "tbi-kerala-researchers-rescue-27-000-orchids-from-tree",
+   "title": "Kerala researchers rescue 27,000 orchids from trees marked for felling",
+   "summary": "Researchers in Kozhikode relocated 27,324 native orchids from roadside trees due to be cut, and 71% of the plants survived.",
+   "why": "A practical rescue with a high survival rate for native plants.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/conservation/nature/kerala-orchid-conservation-road-development-rescue-relocation-12834195",
+   "score": 7,
+   "category": "Environment",
+   "region": "Kozhikode, Kerala, India",
+   "published": "2026-11-23T10:55:40Z",
+   "continent": "Asia",
+   "added": "2026-11-24T05:14:12Z",
+   "i18n": {
+    "ca": {
+     "title": "Investigadors de Kerala salven 27.000 orquídies d'arbres marcats per ser talats",
+     "summary": "Investigadors de Kozhikode han traslladat 27.324 orquídies autòctones d'arbres de vora carretera que havien de ser talats, i el 71% de les plantes han sobreviscut.",
+     "why": "Un rescat pràctic amb una alta taxa de supervivència per a plantes autòctones."
+    },
+    "fr": {
+     "title": "Des chercheurs du Kerala sauvent 27 000 orchidées d'arbres voués à l'abattage",
+     "summary": "Des chercheurs de Kozhikode ont déplacé 27 324 orchidées indigènes depuis des arbres en bordure de route destinés à être abattus, et 71 % des plantes ont survécu.",
+     "why": "Un sauvetage concret, avec un taux de survie élevé pour des plantes indigènes."
+    },
+    "ru": {
+     "title": "Исследователи из Кералы спасли 27 000 орхидей с деревьев, обреченных на вырубку",
+     "summary": "Исследователи из Кожикоде перенесли 27 324 местные орхидеи с придорожных деревьев, которые должны были срубить, и 71% растений выжили.",
+     "why": "Практичное спасение с высоким уровнем выживаемости для местных растений."
+    }
+   }
+  },
+  {
+   "id": "pn-song-written-by-people-touched-by-terminal-illness",
+   "title": "Song written by people touched by terminal illness is performed at Welsh hospice",
+   "summary": "A song inspired by experiences of terminal illness, written by people affected by it, was performed for the first time at a hospice in Wales.",
+   "why": "A creative project that gives comfort to a small community.",
+   "source": "Positive News",
+   "url": "https://www.positive.news/lifestyle/arts/song-of-hope-written-by-people-touched-by-terminal-illness-gets-its-debut/",
+   "score": 6,
+   "category": "Culture",
+   "region": "Wales, UK",
+   "published": "2026-11-23T09:42:37Z",
+   "continent": "Europe",
+   "added": "2026-11-24T05:14:12Z",
+   "i18n": {
+    "ca": {
+     "title": "Una cançó escrita per persones afectades per malalties terminals s'interpreta en un hospici de Gal·les",
+     "summary": "Una cançó inspirada en experiències de malaltia terminal, escrita per persones afectades per aquesta malaltia, s'ha interpretat per primera vegada en un hospici de Gal·les.",
+     "why": "Un projecte creatiu que dona consol a una petita comunitat."
+    },
+    "fr": {
+     "title": "Une chanson écrite par des personnes touchées par une maladie incurable interprétée dans un hospice gallois",
+     "summary": "Une chanson inspirée par l'expérience de la maladie en phase terminale, écrite par des personnes concernées, a été interprétée pour la première fois dans un hospice du pays de Galles.",
+     "why": "Un projet créatif qui apporte du réconfort à une petite communauté."
+    },
+    "ru": {
+     "title": "Песня, написанная людьми, столкнувшимися с неизлечимой болезнью, впервые исполнена в хосписе в Уэльсе",
+     "summary": "Песня, вдохновлённая опытом неизлечимой болезни и написанная людьми, которых она затронула, впервые прозвучала в хосписе в Уэльсе.",
+     "why": "Творческий проект, который приносит утешение небольшому сообществу."
+    }
+   }
+  },
+  {
+   "id": "tbi-eurasian-otters-once-hunted-for-fur-return-to-kash",
+   "title": "Eurasian otters, once hunted for fur, return to Kashmir",
+   "summary": "A new study documents recent sightings and field evidence of Eurasian otters reappearing in Kashmir after decades of hunting for their fur.",
+   "why": "A recovering species, though the study mostly documents presence rather than numbers.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/wildlife/eurasian-otters-return-kashmir-new-study-sightings-conservation-12833741",
+   "score": 7,
+   "category": "Animals",
+   "region": "Kashmir, India",
+   "published": "2026-11-23T09:27:49Z",
+   "continent": "Asia",
+   "added": "2026-11-24T05:14:12Z",
+   "i18n": {
+    "ca": {
+     "title": "Les llúdries eurasiàtiques, caçades antigament pel pelatge, tornen a Caixmir",
+     "summary": "Un nou estudi documenta observacions recents i proves de camp de llúdries eurasiàtiques que tornen a aparèixer a Caixmir després de dècades de caça per al seu pelatge.",
+     "why": "Una espècie que es recupera, tot i que l'estudi documenta sobretot la presència i no els nombres."
+    },
+    "fr": {
+     "title": "Les loutres eurasiennes, autrefois chassées pour leur fourrure, reviennent au Cachemire",
+     "summary": "Une nouvelle étude documente des observations récentes et des indices de terrain attestant le retour des loutres eurasiennes au Cachemire, après des décennies de chasse pour leur fourrure.",
+     "why": "Une espèce en voie de rétablissement, bien que l'étude documente surtout la présence plutôt que les effectifs."
+    },
+    "ru": {
+     "title": "Речные выдры, которых когда-то охотились ради меха, возвращаются в Кашмир",
+     "summary": "Новое исследование фиксирует недавние наблюдения и полевые данные о возвращении евразийских выдр в Кашмир после десятилетий охоты на них ради меха.",
+     "why": "Вид восстанавливается, однако исследование в основном фиксирует присутствие, а не численность."
+    }
+   }
+  },
+  {
+   "id": "rtbc-spanish-city-that-restricted-cars-in-1999-shows-th",
+   "title": "Spanish city that restricted cars in 1999 shows the results",
+   "summary": "Pontevedra, Spain, has limited car traffic in its centre since 1999, which has led to cleaner air and a more pleasant city for residents.",
+   "why": "A long-running example that car-free centres work for residents.",
+   "source": "Reasons to be Cheerful",
+   "url": "https://reasonstobecheerful.world/pontevedra-car-free-city/",
+   "score": 7,
+   "category": "Society",
+   "region": "Pontevedra, Spain",
+   "published": "2026-11-23T08:00:33Z",
+   "continent": "Europe",
+   "added": "2026-11-24T05:14:12Z",
+   "i18n": {
+    "ca": {
+     "title": "La ciutat espanyola que va restringir els cotxes el 1999 mostra els resultats",
+     "summary": "Pontevedra, a Espanya, ha limitat el trànsit de cotxes al centre des del 1999, cosa que ha millorat la qualitat de l'aire i ha fet la ciutat més agradable per als residents.",
+     "why": "Un exemple de llarga durada que els centres sense cotxes funcionen per als residents."
+    },
+    "fr": {
+     "title": "Une ville espagnole qui a restreint la circulation automobile en 1999 montre les résultats",
+     "summary": "Pontevedra, en Espagne, limite la circulation automobile dans son centre depuis 1999, ce qui a amélioré la qualité de l'air et rendu la ville plus agréable pour ses habitants.",
+     "why": "Un exemple de longue date montrant que les centres sans voitures profitent aux habitants."
+    },
+    "ru": {
+     "title": "Испанский город, ограничивший движение автомобилей в 1999 году, показывает результаты",
+     "summary": "Понтеведра в Испании ограничивает движение автомобилей в центре города с 1999 года, что привело к улучшению качества воздуха и сделало город комфортнее для жителей.",
+     "why": "Давний пример того, что центры без автомобилей работают на благо жителей."
+    }
+   }
+  },
+  {
+   "id": "tbi-two-delhi-students-turn-classroom-fans-into-air-pu",
+   "title": "Two Delhi students turn classroom fans into air purifiers",
+   "summary": "Two Delhi teenagers designed a filter costing about 140 rupees that fits over ordinary school fans, cleaning the air for around 200 pupils.",
+   "why": "A cheap, local fix for polluted classrooms, though small in scale.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/innovation/project-vayu-delhi-school-fan-air-purifiers-12827138",
+   "score": 6,
+   "category": "Environment",
+   "region": "Delhi, India",
+   "published": "2026-11-23T06:30:37Z",
+   "continent": "Asia",
+   "added": "2026-11-24T05:14:12Z",
+   "i18n": {
+    "ca": {
+     "title": "Dos estudiants de Delhi converteixen els ventiladors de les aules en purificadors d'aire",
+     "summary": "Dos adolescents de Delhi han dissenyat un filtre que costa uns 140 rupies i que s'acobla als ventiladors normals de les escoles, i que neteja l'aire per a uns 200 alumnes.",
+     "why": "Una solució barata i local per a aules contaminades, tot i que a petita escala."
+    },
+    "fr": {
+     "title": "Deux élèves de Delhi transforment les ventilateurs de classe en purificateurs d'air",
+     "summary": "Deux adolescents de Delhi ont conçu un filtre coûtant environ 140 roupies, qui se fixe sur les ventilateurs ordinaires des écoles et purifie l'air pour environ 200 élèves.",
+     "why": "Une solution locale et bon marché pour des salles de classe polluées, bien qu'à petite échelle."
+    },
+    "ru": {
+     "title": "Два ученика из Дели превращают классные вентиляторы в очистители воздуха",
+     "summary": "Два подростка из Дели разработали фильтр стоимостью около 140 рупий, который устанавливается на обычные школьные вентиляторы и очищает воздух примерно для 200 учеников.",
+     "why": "Дешёвое местное решение для загрязнённых классов, хотя и небольшого масштаба."
+    }
+   }
+  },
+  {
+   "id": "mb-otters-seen-regularly-in-kuala-lumpur-raise-hopes-",
+   "title": "Otters seen regularly in Kuala Lumpur raise hopes for river recovery",
+   "summary": "Smooth-coated otters are regularly seen in parts of Kuala Lumpur, including the Klang River, which conservationists take as a sign that urban waterways are improving.",
+   "why": "Wildlife returning to a city river is a modest but encouraging sign.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/kuala-lumpur-otters-raise-river-clean-up-hopes/",
+   "score": 6,
+   "category": "Animals",
+   "region": "Kuala Lumpur, Malaysia",
+   "published": "2026-11-23T02:53:11Z",
+   "continent": "Asia",
+   "added": "2026-11-24T05:14:12Z",
+   "i18n": {
+    "ca": {
+     "title": "Les llúdries vistes amb regularitat a Kuala Lumpur alimenten les esperances de recuperació del riu",
+     "summary": "Les llúdries de pelatge llis es veuen amb regularitat en diverses zones de Kuala Lumpur, com el riu Klang, cosa que els conservacionistes consideren un signe que les vies fluvials urbanes estan millorant.",
+     "why": "El retorn de la fauna a un riu urbà és un senyal modest però encoratjador."
+    },
+    "fr": {
+     "title": "Des loutres observées régulièrement à Kuala Lumpur font espérer une renaissance de la rivière",
+     "summary": "Des loutres à poil lisse sont régulièrement observées dans certains secteurs de Kuala Lumpur, notamment sur la rivière Klang, ce que les défenseurs de la nature considèrent comme un signe d'amélioration des cours d'eau urbains.",
+     "why": "Le retour de la faune dans une rivière urbaine est un signe modeste mais encourageant."
+    },
+    "ru": {
+     "title": "Выдры, регулярно появляющиеся в Куала-Лумпуре, вселяют надежду на восстановление реки",
+     "summary": "Гладкошёрстные выдры регулярно встречаются в отдельных районах Куала-Лумпура, в том числе на реке Кланг, что природоохранники считают признаком улучшения состояния городских водотоков.",
+     "why": "Возвращение диких животных в городскую реку — скромный, но обнадёживающий признак."
+    }
+   }
+  },
+  {
+   "id": "gnn-thumb-joint-replacement-offered-for-severe-arthrit",
+   "title": "Thumb joint replacement offered for severe arthritis",
+   "summary": "A ball-and-socket thumb implant replaces the trapezium bone at the base of the thumb, treating severe arthritis much as hip or shoulder replacements do.",
+   "why": "A new surgical option for a painful, common condition, though still limited to severe cases.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/new-way-to-treat-severe-thumb-arthritis-with-joint-replacement/",
+   "score": 6,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-11-23T01:55:12Z",
+   "continent": "Global",
+   "added": "2026-11-24T05:14:12Z",
+   "i18n": {
+    "ca": {
+     "title": "Ofereixen la pròtesi de l'articulació del polze per a l'artrosi greu",
+     "summary": "Un implant de polze d'esfera i cavitat substitueix l'os trapezi, a la base del polze, i tracta l'artrosi greu de manera similar a com ho fan les pròtesis de maluc o d'espatlla.",
+     "why": "Una nova opció quirúrgica per a una afecció dolorosa i comuna, tot i que encara es limita als casos greus."
+    },
+    "fr": {
+     "title": "Une prothèse de l'articulation du pouce proposée pour l'arthrose sévère",
+     "summary": "Un implant du pouce à rotule et cupule remplace l'os trapèze, à la base du pouce, et traite l'arthrose sévère à la manière des prothèses de hanche ou d'épaule.",
+     "why": "Une nouvelle option chirurgicale pour une affection douloureuse et fréquente, mais qui reste limitée aux cas graves."
+    },
+    "ru": {
+     "title": "Предлагается протезирование сустава большого пальца при тяжёлом артрозе",
+     "summary": "Шаровидно-суставной имплант большого пальца заменяет трапециевидную кость у основания пальца и лечит тяжёлый артроз так же, как протезирование тазобедренного или плечевого сустава.",
+     "why": "Новый хирургический вариант для болезненного и распространённого состояния, хотя он пока ограничен тяжёлыми случаями."
+    }
+   }
+  },
   {
    "id": "tbi-dharwad-women-farmers-win-award-for-desi-seed-conservati",
    "title": "Karnataka women's group wins national award for saving indigenous seeds",
@@ -43,6 +384,37 @@
      "title": "Группа женщин-фермеров из Карнатаки получила национальную премию за сохранение местных семян",
      "summary": "Группа взаимопомощи женщин-фермеров из Дхарвада получила национальную премию и десять лакхов рупий за сохранение более 250 местных сортов семян.",
      "why": "Сохраняет разнообразие культур и признаёт заслуги местных фермеров."
+    }
+   }
+  },
+  {
+   "id": "sd-giant-tortoise-jonathan-s-dna-offers-clues-to-slow",
+   "title": "Giant tortoise Jonathan's DNA offers clues to slower ageing",
+   "summary": "Researchers found 287 genetic variants in Jonathan, a 194-year-old giant tortoise, linked to DNA repair and other processes that may relate to longevity.",
+   "why": "Early genetic findings with no direct benefit for people yet.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-11-22T11:04:06Z",
+   "continent": "Global",
+   "added": "2026-11-24T05:14:12Z",
+   "i18n": {
+    "ca": {
+     "title": "L'ADN de la tortuga gegant Jonathan ofereix pistes sobre un envelliment més lent",
+     "summary": "Els investigadors han trobat 287 variants genètiques en Jonathan, una tortuga gegant de 194 anys, vinculades a la reparació de l'ADN i a altres processos que podrien tenir relació amb la longevitat.",
+     "why": "Primeres troballes genètiques sense benefici directe per a les persones, de moment."
+    },
+    "fr": {
+     "title": "L'ADN de la tortue géante Jonathan offre des pistes sur un vieillissement plus lent",
+     "summary": "Des chercheurs ont identifié 287 variants génétiques chez Jonathan, une tortue géante de 194 ans, liées à la réparation de l'ADN et à d'autres processus qui pourraient être associés à la longévité.",
+     "why": "Premières découvertes génétiques, sans bénéfice direct pour l'être humain pour l'instant."
+    },
+    "ru": {
+     "title": "ДНК гигантской черепахи Джонатана дает подсказки о замедлении старения",
+     "summary": "Исследователи обнаружили у Джонатана, гигантской черепахи в возрасте 194 лет, 287 генетических вариантов, связанных с репарацией ДНК и другими процессами, которые могут быть связаны с долголетием.",
+     "why": "Первые генетические данные без прямой пользы для людей на данный момент."
     }
    }
   },
@@ -291,6 +663,37 @@
      "title": "Девять геологических объектов Индии добиваются включения в список всемирного наследия ЮНЕСКО",
      "summary": "В статье рассказывается о девяти геологических объектах Индии, которые включены в предварительный список ЮНЕСКО или предложены для него.",
      "why": "Признание может помочь защитить природное наследие."
+    }
+   }
+  },
+  {
+   "id": "an-pilotless-electric-air-taxi-carries-a-passenger-in",
+   "title": "Pilotless electric air taxi carries a passenger in Japan",
+   "summary": "A Chinese-built electric flying taxi carried a passenger in a pilotless demonstration flight in Japan.",
+   "why": "An interesting technology step, but far from everyday use.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/21/japan-autonomous-air-taxi-completes-passenger-flight-without-a-pilot/",
+   "score": 5,
+   "category": "Science",
+   "region": "Japan",
+   "published": "2026-11-21T10:20:32Z",
+   "continent": "Asia",
+   "added": "2026-11-24T05:14:12Z",
+   "i18n": {
+    "ca": {
+     "title": "Un taxi aeri elèctric sense pilot transporta un passatger al Japó",
+     "summary": "Un taxi volador elèctric fabricat a la Xina ha transportat un passatger en una demostració de vol sense pilot al Japó.",
+     "why": "Un pas tecnològic interessant, però lluny de l'ús quotidià."
+    },
+    "fr": {
+     "title": "Un taxi aérien électrique sans pilote transporte un passager au Japon",
+     "summary": "Un taxi volant électrique de fabrication chinoise a transporté un passager lors d'une démonstration de vol sans pilote au Japon.",
+     "why": "Une avancée technologique intéressante, mais encore loin d'un usage quotidien."
+    },
+    "ru": {
+     "title": "Беспилотное электрическое воздушное такси перевезло пассажира в Японии",
+     "summary": "Электрическое летающее такси китайского производства перевезло пассажира во время демонстрационного полёта без пилота в Японии.",
+     "why": "Интересный технологический шаг, но до повседневного использования ещё далеко."
     }
    }
   },
@@ -915,6 +1318,37 @@
    }
   },
   {
+   "id": "mb-last-javan-rhino-habitat-caught-between-mining-pla",
+   "title": "Last Javan rhino habitat caught between mining plans and relocation debate",
+   "summary": "Indonesian lawmakers and NGOs urge revoking a mining map covering waters near Ujung Kulon, the last home of the critically endangered Javan rhino.",
+   "why": "A threat to a critically endangered species, though campaigners are pushing back.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/last-javan-rhino-habitat-caught-between-mining-plans-and-relocation-debate/",
+   "score": 3,
+   "category": "Animals",
+   "region": "Java, Indonesia",
+   "published": "2026-11-20T12:30:07Z",
+   "continent": "Asia",
+   "added": "2026-11-24T05:14:12Z",
+   "i18n": {
+    "ca": {
+     "title": "L'últim hàbitat del rinoceront de Java, atrapat entre plans miners i el debat sobre la reubicació",
+     "summary": "Legisladors i ONG indonèsies demanen revocar un mapa de concessions mineres que cobreix les aigües properes a Ujung Kulon, l'última llar del rinoceront de Java, una espècie en perill crític.",
+     "why": "Una amenaça per a una espècie en perill crític, tot i que els activistes s'hi oposen."
+    },
+    "fr": {
+     "title": "Le dernier habitat du rhinocéros de Java pris entre projets miniers et débat sur la relocalisation",
+     "summary": "Des législateurs et des ONG indonésiens demandent l'annulation d'une carte minière couvrant les eaux proches d'Ujung Kulon, dernier habitat du rhinocéros de Java, espèce en danger critique d'extinction.",
+     "why": "Une menace pour une espèce en danger critique, bien que les militants résistent."
+    },
+    "ru": {
+     "title": "Последний ареал яванского носорога оказался между планами добычи полезных ископаемых и спором о переселении",
+     "summary": "Законодатели и неправительственные организации Индонезии призывают отозвать карту горнодобычи, охватывающую воды близ Уджунг-Кулона, последнего места обитания яванского носорога, находящегося под угрозой критического исчезновения.",
+     "why": "Угроза для вида, находящегося под угрозой критического исчезновения, хотя активисты выступают против."
+    }
+   }
+  },
+  {
    "id": "sd-cern-rare-particle-decay",
    "title": "CERN finds first evidence of extremely rare particle decay",
    "summary": "Researchers at CERN found first evidence of a particle decay expected only about once in every 10 billion beauty particles, after a roughly 40-year search.",
@@ -942,6 +1376,37 @@
      "title": "В CERN впервые получены свидетельства крайне редкого распада частицы",
      "summary": "Исследователи CERN впервые зафиксировали признаки распада, который ожидается примерно раз на 10 миллиардов бьюти-частиц, после поисков длиной около 40 лет.",
      "why": "Научная веха, пока без прямой пользы для людей."
+    }
+   }
+  },
+  {
+   "id": "tbi-tamil-nadu-students-turn-old-newspapers-into-waste",
+   "title": "Tamil Nadu students turn old newspapers into waste bags",
+   "summary": "Students at a Tamil Nadu middle school made waste bags from old newspapers and won recognition in the I CAN Earthshot Challenge.",
+   "why": "A school project that cuts plastic use, small but encouraging.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/changemakers/tamil-nadu-school-students-decom-possible-childrens-earthshot-prize-12826578",
+   "score": 6,
+   "category": "Environment",
+   "region": "Tamil Nadu, India",
+   "published": "2026-11-20T11:30:37Z",
+   "continent": "Asia",
+   "added": "2026-11-24T05:14:12Z",
+   "i18n": {
+    "ca": {
+     "title": "Alumnes de Tamil Nadu converteixen diaris vells en bosses per a residus",
+     "summary": "Alumnes d'una escola de Tamil Nadu han fet bosses per als residus amb diaris vells i han obtingut un reconeixement en el I CAN Earthshot Challenge.",
+     "why": "Un projecte escolar que redueix l'ús de plàstic, petit però encoratjador."
+    },
+    "fr": {
+     "title": "Des élèves du Tamil Nadu transforment de vieux journaux en sacs à déchets",
+     "summary": "Des élèves d'un collège du Tamil Nadu ont fabriqué des sacs à déchets à partir de vieux journaux et ont été récompensés dans le cadre du I CAN Earthshot Challenge.",
+     "why": "Un projet scolaire qui réduit l'usage du plastique, modeste mais encourageant."
+    },
+    "ru": {
+     "title": "Школьники из Тамил Наду делают мешки для мусора из старых газет",
+     "summary": "Ученики средней школы в Тамил Наду сделали мешки для мусора из старых газет и получили признание в рамках конкурса I CAN Earthshot Challenge.",
+     "why": "Школьный проект, который сокращает использование пластика; он мал, но обнадёживает."
     }
    }
   },
@@ -3484,254 +3949,6 @@
      "title": "Исследователи из Стэнфорда нашли сигналы мозга, которые могут предсказать болезнь Альцгеймера на ранней стадии",
      "summary": "Стэнфордские исследователи обнаружили паттерны активности мозга, которые могут указывать на риск болезни Альцгеймера за годы до появления симптомов, раньше, чем существующие инструменты.",
      "why": "Перспективно для раннего выявления, но исследования пока на начальном этапе."
-    }
-   }
-  },
-  {
-   "id": "mb-zimbabwe-elephant-deterrents",
-   "title": "Zimbabwe village keeps elephants off crops without harming them",
-   "summary": "Villagers combine non-lethal measures, such as chili-laced balls and burning dung, to protect their fields from elephants.",
-   "why": "A low-cost, harmless way to reduce human-wildlife conflict in one village.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/11/spicy-ping-pong-balls-and-flaming-dung-keep-elephants-at-bay-in-zimbabwe/",
-   "score": 6,
-   "category": "Animals",
-   "region": "Zimbabwe",
-   "published": "2026-11-14T09:18:50Z",
-   "continent": "Africa",
-   "added": "2026-11-16T05:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Un poble de Zimbabwe evita que els elefants entrin als camps sense fer-los mal",
-     "summary": "Els vilatans combinen mesures no letals, com ara boles impregnades de xile i fems cremats, per protegir els seus camps dels elefants.",
-     "why": "Una manera barata i inofensiva de reduir el conflicte entre humans i fauna en un sol poble."
-    },
-    "fr": {
-     "title": "Un village du Zimbabwe protège ses cultures des éléphants sans leur nuire",
-     "summary": "Les villageois combinent des mesures non létales, comme des balles imprégnées de piment et des bouses enflammées, pour protéger leurs champs des éléphants.",
-     "why": "Une méthode peu coûteuse et inoffensive pour réduire les conflits entre humains et faune sauvage dans un village."
-    },
-    "ru": {
-     "title": "Деревня в Зимбабве защищает посевы от слонов, не причиняя им вреда",
-     "summary": "Жители деревни сочетают нелетальные меры, например шарики с перцем чили и тлеющий навоз, чтобы защитить свои поля от слонов.",
-     "why": "Недорогой и безвредный способ снизить конфликт между людьми и дикими животными в одной деревне."
-    }
-   }
-  },
-  {
-   "id": "mb-south-african-court-blocks-planned-coal-power-plants",
-   "title": "South African court blocks planned coal power plants",
-   "summary": "South Africa's Supreme Court of Appeal upheld a ruling striking down plans for 1,500 MW of new coal-fired power capacity.",
-   "why": "Avoids new coal emissions, though the project could return in other forms.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/11/south-african-court-dismisses-appeal-over-planned-coal-fired-power-plants/",
-   "score": 7,
-   "category": "Energy",
-   "region": "South Africa",
-   "published": "2026-11-13T23:09:35Z",
-   "continent": "Africa",
-   "added": "2026-11-15T05:14:01Z",
-   "i18n": {
-    "ca": {
-     "title": "Un tribunal sud-africà bloqueja les centrals de carbó previstes",
-     "summary": "El Tribunal Suprem d'Apel de Sud-àfrica ha confirmat una resolució que anul·la els plans de 1.500 MW de nova capacitat d'energia de carbó.",
-     "why": "Evita noves emissions de carbó, tot i que el projecte podria tornar en altres formes."
-    },
-    "fr": {
-     "title": "Un tribunal sud-africain bloque des centrales à charbon prévues",
-     "summary": "La Cour suprême d'appel d'Afrique du Sud a confirmé une décision annulant les projets de 1 500 MW de nouvelle capacité électrique au charbon.",
-     "why": "Évite de nouvelles émissions liées au charbon, même si le projet pourrait revenir sous d'autres formes."
-    },
-    "ru": {
-     "title": "Суд ЮАР заблокировал строительство новых угольных электростанций",
-     "summary": "Верховный апелляционный суд ЮАР подтвердил решение, отменяющее планы строительства новых угольных мощностей общей мощностью 1500 МВт.",
-     "why": "Позволяет избежать новых выбросов от угля, хотя проект может вернуться в другом виде."
-    }
-   }
-  },
-  {
-   "id": "am-five-ways-to-cut-emissions-from-building",
-   "title": "Five ways to cut emissions from buildings",
-   "summary": "Buildings produce about 27 percent of global emissions, and the article outlines five approaches that lower their carbon footprint.",
-   "why": "Useful solutions for a large source of emissions.",
-   "source": "Anthropocene Magazine",
-   "url": "https://www.anthropocenemagazine.org/2026/11/five-fixes-for-low-carbon-buildings/?utm_source=rss&utm_medium=rss&utm_campaign=five-fixes-for-low-carbon-buildings",
-   "score": 6,
-   "category": "Environment",
-   "region": "Global",
-   "published": "2026-11-13T22:14:47Z",
-   "continent": "Global",
-   "added": "2026-11-17T05:14:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Cinc maneres de reduir les emissions dels edificis",
-     "summary": "Els edificis produeixen al voltant del 27 % de les emissions globals, i l'article descriu cinc enfocaments per reduir-ne l'empremta de carboni.",
-     "why": "Solucions útils per a una font important d'emissions."
-    },
-    "fr": {
-     "title": "Cinq moyens de réduire les émissions des bâtiments",
-     "summary": "Les bâtiments produisent environ 27 % des émissions mondiales ; l'article présente cinq approches permettant de réduire leur empreinte carbone.",
-     "why": "Des solutions utiles pour une source importante d'émissions."
-    },
-    "ru": {
-     "title": "Пять способов сократить выбросы от зданий",
-     "summary": "Здания дают около 27 процентов мировых выбросов; статья описывает пять подходов, которые снижают их углеродный след.",
-     "why": "Полезные решения для крупного источника выбросов."
-    }
-   }
-  },
-  {
-   "id": "mb-honduras-declares-36-month-emergency-in-rio-platano-reser",
-   "title": "Honduras declares 36-month emergency in Rio Platano reserve",
-   "summary": "A presidential decree launches a 36-month environmental emergency in Rio Platano Biosphere Reserve, Honduras's largest protected area.",
-   "why": "Action for a threatened reserve, but outcomes depend on enforcement.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/11/honduras-declares-environmental-emergency-in-rio-platano-biosphere-reserve/",
-   "score": 5,
-   "category": "Environment",
-   "region": "Honduras",
-   "published": "2026-11-13T18:42:57Z",
-   "continent": "North America",
-   "added": "2026-11-15T05:14:01Z",
-   "i18n": {
-    "ca": {
-     "title": "Hondures declara una emergència ambiental de 36 mesos a la reserva del Río Plátano",
-     "summary": "Un decret presidencial posa en marxa una emergència ambiental de 36 mesos a la Reserva de la Biosfera del Río Plátano, l'àrea protegida més gran d'Hondures.",
-     "why": "Una acció per a una reserva amenaçada, però els resultats depenen de com s'apliqui."
-    },
-    "fr": {
-     "title": "Le Honduras décrète une urgence environnementale de 36 mois dans la réserve du Río Plátano",
-     "summary": "Un décret présidentiel lance une urgence environnementale de 36 mois dans la réserve de biosphère du Río Plátano, la plus grande aire protégée du Honduras.",
-     "why": "Une action en faveur d'une réserve menacée, mais les résultats dépendront de son application."
-    },
-    "ru": {
-     "title": "Гондурас объявил 36-месячную чрезвычайную экологическую ситуацию в заповеднике Рио-Платано",
-     "summary": "Президентский декрет вводит 36-месячную чрезвычайную экологическую ситуацию в биосферном заповеднике Рио-Платано — крупнейшей охраняемой территории Гондураса.",
-     "why": "Меры для находящегося под угрозой заповедника, но результаты зависят от их исполнения."
-    }
-   }
-  },
-  {
-   "id": "mb-atlantic-forest-fruit-bats",
-   "title": "Fruit bats help restore Brazil's Atlantic Forest",
-   "summary": "Researchers are studying how fruit-eating bats spread seeds, making them useful partners in regrowing the damaged forest.",
-   "why": "Natural seed dispersal can speed up forest recovery, but the work is at research stage.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/11/fruit-bats-emerge-as-unlikely-allies-in-the-atlantic-forest-restoration/",
-   "score": 6,
-   "category": "Environment",
-   "region": "Atlantic Forest, Brazil",
-   "published": "2026-11-13T15:22:50Z",
-   "continent": "South America",
-   "added": "2026-11-16T05:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Els ratpenats frugívors ajuden a restaurar la Mata Atlàntica del Brasil",
-     "summary": "Els investigadors estudien com els ratpenats que mengen fruita disseminen les llavors, cosa que els converteix en aliats útils per recuperar el bosc degradat.",
-     "why": "La dispersió natural de llavors pot accelerar la recuperació del bosc, però el treball està en fase de recerca."
-    },
-    "fr": {
-     "title": "Des chauves-souris frugivores contribuent à restaurer la forêt atlantique brésilienne",
-     "summary": "Des chercheurs étudient la manière dont les chauves-souris frugivores dispersent les graines, ce qui en fait des alliées précieuses pour la régénération de la forêt dégradée.",
-     "why": "La dispersion naturelle des graines peut accélérer la reconstitution de la forêt, mais les travaux en sont encore au stade de la recherche."
-    },
-    "ru": {
-     "title": "Плодоядные летучие мыши помогают восстанавливать Атлантический лес Бразилии",
-     "summary": "Исследователи изучают, как плодоядные летучие мыши распространяют семена, что делает их полезными союзниками в восстановлении пострадавшего леса.",
-     "why": "Естественное распространение семян может ускорить восстановление леса, однако работа находится на исследовательском этапе."
-    }
-   }
-  },
-  {
-   "id": "an-nigeria-ebola-contacts-clear-monitoring",
-   "title": "Nigeria reports no Ebola spread after imported case",
-   "summary": "Nigeria has recorded no new Ebola cases since a woman arriving from Uganda tested positive last month, and her contacts finished 21 days of monitoring uninfected.",
-   "why": "Containment worked in Nigeria, while the wider outbreak continues.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/11/13/nigeria-ebola-patient-contacts-complete-21-day-monitoring-without-signs-of-infection/",
-   "score": 6,
-   "category": "Health",
-   "region": "Nigeria",
-   "published": "2026-11-13T14:56:21Z",
-   "continent": "Africa",
-   "added": "2026-11-14T05:13:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Nigèria no informa de cap propagació de l'ebola després d'un cas importat",
-     "summary": "Nigèria no ha registrat cap cas nou d'ebola des que una dona que arribava d'Uganda va donar positiu el mes passat, i els seus contactes han completat 21 dies de seguiment sense infecció.",
-     "why": "La contenció va funcionar a Nigèria, mentre el brot més ampli continua."
-    },
-    "fr": {
-     "title": "Le Nigeria ne signale aucune propagation d'Ebola après un cas importé",
-     "summary": "Le Nigeria n'a enregistré aucun nouveau cas d'Ebola depuis qu'une femme arrivant d'Ouganda a été testée positive le mois dernier, et ses contacts ont achevé 21 jours de surveillance sans infection.",
-     "why": "Le confinement a fonctionné au Nigeria, alors que l'épidémie plus large se poursuit."
-    },
-    "ru": {
-     "title": "В Нигерии не выявлено распространения Эболы после завезённого случая",
-     "summary": "В Нигерии не зарегистрировано новых случаев Эболы с тех пор, как в прошлом месяце у женщины, прибывшей из Уганды, был выявлен положительный результат теста. Её контакты завершили 21 день наблюдения без признаков инфекции.",
-     "why": "В Нигерии удалось локализовать очаг, тогда как более широкая вспышка продолжается."
-    }
-   }
-  },
-  {
-   "id": "tbi-teen-helps-turn-bengaluru-school-storero",
-   "title": "Teen helps turn Bengaluru school storeroom into 2,000-book library",
-   "summary": "Seventeen-year-old Asavari Agrawal helped convert a school storage room into a library of 2,000 books.",
-   "why": "A local project that widens access to books.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/changemakers/asavari-agrawal-shape-the-future-bengaluru-government-school-children-library-teen-12807047",
-   "score": 6,
-   "category": "Society",
-   "region": "Bengaluru, India",
-   "published": "2026-11-13T14:03:38Z",
-   "continent": "Asia",
-   "added": "2026-11-17T05:14:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Una adolescent ajuda a convertir el magatzem d'una escola de Bengaluru en una biblioteca de 2.000 llibres",
-     "summary": "Asavari Agrawal, de 17 anys, ha ajudat a transformar una sala d'emmagatzematge d'una escola en una biblioteca de 2.000 llibres.",
-     "why": "Un projecte local que amplia l'accés als llibres."
-    },
-    "fr": {
-     "title": "Une adolescente transforme le local de rangement d'une école de Bengaluru en bibliothèque de 2 000 livres",
-     "summary": "Asavari Agrawal, 17 ans, a contribué à transformer une salle de stockage d'une école en une bibliothèque de 2 000 livres.",
-     "why": "Un projet local qui élargit l'accès aux livres."
-    },
-    "ru": {
-     "title": "17-летняя помогла превратить кладовку школы в Бенгалуру в библиотеку на 2000 книг",
-     "summary": "17-летняя Асавари Агравал помогла переоборудовать складское помещение школы в библиотеку на 2000 книг.",
-     "why": "Местный проект, который расширяет доступ к книгам."
-    }
-   }
-  },
-  {
-   "id": "gnn-infant-seizure-free-experimental-drug",
-   "title": "Infant in Dubai becomes seizure-free after experimental drug",
-   "summary": "A baby in Dubai who had a seizure about every 13 minutes since birth stopped having seizures after receiving an experimental drug. Follow-up so far covers only weeks.",
-   "why": "Dramatic result for one child, but the treatment is experimental and the follow-up is short.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/infant-goes-from-110-seizures-a-day-to-seizure-free-after-rare-treatment/",
-   "score": 6,
-   "category": "Health",
-   "region": "Dubai, UAE",
-   "published": "2026-11-13T14:00:22Z",
-   "continent": "Asia",
-   "added": "2026-11-14T05:13:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Un nadó de Dubai deixa de tenir convulsions després d'un fàrmac experimental",
-     "summary": "Un nadó de Dubai que tenia una convulsió cada 13 minuts des del naixement va deixar de tenir-ne després de rebre un fàrmac experimental. El seguiment fins ara només abasta setmanes.",
-     "why": "Resultat espectacular per a un sol infant, però el tractament és experimental i el seguiment és curt."
-    },
-    "fr": {
-     "title": "Un nourrisson de Dubaï ne fait plus de crises après un médicament expérimental",
-     "summary": "Un bébé de Dubaï, qui avait une crise environ toutes les 13 minutes depuis sa naissance, n'en a plus eu après avoir reçu un médicament expérimental. Le suivi ne couvre pour l'instant que quelques semaines.",
-     "why": "Résultat spectaculaire pour un seul enfant, mais le traitement est expérimental et le suivi est court."
-    },
-    "ru": {
-     "title": "Младенец из Дубая перестал страдать от приступов после экспериментального препарата",
-     "summary": "У ребёнка из Дубая с рождения приступы случались примерно каждые 13 минут. После приёма экспериментального препарата они прекратились. Наблюдение пока длится только несколько недель.",
-     "why": "Впечатляющий результат для одного ребёнка, но лечение экспериментальное, а срок наблюдения короткий."
     }
    }
   }
