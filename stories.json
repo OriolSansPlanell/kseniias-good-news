@@ -1,20 +1,299 @@
 {
- "updated": "2026-11-24T05:14:12Z",
+ "updated": "2026-11-25T05:13:14Z",
  "sources": [
   "Positive News",
   "Good News Network",
-  "Reasons to be Cheerful",
   "ScienceDaily",
   "Mongabay",
   "The Better India",
   "Anthropocene Magazine",
   "Grist",
-  "Africanews"
+  "Africanews",
+  "Reasons to be Cheerful"
  ],
- "count": 127,
- "last_run": "run-20261124T0514Z.json",
- "note": "15 new, 45 skipped, 8 pruned, 0 translations added, failed feeds: The Optimist Daily",
+ "count": 133,
+ "last_run": "run-20261125T0513Z.json",
+ "note": "15 new, 45 skipped, 9 pruned, 0 translations added, failed feeds: The Optimist Daily",
  "stories": [
+  {
+   "id": "tbi-ladakh-village-night-water-guard",
+   "title": "Ladakh village shares irrigation water through household rotas",
+   "summary": "Families in Phey village in Ladakh take turns guarding water at night so that every farmer receives a fair share for irrigation.",
+   "why": "Local cooperation that secures water for a whole village.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/governance/phey-ladakh-water-lord-household-rota-cattle-jail-12838106",
+   "score": 7,
+   "category": "Society",
+   "region": "Ladakh, India",
+   "published": "2026-11-25T04:39:10Z",
+   "continent": "Asia",
+   "added": "2026-11-25T05:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Un poble de Ladakh reparteix l'aigua de reg mitjançant torns entre les famílies",
+     "summary": "Les famílies del poble de Phey, a Ladakh, fan torns per vigilar l'aigua de nit, de manera que cada agricultor rep una part justa per al reg.",
+     "why": "Cooperació local que garanteix l'aigua per a tot un poble."
+    },
+    "fr": {
+     "title": "Dans un village du Ladakh, l'eau d'irrigation est partagée grâce à des tours de garde entre familles",
+     "summary": "Les familles du village de Phey, au Ladakh, se relaient pour surveiller l'eau la nuit afin que chaque agriculteur reçoive une part équitable pour l'irrigation.",
+     "why": "Une coopération locale qui assure l'eau de tout un village."
+    },
+    "ru": {
+     "title": "Деревня в Ладакхе делит оросительную воду по домашним графикам",
+     "summary": "Семьи деревни Фей в Ладакхе по очереди ночью охраняют воду, чтобы каждый фермер получал справедливую долю для орошения.",
+     "why": "Местное сотрудничество, которое обеспечивает водой целую деревню."
+    }
+   }
+  },
+  {
+   "id": "gnn-wolbachia-mosquitoes-brazil",
+   "title": "Trial in Brazil links Wolbachia mosquito releases to 68% fewer viral infections",
+   "summary": "A four-year trial releasing mosquitoes carrying Wolbachia bacteria in Brazil was linked to a 68% lower risk of mosquito-borne viral infections.",
+   "why": "Large real-world result that could protect many people from dengue-type diseases.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/major-success-sees-viral-infections-fall-68-in-brazil-after-releasing-wolbachia-infected-mosquitoes/",
+   "score": 8,
+   "category": "Health",
+   "region": "Brazil",
+   "published": "2026-11-24T20:29:57Z",
+   "continent": "South America",
+   "added": "2026-11-25T05:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Un assaig al Brasil relaciona l'alliberament de mosquits amb Wolbachia amb un 68% menys d'infeccions víriques",
+     "summary": "Un assaig de quatre anys en què es van alliberar mosquits portadors del bacteri Wolbachia al Brasil es va relacionar amb un risc un 68% més baix d'infeccions víriques transmeses per mosquits.",
+     "why": "Resultat important en condicions reals que podria protegir moltes persones de malalties tipus dengue."
+    },
+    "fr": {
+     "title": "Un essai au Brésil associe la diffusion de moustiques porteurs de Wolbachia à 68 % d'infections virales en moins",
+     "summary": "Un essai de quatre ans consistant à relâcher au Brésil des moustiques porteurs de la bactérie Wolbachia a été associé à un risque inférieur de 68 % d'infections virales transmises par les moustiques.",
+     "why": "Résultat important en conditions réelles, qui pourrait protéger de nombreuses personnes contre des maladies de type dengue."
+    },
+    "ru": {
+     "title": "Испытание в Бразилии связало выпуск комаров с Wolbachia со снижением вирусных инфекций на 68%",
+     "summary": "Четырехлетнее испытание, в ходе которого в Бразилии выпускали комаров с бактериями Wolbachia, было связано со снижением риска вирусных инфекций, передаваемых комарами, на 68%.",
+     "why": "Крупный результат в реальных условиях, который может защитить многих людей от заболеваний типа денге."
+    }
+   }
+  },
+  {
+   "id": "tbi-uttarakhand-women-forest-revival",
+   "title": "Women in an Uttarakhand village revive 28 acres of barren land as forest",
+   "summary": "Women in Manar village, led by Bhagirathi Devi, restored a degraded patch of land into forest and report no forest fires in over 20 years.",
+   "why": "Community-led restoration with lasting results.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/conservation/nature/uttarakhand-women-community-forest-restoration-fire-prevention-12838354",
+   "score": 7,
+   "category": "Environment",
+   "region": "Uttarakhand, India",
+   "published": "2026-11-24T14:50:37Z",
+   "continent": "Asia",
+   "added": "2026-11-25T05:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Dones d'un poble d'Uttarakhand converteixen en bosc 28 acres de terra erma",
+     "summary": "Les dones del poble de Manar, liderades per Bhagirathi Devi, han restaurat una zona degradada i l'han convertit en bosc, i asseguren que no hi ha hagut incendis forestals en més de 20 anys.",
+     "why": "Restauració liderada per la comunitat amb resultats duradors."
+    },
+    "fr": {
+     "title": "Des femmes d'un village de l'Uttarakhand transforment 28 acres de terres arides en forêt",
+     "summary": "Les femmes du village de Manar, menées par Bhagirathi Devi, ont transformé une parcelle dégradée en forêt et signalent l'absence d'incendies de forêt depuis plus de 20 ans.",
+     "why": "Restauration menée par la communauté, aux résultats durables."
+    },
+    "ru": {
+     "title": "Женщины одной из деревень штата Уттаракханд превратили 28 акров бесплодной земли в лес",
+     "summary": "Женщины деревни Манар под руководством Бхагиратхи Деви восстановили деградировавший участок земли в лес и сообщают, что лесных пожаров там не было более 20 лет.",
+     "why": "Восстановление природы под руководством общины с устойчивыми результатами."
+    }
+   }
+  },
+  {
+   "id": "tbi-surat-student-groundwater-tool",
+   "title": "Surat student builds machine-learning tool to track India's groundwater",
+   "summary": "Student Dheyay Shah built JALAAKAR, a machine-learning tool that uses data to better understand India's vanishing groundwater.",
+   "why": "Promising youth innovation, not yet proven at scale.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/innovation/surat-student-ai-groundwater-prediction-dheyay-shah-winner-vivo-ignite-2026-winner-12826809",
+   "score": 6,
+   "category": "Science",
+   "region": "Surat, India",
+   "published": "2026-11-24T12:55:47Z",
+   "continent": "Asia",
+   "added": "2026-11-25T05:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Un estudiant de Surat crea una eina d'aprenentatge automàtic per fer el seguiment de les aigües subterrànies de l'Índia",
+     "summary": "L'estudiant Dheyay Shah ha creat JALAAKAR, una eina d'aprenentatge automàtic que utilitza dades per entendre millor les aigües subterrànies de l'Índia, que s'estan esgotant.",
+     "why": "Innovació juvenil prometedora, encara no provada a gran escala."
+    },
+    "fr": {
+     "title": "Un étudiant de Surat conçoit un outil d'apprentissage automatique pour suivre les nappes phréatiques indiennes",
+     "summary": "L'étudiant Dheyay Shah a conçu JALAAKAR, un outil d'apprentissage automatique qui exploite des données pour mieux comprendre la raréfaction des nappes phréatiques indiennes.",
+     "why": "Innovation prometteuse portée par un jeune, mais pas encore éprouvée à grande échelle."
+    },
+    "ru": {
+     "title": "Студент из Сурата создал инструмент машинного обучения для отслеживания грунтовых вод Индии",
+     "summary": "Студент Дхейе Шах создал JALAAKAR, инструмент машинного обучения, который использует данные для лучшего понимания исчезающих грунтовых вод Индии.",
+     "why": "Перспективная инновация молодого исследователя, которая пока не доказала свою эффективность в масштабе."
+    }
+   }
+  },
+  {
+   "id": "gnn-micronesia-coconut-tuition",
+   "title": "Micronesian school accepts coconuts in place of tuition fees",
+   "summary": "Faith Christian Academy in the Federated States of Micronesia lets families pay school costs with coconuts, so every islander can afford an education.",
+   "why": "Helps one community keep children in school, though the scale is local.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/charity-swaps-tuition-fees-for-coconuts-so-every-islander-can-afford-school/",
+   "score": 6,
+   "category": "Society",
+   "region": "Micronesia",
+   "published": "2026-11-24T12:30:30Z",
+   "continent": "Oceania",
+   "added": "2026-11-25T05:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Una escola de Micronèsia accepta cocos en lloc de la matrícula",
+     "summary": "La Faith Christian Academy, als Estats Federats de Micronèsia, permet que les famílies paguin les despeses escolars amb cocos, perquè tots els habitants de les illes puguin permetre's una educació.",
+     "why": "Ajuda una comunitat a mantenir els infants a l'escola, encara que l'abast sigui local."
+    },
+    "fr": {
+     "title": "Une école de Micronésie accepte les noix de coco en paiement des frais de scolarité",
+     "summary": "La Faith Christian Academy, dans les États fédérés de Micronésie, permet aux familles de régler les frais scolaires en noix de coco, afin que chaque habitant des îles puisse se permettre une éducation.",
+     "why": "Aide une communauté à garder les enfants à l'école, même si la portée reste locale."
+    },
+    "ru": {
+     "title": "Школа в Микронезии принимает кокосы вместо платы за обучение",
+     "summary": "Школа Faith Christian Academy в Федеративных Штатах Микронезии позволяет семьям оплачивать школьные расходы кокосами, чтобы каждый житель островов мог позволить себе образование.",
+     "why": "Помогает одной общине удерживать детей в школе, хотя масштаб местный."
+    }
+   }
+  },
+  {
+   "id": "tbi-bhavani-jamakkalam-weavers-wages",
+   "title": "Young entrepreneur pays Tamil Nadu weavers up to 35% more to sustain craft",
+   "summary": "A 26-year-old entrepreneur pays Bhavani Jamakkalam weavers up to 35% more to keep the 300-year-old Tamil Nadu craft alive.",
+   "why": "Better pay supports a heritage craft and its artisans.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/culture/bhavani-jamakkalam-tamil-nadu-weaving-varsha-sivakumar-12838063",
+   "score": 6,
+   "category": "Culture",
+   "region": "Tamil Nadu, India",
+   "published": "2026-11-24T12:08:23Z",
+   "continent": "Asia",
+   "added": "2026-11-25T05:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Una jove emprenedora paga als teixidors de Bhavani Jamakkalam fins a un 35% més per mantenir l'ofici",
+     "summary": "Una emprenedora de 26 anys paga als teixidors de Bhavani Jamakkalam fins a un 35% més per mantenir viu aquest ofici artesà de Tamil Nadu, que té 300 anys.",
+     "why": "Millors salaris donen suport a un ofici patrimonial i als seus artesans."
+    },
+    "fr": {
+     "title": "Une jeune entrepreneuse paie jusqu'à 35 % de plus les tisserands de Bhavani Jamakkalam pour préserver leur art",
+     "summary": "Une entrepreneuse de 26 ans verse jusqu'à 35 % de plus aux tisserands de Bhavani Jamakkalam pour faire vivre cet artisanat tamoul vieux de 300 ans.",
+     "why": "De meilleurs salaires soutiennent un artisanat patrimonial et ceux qui le pratiquent."
+    },
+    "ru": {
+     "title": "Молодая предпринимательница платит ткачам из Бхавани Джамаккалам на 35% больше, чтобы сохранить ремесло",
+     "summary": "26-летняя предпринимательница платит ткачам из Бхавани Джамаккалам до 35% больше, чтобы сохранить 300-летнее ремесло штата Тамил Наду.",
+     "why": "Более высокая оплата поддерживает традиционное ремесло и его мастеров."
+    }
+   }
+  },
+  {
+   "id": "mb-kiwi-return-wellington",
+   "title": "Wild kiwi live in the Wellington hills again after 150 years",
+   "summary": "Māori-led conservation work has brought wild kiwi back to the hills around Wellington for the first time in about 150 years.",
+   "why": "A clear species recovery led by the local community.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/kiwi-return-to-wellington-hills-after-150-years-in-maori-led-conservation-milestone/",
+   "score": 8,
+   "category": "Animals",
+   "region": "Wellington, New Zealand",
+   "published": "2026-11-24T11:19:50Z",
+   "continent": "Oceania",
+   "added": "2026-11-25T05:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Els kiwis salvatges tornen a viure als turons de Wellington després de 150 anys",
+     "summary": "Un projecte de conservació liderat per maoris ha fet tornar els kiwis salvatges als turons de Wellington per primera vegada en uns 150 anys.",
+     "why": "Una recuperació clara d'una espècie, liderada per la comunitat local."
+    },
+    "fr": {
+     "title": "Des kiwis sauvages vivent à nouveau dans les collines de Wellington après 150 ans",
+     "summary": "Des travaux de conservation menés par des Māoris ont permis le retour de kiwis sauvages dans les collines autour de Wellington, pour la première fois depuis environ 150 ans.",
+     "why": "Un net rétablissement d'une espèce, mené par la communauté locale."
+    },
+    "ru": {
+     "title": "Дикие киви снова живут на холмах Веллингтона спустя 150 лет",
+     "summary": "Природоохранная работа под руководством маори вернула диких киви на холмы вокруг Веллингтона впервые примерно за 150 лет.",
+     "why": "Явное восстановление вида под руководством местного сообщества."
+    }
+   }
+  },
+  {
+   "id": "tbi-india-tb-deaths-fall-38-percent",
+   "title": "India records a 38% drop in tuberculosis deaths",
+   "summary": "Citing the WHO Global Tuberculosis Report 2026, India has seen tuberculosis deaths fall 38%, which the article attributes to public health efforts.",
+   "why": "Large national health gain affecting many lives.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/health-care/india-tb-deaths-decline-screening-treatment-support-12836495",
+   "score": 8,
+   "category": "Health",
+   "region": "India",
+   "published": "2026-11-24T07:30:37Z",
+   "continent": "Asia",
+   "added": "2026-11-25T05:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "L'Índia registra un descens del 38% en les morts per tuberculosi",
+     "summary": "Segons l'Informe mundial sobre la tuberculosi 2026 de l'OMS, a l'Índia les morts per tuberculosi han baixat un 38%, cosa que l'article atribueix als esforços de salut pública.",
+     "why": "Gran millora sanitària a escala nacional que afecta moltes vides."
+    },
+    "fr": {
+     "title": "L'Inde enregistre une baisse de 38 % des décès dus à la tuberculose",
+     "summary": "Selon le Rapport mondial de l'OMS sur la tuberculose 2026, les décès liés à la tuberculose ont baissé de 38 % en Inde, une évolution que l'article attribue aux efforts de santé publique.",
+     "why": "Un progrès sanitaire national important, qui touche de nombreuses vies."
+    },
+    "ru": {
+     "title": "В Индии число смертей от туберкулеза сократилось на 38%",
+     "summary": "Со ссылкой на Глобальный доклад ВОЗ о туберкулезе за 2026 год статья сообщает, что число смертей от туберкулеза в Индии сократилось на 38%, и связывает это с усилиями в области общественного здравоохранения.",
+     "why": "Крупное национальное достижение в здравоохранении, затрагивающее многие жизни."
+    }
+   }
+  },
+  {
+   "id": "mb-bush-dogs-camera-trap-study",
+   "title": "25-year camera-trap study records rare bush dogs across seven countries",
+   "summary": "A 25-year camera-trap study across seven South American countries found bush dogs are far rarer than jaguars, giving new data on the elusive species.",
+   "why": "Useful monitoring data, but it confirms the species is scarce.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/bush-dogs-are-very-rare-youre-100x-more-likely-to-see-a-jaguar/",
+   "score": 5,
+   "category": "Animals",
+   "region": "South America",
+   "published": "2026-11-24T06:08:50Z",
+   "continent": "South America",
+   "added": "2026-11-25T05:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Un estudi de 25 anys amb càmeres trampa registra gossos vinagre, molt rars, a set països",
+     "summary": "Un estudi de 25 anys amb càmeres trampa a set països sud-americans ha constatat que els gossos vinagre són molt més rars que els jaguars, i aporta noves dades sobre aquesta espècie esquiva.",
+     "why": "Dades de seguiment útils, però confirma que l'espècie és escassa."
+    },
+    "fr": {
+     "title": "Un suivi de 25 ans par pièges photographiques recense des chiens des buissons, rares, dans sept pays",
+     "summary": "Un suivi de 25 ans par pièges photographiques réalisé dans sept pays d'Amérique du Sud révèle que les chiens des buissons sont bien plus rares que les jaguars, apportant de nouvelles données sur cette espèce insaisissable.",
+     "why": "Données de suivi utiles, mais qui confirment que l'espèce est rare."
+    },
+    "ru": {
+     "title": "25-летнее исследование с фотоловушками зафиксировало редких лесных собак в семи странах",
+     "summary": "В ходе 25-летнего исследования с фотоловушками в семи странах Южной Америки выяснилось, что лесные собаки встречаются гораздо реже ягуаров, и это дает новые данные о труднодоступном виде.",
+     "why": "Полезные данные мониторинга, но они подтверждают, что вид редок."
+    }
+   }
+  },
   {
    "id": "tbi-mumbai-network-turns-used-clothes-into-income-for-",
    "title": "Mumbai network turns used clothes into income for workers",
@@ -43,6 +322,68 @@
      "title": "Сеть из Мумбаи превращает старую одежду в доход для работников",
      "summary": "Textile Waste Innovation Network собирает старую одежду в Мумбаи и направляет её на повторное использование и переработку, создавая доходы и не допуская попадания текстиля на свалки.",
      "why": "Модель переработки на уровне сообщества, которая также поддерживает средства к существованию."
+    }
+   }
+  },
+  {
+   "id": "mb-amazon-drought-floating-clinics",
+   "title": "Longer droughts threaten floating health clinics on Amazon rivers",
+   "summary": "Extended drought is turning Amazon river channels to mud, cutting off floating clinics that bring health care to remote communities.",
+   "why": "Climate-driven drought is limiting health access for river communities.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/longer-droughts-dry-amazon-waterways-and-threaten-floating-health-clinics/",
+   "score": 3,
+   "category": "Health",
+   "region": "Amazon, Brazil",
+   "published": "2026-11-23T19:00:50Z",
+   "continent": "South America",
+   "added": "2026-11-25T05:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Les sequeres més llargues amenacen les clíniques flotants als rius de l'Amazònia",
+     "summary": "La sequera prolongada està convertint els canals dels rius amazònics en fang i deixa aïllades les clíniques flotants que porten atenció sanitària a comunitats remotes.",
+     "why": "La sequera provocada pel clima limita l'accés a la sanitat de les comunitats fluvials."
+    },
+    "fr": {
+     "title": "Des sécheresses plus longues menacent les cliniques flottantes sur les fleuves amazoniens",
+     "summary": "La sécheresse prolongée transforme les chenaux des fleuves amazoniens en boue et isole les cliniques flottantes qui apportent des soins de santé à des communautés isolées.",
+     "why": "La sécheresse liée au climat limite l'accès aux soins pour les communautés riveraines."
+    },
+    "ru": {
+     "title": "Более длительные засухи угрожают плавучим медицинским пунктам на реках Амазонки",
+     "summary": "Затяжная засуха превращает русла амазонских рек в грязь и отрезает плавучие клиники, которые несут медицинскую помощь отдаленным общинам.",
+     "why": "Засуха, вызванная климатом, ограничивает доступ к медицинской помощи для речных общин."
+    }
+   }
+  },
+  {
+   "id": "mb-china-mangroves-rebound",
+   "title": "China's mangrove cover more than doubled between 1998 and 2020",
+   "summary": "Researchers report that China's mangroves more than doubled in area from 1998 to 2020, and birds have returned to the restored habitat.",
+   "why": "Measured habitat recovery benefiting wildlife and coasts.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/chinas-mangroves-have-bounced-back-birds-have-returned-too/",
+   "score": 7,
+   "category": "Environment",
+   "region": "China",
+   "published": "2026-11-23T18:57:25Z",
+   "continent": "Asia",
+   "added": "2026-11-25T05:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "La superfície de manglars de la Xina més que es va duplicar entre el 1998 i el 2020",
+     "summary": "Investigadors informen que els manglars de la Xina van més que duplicar la seva superfície entre el 1998 i el 2020, i els ocells han tornat a l'hàbitat restaurat.",
+     "why": "Recuperació d'un hàbitat mesurada que beneficia la fauna i les costes."
+    },
+    "fr": {
+     "title": "La superficie de mangroves de Chine a plus que doublé entre 1998 et 2020",
+     "summary": "Des chercheurs indiquent que les mangroves de Chine ont plus que doublé de superficie entre 1998 et 2020, et que les oiseaux sont revenus dans l'habitat restauré.",
+     "why": "Une restauration d'habitat mesurée, bénéfique pour la faune et le littoral."
+    },
+    "ru": {
+     "title": "Площадь мангровых лесов Китая более чем удвоилась в период с 1998 по 2020 год",
+     "summary": "Исследователи сообщают, что площадь мангровых лесов Китая с 1998 по 2020 год более чем удвоилась, а птицы вернулись в восстановленную среду обитания.",
+     "why": "Измеренное восстановление среды обитания, которое приносит пользу дикой природе и побережьям."
     }
    }
   },
@@ -109,6 +450,68 @@
    }
   },
   {
+   "id": "mb-south-korea-squid-warming-seas",
+   "title": "Warming seas could collapse South Korea's squid fishery by the 2040s",
+   "summary": "A study from Pukyong National University projects that rising ocean temperatures could cause South Korea's iconic squid fishery to collapse by the 2040s.",
+   "why": "A warning about climate impacts on fisheries and livelihoods.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/warming-seas-threaten-south-koreas-iconic-squid-fishery-with-collapse-by-2040s/",
+   "score": 3,
+   "category": "Environment",
+   "region": "South Korea",
+   "published": "2026-11-23T12:02:44Z",
+   "continent": "Asia",
+   "added": "2026-11-25T05:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "L'escalfament dels mars podria fer col·lapsar la pesca de calamar de Corea del Sud de cara als anys 2040",
+     "summary": "Un estudi de la Universitat Nacional de Pukyong preveu que l'augment de la temperatura de l'oceà podria fer col·lapsar la icònica pesca de calamar de Corea del Sud abans dels anys 2040.",
+     "why": "Advertència sobre els impactes del canvi climàtic en la pesca i en els mitjans de vida."
+    },
+    "fr": {
+     "title": "Le réchauffement des mers pourrait faire s'effondrer la pêche au calmar de Corée du Sud d'ici les années 2040",
+     "summary": "Une étude de l'université nationale de Pukyong prévoit que la hausse des températures océaniques pourrait entraîner l'effondrement, d'ici les années 2040, de la pêche au calmar, emblématique en Corée du Sud.",
+     "why": "Un avertissement sur les effets du changement climatique sur la pêche et les moyens de subsistance."
+    },
+    "ru": {
+     "title": "Потепление морей может к 2040-м годам привести к краху промысла кальмаров в Южной Корее",
+     "summary": "По прогнозу исследования Национального университета Пукён, рост температуры океана может привести к краху знаменитого промысла кальмаров в Южной Корее к 2040-м годам.",
+     "why": "Предупреждение о последствиях изменения климата для рыболовства и средств к существованию."
+    }
+   }
+  },
+  {
+   "id": "mb-zambia-farm-food-waste-loop",
+   "title": "Zambian farm closes its food-waste loop while supplying airline meals",
+   "summary": "Loctaguna Organics, an agroecology farm near Lusaka, supplies produce to airline catering and recycles its food waste back into farming.",
+   "why": "Practical circular-farming model, still a single business.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/from-farm-to-airline-plates-a-zambia-farm-closes-its-food-waste-loop/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Zambia",
+   "published": "2026-11-23T11:50:31Z",
+   "continent": "Africa",
+   "added": "2026-11-25T05:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Una granja de Zàmbia tanca el cicle dels residus alimentaris mentre subministra menjar per a aerolínies",
+     "summary": "Loctaguna Organics, una granja agroecològica als voltants de Lusaka, subministra productes al servei de càtering d'aerolínies i reutilitza els seus residus alimentaris per a l'agricultura.",
+     "why": "Model pràctic d'agricultura circular, encara que es tracta d'una sola empresa."
+    },
+    "fr": {
+     "title": "Une ferme zambienne boucle le cycle de ses déchets alimentaires tout en fournissant des repas aux compagnies aériennes",
+     "summary": "Loctaguna Organics, une ferme agroécologique près de Lusaka, fournit des produits au service de restauration des compagnies aériennes et recycle ses déchets alimentaires dans l'agriculture.",
+     "why": "Modèle pratique d'agriculture circulaire, mais qui reste celui d'une seule entreprise."
+    },
+    "ru": {
+     "title": "Ферма в Замбии замыкает цикл пищевых отходов, одновременно поставляя продукты для бортового питания авиакомпаний",
+     "summary": "Loctaguna Organics, агроэкологическая ферма недалеко от Лусаки, поставляет продукцию для бортового питания авиакомпаний и возвращает свои пищевые отходы в сельскохозяйственное производство.",
+     "why": "Практичная модель циркулярного сельского хозяйства, но пока это один бизнес."
+    }
+   }
+  },
+  {
    "id": "mb-wolves-help-spread-wild-blueberries-us-study-finds",
    "title": "Wolves help spread wild blueberries, US study finds",
    "summary": "Blueberry seeds that passed through wolves sprouted faster and more often than seeds taken straight from the fruit, suggesting wolves aid plant dispersal.",
@@ -167,6 +570,68 @@
      "title": "Исследователи из Кералы спасли 27 000 орхидей с деревьев, обреченных на вырубку",
      "summary": "Исследователи из Кожикоде перенесли 27 324 местные орхидеи с придорожных деревьев, которые должны были срубить, и 71% растений выжили.",
      "why": "Практичное спасение с высоким уровнем выживаемости для местных растений."
+    }
+   }
+  },
+  {
+   "id": "an-cairo-honey-festival",
+   "title": "Cairo honey festival showcases Egypt's beekeeping industry",
+   "summary": "The ninth annual honey festival in Cairo ran from 19 to 22 November and highlighted Egypt's honey bee industry.",
+   "why": "A pleasant cultural and farming event.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/23/cairos-honey-festival-showcases-egyptian-honey-bee-industry/",
+   "score": 5,
+   "category": "Culture",
+   "region": "Egypt",
+   "published": "2026-11-23T10:50:33Z",
+   "continent": "Africa",
+   "added": "2026-11-25T05:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "El festival de la mel del Caire mostra la indústria apícola d'Egipte",
+     "summary": "La novena edició anual del festival de la mel del Caire es va celebrar del 19 al 22 de novembre i va destacar la indústria de l'abella de la mel d'Egipte.",
+     "why": "Un esdeveniment cultural i agrícola agradable."
+    },
+    "fr": {
+     "title": "Le festival du miel du Caire met en valeur l'apiculture égyptienne",
+     "summary": "La neuvième édition annuelle du festival du miel du Caire s'est tenue du 19 au 22 novembre et a mis en lumière la filière apicole égyptienne.",
+     "why": "Un événement culturel et agricole agréable."
+    },
+    "ru": {
+     "title": "Фестиваль меда в Каире демонстрирует пчеловодческую отрасль Египта",
+     "summary": "Девятый ежегодный фестиваль меда в Каире прошел с 19 по 22 ноября и показал отрасль медоносной пчелы в Египте.",
+     "why": "Приятное культурное и сельскохозяйственное мероприятие."
+    }
+   }
+  },
+  {
+   "id": "gr-solar-and-wind-together-ember",
+   "title": "Ember report: pairing wind with solar and batteries is most effective",
+   "summary": "An Ember report finds that combining wind with solar and batteries works better for the grid than relying on either source alone.",
+   "why": "Useful evidence for clean energy planning.",
+   "source": "Grist",
+   "url": "https://grist.org/energy/the-world-doesnt-need-solar-or-wind-it-needs-solar-and-wind/",
+   "score": 7,
+   "category": "Energy",
+   "region": "Global",
+   "published": "2026-11-23T09:45:00Z",
+   "continent": "Global",
+   "added": "2026-11-25T05:13:14Z",
+   "i18n": {
+    "ca": {
+     "title": "Informe d'Ember: combinar eòlica, solar i bateries és el més eficaç",
+     "summary": "Un informe d'Ember conclou que combinar l'energia eòlica amb la solar i les bateries funciona millor per a la xarxa elèctrica que confiar en una sola d'aquestes fonts.",
+     "why": "Evidència útil per a la planificació de l'energia neta."
+    },
+    "fr": {
+     "title": "Rapport Ember : associer éolien, solaire et batteries est la solution la plus efficace",
+     "summary": "Un rapport d'Ember constate que combiner l'éolien avec le solaire et les batteries est plus performant pour le réseau que de dépendre d'une seule de ces sources.",
+     "why": "Données utiles pour la planification des énergies propres."
+    },
+    "ru": {
+     "title": "Отчет Ember: наиболее эффективно сочетать ветер с солнечной энергией и накопителями",
+     "summary": "В отчете Ember говорится, что сочетание ветровой энергии с солнечной и накопителями работает для энергосети лучше, чем опора на какой-либо один из этих источников.",
+     "why": "Полезные данные для планирования чистой энергетики."
     }
    }
   },
@@ -3670,285 +4135,6 @@
      "title": "Сан-Франциско получил пожертвование в размере 100 миллионов долларов на городские парки",
      "summary": "Соучредитель Airbnb Брайан Четски объявил о пожертвовании в 100 миллионов долларов в пользу городских парков — это крупнейшее пожертвование одного донора, которое когда-либо получал Сан-Франциско.",
      "why": "Крупное благотворительное пожертвование улучшит общественные зелёные зоны."
-    }
-   }
-  },
-  {
-   "id": "sd-osteoporosis-drug-blocked-spinal-damage",
-   "title": "Osteoporosis drug prevented spinal degeneration in a study",
-   "summary": "Researchers linked a genetic factor to spinal degeneration and showed that an existing osteoporosis drug prevented the damage in the experiments.",
-   "why": "Early research, but it points to repurposing an approved drug.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
-   "score": 6,
-   "category": "Health",
-   "region": "Global",
-   "published": "2026-11-15T14:03:39Z",
-   "continent": "Global",
-   "added": "2026-11-18T05:14:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Un fàrmac contra l'osteoporosi evita la degeneració de la columna en un estudi",
-     "summary": "Els investigadors han relacionat un factor genètic amb la degeneració de la columna i han demostrat que un fàrmac contra l'osteoporosi ja existent va evitar el dany en els experiments.",
-     "why": "Recerca inicial, però que apunta a reutilitzar un fàrmac ja aprovat."
-    },
-    "fr": {
-     "title": "Un médicament contre l'ostéoporose empêche la dégénérescence de la colonne vertébrale dans une étude",
-     "summary": "Des chercheurs ont établi un lien entre un facteur génétique et la dégénérescence de la colonne vertébrale, et ont montré qu'un médicament existant contre l'ostéoporose a empêché ces lésions lors des expériences.",
-     "why": "Recherche préliminaire, mais qui suggère de réutiliser un médicament déjà approuvé."
-    },
-    "ru": {
-     "title": "Препарат от остеопороза предотвратил дегенерацию позвоночника в исследовании",
-     "summary": "Исследователи связали генетический фактор с дегенерацией позвоночника и показали, что уже существующий препарат от остеопороза предотвращал повреждения в экспериментах.",
-     "why": "Ранние исследования, которые указывают на возможность применить уже одобренный препарат в новой роли."
-    }
-   }
-  },
-  {
-   "id": "tbi-pune-tree-mapping-volunteers",
-   "title": "Pune residents map riverside trees to protect urban greenery",
-   "summary": "Volunteers use phone apps and measuring tapes to document trees along Pune's rivers, building evidence to support conservation.",
-   "why": "Citizen-led data can strengthen the case for protecting city trees.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/conservation/nature/pune-tree-mapping-citizen-scientists-urban-tree-conservation-12807121",
-   "score": 6,
-   "category": "Environment",
-   "region": "Pune, India",
-   "published": "2026-11-15T08:03:06Z",
-   "continent": "Asia",
-   "added": "2026-11-16T05:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Veïns de Pune cartografien els arbres de les ribes per protegir el verd urbà",
-     "summary": "Voluntaris fan servir aplicacions al mòbil i cintes mètriques per documentar els arbres al llarg dels rius de Pune i reunir proves que donin suport a la conservació.",
-     "why": "Les dades recollides per la ciutadania poden reforçar l'argument a favor de protegir els arbres de la ciutat."
-    },
-    "fr": {
-     "title": "Des habitants de Pune recensent les arbres des berges pour protéger la végétation urbaine",
-     "summary": "Des bénévoles utilisent des applications mobiles et des mètres ruban pour documenter les arbres le long des rivières de Pune, afin de constituer des preuves à l'appui de la conservation.",
-     "why": "Des données collectées par des citoyens peuvent renforcer l'argument en faveur de la protection des arbres urbains."
-    },
-    "ru": {
-     "title": "Жители Пуны составляют карту деревьев на берегах рек, чтобы защитить городскую зелень",
-     "summary": "Волонтёры используют приложения для телефона и рулетки, чтобы документировать деревья вдоль рек Пуны и собирать доказательства в поддержку охраны природы.",
-     "why": "Данные, собранные силами местных жителей, могут укрепить аргументы в пользу защиты городских деревьев."
-    }
-   }
-  },
-  {
-   "id": "sd-erect-crested-penguin-survey",
-   "title": "Drone survey finds puzzling trend in endangered Erect-crested penguins",
-   "summary": "A drone count in New Zealand found that one population of the endangered penguins is behaving in a surprising way, giving scientists new data.",
-   "why": "Better monitoring helps conservation, though the finding is not clearly positive.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm",
-   "score": 5,
-   "category": "Animals",
-   "region": "New Zealand",
-   "published": "2026-11-15T03:42:52Z",
-   "continent": "Oceania",
-   "added": "2026-11-16T05:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Un estudi amb drons revela una tendència sorprenent en els pingüins de cresta erecta, en perill",
-     "summary": "Un recompte amb drons a Nova Zelanda ha constatat que una població d'aquests pingüins, catalogats com a en perill, es comporta de manera sorprenent, cosa que aporta noves dades als científics.",
-     "why": "Un seguiment més precís ajuda la conservació, tot i que la troballa no és clarament positiva."
-    },
-    "fr": {
-     "title": "Un relevé par drone met en évidence une tendance déroutante chez le gorfou de Sclater, espèce menacée",
-     "summary": "Un comptage par drone en Nouvelle-Zélande a montré qu'une population de ces gorfous, une espèce en danger, se comporte de façon surprenante, fournissant de nouvelles données aux scientifiques.",
-     "why": "Un meilleur suivi aide la conservation, même si la découverte n'est pas clairement positive."
-    },
-    "ru": {
-     "title": "Съёмка с дронов выявила загадочную тенденцию у исчезающих пингвинов Склейтера",
-     "summary": "Подсчёт с помощью дронов в Новой Зеландии показал, что одна популяция этих находящихся под угрозой пингвинов ведёт себя неожиданно, что дало учёным новые данные.",
-     "why": "Более точный мониторинг помогает охране природы, хотя результат нельзя однозначно назвать положительным."
-    }
-   }
-  },
-  {
-   "id": "tbi-shelkewadi-zero-electricity-bill",
-   "title": "Maharashtra village cuts electricity bills using biogas and solar",
-   "summary": "Shelkewadi in Kolhapur district relies on biogas, solar power and related systems to avoid electricity costs.",
-   "why": "A community-scale clean energy example others could copy.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/videos/reality-of-maharashtras-pink-village-zero-electricity-bill-shocking-12810594",
-   "score": 7,
-   "category": "Energy",
-   "region": "Maharashtra, India",
-   "published": "2026-11-15T03:30:04Z",
-   "continent": "Asia",
-   "added": "2026-11-16T05:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Un poble de Maharashtra redueix les factures d'electricitat amb biogàs i energia solar",
-     "summary": "Shelkewadi, al districte de Kolhapur, depèn del biogàs, de l'energia solar i de sistemes relacionats per evitar els costos d'electricitat.",
-     "why": "Un exemple d'energia neta a escala comunitària que altres podrien copiar."
-    },
-    "fr": {
-     "title": "Un village du Maharashtra réduit ses factures d'électricité grâce au biogaz et au solaire",
-     "summary": "Shelkewadi, dans le district de Kolhapur, s'appuie sur le biogaz, l'énergie solaire et des systèmes associés pour éviter les dépenses d'électricité.",
-     "why": "Un exemple d'énergie propre à l'échelle communautaire que d'autres pourraient reproduire."
-    },
-    "ru": {
-     "title": "Деревня в Махараштре сокращает счета за электроэнергию благодаря биогазу и солнечной энергии",
-     "summary": "Шелкевади в округе Колхапур использует биогаз, солнечную энергию и связанные с ними системы, чтобы избежать расходов на электроэнергию.",
-     "why": "Пример чистой энергетики в масштабах общины, который могут перенять другие."
-    }
-   }
-  },
-  {
-   "id": "mb-tusk-award-raabia-hawa",
-   "title": "Kenyan conservationist Raabia Hawa wins 2026 Tusk Award",
-   "summary": "Raabia Hawa, founder of the Ulinzi Africa Foundation, is honoured for defending Kenya's ecosystems despite being targeted by al-Shabaab.",
-   "why": "Recognition for a conservation leader, which can support her work.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/11/targeted-by-al-shabaab-for-defending-kenyas-ecosystems-foundation-founder-gets-award/",
-   "score": 7,
-   "category": "Environment",
-   "region": "Kenya",
-   "published": "2026-11-15T02:07:52Z",
-   "continent": "Africa",
-   "added": "2026-11-16T05:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "La conservacionista keniana Raabia Hawa guanya el premi Tusk 2026",
-     "summary": "Raabia Hawa, fundadora de la Ulinzi Africa Foundation, és reconeguda per defensar els ecosistemes de Kenya malgrat ser objectiu d'al-Shabaab.",
-     "why": "Un reconeixement a una líder de la conservació, que pot donar suport a la seva feina."
-    },
-    "fr": {
-     "title": "La conservationniste kényane Raabia Hawa remporte le prix Tusk 2026",
-     "summary": "Raabia Hawa, fondatrice de l'Ulinzi Africa Foundation, est distinguée pour sa défense des écosystèmes du Kenya, malgré les menaces dont elle fait l'objet de la part d'al-Shabaab.",
-     "why": "Une reconnaissance pour une responsable de la conservation, susceptible de soutenir son action."
-    },
-    "ru": {
-     "title": "Кенийская природоохранница Рааби Хава получила премию Tusk 2026",
-     "summary": "Рааби Хава, основательница фонда Ulinzi Africa Foundation, удостоена награды за защиту экосистем Кении, несмотря на то что стала мишенью группировки «Аш-Шабаб».",
-     "why": "Признание заслуг лидера в области охраны природы, которое может поддержать её работу."
-    }
-   }
-  },
-  {
-   "id": "sd-euclid-early-quasars",
-   "title": "Euclid telescope finds 31 early quasars, two of them record-setting",
-   "summary": "ESA's Euclid space telescope identified 31 quasars from the early universe, including two that set new records.",
-   "why": "A scientific advance with no direct everyday benefit.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
-   "score": 6,
-   "category": "Science",
-   "region": "Space",
-   "published": "2026-11-15T01:52:47Z",
-   "continent": "Global",
-   "added": "2026-11-16T05:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "El telescopi Euclid troba 31 quàsars primitius, dos d'ells amb rècords",
-     "summary": "El telescopi espacial Euclid de l'ESA ha identificat 31 quàsars de l'univers primitiu, entre els quals n'hi ha dos que han establert nous rècords.",
-     "why": "Un avenç científic sense benefici directe quotidià."
-    },
-    "fr": {
-     "title": "Le télescope Euclid découvre 31 quasars primitifs, dont deux établissent des records",
-     "summary": "Le télescope spatial Euclid de l'ESA a identifié 31 quasars de l'univers primitif, dont deux battent de nouveaux records.",
-     "why": "Une avancée scientifique sans bénéfice direct au quotidien."
-    },
-    "ru": {
-     "title": "Телескоп «Евклид» нашёл 31 квазар ранней Вселенной, два из них установили рекорды",
-     "summary": "Космический телескоп «Евклид» Европейского космического агентства выявил 31 квазар из ранней Вселенной, включая два, которые установили новые рекорды.",
-     "why": "Научный прорыв, не дающий непосредственной пользы в повседневной жизни."
-    }
-   }
-  },
-  {
-   "id": "gnn-two-remote-pacific-atolls-declared-sanctuaries",
-   "title": "Two remote Pacific atolls declared sanctuaries",
-   "summary": "Two of the Pacific coral atolls that scientists consider among the last wild ecosystems untouched by humans have been declared new sanctuaries.",
-   "why": "Protecting nearly pristine reefs is a lasting gain for marine life.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/two-of-last-wild-ecosystems-untouched-by-humans-declared-new-sanctuaries/",
-   "score": 7,
-   "category": "Environment",
-   "region": "Pacific Ocean",
-   "published": "2026-11-14T16:16:07Z",
-   "continent": "Oceania",
-   "added": "2026-11-15T05:14:01Z",
-   "i18n": {
-    "ca": {
-     "title": "Dos atols remots del Pacífic declarats santuaris",
-     "summary": "Dos dels atols de corall del Pacífic que els científics consideren entre els últims ecosistemes salvatges no tocats pels humans han estat declarats nous santuaris.",
-     "why": "Protegir esculls gairebé prístins és un guany durador per a la vida marina."
-    },
-    "fr": {
-     "title": "Deux atolls isolés du Pacifique déclarés sanctuaires",
-     "summary": "Deux des atolls coralliens du Pacifique que les scientifiques considèrent parmi les derniers écosystèmes sauvages non touchés par l'homme ont été déclarés nouveaux sanctuaires.",
-     "why": "La protection de récifs presque vierges est un gain durable pour la vie marine."
-    },
-    "ru": {
-     "title": "Два удалённых атолла в Тихом океане объявлены заповедниками",
-     "summary": "Два коралловых атолла Тихого океана, которые учёные считают одними из последних диких экосистем, не затронутых человеком, объявлены новыми заповедниками.",
-     "why": "Защита почти нетронутых рифов — долгосрочное достижение для морской жизни."
-    }
-   }
-  },
-  {
-   "id": "sd-daily-routine-less-pain",
-   "title": "Consistent daily routine linked to less pain and depression in older adults",
-   "summary": "University of Missouri researchers found that older adults with regular daily schedules reported less pain and fewer depressive symptoms.",
-   "why": "Simple habit with possible benefit, though the study shows a link, not proof.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
-   "score": 6,
-   "category": "Health",
-   "region": "Missouri, USA",
-   "published": "2026-11-14T12:48:01Z",
-   "continent": "North America",
-   "added": "2026-11-16T05:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Una rutina diària constant s'associa amb menys dolor i depressió en persones grans",
-     "summary": "Investigadors de la Universitat de Missouri han constatat que les persones grans amb horaris diaris regulars reporten menys dolor i menys símptomes depressius.",
-     "why": "Un hàbit senzill amb un possible benefici, tot i que l'estudi mostra una associació, no una prova."
-    },
-    "fr": {
-     "title": "Une routine quotidienne régulière est associée à moins de douleurs et de dépression chez les seniors",
-     "summary": "Des chercheurs de l'Université du Missouri ont constaté que les personnes âgées ayant des horaires quotidiens réguliers déclarent moins de douleurs et moins de symptômes dépressifs.",
-     "why": "Une habitude simple qui pourrait être bénéfique, bien que l'étude montre un lien et non une preuve."
-    },
-    "ru": {
-     "title": "Постоянный распорядок дня связан с меньшей болью и депрессией у пожилых людей",
-     "summary": "Исследователи Университета Миссури выяснили, что пожилые люди, придерживающиеся регулярного распорядка дня, сообщают о меньшей боли и меньшем количестве депрессивных симптомов.",
-     "why": "Простая привычка, которая может быть полезна, однако исследование показывает связь, а не доказательство."
-    }
-   }
-  },
-  {
-   "id": "sd-stanford-team-finds-brain-signals-that-may-predict-alzhei",
-   "title": "Stanford team finds brain signals that may predict Alzheimer's early",
-   "summary": "Stanford researchers found brain activity patterns that may flag Alzheimer's risk years before symptoms appear, earlier than current tools.",
-   "why": "Promising for early detection, but still early research.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
-   "score": 6,
-   "category": "Health",
-   "region": "United States",
-   "published": "2026-11-14T12:25:05Z",
-   "continent": "North America",
-   "added": "2026-11-15T05:14:01Z",
-   "i18n": {
-    "ca": {
-     "title": "Un equip de Stanford troba senyals cerebrals que podrien predir l'Alzheimer de forma precoç",
-     "summary": "Investigadors de Stanford han trobat patrons d'activitat cerebral que podrien indicar el risc d'Alzheimer anys abans de l'aparició dels símptomes, més aviat que les eines actuals.",
-     "why": "Prometedor per a la detecció precoç, però encara es tracta de recerca inicial."
-    },
-    "fr": {
-     "title": "Une équipe de Stanford découvre des signaux cérébraux pouvant prédire Alzheimer à un stade précoce",
-     "summary": "Des chercheurs de Stanford ont identifié des schémas d'activité cérébrale susceptibles de signaler un risque d'Alzheimer des années avant l'apparition des symptômes, plus tôt que les outils actuels.",
-     "why": "Prometteur pour la détection précoce, mais la recherche en est encore à ses débuts."
-    },
-    "ru": {
-     "title": "Исследователи из Стэнфорда нашли сигналы мозга, которые могут предсказать болезнь Альцгеймера на ранней стадии",
-     "summary": "Стэнфордские исследователи обнаружили паттерны активности мозга, которые могут указывать на риск болезни Альцгеймера за годы до появления симптомов, раньше, чем существующие инструменты.",
-     "why": "Перспективно для раннего выявления, но исследования пока на начальном этапе."
     }
    }
   }
