@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13:14Z",
+ "updated": "2026-11-26T05:14:43Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -8,13 +8,260 @@
   "The Better India",
   "Anthropocene Magazine",
   "Grist",
-  "Africanews",
-  "Reasons to be Cheerful"
+  "Africanews"
  ],
- "count": 133,
- "last_run": "run-20261125T0513Z.json",
- "note": "15 new, 45 skipped, 9 pruned, 0 translations added, failed feeds: The Optimist Daily",
+ "count": 141,
+ "last_run": "run-20261126T0514Z.json",
+ "note": "15 new, 30 skipped, 7 pruned, 0 translations added, failed feeds: The Optimist Daily",
  "stories": [
+  {
+   "id": "am-seabirds-fitted-with-sensors-to-monitor-the-ocean",
+   "title": "Seabirds Fitted With Sensors to Monitor the Ocean",
+   "summary": "Researchers fitted seabirds with audio recorders and tracking devices to monitor activity across the ocean.",
+   "why": "Animal-borne sensors can improve ocean monitoring with low impact.",
+   "source": "Anthropocene Magazine",
+   "url": "https://www.anthropocenemagazine.org/2026/11/the-oceans-newest-surveillance-network-has-feathers/?utm_source=rss&utm_medium=rss&utm_campaign=the-oceans-newest-surveillance-network-has-feathers",
+   "score": 6,
+   "category": "Animals",
+   "region": "Global",
+   "published": "2026-11-25T19:00:00Z",
+   "continent": "Global",
+   "added": "2026-11-26T05:14:43Z",
+   "i18n": {
+    "ca": {
+     "title": "Ocells marins equipats amb sensors per vigilar l'oceà",
+     "summary": "Investigadors han equipat ocells marins amb enregistradors d'àudio i dispositius de seguiment per controlar l'activitat a tot l'oceà.",
+     "why": "Els sensors instal·lats en animals poden millorar la vigilància oceànica amb un impacte baix."
+    },
+    "fr": {
+     "title": "Des oiseaux de mer équipés de capteurs pour surveiller l'océan",
+     "summary": "Des chercheurs ont équipé des oiseaux de mer d'enregistreurs audio et de dispositifs de suivi pour observer l'activité à travers l'océan.",
+     "why": "Les capteurs fixés aux animaux peuvent améliorer la surveillance des océans avec un faible impact."
+    },
+    "ru": {
+     "title": "Морских птиц оснастили датчиками для мониторинга океана",
+     "summary": "Исследователи оснастили морских птиц аудиорегистраторами и устройствами слежения, чтобы отслеживать активность по всему океану.",
+     "why": "Датчики, установленные на животных, могут улучшить мониторинг океана при слабом воздействии на них."
+    }
+   }
+  },
+  {
+   "id": "an-rabat-festival-showcases-african-and-middle-easter",
+   "title": "Rabat Festival Showcases African and Middle Eastern Musicians",
+   "summary": "The 13th Visa For Music festival in Rabat presented 28 live showcases by African and Middle Eastern musicians.",
+   "why": "A cultural event connecting musicians across regions.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/25/moroccan-festival-celebrates-african-and-middle-eastern-musicians/",
+   "score": 6,
+   "category": "Culture",
+   "region": "Morocco",
+   "published": "2026-11-25T17:10:16Z",
+   "continent": "Africa",
+   "added": "2026-11-26T05:14:43Z",
+   "i18n": {
+    "ca": {
+     "title": "Un festival de Rabat presenta músics africans i d'Orient Mitjà",
+     "summary": "El 13è festival Visa For Music de Rabat va presentar 28 actuacions en directe de músics africans i d'Orient Mitjà.",
+     "why": "Un esdeveniment cultural que connecta músics de diferents regions."
+    },
+    "fr": {
+     "title": "Un festival à Rabat met en lumière des musiciens africains et moyen-orientaux",
+     "summary": "La 13e édition du festival Visa For Music, à Rabat, a proposé 28 showcases en direct de musiciens africains et moyen-orientaux.",
+     "why": "Un événement culturel qui relie des musiciens de différentes régions."
+    },
+    "ru": {
+     "title": "На фестивале в Рабате выступили музыканты из Африки и Ближнего Востока",
+     "summary": "На 13-м фестивале Visa For Music в Рабате прошли 28 концертных показов музыкантов из Африки и Ближнего Востока.",
+     "why": "Культурное событие, объединяющее музыкантов из разных регионов."
+    }
+   }
+  },
+  {
+   "id": "gnn-roman-glass-found-in-xiongnu-noble-s-tomb-in-mongo",
+   "title": "Roman Glass Found in Xiongnu Noble's Tomb in Mongolia",
+   "summary": "Excavation of a Xiongnu elite tomb in Mongolia uncovered objects that originated in Classical Rome, showing Silk Road links.",
+   "why": "An archaeological find that adds to historical knowledge.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/roman-glass-among-the-silk-road-treasures-unearthed-in-nomadic-nobles-tomb/",
+   "score": 5,
+   "category": "Culture",
+   "region": "Mongolia",
+   "published": "2026-11-25T16:30:05Z",
+   "continent": "Asia",
+   "added": "2026-11-26T05:14:43Z",
+   "i18n": {
+    "ca": {
+     "title": "Vidre romà trobat a la tomba d'un noble xiongnu a Mongòlia",
+     "summary": "L'excavació d'una tomba d'elit xiongnu a Mongòlia ha descobert objectes originaris de la Roma clàssica, que mostren vincles amb la Ruta de la Seda.",
+     "why": "Una troballa arqueològica que amplia el coneixement històric."
+    },
+    "fr": {
+     "title": "Du verre romain découvert dans la tombe d'un noble xiongnu en Mongolie",
+     "summary": "La fouille d'une tombe d'élite xiongnu en Mongolie a mis au jour des objets originaires de la Rome classique, témoignant des liens de la route de la Soie.",
+     "why": "Une découverte archéologique qui enrichit les connaissances historiques."
+    },
+    "ru": {
+     "title": "Римское стекло найдено в гробнице знатного хунну в Монголии",
+     "summary": "Раскопки элитной гробницы хунну в Монголии обнаружили предметы античного Рима, что свидетельствует о связях по Великому шёлковому пути.",
+     "why": "Археологическая находка, которая дополняет исторические знания."
+    }
+   }
+  },
+  {
+   "id": "gnn-land-returned-to-native-american-ownership-in-mass",
+   "title": "Land Returned to Native American Ownership in Massachusetts",
+   "summary": "The Nature Conservancy has transferred about 126 acres of salt marsh and habitat in Eastham, Massachusetts, to Native American ownership and care.",
+   "why": "Land return gives Indigenous stewards a coastal habitat, though it is a small parcel.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/land-returned-indigenous-care-first-encounter-beach/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Massachusetts, USA",
+   "published": "2026-11-25T12:59:08Z",
+   "continent": "North America",
+   "added": "2026-11-26T05:14:43Z",
+   "i18n": {
+    "ca": {
+     "title": "Terres retornades a la propietat dels nadius americans a Massachusetts",
+     "summary": "The Nature Conservancy ha transferit unes 126 acres de maresma salabrosa i hàbitat a Eastham (Massachusetts) a la propietat i la cura de nadius americans.",
+     "why": "El retorn de terres dona a les custòdies indígenes un hàbitat costaner, tot i que es tracta d'una parcel·la petita."
+    },
+    "fr": {
+     "title": "Des terres restituées à la propriété amérindienne dans le Massachusetts",
+     "summary": "The Nature Conservancy a transféré environ 126 acres de marais salants et d'habitats à Eastham, dans le Massachusetts, à la propriété et à la gestion d'Amérindiens.",
+     "why": "La restitution de ces terres offre aux gardiens autochtones un habitat côtier, bien qu'il s'agisse d'une petite parcelle."
+    },
+    "ru": {
+     "title": "Земля возвращена в собственность коренных американцев в Массачусетсе",
+     "summary": "Организация The Nature Conservancy передала около 126 акров солончаковых болот и среды обитания в Иствеме (штат Массачусетс) в собственность и под опеку коренных американцев.",
+     "why": "Возвращение земли даёт коренным хранителям прибрежную среду обитания, хотя участок небольшой."
+    }
+   }
+  },
+  {
+   "id": "pn-global-seed-vault-in-the-arctic-safeguards-crop-di",
+   "title": "Global Seed Vault in the Arctic Safeguards Crop Diversity",
+   "summary": "More than a million seed samples are stored in the Global Seed Vault in the Norwegian Arctic to support future food systems.",
+   "why": "A long-term safeguard for food crops, though it is a storage effort rather than a new gain.",
+   "source": "Positive News",
+   "url": "https://www.positive.news/society/tomorrow-takes-time-the-global-seed-vault/",
+   "score": 6,
+   "category": "Society",
+   "region": "Svalbard, Norway",
+   "published": "2026-11-25T11:47:25Z",
+   "continent": "Europe",
+   "added": "2026-11-26T05:14:43Z",
+   "i18n": {
+    "ca": {
+     "title": "El Banc Mundial de Llavors de l'Àrtic salvaguarda la diversitat de cultius",
+     "summary": "Més d'un milió de mostres de llavors s'emmagatzemen al Banc Mundial de Llavors de l'Àrtic noruec per donar suport als sistemes alimentaris del futur.",
+     "why": "Una salvaguarda a llarg termini per als cultius alimentaris, tot i que es tracta d'un esforç d'emmagatzematge més que d'un avenç nou."
+    },
+    "fr": {
+     "title": "La Réserve mondiale de semences de l'Arctique préserve la diversité des cultures",
+     "summary": "Plus d'un million d'échantillons de semences sont conservés dans la Réserve mondiale de semences du Svalbard, dans l'Arctique norvégien, pour soutenir les systèmes alimentaires de demain.",
+     "why": "Une protection à long terme des cultures alimentaires, bien qu'il s'agisse d'un effort de conservation plutôt que d'un gain nouveau."
+    },
+    "ru": {
+     "title": "Глобальное семенохранилище в Арктике сохраняет разнообразие культур",
+     "summary": "Более миллиона образцов семян хранятся в Глобальном семенохранилище в норвежской Арктике для поддержки будущих систем продовольствия.",
+     "why": "Долгосрочная защита продовольственных культур, хотя это скорее работа по хранению, а не новое достижение."
+    }
+   }
+  },
+  {
+   "id": "sd-euclid-telescope-discovers-a-new-comet",
+   "title": "Euclid Telescope Discovers a New Comet",
+   "summary": "ESA's Euclid space telescope has found its first previously unknown comet while surveying the sky for dark matter.",
+   "why": "Interesting discovery with limited direct benefit.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Space",
+   "published": "2026-11-25T10:35:04Z",
+   "continent": "Global",
+   "added": "2026-11-26T05:14:43Z",
+   "i18n": {
+    "ca": {
+     "title": "El telescopi Euclid descobreix un nou cometa",
+     "summary": "El telescopi espacial Euclid de l'ESA ha trobat el seu primer cometa fins ara desconegut mentre estudiava el cel en la recerca de matèria fosca.",
+     "why": "Descobriment interessant amb benefici directe limitat."
+    },
+    "fr": {
+     "title": "Le télescope Euclid découvre une nouvelle comète",
+     "summary": "Le télescope spatial Euclid de l'ESA a découvert sa première comète jusqu'alors inconnue lors de l'étude du ciel à la recherche de matière noire.",
+     "why": "Découverte intéressante, à l'utilité directe limitée."
+    },
+    "ru": {
+     "title": "Телескоп «Евклид» открыл новую комету",
+     "summary": "Космический телескоп «Евклид» Европейского космического агентства обнаружил первую ранее неизвестную комету во время обзора неба в поисках тёмной материи.",
+     "why": "Интересное открытие с ограниченной непосредственной пользой."
+    }
+   }
+  },
+  {
+   "id": "sd-physicists-trap-antimatter-in-a-wall-free-trap",
+   "title": "Physicists Trap Antimatter in a Wall-Free Trap",
+   "summary": "Physicists trapped and cooled a positron in a wall-free trap, a step toward studying why matter outweighs antimatter in the universe.",
+   "why": "Basic physics progress with no near-term practical benefit.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Global",
+   "published": "2026-11-25T10:06:22Z",
+   "continent": "Global",
+   "added": "2026-11-26T05:14:43Z",
+   "i18n": {
+    "ca": {
+     "title": "Físics atrapen antimatèria en una trampa sense parets",
+     "summary": "Físics han atrapat i refredat un positró en una trampa sense parets, un pas cap a l'estudi de per què hi ha més matèria que antimatèria a l'univers.",
+     "why": "Avenç en física bàsica sense benefici pràctic a curt termini."
+    },
+    "fr": {
+     "title": "Des physiciens piègent l'antimatière dans un piège sans parois",
+     "summary": "Des physiciens ont piégé et refroidi un positon dans un piège sans parois, une étape vers l'étude de la raison pour laquelle la matière l'emporte sur l'antimatière dans l'univers.",
+     "why": "Progrès en physique fondamentale, sans bénéfice pratique immédiat."
+    },
+    "ru": {
+     "title": "Физики удержали антивещество в ловушке без стенок",
+     "summary": "Физики поймали и охладили позитрон в ловушке без стенок — это шаг к изучению того, почему во Вселенной материи больше, чем антивещества.",
+     "why": "Прогресс в фундаментальной физике без практической пользы в ближайшей перспективе."
+    }
+   }
+  },
+  {
+   "id": "mb-otters-return-to-kuala-lumpur-s-klang-river",
+   "title": "Otters Return to Kuala Lumpur's Klang River",
+   "summary": "Smooth-coated otters are increasingly seen along Kuala Lumpur's Klang River, raising hopes for the health of the city's waterway.",
+   "why": "Wildlife returning signals a recovering urban river.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/otters-raise-hope-for-kuala-lumpurs-river/",
+   "score": 7,
+   "category": "Animals",
+   "region": "Kuala Lumpur, Malaysia",
+   "published": "2026-11-25T09:03:10Z",
+   "continent": "Asia",
+   "added": "2026-11-26T05:14:43Z",
+   "i18n": {
+    "ca": {
+     "title": "Les llúdries tornen al riu Klang de Kuala Lumpur",
+     "summary": "Les llúdries de pelatge llis es veuen cada cop més al llarg del riu Klang de Kuala Lumpur, cosa que fa concebre esperances per a la salut de la via fluvial de la ciutat.",
+     "why": "El retorn de la fauna indica la recuperació d'un riu urbà."
+    },
+    "fr": {
+     "title": "Les loutres reviennent dans la rivière Klang à Kuala Lumpur",
+     "summary": "Les loutres à poil lisse sont de plus en plus souvent observées le long de la rivière Klang à Kuala Lumpur, ce qui suscite l'espoir pour la santé du cours d'eau de la ville.",
+     "why": "Le retour de la faune signale la restauration d'une rivière urbaine."
+    },
+    "ru": {
+     "title": "Выдры возвращаются в реку Кланг в Куала-Лумпуре",
+     "summary": "Гладкие выдры всё чаще встречаются вдоль реки Кланг в Куала-Лумпуре, что вселяет надежду на улучшение состояния водного объекта города.",
+     "why": "Возвращение диких животных свидетельствует о восстановлении городской реки."
+    }
+   }
+  },
   {
    "id": "tbi-ladakh-village-night-water-guard",
    "title": "Ladakh village shares irrigation water through household rotas",
@@ -43,6 +290,68 @@
      "title": "Деревня в Ладакхе делит оросительную воду по домашним графикам",
      "summary": "Семьи деревни Фей в Ладакхе по очереди ночью охраняют воду, чтобы каждый фермер получал справедливую долю для орошения.",
      "why": "Местное сотрудничество, которое обеспечивает водой целую деревню."
+    }
+   }
+  },
+  {
+   "id": "mb-study-species-reduced-to-50-animals-can-recover-us",
+   "title": "Study: Species Reduced to 50 Animals Can Recover, Usually With Help",
+   "summary": "A study of 141 bird and mammal species that fell to 50 or fewer individuals found 61% recovered, though few did so without conservation help.",
+   "why": "Recovery is possible but usually depends on human help.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/species-down-to-the-last-50-animals-can-recover-but-rarely-without-help/",
+   "score": 6,
+   "category": "Animals",
+   "region": "Global",
+   "published": "2026-11-25T00:17:59Z",
+   "continent": "Global",
+   "added": "2026-11-26T05:14:43Z",
+   "i18n": {
+    "ca": {
+     "title": "Estudi: les espècies reduïdes a 50 animals poden recuperar-se, normalment amb ajuda",
+     "summary": "Un estudi de 141 espècies d'aus i mamífers que han caigut fins a 50 individus o menys ha constatat que el 61 % es va recuperar, tot i que poques ho van fer sense ajuda de la conservació.",
+     "why": "La recuperació és possible, però normalment depèn de l'ajuda humana."
+    },
+    "fr": {
+     "title": "Étude : les espèces réduites à 50 animaux peuvent se rétablir, en général avec de l'aide",
+     "summary": "Une étude portant sur 141 espèces d'oiseaux et de mammifères tombées à 50 individus ou moins a révélé que 61 % se sont rétablies, mais peu d'entre elles sans aide à la conservation.",
+     "why": "Le rétablissement est possible, mais il dépend généralement de l'intervention humaine."
+    },
+    "ru": {
+     "title": "Исследование: виды, сокращённые до 50 особей, могут восстановиться, но обычно с помощью человека",
+     "summary": "Исследование 141 вида птиц и млекопитающих, численность которых упала до 50 или меньше особей, показало, что 61% восстановились, однако лишь немногие сделали это без помощи в области охраны природы.",
+     "why": "Восстановление возможно, но обычно зависит от помощи человека."
+    }
+   }
+  },
+  {
+   "id": "sd-nasal-mrna-treatment-improves-memory-in-aging-mice",
+   "title": "Nasal mRNA Treatment Improves Memory in Aging Mice",
+   "summary": "An mRNA-based nasal treatment boosted a brain-protective protein and restored memory in aging mice with Alzheimer's-like changes.",
+   "why": "Promising results in mice only; human benefit is unproven.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+   "score": 5,
+   "category": "Health",
+   "region": "Global",
+   "published": "2026-11-24T23:31:52Z",
+   "continent": "Global",
+   "added": "2026-11-26T05:14:43Z",
+   "i18n": {
+    "ca": {
+     "title": "Un tractament nasal amb ARNm millora la memòria en ratolins envellits",
+     "summary": "Un tractament nasal basat en ARNm va augmentar una proteïna protectora del cervell i va restaurar la memòria en ratolins envellits amb canvis semblants als de l'Alzheimer.",
+     "why": "Resultats prometedors només en ratolins; el benefici per als humans no està demostrat."
+    },
+    "fr": {
+     "title": "Un traitement nasal à base d'ARNm améliore la mémoire de souris âgées",
+     "summary": "Un traitement nasal à base d'ARNm a accru une protéine protectrice du cerveau et restauré la mémoire chez des souris âgées présentant des modifications semblables à celles de la maladie d'Alzheimer.",
+     "why": "Résultats prometteurs chez la souris uniquement ; le bénéfice pour l'humain n'est pas démontré."
+    },
+    "ru": {
+     "title": "Назальная мРНК-терапия улучшает память у старых мышей",
+     "summary": "Назальный препарат на основе мРНК повысил уровень белка, защищающего мозг, и восстановил память у стареющих мышей с изменениями, похожими на болезнь Альцгеймера.",
+     "why": "Обнадёживающие результаты только на мышах; польза для человека не доказана."
     }
    }
   },
@@ -78,6 +387,37 @@
    }
   },
   {
+   "id": "mb-indigenous-women-plant-native-trees-to-restore-wat",
+   "title": "Indigenous Women Plant Native Trees to Restore Water Sources in Bolivia",
+   "summary": "Indigenous women in Bolivia's Tunari range are planting native Polylepis trees to restore forests and the water sources they protect.",
+   "why": "Community-led restoration protects local water supplies.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/in-the-bolivian-andes-indigenous-women-plant-native-trees-to-restore-water-sources/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Bolivia",
+   "published": "2026-11-24T15:14:40Z",
+   "continent": "South America",
+   "added": "2026-11-26T05:14:43Z",
+   "i18n": {
+    "ca": {
+     "title": "Dones indígenes planten arbres natius per restaurar fonts d'aigua a Bolívia",
+     "summary": "Dones indígenes de la serralada del Tunari, a Bolívia, planten arbres natius del gènere Polylepis per restaurar els boscos i les fonts d'aigua que protegeixen.",
+     "why": "La restauració liderada per la comunitat protegeix els subministraments d'aigua locals."
+    },
+    "fr": {
+     "title": "Des femmes autochtones plantent des arbres natifs pour restaurer les sources d'eau en Bolivie",
+     "summary": "Des femmes autochtones de la chaîne du Tunari, en Bolivie, plantent des Polylepis, arbres natifs, pour restaurer les forêts et les sources d'eau qu'elles protègent.",
+     "why": "La restauration menée par la communauté protège les approvisionnements en eau locaux."
+    },
+    "ru": {
+     "title": "Женщины коренных народов высаживают местные деревья для восстановления водных источников в Боливии",
+     "summary": "Женщины коренных народов в горах Тунари (Боливия) высаживают местные деревья полилепис, чтобы восстановить леса и водные источники, которые они защищают.",
+     "why": "Восстановление, инициированное местным сообществом, защищает местные запасы воды."
+    }
+   }
+  },
+  {
    "id": "tbi-uttarakhand-women-forest-revival",
    "title": "Women in an Uttarakhand village revive 28 acres of barren land as forest",
    "summary": "Women in Manar village, led by Bhagirathi Devi, restored a degraded patch of land into forest and report no forest fires in over 20 years.",
@@ -105,6 +445,68 @@
      "title": "Женщины одной из деревень штата Уттаракханд превратили 28 акров бесплодной земли в лес",
      "summary": "Женщины деревни Манар под руководством Бхагиратхи Деви восстановили деградировавший участок земли в лес и сообщают, что лесных пожаров там не было более 20 лет.",
      "why": "Восстановление природы под руководством общины с устойчивыми результатами."
+    }
+   }
+  },
+  {
+   "id": "tbi-schoolgirl-designs-solar-powered-ironing-cart-in-i",
+   "title": "Schoolgirl Designs Solar-Powered Ironing Cart in India",
+   "summary": "A schoolgirl designed a solar-powered ironing cart after seeing a street ironing vendor discard charcoal.",
+   "why": "A small, practical clean-energy idea that helps street workers.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/culture/vinisha-umashankar-solar-powered-ironing-cart-charcoal-iron-history-12838368",
+   "score": 6,
+   "category": "Energy",
+   "region": "India",
+   "published": "2026-11-24T14:12:53Z",
+   "continent": "Asia",
+   "added": "2026-11-26T05:14:43Z",
+   "i18n": {
+    "ca": {
+     "title": "Una escolar dissenya un carro de planxar amb energia solar a l'Índia",
+     "summary": "Una escolar va dissenyar un carro de planxar amb energia solar després de veure com un venedor ambulant de planxa llençava el carbó.",
+     "why": "Una idea petita i pràctica d'energia neta que ajuda els treballadors del carrer."
+    },
+    "fr": {
+     "title": "Une écolière conçoit un chariot à repasser solaire en Inde",
+     "summary": "Une écolière a conçu un chariot à repasser fonctionnant à l'énergie solaire après avoir vu un vendeur ambulant de repassage jeter du charbon de bois.",
+     "why": "Une idée énergétique propre, petite et pratique, qui aide les travailleurs de rue."
+    },
+    "ru": {
+     "title": "Школьница придумала тележку для глажки на солнечной энергии в Индии",
+     "summary": "Школьница разработала тележку для глажки на солнечной энергии после того, как увидела, как уличный продавец-гладильщик выбрасывает древесный уголь.",
+     "why": "Небольшая, практичная идея чистой энергетики, которая помогает уличным работникам."
+    }
+   }
+  },
+  {
+   "id": "am-study-finds-route-to-net-zero-matters-as-much-as-d",
+   "title": "Study Finds Route to Net Zero Matters as Much as Destination",
+   "summary": "A life-cycle analysis of 24 climate mitigation pathways found the route taken to net zero matters as much as the end goal.",
+   "why": "Useful research guidance, though no action has been taken yet.",
+   "source": "Anthropocene Magazine",
+   "url": "https://www.anthropocenemagazine.org/2026/11/the-path-to-net-zero-matters-as-much-as-the-destination-scientists-say/?utm_source=rss&utm_medium=rss&utm_campaign=whats-the-best-pathway-to-a-net-zero-future",
+   "score": 5,
+   "category": "Environment",
+   "region": "Global",
+   "published": "2026-11-24T14:00:19Z",
+   "continent": "Global",
+   "added": "2026-11-26T05:14:43Z",
+   "i18n": {
+    "ca": {
+     "title": "Un estudi conclou que el camí cap a zero emissions netes és tan important com la meta",
+     "summary": "Una anàlisi del cicle de vida de 24 vies de mitigació climàtica ha conclòs que el camí escollit per arribar a zero emissions netes és tan important com l'objectiu final.",
+     "why": "Orientació de recerca útil, però encara no s'ha pres cap mesura."
+    },
+    "fr": {
+     "title": "Une étude montre que la voie vers la neutralité carbone compte autant que l'objectif",
+     "summary": "Une analyse de cycle de vie portant sur 24 trajectoires d'atténuation du changement climatique montre que la voie suivie pour atteindre la neutralité carbone compte autant que le but final.",
+     "why": "Conseil de recherche utile, mais aucune mesure n'a encore été prise."
+    },
+    "ru": {
+     "title": "Исследование: путь к нулевым выбросам так же важен, как и конечная цель",
+     "summary": "Анализ жизненного цикла 24 путей смягчения последствий изменения климата показал, что путь к нулевым чистым выбросам так же важен, как и конечная цель.",
+     "why": "Полезные рекомендации для исследований, хотя никаких действий пока не предпринято."
     }
    }
   },
@@ -419,6 +821,37 @@
    }
   },
   {
+   "id": "tbi-hyderabad-doctor-helps-cut-rare-disease-drug-cost",
+   "title": "Hyderabad Doctor Helps Cut Rare-Disease Drug Cost",
+   "summary": "A Hyderabad doctor helped cut the cost of a rare-disease drug from about Rs 9 crore to roughly Rs 2.5 crore.",
+   "why": "Lower drug costs could widen access for patients with a rare disease.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/web-stories/health-care/hyderabad-doctor-sivaranjani-santosh-rare-disease-medicine-children-india-12835512",
+   "score": 8,
+   "category": "Health",
+   "region": "Hyderabad, India",
+   "published": "2026-11-23T14:00:38Z",
+   "continent": "Asia",
+   "added": "2026-11-26T05:14:43Z",
+   "i18n": {
+    "ca": {
+     "title": "Un metge de Hyderabad ajuda a reduir el cost d'un medicament per a una malaltia rara",
+     "summary": "Un metge de Hyderabad va ajudar a reduir el cost d'un medicament per a una malaltia rara d'uns Rs 9 crore a uns Rs 2,5 crore.",
+     "why": "La reducció del cost dels medicaments podria ampliar l'accés per als pacients amb una malaltia rara."
+    },
+    "fr": {
+     "title": "Une médecin de Hyderabad contribue à réduire le coût d'un médicament contre une maladie rare",
+     "summary": "Une médecin de Hyderabad a contribué à faire baisser le coût d'un médicament contre une maladie rare, de près de Rs 9 crore à environ Rs 2,5 crore.",
+     "why": "La baisse du prix des médicaments pourrait élargir l'accès aux soins pour les patients atteints d'une maladie rare."
+    },
+    "ru": {
+     "title": "Врач из Хайдарабада помогла снизить стоимость препарата для редкого заболевания",
+     "summary": "Врач из Хайдарабада помогла снизить стоимость препарата для лечения редкого заболевания с примерно Rs 9 crore до примерно Rs 2,5 crore.",
+     "why": "Снижение стоимости лекарств может расширить доступ пациентов с редким заболеванием к лечению."
+    }
+   }
+  },
+  {
    "id": "an-south-african-township-turns-shipping-container-in",
    "title": "South African township turns shipping container into sensory therapy room",
    "summary": "Afrika Tikkun and Sensory-Space converted a recycled shipping container into a sensory therapy space for children in a township community.",
@@ -663,6 +1096,37 @@
      "title": "Песня, написанная людьми, столкнувшимися с неизлечимой болезнью, впервые исполнена в хосписе в Уэльсе",
      "summary": "Песня, вдохновлённая опытом неизлечимой болезни и написанная людьми, которых она затронула, впервые прозвучала в хосписе в Уэльсе.",
      "why": "Творческий проект, который приносит утешение небольшому сообществу."
+    }
+   }
+  },
+  {
+   "id": "tbi-indian-built-surgical-robot-used-in-beating-heart",
+   "title": "Indian-Built Surgical Robot Used in Beating-Heart Bypass",
+   "summary": "Surgeons at Medanta Hospital performed a beating-heart bypass using an Indian-built surgical robot with five robotic arms.",
+   "why": "A domestic medical technology advance, with benefit so far limited to a few hospitals.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/videos/health/two-surgeons-five-robotic-arms-a-surgical-robot-built-in-india-12836072",
+   "score": 6,
+   "category": "Health",
+   "region": "India",
+   "published": "2026-11-23T09:32:52Z",
+   "continent": "Asia",
+   "added": "2026-11-26T05:14:43Z",
+   "i18n": {
+    "ca": {
+     "title": "Un robot quirúrgic fabricat a l'Índia s'utilitza en un bypass a cor batent",
+     "summary": "Cirurgians de l'hospital Medanta van fer un bypass a cor batent amb un robot quirúrgic fabricat a l'Índia, que té cinc braços robòtics.",
+     "why": "Un avenç tecnològic mèdic nacional, amb un benefici fins ara limitat a uns quants hospitals."
+    },
+    "fr": {
+     "title": "Un robot chirurgical de conception indienne utilisé pour un pontage sur cœur battant",
+     "summary": "Des chirurgiens de l'hôpital Medanta ont réalisé un pontage sur cœur battant à l'aide d'un robot chirurgical conçu en Inde, doté de cinq bras robotisés.",
+     "why": "Une avancée technologique médicale nationale, dont le bénéfice se limite pour l'instant à quelques hôpitaux."
+    },
+    "ru": {
+     "title": "Хирургический робот индийской разработки использован при шунтировании работающего сердца",
+     "summary": "Хирурги больницы Medanta провели шунтирование работающего сердца с помощью хирургического робота индийской разработки, имеющего пять роботизированных манипуляторов.",
+     "why": "Отечественный прогресс в медицинских технологиях, пока его польза ограничивается несколькими больницами."
     }
    }
   },
@@ -3918,223 +4382,6 @@
      "title": "Благотворительный проект передаёт велосипеды людям, ищущим убежище в Великобритании",
      "summary": "The Bike Project передаёт велосипеды соискателям убежища в Великобритании, помогая бороться с транспортной бедностью и облегчая повседневную жизнь.",
      "why": "Напрямую помогает многим людям, пусть и в скромных масштабах."
-    }
-   }
-  },
-  {
-   "id": "rtbc-barbershops-blood-pressure-black-men",
-   "title": "Barbershop blood-pressure screenings aim to improve Black men's health",
-   "summary": "The CLIP program brought blood-pressure screenings into 22 Black-owned barbershops, using community trust to reach men who often avoid clinics.",
-   "why": "Practical health outreach for an underserved group.",
-   "source": "Reasons to be Cheerful",
-   "url": "https://reasonstobecheerful.world/barbershops-black-men-hypertension-screenings/",
-   "score": 7,
-   "category": "Health",
-   "region": "USA",
-   "published": "2026-11-16T08:00:15Z",
-   "continent": "North America",
-   "added": "2026-11-18T05:14:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Les barberies ofereixen controls de pressió arterial per millorar la salut dels homes negres",
-     "summary": "El programa CLIP ha portat controls de pressió arterial a 22 barberies de propietat negra, aprofitant la confiança de la comunitat per arribar a homes que sovint eviten les clíniques.",
-     "why": "Una iniciativa sanitària pràctica per a un grup desatès."
-    },
-    "fr": {
-     "title": "Des dépistages de la tension artérielle chez les coiffeurs visent à améliorer la santé des hommes noirs",
-     "summary": "Le programme CLIP a installé des dépistages de la tension artérielle dans 22 salons de barbier appartenant à des Noirs, s'appuyant sur la confiance de la communauté pour toucher des hommes qui évitent souvent les cliniques.",
-     "why": "Une démarche de santé concrète pour un groupe mal desservi."
-    },
-    "ru": {
-     "title": "Измерение давления в барбершопах призвано улучшить здоровье чернокожих мужчин",
-     "summary": "Программа CLIP организовала измерение артериального давления в 22 барбершопах, принадлежащих чернокожим владельцам, опираясь на доверие общины, чтобы охватить мужчин, которые часто избегают поликлиник.",
-     "why": "Практичная работа по охране здоровья для недостаточно охваченной группы."
-    }
-   }
-  },
-  {
-   "id": "an-cape-verde-neves-reelection-projected",
-   "title": "Cape Verde's president projected to win re-election",
-   "summary": "Preliminary results from 98% of ballots show incumbent José Maria Neves at about 64%, in an election that included the country's first female candidate.",
-   "why": "A calm democratic process, though a routine one.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/11/16/cape-verdes-president-neves-projected-to-win-re-election-with-64-of-vote/",
-   "score": 5,
-   "category": "Society",
-   "region": "Cape Verde",
-   "published": "2026-11-16T05:53:45Z",
-   "continent": "Africa",
-   "added": "2026-11-18T05:14:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Es projecta que el president de Cap Verd guanyarà la reelecció",
-     "summary": "Els resultats preliminars amb el 98% de les paperetes mostren que el president en funcions, José Maria Neves, obté al voltant del 64%, en unes eleccions que han inclòs la primera candidata femenina del país.",
-     "why": "Un procés democràtic tranquil, tot i que rutinari."
-    },
-    "fr": {
-     "title": "Le président du Cap-Vert pressenti pour remporter sa réélection",
-     "summary": "Les résultats préliminaires portant sur 98 % des bulletins donnent le président sortant José Maria Neves à environ 64 %, lors d'un scrutin qui comptait la première candidate femme du pays.",
-     "why": "Un processus démocratique calme, mais de routine."
-    },
-    "ru": {
-     "title": "Президент Кабо-Верде, по прогнозам, победит на переизбрании",
-     "summary": "Предварительные результаты по 98% бюллетеней показывают, что действующий президент Жозе Мария Невеш набирает около 64%. На выборах баллотировалась первая в истории страны женщина-кандидат.",
-     "why": "Спокойный демократический процесс, хотя и рутинный."
-    }
-   }
-  },
-  {
-   "id": "mb-rare-flat-headed-cat-recorded-in-sarawak",
-   "title": "Rare flat-headed cat recorded in Sarawak mangrove",
-   "summary": "A camera-trap survey in a Sarawak mangrove recorded the endangered flat-headed cat and showed it prefers elevated palms.",
-   "why": "New knowledge that can guide protection of a rare species.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/11/rare-flat-headed-cat-prefers-elevated-palms-in-malaysian-forest-says-study/",
-   "score": 6,
-   "category": "Animals",
-   "region": "Sarawak, Malaysia",
-   "published": "2026-11-16T05:31:39Z",
-   "continent": "Asia",
-   "added": "2026-11-17T05:14:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Es registra un gat de cap pla, molt rar, en un manglar de Sarawak",
-     "summary": "Un estudi amb càmeres-trampa en un manglar de Sarawak ha registrat el gat de cap pla, en perill d'extinció, i ha demostrat que prefereix les palmeres en zones elevades.",
-     "why": "Nous coneixements que poden orientar la protecció d'una espècie rara."
-    },
-    "fr": {
-     "title": "Un chat à tête plate, espèce rare, observé dans une mangrove de Sarawak",
-     "summary": "Un suivi par pièges photographiques dans une mangrove de Sarawak a permis d'observer le chat à tête plate, espèce en danger, qui préfère les palmiers en hauteur.",
-     "why": "Des connaissances nouvelles pouvant guider la protection d'une espèce rare."
-    },
-    "ru": {
-     "title": "В мангровых зарослях Саравака зафиксирован редкий плосколобый кот",
-     "summary": "Исследование с фотоловушками в мангровых зарослях Саравака зафиксировало исчезающего плосколобого кота и показало, что он предпочитает приподнятые пальмы.",
-     "why": "Новые знания, которые могут помочь в охране редкого вида."
-    }
-   }
-  },
-  {
-   "id": "tbi-tomato-waste-leather-startup",
-   "title": "Indian startup makes leather alternative from tomato waste",
-   "summary": "The Bio Company turns discarded tomatoes into a material that can replace animal leather.",
-   "why": "An early-stage startup, but it reuses waste and avoids animal leather.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/web-stories/startup/tomato-waste-sustainable-leather-the-bio-company-pritesh-mistry-12807207",
-   "score": 6,
-   "category": "Environment",
-   "region": "India",
-   "published": "2026-11-16T04:06:56Z",
-   "continent": "Asia",
-   "added": "2026-11-16T05:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Una startup índia fa una alternativa al cuir a partir de residus de tomàquet",
-     "summary": "The Bio Company transforma els tomàquets descartats en un material que pot substituir el cuir animal.",
-     "why": "Una startup en fase inicial, però que aprofita residus i evita el cuir animal."
-    },
-    "fr": {
-     "title": "Une start-up indienne fabrique une alternative au cuir à partir de déchets de tomates",
-     "summary": "The Bio Company transforme les tomates jetées en un matériau pouvant remplacer le cuir animal.",
-     "why": "Une start-up en phase de démarrage, mais qui valorise des déchets et évite le cuir animal."
-    },
-    "ru": {
-     "title": "Индийский стартап создаёт альтернативу коже из томатных отходов",
-     "summary": "The Bio Company перерабатывает выброшенные помидоры в материал, который может заменить натуральную кожу животных.",
-     "why": "Стартап на ранней стадии, но он использует отходы и не требует животной кожи."
-    }
-   }
-  },
-  {
-   "id": "od-tourettes-wrist-device-trial",
-   "title": "Wrist device cut Tourette's tics by a quarter in UK trial",
-   "summary": "A trial with 121 people found that the Neupulse prototype wrist device reduced tic frequency by about 25 percent.",
-   "why": "A modest, drug-free benefit from a prototype in a small trial.",
-   "source": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/11/this-tourettes-wrist-device-cut-tics-by-a-quarter-in-a-uk-trial/",
-   "score": 6,
-   "category": "Health",
-   "region": "United Kingdom",
-   "published": "2026-11-16T00:00:57Z",
-   "continent": "Europe",
-   "added": "2026-11-16T05:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "Un dispositiu de polsera redueix un quart els tics de Tourette en un assaig al Regne Unit",
-     "summary": "Un assaig amb 121 persones ha constatat que el prototip de polsera Neupulse redueix la freqüència dels tics aproximadament un 25 per cent.",
-     "why": "Un benefici modest i sense fàrmacs, obtingut amb un prototip en un assaig petit."
-    },
-    "fr": {
-     "title": "Un bracelet réduit d'un quart les tics liés au syndrome de Gilles de la Tourette, selon un essai britannique",
-     "summary": "Un essai portant sur 121 personnes a montré que le prototype de bracelet Neupulse réduit la fréquence des tics d'environ 25 %.",
-     "why": "Un bénéfice modeste et sans médicament, obtenu avec un prototype lors d'un essai de petite taille."
-    },
-    "ru": {
-     "title": "Браслет на запястье сократил тики при синдроме Туретта на четверть в испытании в Великобритании",
-     "summary": "Испытание с участием 121 человека показало, что прототип браслета Neupulse снижает частоту тиков примерно на 25 процентов.",
-     "why": "Умеренная польза без лекарств, полученная с помощью прототипа в небольшом испытании."
-    }
-   }
-  },
-  {
-   "id": "gnn-first-bone-marrow-transplant-for-a-non-c",
-   "title": "First bone marrow transplant for a non-cancerous disease reported",
-   "summary": "Franciscan Health reports treating aplastic anemia with marrow from a deceased donor, a world first for a non-malignant disease.",
-   "why": "A promising first that may widen donor options, though one reported case.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/world-first-bone-marrow-transplant-successfully-treats-non-malignant-disease/",
-   "score": 7,
-   "category": "Health",
-   "region": "United States",
-   "published": "2026-11-15T20:32:08Z",
-   "continent": "North America",
-   "added": "2026-11-17T05:14:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Primer trasplantament de moll de l'os per a una malaltia no cancerosa",
-     "summary": "Franciscan Health informa d'haver tractat una anèmia aplàstica amb moll de l'os procedent d'un donant difunt, una primícia mundial en una malaltia no maligna.",
-     "why": "Un avenç prometedor que podria ampliar les opcions de donants, tot i que només hi ha un cas documentat."
-    },
-    "fr": {
-     "title": "Première greffe de moelle osseuse pour une maladie non cancéreuse",
-     "summary": "Franciscan Health annonce avoir traité une anémie aplasique grâce à de la moelle osseuse prélevée sur un donneur décédé, une première mondiale pour une maladie non maligne.",
-     "why": "Une avancée prometteuse qui pourrait élargir les options de donneurs, même si un seul cas est rapporté."
-    },
-    "ru": {
-     "title": "Впервые сообщено о пересадке костного мозга при незлокачественном заболевании",
-     "summary": "Franciscan Health сообщает о лечении апластической анемии с помощью костного мозга умершего донора, мировое первенство для незлокачественного заболевания.",
-     "why": "Перспективное достижение, которое может расширить круг доноров, хотя пока описан только один случай."
-    }
-   }
-  },
-  {
-   "id": "gnn-sf-parks-100m-gift",
-   "title": "San Francisco receives $100 million gift for public parks",
-   "summary": "Airbnb co-founder Brian Chesky announced a $100 million donation to the city's parks, the largest single-donor gift San Francisco has received.",
-   "why": "A large philanthropic gift will improve shared green space.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/san-francisco-gets-100m-gift-for-public-parks-from-airbnb-ceo/",
-   "score": 7,
-   "category": "Society",
-   "region": "San Francisco, USA",
-   "published": "2026-11-15T15:36:21Z",
-   "continent": "North America",
-   "added": "2026-11-16T05:13:21Z",
-   "i18n": {
-    "ca": {
-     "title": "San Francisco rep una donació de 100 milions de dòlars per als parcs públics",
-     "summary": "El cofundador d'Airbnb, Brian Chesky, ha anunciat una donació de 100 milions de dòlars per als parcs de la ciutat, la donació individual més gran que ha rebut San Francisco.",
-     "why": "Una gran donació filantròpica millorarà els espais verds compartits."
-    },
-    "fr": {
-     "title": "San Francisco reçoit un don de 100 millions de dollars pour ses parcs publics",
-     "summary": "Brian Chesky, cofondateur d'Airbnb, a annoncé un don de 100 millions de dollars en faveur des parcs de la ville, le plus important don unique jamais reçu par San Francisco.",
-     "why": "Un important don philanthropique améliorera les espaces verts partagés."
-    },
-    "ru": {
-     "title": "Сан-Франциско получил пожертвование в размере 100 миллионов долларов на городские парки",
-     "summary": "Соучредитель Airbnb Брайан Четски объявил о пожертвовании в 100 миллионов долларов в пользу городских парков — это крупнейшее пожертвование одного донора, которое когда-либо получал Сан-Франциско.",
-     "why": "Крупное благотворительное пожертвование улучшит общественные зелёные зоны."
     }
    }
   }
