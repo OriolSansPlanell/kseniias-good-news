@@ -1,8 +1,9 @@
 {
- "updated": "2026-11-26T05:14:43Z",
+ "updated": "2026-11-27T05:13:50Z",
  "sources": [
   "Positive News",
   "Good News Network",
+  "Reasons to be Cheerful",
   "ScienceDaily",
   "Mongabay",
   "The Better India",
@@ -10,10 +11,382 @@
   "Grist",
   "Africanews"
  ],
- "count": 141,
- "last_run": "run-20261126T0514Z.json",
- "note": "15 new, 30 skipped, 7 pruned, 0 translations added, failed feeds: The Optimist Daily",
+ "count": 133,
+ "last_run": "run-20261127T0513Z.json",
+ "note": "14 new, 45 skipped, 22 pruned, 0 translations added, failed feeds: The Optimist Daily",
  "stories": [
+  {
+   "id": "gnn-infant-brain-cancer-free-after-st-jude-referral",
+   "title": "Infant with aggressive brain cancer recovers after referral to St. Jude",
+   "summary": "A baby given weeks to live is now cancer-free after her case reached a hospital that had just completed a study on her tumour type.",
+   "why": "Full recovery for one child, though the result depends on specialist access.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/girl-given-weeks-to-live-on-christmas-eve-makes-miracle-recovery-after-serendipitous-call-to-st-jude/",
+   "score": 7,
+   "category": "Health",
+   "region": "United States",
+   "published": "2026-11-26T14:00:54Z",
+   "continent": "North America",
+   "added": "2026-11-27T05:13:50Z",
+   "i18n": {
+    "ca": {
+     "title": "Un nadó amb un càncer cerebral agressiu es recupera després de ser derivat a St. Jude",
+     "summary": "Una nadona a qui li donaven unes setmanes de vida ara està lliure de càncer, després que el seu cas arribés a un hospital que acabava de completar un estudi sobre el tipus de tumor que tenia.",
+     "why": "Recuperació completa d'una nena, tot i que el resultat depèn de l'accés a especialistes."
+    },
+    "fr": {
+     "title": "Un nourrisson atteint d'un cancer cérébral agressif guérit après son orientation vers St. Jude",
+     "summary": "Une petite fille à qui il ne restait que quelques semaines à vivre est aujourd'hui sans cancer, après que son cas a été pris en charge par un hôpital qui venait de terminer une étude sur le type de tumeur dont elle souffrait.",
+     "why": "Guérison complète pour une enfant, même si le résultat dépend de l'accès à des spécialistes."
+    },
+    "ru": {
+     "title": "Младенец с агрессивной опухолью мозга выздоровел после направления в St. Jude",
+     "summary": "Девочке, которой врачи давали несколько недель жизни, теперь диагноз рака не подтверждается. Её случай попал в больницу, которая только что завершила исследование опухоли такого типа.",
+     "why": "Полное выздоровление одного ребёнка, но результат зависит от доступа к профильным специалистам."
+    }
+   }
+  },
+  {
+   "id": "an-biovac-african-vaccine-production-facility",
+   "title": "Biovac plans larger African vaccine production by 2028",
+   "summary": "South Africa's Biovac says a new facility aims to substantially increase vaccine production in Africa by the end of 2028.",
+   "why": "Could improve vaccine access, but not yet delivered.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/26/pix-of-the-day-26th-november-2026-south-africas-biovac-bets-on-african-vaccine-production/",
+   "score": 7,
+   "category": "Health",
+   "region": "South Africa",
+   "published": "2026-11-26T12:11:52Z",
+   "continent": "Africa",
+   "added": "2026-11-27T05:13:50Z",
+   "i18n": {
+    "ca": {
+     "title": "Biovac preveu ampliar la producció de vacunes a Àfrica abans del 2028",
+     "summary": "Biovac, de Sud-àfrica, afirma que una nova instal·lació té com a objectiu augmentar de manera substancial la producció de vacunes a Àfrica abans de finals del 2028.",
+     "why": "Podria millorar l'accés a les vacunes, però encara no s'ha materialitzat."
+    },
+    "fr": {
+     "title": "Biovac prévoit d'accroître la production de vaccins en Afrique d'ici 2028",
+     "summary": "Biovac, en Afrique du Sud, affirme qu'une nouvelle installation vise à augmenter de manière substantielle la production de vaccins en Afrique d'ici fin 2028.",
+     "why": "Pourrait améliorer l'accès aux vaccins, mais cela n'est pas encore réalisé."
+    },
+    "ru": {
+     "title": "Biovac планирует увеличить производство вакцин в Африке к 2028 году",
+     "summary": "Biovac из ЮАР заявляет, что новый производственный объект должен существенно увеличить выпуск вакцин в Африке к концу 2028 года.",
+     "why": "Может улучшить доступ к вакцинам, но пока не реализовано."
+    }
+   }
+  },
+  {
+   "id": "an-sierra-leone-maternal-mortality-decline",
+   "title": "Sierra Leone's maternal mortality falls steeply over 20 years",
+   "summary": "Maternal deaths have fallen considerably over two decades, though unofficial fees, mistrust and poor infrastructure still hinder care.",
+   "why": "Real progress for many lives, with challenges remaining.",
+   "source": "Africanews",
+   "url": "http://www.africanews.com/2026/11/26/sierra-leone-steep-decline-in-maternal-mortality-but-challenges-remain/",
+   "score": 8,
+   "category": "Health",
+   "region": "Sierra Leone",
+   "published": "2026-11-26T11:53:21Z",
+   "continent": "Africa",
+   "added": "2026-11-27T05:13:50Z",
+   "i18n": {
+    "ca": {
+     "title": "La mortalitat materna a Sierra Leone es redueix de manera notable en 20 anys",
+     "summary": "Les morts maternes han baixat considerablement en dues dècades, però els pagaments no oficials, la desconfiança i la mala infraestructura continuen dificultant l'atenció sanitària.",
+     "why": "Progrés real per a moltes vides, amb reptes encara pendents."
+    },
+    "fr": {
+     "title": "La mortalité maternelle a fortement reculé en vingt ans en Sierra Leone",
+     "summary": "Les décès maternels ont considérablement diminué en deux décennies, mais les frais non officiels, la méfiance et les infrastructures défaillantes entravent encore les soins.",
+     "why": "Progrès réel pour de nombreuses vies, mais des défis demeurent."
+    },
+    "ru": {
+     "title": "Материнская смертность в Сьерра-Леоне резко снизилась за 20 лет",
+     "summary": "За два десятилетия число материнских смертей заметно сократилось, однако неофициальные платежи, недоверие и слабая инфраструктура по-прежнему затрудняют оказание медицинской помощи.",
+     "why": "Реальный прогресс для многих жизней, но проблемы сохраняются."
+    }
+   }
+  },
+  {
+   "id": "tbi-india-wins-visitors-lion-venice-biennale-2026",
+   "title": "India's Venice Biennale exhibition wins Visitors' Lion",
+   "summary": "India's exhibition, made by five artists using materials such as bamboo and thread, won the public-voted Visitors' Lion for Best National Participation.",
+   "why": "Cultural recognition for artists and a country.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/culture/indian-artists-winner-venice-biennale-exhibition-2026-12843418",
+   "score": 6,
+   "category": "Culture",
+   "region": "India",
+   "published": "2026-11-26T11:36:53Z",
+   "continent": "Asia",
+   "added": "2026-11-27T05:13:50Z",
+   "i18n": {
+    "ca": {
+     "title": "L'exposició de l'Índia a la Biennal de Venècia guanya el Lleó dels Visitants",
+     "summary": "L'exposició de l'Índia, obra de cinc artistes que han fet servir materials com el bambú i el fil, ha guanyat el Lleó dels Visitants a la millor participació nacional, votat pel públic.",
+     "why": "Reconeixement cultural per als artistes i per al país."
+    },
+    "fr": {
+     "title": "L'exposition indienne à la Biennale de Venise remporte le Lion des visiteurs",
+     "summary": "L'exposition indienne, réalisée par cinq artistes à partir de matériaux tels que le bambou et le fil, a remporté le Lion des visiteurs, décerné par le public, dans la catégorie de la meilleure participation nationale.",
+     "why": "Reconnaissance culturelle pour les artistes et pour le pays."
+    },
+    "ru": {
+     "title": "Индийская экспозиция на Венецианской биеннале получила Львиный приз зрителей",
+     "summary": "Экспозиция Индии, созданная пятью художниками с использованием таких материалов, как бамбук и нити, получила Львиный приз зрителей за лучшее национальное участие по результатам голосования публики.",
+     "why": "Культурное признание для художников и страны."
+    }
+   }
+  },
+  {
+   "id": "sd-nullarbor-trenches-buried-caves-collapse",
+   "title": "Nullarbor trenches explained as collapsing buried caves",
+   "summary": "Scientists attribute shallow trenches on Australia's Nullarbor Plain to buried cave systems collapsing slowly over millions of years.",
+   "why": "Neutral geological finding with possible planetary-science use.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261124055901.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Nullarbor Plain, Australia",
+   "published": "2026-11-26T11:06:15Z",
+   "continent": "Oceania",
+   "added": "2026-11-27T05:13:50Z",
+   "i18n": {
+    "ca": {
+     "title": "Les rases del Nullarbor s'expliquen per l'enfonsament lent de coves soterrades",
+     "summary": "Els científics atribueixen les rases poc profundes de la plana de Nullarbor, a Austràlia, a sistemes de coves soterrades que s'enfonsen lentament al llarg de milions d'anys.",
+     "why": "Descobriment geològic neutral, amb possible utilitat en la ciència planetària."
+    },
+    "fr": {
+     "title": "Les tranchées du Nullarbor expliquées par l'effondrement lent de grottes enfouies",
+     "summary": "Des scientifiques attribuent les tranchées peu profondes de la plaine de Nullarbor, en Australie, à l'effondrement lent, sur des millions d'années, de réseaux de grottes enfouies.",
+     "why": "Constat géologique neutre, susceptible d'être utile aux sciences planétaires."
+    },
+    "ru": {
+     "title": "Траншеи на равнине Налларбор объяснили обрушением погребённых пещер",
+     "summary": "Учёные связывают неглубокие траншеи на австралийской равнине Налларбор с медленным обрушением погребённых пещерных систем, которое длилось миллионы лет.",
+     "why": "Нейтральное геологическое открытие, которое может быть полезно для планетологии."
+    }
+   }
+  },
+  {
+   "id": "mb-relearning-to-live-with-wolves-europe",
+   "title": "Wolves rebound in Europe as protections are weakened",
+   "summary": "Strict protections let gray wolves recover in parts of Europe, causing conflict with livestock farmers; the EU recently weakened those protections.",
+   "why": "Species recovery mixed with rising conflict and weaker protection.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/relearning-how-to-live-with-wolves-in-europe/",
+   "score": 4,
+   "category": "Animals",
+   "region": "Europe",
+   "published": "2026-11-26T10:55:19Z",
+   "continent": "Europe",
+   "added": "2026-11-27T05:13:50Z",
+   "i18n": {
+    "ca": {
+     "title": "Els llops es recuperen a Europa mentre es debiliten les proteccions",
+     "summary": "Les proteccions estrictes han permès que els llops grisos es recuperin en algunes zones d'Europa, cosa que ha generat conflictes amb els ramaders; la UE ha debilitat recentment aquestes proteccions.",
+     "why": "Recuperació d'una espècie combinada amb més conflictes i menys protecció."
+    },
+    "fr": {
+     "title": "Les loups reprennent du terrain en Europe alors que leur protection s'affaiblit",
+     "summary": "Des protections strictes ont permis aux loups gris de se rétablir dans certaines régions d'Europe, ce qui provoque des conflits avec les éleveurs ; l'UE a récemment affaibli ces protections.",
+     "why": "Retour d'une espèce, mais avec des conflits en hausse et une protection moindre."
+    },
+    "ru": {
+     "title": "Волки восстанавливают численность в Европе, пока защита ослабевает",
+     "summary": "Строгие меры защиты позволили серым волкам восстановить численность в некоторых районах Европы, что приводит к конфликтам с владельцами скота; ЕС недавно ослабил эти меры.",
+     "why": "Восстановление вида сочетается с ростом конфликтов и ослаблением защиты."
+    }
+   }
+  },
+  {
+   "id": "rtbc-portland-urban-gleaners-rescued-food-meals",
+   "title": "Portland nonprofit turns rescued food into prepared meals",
+   "summary": "Urban Gleaners rescues food before it is wasted and cooks donated ingredients into meals for hungry residents in Portland.",
+   "why": "Cuts food waste and feeds people locally.",
+   "source": "Reasons to be Cheerful",
+   "url": "https://reasonstobecheerful.world/portland-urban-gleaners/",
+   "score": 7,
+   "category": "Society",
+   "region": "Portland, United States",
+   "published": "2026-11-26T08:00:37Z",
+   "continent": "North America",
+   "added": "2026-11-27T05:13:50Z",
+   "i18n": {
+    "ca": {
+     "title": "Una entitat sense ànim de lucre de Portland converteix aliments rescatats en menjars preparats",
+     "summary": "Urban Gleaners rescata aliments abans que es malgastin i cuina els ingredients donats per fer menjars per als residents de Portland que passen gana.",
+     "why": "Redueix el malbaratament d'aliments i alimenta la gent a escala local."
+    },
+    "fr": {
+     "title": "Une association à but non lucratif de Portland transforme les aliments récupérés en repas préparés",
+     "summary": "Urban Gleaners récupère les aliments avant qu'ils ne soient gaspillés et cuisine les ingrédients donnés pour préparer des repas destinés aux habitants de Portland dans le besoin.",
+     "why": "Réduit le gaspillage alimentaire et nourrit les habitants à l'échelle locale."
+    },
+    "ru": {
+     "title": "Некоммерческая организация из Портленда превращает спасённые продукты в готовые блюда",
+     "summary": "Urban Gleaners спасает продукты до того, как они будут выброшены, и готовит из пожертвованных ингредиентов блюда для нуждающихся жителей Портленда.",
+     "why": "Сокращает пищевые отходы и кормит людей на местном уровне."
+    }
+   }
+  },
+  {
+   "id": "mb-uttarakhand-women-revive-himalayan-medicinal-plants",
+   "title": "Women farmers cultivate endangered Himalayan medicinal plants",
+   "summary": "Women in Uttarakhand are growing endangered high-altitude plants such as kutki, easing overharvesting in alpine meadows.",
+   "why": "Community-led conservation that also supports livelihoods.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/how-uttarakhands-women-farmers-are-reviving-endangered-himalayan-medicinal-plants/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Uttarakhand, India",
+   "published": "2026-11-26T08:00:13Z",
+   "continent": "Asia",
+   "added": "2026-11-27T05:13:50Z",
+   "i18n": {
+    "ca": {
+     "title": "Pageses cultiven plantes medicinals himalaienes en perill d'extinció",
+     "summary": "Les dones d'Uttarakhand cultiven plantes d'alta muntanya en perill, com la kutki, cosa que alleuja la sobrecollita als prats alpins.",
+     "why": "Conservació liderada per la comunitat que també dona suport als ingressos."
+    },
+    "fr": {
+     "title": "Des agricultrices cultivent des plantes médicinales himalayennes menacées",
+     "summary": "Dans l'Uttarakhand, des femmes cultivent des plantes d'altitude menacées, comme le kutki, ce qui réduit la surexploitation dans les prairies alpines.",
+     "why": "Conservation menée par la communauté, qui soutient aussi les moyens de subsistance."
+    },
+    "ru": {
+     "title": "Женщины-фермеры выращивают исчезающие гималайские лекарственные растения",
+     "summary": "Женщины в Уттаракханде выращивают находящиеся под угрозой исчезновения высокогорные растения, такие как кутки, что снижает чрезмерный сбор в альпийских лугах.",
+     "why": "Охрана природы под руководством общин, которая также поддерживает источники дохода."
+    }
+   }
+  },
+  {
+   "id": "sd-brine-pools-red-sea-floor-microbial-life",
+   "title": "Salty, oxygen-free brine pools on the Red Sea floor host microbial life",
+   "summary": "Researchers found very salty, oxygen-free brine pools deep under the Red Sea that nonetheless support microbial life.",
+   "why": "Interesting discovery with no direct benefit yet.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Red Sea",
+   "published": "2026-11-26T02:42:37Z",
+   "continent": "Global",
+   "added": "2026-11-27T05:13:50Z",
+   "i18n": {
+    "ca": {
+     "title": "Els bassins de salmorra sense oxigen del fons del mar Roig acullen vida microbiana",
+     "summary": "Investigadors han trobat bassins de salmorra molt salada i sense oxigen a gran profunditat sota el mar Roig, que, tot i així, sostenen vida microbiana.",
+     "why": "Descobriment interessant, però encara sense benefici directe."
+    },
+    "fr": {
+     "title": "Des bassins de saumure salée et sans oxygène au fond de la mer Rouge abritent de la vie microbienne",
+     "summary": "Des chercheurs ont découvert, à grande profondeur sous la mer Rouge, des bassins de saumure très salée et dépourvus d'oxygène qui abritent néanmoins une vie microbienne.",
+     "why": "Découverte intéressante, sans avantage direct pour l'instant."
+    },
+    "ru": {
+     "title": "Солёные бассейны рассола без кислорода на дне Красного моря населены микроорганизмами",
+     "summary": "Учёные обнаружили глубоко под Красным морем очень солёные бассейны рассола без кислорода, в которых, тем не менее, существует микробная жизнь.",
+     "why": "Интересное открытие, но пока без прямой пользы."
+    }
+   }
+  },
+  {
+   "id": "mb-terrapin-guardians-terengganu-malaysia",
+   "title": "Former egg collectors now guard Malaysia's endangered river terrapin nests",
+   "summary": "In Terengganu, ex-egg collectors patrol riverbanks as Terrapin Guardians, having incubated 13,224 eggs and released over 8,200 hatchlings.",
+   "why": "Measurable recovery effort for a critically endangered species.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/the-night-watchmen-guarding-malaysias-critically-endangered-river-terrapins/",
+   "score": 8,
+   "category": "Animals",
+   "region": "Terengganu, Malaysia",
+   "published": "2026-11-26T02:00:42Z",
+   "continent": "Asia",
+   "added": "2026-11-27T05:13:50Z",
+   "i18n": {
+    "ca": {
+     "title": "Antics recol·lectors d'ous vigilen ara els nius de les tortugues de riu en perill de Malàisia",
+     "summary": "A Terengganu, antics recol·lectors d'ous patrullen les ribes dels rius com a Terrapin Guardians, després d'incubar 13.224 ous i alliberar més de 8.200 cries.",
+     "why": "Esforç de recuperació mesurable per a una espècie en perill crític."
+    },
+    "fr": {
+     "title": "D'anciens ramasseurs d'œufs veillent désormais sur les nids des tortues fluviales menacées de Malaisie",
+     "summary": "À Terengganu, d'anciens ramasseurs d'œufs patrouillent sur les berges en tant que « Terrapin Guardians ». Ils ont incubé 13 224 œufs et relâché plus de 8 200 jeunes tortues.",
+     "why": "Effort de restauration mesurable pour une espèce en danger critique."
+    },
+    "ru": {
+     "title": "Бывшие собиратели яиц теперь охраняют гнёзда исчезающих речных черепах Малайзии",
+     "summary": "В Тренгану бывшие сборщики яиц патрулируют берега рек в качестве Terrapin Guardians: они инкубировали 13 224 яйца и выпустили более 8 200 детёнышей.",
+     "why": "Поддающиеся измерению усилия по восстановлению вида, которому грозит критическая опасность исчезновения."
+    }
+   }
+  },
+  {
+   "id": "mb-lula-recognizes-raoni-indigenous-territory",
+   "title": "Lula recognizes Indigenous territory of Chief Raoni's peoples",
+   "summary": "Brazil's president signed an order recognizing the Mebêngôkre and Yudjá peoples' permanent right to the 362,000-hectare Kapôt Nhĩnore territory; further steps remain.",
+   "why": "Significant land-rights step, but formal recognition is not complete.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/brazils-president-lula-moves-to-recognize-chief-raonis-indigenous-land/",
+   "score": 7,
+   "category": "Society",
+   "region": "Brazil",
+   "published": "2026-11-25T21:26:23Z",
+   "continent": "South America",
+   "added": "2026-11-27T05:13:50Z",
+   "i18n": {
+    "ca": {
+     "title": "Lula reconeix el territori indígena dels pobles del cap Raoni",
+     "summary": "El president del Brasil ha signat un decret pel qual reconeix el dret permanent dels pobles mebêngôkre i yudjá sobre el territori Kapôt Nhĩnore, de 362.000 hectàrees; encara queden passos per fer.",
+     "why": "Pas important en drets sobre la terra, però el reconeixement formal no és complet."
+    },
+    "fr": {
+     "title": "Lula reconnaît le territoire autochtone des peuples du chef Raoni",
+     "summary": "Le président brésilien a signé un décret reconnaissant le droit permanent des peuples mebêngôkre et yudjá sur le territoire de Kapôt Nhĩnore, d'une superficie de 362 000 hectares ; d'autres étapes restent à franchir.",
+     "why": "Avancée significative pour les droits fonciers, mais la reconnaissance formelle n'est pas achevée."
+    },
+    "ru": {
+     "title": "Лула признал территорию коренных народов вождя Рауни",
+     "summary": "Президент Бразилии подписал указ, признающий за народами mebêngôkre и yudjá постоянное право на территорию Kapôt Nhĩnore площадью 362 000 гектаров; впереди ещё несколько шагов.",
+     "why": "Значимый шаг в сфере земельных прав, однако формальное признание ещё не завершено."
+    }
+   }
+  },
+  {
+   "id": "gnn-stolen-romanesque-virgin-recovered-navarre",
+   "title": "Stolen 13th-century Virgin carving recovered after nearly 50 years",
+   "summary": "Detectives have recovered a Romanesque Virgin Mary sculpture stolen in 1979 from a church in Navarre, Spain.",
+   "why": "A lost heritage object returns home, a local rather than broad benefit.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/detectives-recover-13th-century-sculpture-stolen-by-notorious-gentleman-thief-erik-the-belgian/",
+   "score": 6,
+   "category": "Culture",
+   "region": "Navarre, Spain",
+   "published": "2026-11-25T19:30:55Z",
+   "continent": "Europe",
+   "added": "2026-11-27T05:13:50Z",
+   "i18n": {
+    "ca": {
+     "title": "Recuperada una talla de la Mare de Déu del segle XIII robada fa gairebé 50 anys",
+     "summary": "Els detectius han recuperat una escultura romànica de la Mare de Déu robada el 1979 d'una església de Navarra (Espanya).",
+     "why": "Un objecte patrimonial perdut torna a casa, un benefici més local que general."
+    },
+    "fr": {
+     "title": "Une statue de la Vierge du XIIIe siècle volée il y a près de cinquante ans retrouvée",
+     "summary": "Des enquêteurs ont retrouvé une sculpture romane de la Vierge Marie, volée en 1979 dans une église de Navarre, en Espagne.",
+     "why": "Un objet du patrimoine perdu retrouve sa place d'origine, un bénéfice local plutôt que large."
+    },
+    "ru": {
+     "title": "Похищенная скульптура Девы Марии XIII века найдена спустя почти 50 лет",
+     "summary": "Детективам удалось найти романскую скульптуру Девы Марии, похищенную в 1979 году из церкви в Наварре (Испания).",
+     "why": "Утраченный объект культурного наследия возвращается домой; польза скорее местная, чем широкая."
+    }
+   }
+  },
   {
    "id": "am-seabirds-fitted-with-sensors-to-monitor-the-ocean",
    "title": "Seabirds Fitted With Sensors to Monitor the Ocean",
@@ -42,6 +415,37 @@
      "title": "Морских птиц оснастили датчиками для мониторинга океана",
      "summary": "Исследователи оснастили морских птиц аудиорегистраторами и устройствами слежения, чтобы отслеживать активность по всему океану.",
      "why": "Датчики, установленные на животных, могут улучшить мониторинг океана при слабом воздействии на них."
+    }
+   }
+  },
+  {
+   "id": "mb-iccat-atlantic-shark-finning-rules",
+   "title": "Atlantic nations adopt new shark finning rules",
+   "summary": "ICCAT members agreed a compromise that could require sharks to keep fins naturally attached by 2029 or 2030, with temporary exceptions for frozen catch.",
+   "why": "Progress for sharks, though weaker than conservationists wanted.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/nations-hail-new-shark-finning-rules-in-the-atlantic-conservationists-say-japan-blocked-better-ones/",
+   "score": 6,
+   "category": "Animals",
+   "region": "Atlantic Ocean",
+   "published": "2026-11-25T17:52:18Z",
+   "continent": "Global",
+   "added": "2026-11-27T05:13:50Z",
+   "i18n": {
+    "ca": {
+     "title": "Els països de l'Atlàntic adopten noves normes sobre l'aleteig de taurons",
+     "summary": "Els membres de la ICCAT han acordat un compromís que podria obligar a mantenir les aletes dels taurons unides de manera natural el 2029 o el 2030, amb excepcions temporals per a la captura congelada.",
+     "why": "Progrés per als taurons, tot i que és més feble del que volien els conservacionistes."
+    },
+    "fr": {
+     "title": "Les nations de l'Atlantique adoptent de nouvelles règles sur l'ablation des ailerons de requins",
+     "summary": "Les membres de l'ICCAT ont convenu d'un compromis qui pourrait imposer de garder les ailerons des requins naturellement attachés d'ici 2029 ou 2030, avec des exceptions temporaires pour les prises congelées.",
+     "why": "Progrès pour les requins, bien que plus faible que ce que souhaitaient les défenseurs de la conservation."
+    },
+    "ru": {
+     "title": "Страны Атлантики приняли новые правила против удаления плавников у акул",
+     "summary": "Члены ICCAT достигли компромисса, который может обязать сохранять плавники акул естественно прикреплёнными к телу к 2029 или 2030 году, с временными исключениями для замороженного улова.",
+     "why": "Прогресс для акул, однако он слабее, чем хотели защитники природы."
     }
    }
   },
@@ -631,6 +1035,37 @@
      "title": "Дикие киви снова живут на холмах Веллингтона спустя 150 лет",
      "summary": "Природоохранная работа под руководством маори вернула диких киви на холмы вокруг Веллингтона впервые примерно за 150 лет.",
      "why": "Явное восстановление вида под руководством местного сообщества."
+    }
+   }
+  },
+  {
+   "id": "gr-utah-city-walkable-development-vineyard",
+   "title": "Walkable, transit-oriented city rises on former steel site in Utah",
+   "summary": "Utah City in Vineyard is being built on the old Geneva Steel site with public incentives, though cost concerns remain.",
+   "why": "Promising urban design, but costs and outcomes are uncertain.",
+   "source": "Grist",
+   "url": "https://grist.org/cities/utah-city-walkable-growing-vineyard/",
+   "score": 5,
+   "category": "Society",
+   "region": "Utah, United States",
+   "published": "2026-11-24T09:45:00Z",
+   "continent": "North America",
+   "added": "2026-11-27T05:13:50Z",
+   "i18n": {
+    "ca": {
+     "title": "Es construeix a Utah una ciutat accessible a peu i orientada al transport públic en una antiga siderúrgia",
+     "summary": "Utah City, a Vineyard, s'està construint a l'antic emplaçament de Geneva Steel amb incentius públics, tot i que encara hi ha dubtes sobre els costos.",
+     "why": "Disseny urbà prometedor, però els costos i els resultats són incerts."
+    },
+    "fr": {
+     "title": "Une ville accessible à pied et orientée vers les transports en commun prend forme sur un ancien site sidérurgique de l'Utah",
+     "summary": "Utah City, à Vineyard, est en construction sur l'ancien site de Geneva Steel grâce à des incitations publiques, mais les inquiétudes sur les coûts persistent.",
+     "why": "Conception urbaine prometteuse, mais les coûts et les résultats restent incertains."
+    },
+    "ru": {
+     "title": "В штате Юта на месте бывшего завода Geneva Steel строится удобный для пешеходов город с развитым общественным транспортом",
+     "summary": "Utah City в Винъярде строится на месте бывшего завода Geneva Steel при поддержке государственных льгот, однако вопросы о стоимости проекта остаются.",
+     "why": "Перспективная городская застройка, но стоимость и результаты остаются неопределёнными."
     }
    }
   },
@@ -3700,688 +4135,6 @@
      "title": "Ревари восстанавливает 10 прудов для накопления воды на фоне падения уровня грунтовых вод",
      "summary": "TERI и Nokia India восстанавливают 10 деревенских прудов в округе Ревари в штате Харьяна в течение 24 месяцев, чтобы накопить 120 миллионов литров воды.",
      "why": "Практичная локальная защита водных ресурсов, хотя результаты ещё впереди."
-    }
-   }
-  },
-  {
-   "id": "tbi-takachar-turns-stubble-into-biochar",
-   "title": "Indian startup turns crop stubble into biochar",
-   "summary": "Takachar, an Earthshot Awards winner, uses portable equipment to convert crop stubble into biochar, offering farmers an alternative to burning.",
-   "why": "Could cut field-burning smoke, if it scales.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/conservation/nature/takachar-stubble-burning-biochar-earthshot-prize-12816727",
-   "score": 7,
-   "category": "Environment",
-   "region": "India",
-   "published": "2026-11-17T09:30:37Z",
-   "continent": "Asia",
-   "added": "2026-11-18T05:14:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Una startup índia converteix el rostoll de les collites en biocarbó",
-     "summary": "Takachar, guanyadora dels premis Earthshot, utilitza equips portàtils per convertir el rostoll de les collites en biocarbó, i ofereix als agricultors una alternativa a cremar-lo.",
-     "why": "Podria reduir el fum de les cremes als camps, si arriba a escalar-se."
-    },
-    "fr": {
-     "title": "Une start-up indienne transforme les chaumes des cultures en biochar",
-     "summary": "Takachar, lauréate des Earthshot Awards, utilise des équipements portables pour transformer les chaumes des cultures en biochar, offrant aux agriculteurs une alternative au brûlage.",
-     "why": "Pourrait réduire la fumée des brûlis agricoles, si le procédé passe à plus grande échelle."
-    },
-    "ru": {
-     "title": "Индийский стартап превращает стерню в биоуголь",
-     "summary": "Takachar, победитель премии Earthshot Awards, использует переносное оборудование, чтобы превращать стерню в биоуголь, предлагая фермерам альтернативу сжиганию.",
-     "why": "Может сократить дым от сжигания полей, если проект масштабируется."
-    }
-   }
-  },
-  {
-   "id": "an-african-artists-take-four-of-five-global-album-spo",
-   "title": "African artists take four of five global album spots in 2027 Grammy nominations",
-   "summary": "African musicians received four of the five nominations in the Grammy global music album category.",
-   "why": "Wider recognition of African music.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/11/17/2027-grammy-nominations-african-artists-take-four-of-five-global-album-spots/",
-   "score": 6,
-   "category": "Culture",
-   "region": "Africa",
-   "published": "2026-11-17T09:09:26Z",
-   "continent": "Africa",
-   "added": "2026-11-19T05:13:40Z",
-   "i18n": {
-    "ca": {
-     "title": "Artistes africans obtenen quatre de les cinc nominacions a l'àlbum de música global dels Grammy 2027",
-     "summary": "Músics africans han rebut quatre de les cinc nominacions a la categoria d'àlbum de música global dels Grammy.",
-     "why": "Un reconeixement més ampli de la música africana."
-    },
-    "fr": {
-     "title": "Des artistes africains obtiennent quatre des cinq nominations dans la catégorie album de musique mondiale aux Grammy 2027",
-     "summary": "Des musiciens africains ont reçu quatre des cinq nominations dans la catégorie album de musique mondiale des Grammy.",
-     "why": "Une reconnaissance plus large de la musique africaine."
-    },
-    "ru": {
-     "title": "Африканские исполнители получили четыре из пяти номинаций на глобальный альбом премии «Грэмми» 2027",
-     "summary": "Африканские музыканты получили четыре из пяти номинаций в категории «Глобальный музыкальный альбом» премии «Грэмми».",
-     "why": "Более широкое признание африканской музыки."
-    }
-   }
-  },
-  {
-   "id": "mb-proposed-marine-protected-area-could-safeguard-wha",
-   "title": "Proposed marine protected area could safeguard whale sharks in Indonesia",
-   "summary": "Plans for a marine protected area in Indonesia's Saleh Bay would cover important habitat for whale sharks.",
-   "why": "Still a plan, not yet in force.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/11/plans-for-a-new-marine-protected-area-boost-whale-shark-conservation-in-indonesias-saleh-bay/",
-   "score": 6,
-   "category": "Animals",
-   "region": "Saleh Bay, Indonesia",
-   "published": "2026-11-17T08:10:41Z",
-   "continent": "Asia",
-   "added": "2026-11-19T05:13:40Z",
-   "i18n": {
-    "ca": {
-     "title": "Una proposta de zona marina protegida podria protegir els taurons balena a Indonèsia",
-     "summary": "Els plans per crear una zona marina protegida a la badia de Saleh, a Indonèsia, abastarien un hàbitat important per als taurons balena.",
-     "why": "Encara és un pla, no està en vigor."
-    },
-    "fr": {
-     "title": "Une future aire marine protégée pourrait préserver les requins-baleines en Indonésie",
-     "summary": "Le projet d'aire marine protégée dans la baie de Saleh, en Indonésie, couvrirait un habitat important pour les requins-baleines.",
-     "why": "Il ne s'agit encore que d'un projet, non encore en vigueur."
-    },
-    "ru": {
-     "title": "Предлагаемая морская охраняемая зона может защитить китовых акул в Индонезии",
-     "summary": "Планы создания морской охраняемой зоны в заливе Салех в Индонезии охватят важную среду обитания китовых акул.",
-     "why": "Пока это только план, он ещё не вступил в силу."
-    }
-   }
-  },
-  {
-   "id": "rtbc-people-who-became-wildlife-somerset",
-   "title": "Somerset volunteers take on the perspectives of local wildlife",
-   "summary": "Volunteers in the River Tone catchment in Somerset took on the viewpoints of animals such as kestrels to rethink how the landscape is managed.",
-   "why": "A creative community approach to nature recovery.",
-   "source": "Reasons to be Cheerful",
-   "url": "https://reasonstobecheerful.world/people-became-wildlife-river-tone/",
-   "score": 6,
-   "category": "Environment",
-   "region": "Somerset, UK",
-   "published": "2026-11-17T08:00:02Z",
-   "continent": "Europe",
-   "added": "2026-11-18T05:14:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Voluntaris de Somerset es posen en la pell de la fauna local",
-     "summary": "Voluntaris de la conca del riu Tone, a Somerset, han adoptat el punt de vista d'animals com el xoriguer per repensar com es gestiona el paisatge.",
-     "why": "Un enfocament comunitari creatiu per a la recuperació de la natura."
-    },
-    "fr": {
-     "title": "Des bénévoles de Somerset se mettent dans la peau de la faune locale",
-     "summary": "Des bénévoles du bassin versant de la rivière Tone, dans le Somerset, ont adopté le point de vue d'animaux comme le faucon crécerelle afin de repenser la gestion du paysage.",
-     "why": "Une approche communautaire créative pour la restauration de la nature."
-    },
-    "ru": {
-     "title": "Волонтёры из Сомерсета примеряют на себя точку зрения местной фауны",
-     "summary": "Волонтёры в бассейне реки Тоун в Сомерсете посмотрели на мир глазами животных, например пустельги, чтобы пересмотреть подходы к управлению ландшафтом.",
-     "why": "Творческий общинный подход к восстановлению природы."
-    }
-   }
-  },
-  {
-   "id": "tbi-aiims-delhi-foetal-surgery-25-weeks",
-   "title": "AIIMS Delhi performs open foetal surgery at 25 weeks",
-   "summary": "Surgeons at AIIMS Delhi repaired myelomeningocele, a spinal defect, in a baby before birth at 25 weeks of pregnancy.",
-   "why": "A medical milestone, though for a small number of patients.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/videos/health/this-babys-surgery-happened-at-25-weeks-12816250",
-   "score": 7,
-   "category": "Health",
-   "region": "Delhi, India",
-   "published": "2026-11-17T03:30:29Z",
-   "continent": "Asia",
-   "added": "2026-11-18T05:14:10Z",
-   "i18n": {
-    "ca": {
-     "title": "AIIMS Delhi practica una cirurgia fetal oberta a les 25 setmanes",
-     "summary": "Els cirurgians de l'AIIMS Delhi han reparat un mielomeningocele, un defecte de la columna vertebral, en un nadó abans del naixement, a les 25 setmanes d'embaràs.",
-     "why": "Una fita mèdica, tot i que per a un nombre reduït de pacients."
-    },
-    "fr": {
-     "title": "L'AIIMS de Delhi réalise une chirurgie fœtale ouverte à 25 semaines",
-     "summary": "Des chirurgiens de l'AIIMS de Delhi ont réparé un myéloméningocèle, une malformation de la colonne vertébrale, chez un bébé avant la naissance, à 25 semaines de grossesse.",
-     "why": "Une avancée médicale, même si elle concerne un petit nombre de patients."
-    },
-    "ru": {
-     "title": "Врачи AIIMS в Дели провели открытую операцию на плоде на 25-й неделе беременности",
-     "summary": "Хирурги AIIMS в Дели устранили миеломенингоцеле, дефект позвоночника, у ребёнка до рождения, на 25-й неделе беременности.",
-     "why": "Медицинская веха, хотя касается небольшого числа пациентов."
-    }
-   }
-  },
-  {
-   "id": "mb-japan-rice-paddies-flood-mitigation",
-   "title": "Japanese town uses rice paddies to hold floodwater",
-   "summary": "Osaki has installed more than 5,000 small earthen dams in surrounding rice paddies so the fields can hold floodwater and reduce flooding.",
-   "why": "Low-cost climate adaptation using existing farmland.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/11/the-power-of-the-paddy-japan-looks-to-rice-fields-to-help-mitigate-flooding/",
-   "score": 7,
-   "category": "Environment",
-   "region": "Osaki, Japan",
-   "published": "2026-11-16T20:49:00Z",
-   "continent": "Asia",
-   "added": "2026-11-18T05:14:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Una població japonesa aprofita els arrossars per retenir l'aigua de les inundacions",
-     "summary": "Osaki ha instal·lat més de 5.000 petites preses de terra als arrossars dels voltants perquè els camps puguin retenir l'aigua de les inundacions i reduir les inundacions.",
-     "why": "Adaptació climàtica de baix cost aprofitant terres de conreu existents."
-    },
-    "fr": {
-     "title": "Une ville japonaise utilise ses rizières pour retenir les eaux de crue",
-     "summary": "Osaki a installé plus de 5 000 petites digues en terre dans les rizières environnantes afin que les champs puissent retenir les eaux de crue et réduire les inondations.",
-     "why": "Une adaptation climatique à faible coût, s'appuyant sur des terres agricoles existantes."
-    },
-    "ru": {
-     "title": "Японский город использует рисовые поля для удержания паводковых вод",
-     "summary": "В Осаки на окружающих рисовых полях установили более 5 000 небольших земляных дамб, чтобы поля могли удерживать паводковую воду и уменьшать наводнения.",
-     "why": "Недорогая климатическая адаптация с использованием существующих сельхозугодий."
-    }
-   }
-  },
-  {
-   "id": "gnn-farmer-grows-ancient-grain-from-attic-seeds",
-   "title": "Italian farmer grows ancient wheat from seeds found in his attic",
-   "summary": "Claudio Grossi planted shriveled seeds found in his attic and grew an ancient grain, adding to interest in heritage crop varieties.",
-   "why": "A charming find with modest wider impact.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/farmer-finds-unknown-seeds-in-his-attic-and-grows-an-ancient-miracle-grain/",
-   "score": 5,
-   "category": "Culture",
-   "region": "Italy",
-   "published": "2026-11-16T19:30:28Z",
-   "continent": "Europe",
-   "added": "2026-11-18T05:14:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Un pagès italià cultiva un cereal antic a partir de llavors trobades a les golfes",
-     "summary": "Claudio Grossi va plantar llavors arrugades trobades a les golfes i va cultivar un cereal antic, cosa que contribueix a l'interès per les varietats de cultius tradicionals.",
-     "why": "Una troballa encantadora amb un impacte més ampli modest."
-    },
-    "fr": {
-     "title": "Un agriculteur italien cultive un blé ancien à partir de graines trouvées dans son grenier",
-     "summary": "Claudio Grossi a semé des graines ratatinées découvertes dans son grenier et a fait pousser une céréale ancienne, ce qui renforce l'intérêt pour les variétés de cultures patrimoniales.",
-     "why": "Une découverte charmante, à l'impact plus large modeste."
-    },
-    "ru": {
-     "title": "Итальянский фермер вырастил древнюю пшеницу из семян, найденных у него на чердаке",
-     "summary": "Клаудио Гросси посадил сморщенные семена, найденные на чердаке, и вырастил древнее зерно, что добавляет интереса к сортам сельскохозяйственных культур с историческими корнями.",
-     "why": "Занятная находка с умеренным более широким эффектом."
-    }
-   }
-  },
-  {
-   "id": "an-kenyan-farmers-prepare-crops-and-soil-fo",
-   "title": "Kenyan farmers prepare crops and soil for El Niño rains",
-   "summary": "Farmers in central Kenya are taking steps to protect their crops and soil before the forecast El Niño rains.",
-   "why": "Useful preparation, but flooding risk remains.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/11/16/kenyan-farmers-race-to-protect-crops-and-soil-ahead-of-el-nino-rains/",
-   "score": 4,
-   "category": "Environment",
-   "region": "Kenya",
-   "published": "2026-11-16T17:03:12Z",
-   "continent": "Africa",
-   "added": "2026-11-17T05:14:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Els pagesos kenyans preparen cultius i sòls per a les pluges d'El Niño",
-     "summary": "Els pagesos del centre de Kenya estan prenent mesures per protegir els seus cultius i sòls abans de les pluges d'El Niño que s'han pronosticat.",
-     "why": "Una preparació útil, però el risc d'inundacions continua present."
-    },
-    "fr": {
-     "title": "Des agriculteurs kényans préparent leurs cultures et leurs sols aux pluies d'El Niño",
-     "summary": "Des agriculteurs du centre du Kenya prennent des mesures pour protéger leurs cultures et leurs sols avant les pluies d'El Niño prévues.",
-     "why": "Une préparation utile, mais le risque d'inondations demeure."
-    },
-    "ru": {
-     "title": "Фермеры Кении готовят посевы и почву к дождям Эль-Ниньо",
-     "summary": "Фермеры в центральной Кении принимают меры, чтобы защитить посевы и почву до прогнозируемых дождей Эль-Ниньо.",
-     "why": "Полезная подготовка, но риск наводнений сохраняется."
-    }
-   }
-  },
-  {
-   "id": "gnn-forever-chemicals-fall-in-english-rivers",
-   "title": "Forever chemicals fall in English rivers and fish",
-   "summary": "Two internationally restricted PFAS chemicals have dropped about 30% in English river water and 49% in fish, according to a BBC report.",
-   "why": "Restrictions are visibly working, though the chemicals persist.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/30-drop-in-levels-of-forever-chemicals-in-englands-rivers-49-in-fish-brilliant-to-see/",
-   "score": 7,
-   "category": "Environment",
-   "region": "England",
-   "published": "2026-11-16T16:30:13Z",
-   "continent": "Europe",
-   "added": "2026-11-17T05:14:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Els productes químics eterns baixen als rius i als peixos d'Anglaterra",
-     "summary": "Dos productes químics PFAS sotmesos a restriccions internacionals han baixat un 30 % a l'aigua dels rius anglesos i un 49 % als peixos, segons un informe de la BBC.",
-     "why": "Les restriccions estan donant resultats visibles, tot i que els productes químics persisteixen."
-    },
-    "fr": {
-     "title": "Les polluants éternels reculent dans les rivières et les poissons anglais",
-     "summary": "Deux substances PFAS soumises à des restrictions internationales ont diminué d'environ 30 % dans les eaux des rivières anglaises et de 49 % chez les poissons, selon un reportage de la BBC.",
-     "why": "Les restrictions produisent des effets visibles, même si ces substances persistent."
-    },
-    "ru": {
-     "title": "Вечные химикаты становятся меньше в английских реках и рыбе",
-     "summary": "По данным BBC, два международно ограниченных химических вещества PFAS снизились примерно на 30% в воде английских рек и на 49% в рыбе.",
-     "why": "Ограничения явно работают, хотя эти вещества сохраняются в окружающей среде."
-    }
-   }
-  },
-  {
-   "id": "tbi-maharashtra-village-runs-without-electri",
-   "title": "Maharashtra village runs without electricity bills",
-   "summary": "A video report looks at Shelkewadi, a Maharashtra village that has cut its electricity bills and supplies cooking gas through local energy projects.",
-   "why": "A community model that others could copy.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/videos/society/no-electricity-bills-free-gas-how-does-this-village-do-it-12815405",
-   "score": 7,
-   "category": "Energy",
-   "region": "Maharashtra, India",
-   "published": "2026-11-16T15:30:28Z",
-   "continent": "Asia",
-   "added": "2026-11-17T05:14:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Un poble de Maharashtra funciona sense factures d'electricitat",
-     "summary": "Un reportatge en vídeo explora Shelkewadi, un poble de Maharashtra que ha reduït les factures d'electricitat i proveeix gas per cuinar gràcies a projectes energètics locals.",
-     "why": "Un model comunitari que altres podrien copiar."
-    },
-    "fr": {
-     "title": "Un village du Maharashtra fonctionne sans factures d'électricité",
-     "summary": "Un reportage vidéo présente Shelkewadi, un village du Maharashtra qui a réduit ses factures d'électricité et fournit du gaz de cuisine grâce à des projets énergétiques locaux.",
-     "why": "Un modèle communautaire que d'autres pourraient reproduire."
-    },
-    "ru": {
-     "title": "Деревня в Махараштре живёт без счетов за электричество",
-     "summary": "Видеорепортаж рассказывает о Шелкевади, деревне в Махараштре, которая сократила расходы на электричество и обеспечивает жителей газом для приготовления пищи благодаря местным энергетическим проектам.",
-     "why": "Общинная модель, которую могут перенять другие."
-    }
-   }
-  },
-  {
-   "id": "mb-right-whale-census-382",
-   "title": "North Atlantic right whale population estimated at about 382",
-   "summary": "A new census estimates about 382 North Atlantic right whales remain, down from 389 in 2024, with fishing gear and ship strikes still major threats.",
-   "why": "A continued decline for a critically endangered species.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/11/drowned-in-fishing-gear-struck-by-boats-north-atlantic-right-whales-in-serious-trouble/",
-   "score": 2,
-   "category": "Animals",
-   "region": "North Atlantic",
-   "published": "2026-11-16T14:48:11Z",
-   "continent": "North America",
-   "added": "2026-11-20T05:13:11Z",
-   "i18n": {
-    "ca": {
-     "title": "Un nou cens estima que queden unes 382 balenes franques de l'Atlàntic Nord",
-     "summary": "Un cens nou calcula que queden unes 382 balenes franques de l'Atlàntic Nord, davant les 389 del 2024, i els engins de pesca i les col·lisions amb vaixells continuen sent amenaces importants.",
-     "why": "Un descens continuat per a una espècie en perill crític d'extinció."
-    },
-    "fr": {
-     "title": "La population de baleines franches de l'Atlantique Nord est estimée à environ 382 individus",
-     "summary": "Un nouveau recensement estime qu'il reste environ 382 baleines franches de l'Atlantique Nord, contre 389 en 2024, et que les engins de pêche ainsi que les collisions avec les navires restent les principales menaces.",
-     "why": "Un déclin qui se poursuit pour une espèce en danger critique d'extinction."
-    },
-    "ru": {
-     "title": "Популяция северных атлантических гладких китов оценивается примерно в 382 особи",
-     "summary": "Новая перепись оценивает число северных атлантических гладких китов примерно в 382 особи против 389 в 2024 году. Основными угрозами по-прежнему остаются рыболовные снасти и столкновения с судами.",
-     "why": "Продолжающееся сокращение численности вида, находящегося в критическом состоянии."
-    }
-   }
-  },
-  {
-   "id": "gnn-tokyo-trials-robotic-street-bins-in-tour",
-   "title": "Tokyo trials robotic street bins in tourist areas",
-   "summary": "Tokyo is using solar-powered compactors and robots to haul rubbish away from busy tourist districts while keeping its tradition of tidy streets.",
-   "why": "A practical urban fix, limited to one city.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/tokyo-tackles-trash-troubles-with-new-generation-of-robotic-street-waste-bins/",
-   "score": 6,
-   "category": "Environment",
-   "region": "Tokyo, Japan",
-   "published": "2026-11-16T14:00:03Z",
-   "continent": "Asia",
-   "added": "2026-11-17T05:14:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Tòquio prova papereres robotitzades als carrers de les zones turístiques",
-     "summary": "Tòquio fa servir compactadors alimentats amb energia solar i robots per retirar les deixalles dels barris turístics més concorreguts, mantenint la tradició de carrers nets.",
-     "why": "Una solució urbana pràctica, limitada a una sola ciutat."
-    },
-    "fr": {
-     "title": "Tokyo teste des poubelles de rue robotisées dans les zones touristiques",
-     "summary": "Tokyo utilise des compacteurs alimentés à l'énergie solaire et des robots pour évacuer les déchets des quartiers touristiques très fréquentés, tout en préservant sa tradition de rues propres.",
-     "why": "Une solution urbaine concrète, mais limitée à une seule ville."
-    },
-    "ru": {
-     "title": "Токио испытывает роботизированные уличные урны в туристических районах",
-     "summary": "Токио использует солнечные компакторы и роботов, чтобы вывозить мусор из оживлённых туристических районов и сохранять традицию чистых улиц.",
-     "why": "Практичное городское решение, пока ограниченное одним городом."
-    }
-   }
-  },
-  {
-   "id": "tbi-17-year-old-builds-ai-tool-to-help-blind",
-   "title": "17-year-old builds AI tool to help blind people read documents",
-   "summary": "Yash Bhatnagar, 17, created Visionably, an AI tool that helps blind people read bank statements and textbooks.",
-   "why": "Useful accessibility tech from a young creator, still early stage.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/innovation/ai-tool-makes-pdfs-accessible-for-the-blind-gurugram-visionably-yash-bhatnagar-12814698",
-   "score": 6,
-   "category": "Society",
-   "region": "India",
-   "published": "2026-11-16T13:48:53Z",
-   "continent": "Asia",
-   "added": "2026-11-17T05:14:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Un jove de 17 anys crea una eina d'IA per ajudar les persones cegues a llegir documents",
-     "summary": "Yash Bhatnagar, de 17 anys, ha creat Visionably, una eina d'IA que ajuda les persones cegues a llegir extractes bancaris i llibres de text.",
-     "why": "Tecnologia d'accessibilitat útil creada per una persona jove, encara en una fase inicial."
-    },
-    "fr": {
-     "title": "Un jeune de 17 ans crée un outil d'IA pour aider les personnes aveugles à lire des documents",
-     "summary": "Yash Bhatnagar, 17 ans, a créé Visionably, un outil d'IA qui aide les personnes aveugles à lire des relevés bancaires et des manuels scolaires.",
-     "why": "Une technologie d'accessibilité utile, portée par un jeune créateur, encore au stade précoce."
-    },
-    "ru": {
-     "title": "17-летний разработчик создал ИИ-инструмент, помогающий слепым читать документы",
-     "summary": "Яш Бхатнагар, 17 лет, создал Visionably, ИИ-инструмент, который помогает слепым читать банковские выписки и учебники.",
-     "why": "Полезная технология доступности от юного создателя, пока на ранней стадии."
-    }
-   }
-  },
-  {
-   "id": "sd-hera-spacecraft-images-the-crater-covered-side-of",
-   "title": "Hera spacecraft images the crater-covered side of NASA-impacted asteroid",
-   "summary": "ESA's Hera mission has imaged the asteroid Dimorphos after NASA's 2022 impact, revealing a surprising cratered surface.",
-   "why": "Useful planetary defence knowledge.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm",
-   "score": 6,
-   "category": "Science",
-   "region": "Space",
-   "published": "2026-11-16T13:40:11Z",
-   "continent": "Global",
-   "added": "2026-11-19T05:13:40Z",
-   "i18n": {
-    "ca": {
-     "title": "La nau Hera fotografia la cara coberta de cràters de l'asteroide impactat per la NASA",
-     "summary": "La missió Hera de l'ESA ha fotografiat l'asteroide Dimorphos després de l'impacte de la NASA del 2022, i ha revelat una superfície sorprenentment plena de cràters.",
-     "why": "Coneixement útil per a la defensa planetària."
-    },
-    "fr": {
-     "title": "La sonde Hera photographie la face criblée de cratères de l'astéroïde percuté par la NASA",
-     "summary": "La mission Hera de l'ESA a photographié l'astéroïde Dimorphos après l'impact de la NASA en 2022, révélant une surface étonnamment couverte de cratères.",
-     "why": "Connaissances utiles pour la défense planétaire."
-    },
-    "ru": {
-     "title": "Зонд «Гера» снял кратерную сторону астероида, в который врезалась NASA",
-     "summary": "Миссия ESA «Гера» сфотографировала астероид Диморф после столкновения NASA в 2022 году и обнаружила неожиданно изрытую кратерами поверхность.",
-     "why": "Полезные знания для планетарной защиты."
-    }
-   }
-  },
-  {
-   "id": "mb-lost-firefly-species-rediscovered-us",
-   "title": "A firefly species not seen since 1983 is found again in the US",
-   "summary": "The similar firefly, last documented in 1983, was recorded in Virginia and Delaware in spring 2026.",
-   "why": "A rediscovery that offers hope for overlooked insects.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/11/a-lost-firefly-species-flashes-back-into-view-in-the-us/",
-   "score": 7,
-   "category": "Animals",
-   "region": "Virginia and Delaware, USA",
-   "published": "2026-11-16T13:00:50Z",
-   "continent": "North America",
-   "added": "2026-11-18T05:14:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Una espècie de cuc de llum no vista des de 1983 torna a aparèixer als Estats Units",
-     "summary": "El cuc de llum similar, documentat per última vegada el 1983, va ser registrat a Virgínia i Delaware la primavera del 2026.",
-     "why": "Una redescoberta que dona esperança per als insectes oblidats."
-    },
-    "fr": {
-     "title": "Une espèce de luciole non observée depuis 1983 a été retrouvée aux États-Unis",
-     "summary": "Cette luciole semblable, dernière documentée en 1983, a été recensée en Virginie et dans le Delaware au printemps 2026.",
-     "why": "Une redécouverte qui redonne espoir pour les insectes méconnus."
-    },
-    "ru": {
-     "title": "Вид светлячков, не встречавшийся с 1983 года, вновь обнаружен в США",
-     "summary": "Этот похожий светлячок, последний раз зафиксированный в 1983 году, был отмечен весной 2026 года в Вирджинии и Делавэре.",
-     "why": "Повторное открытие, которое даёт надежду на забытых насекомых."
-    }
-   }
-  },
-  {
-   "id": "tbi-aiims-delhi-performs-india-s-first-open",
-   "title": "AIIMS Delhi performs India's first open foetal repair",
-   "summary": "Doctors at AIIMS Delhi report India's first open foetal surgery repair, a procedure years in the making.",
-   "why": "A medical first that could help future families, though currently for few patients.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/health-care/aiims-delhi-spine-repair-inside-womb-open-foetal-surgery-12814583",
-   "score": 7,
-   "category": "Health",
-   "region": "Delhi, India",
-   "published": "2026-11-16T12:36:20Z",
-   "continent": "Asia",
-   "added": "2026-11-17T05:14:58Z",
-   "i18n": {
-    "ca": {
-     "title": "L'AIIMS de Delhi realitza la primera reparació fetal oberta de l'Índia",
-     "summary": "Els metges de l'AIIMS de Delhi informen de la primera reparació quirúrgica fetal oberta de l'Índia, un procediment en què han treballat durant anys.",
-     "why": "Un primer pas mèdic que podria ajudar futures famílies, tot i que de moment beneficia pocs pacients."
-    },
-    "fr": {
-     "title": "L'AIIMS de Delhi réalise la première réparation fœtale ouverte en Inde",
-     "summary": "Les médecins de l'AIIMS de Delhi annoncent la première réparation chirurgicale fœtale ouverte réalisée en Inde, une procédure mise au point depuis des années.",
-     "why": "Une première médicale qui pourrait aider de futures familles, bien qu'elle ne concerne pour l'instant que peu de patients."
-    },
-    "ru": {
-     "title": "AIIMS в Дели впервые в Индии провёл открытую внутриутробную операцию",
-     "summary": "Врачи AIIMS в Дели сообщили о первой в Индии открытой внутриутробной хирургической коррекции плода, для которой процедура готовилась несколько лет.",
-     "why": "Медицинское первенство, которое может помочь будущим семьям, хотя пока оно касается немногих пациентов."
-    }
-   }
-  },
-  {
-   "id": "gnn-climbers-carry-orphaned-monk-seal-pup-up",
-   "title": "Climbers carry orphaned monk seal pup up a cliff",
-   "summary": "Hikers in Greece found an orphaned seal pup on a beach below a cliff and carried it back up to safety.",
-   "why": "A small rescue for an endangered animal.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/climbers-lug-endangered-and-orphaned-seal-pup-up-a-cliff-to-safety/",
-   "score": 6,
-   "category": "Animals",
-   "region": "Greece",
-   "published": "2026-11-16T12:30:00Z",
-   "continent": "Europe",
-   "added": "2026-11-17T05:14:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Excursionistes pugen una cria orfe de foca monjo per un penya-segat",
-     "summary": "Excursionistes a Grècia han trobat una cria de foca orfe en una platja situada sota un penya-segat i l'han pujada fins a un lloc segur.",
-     "why": "Un petit rescat per a un animal en perill d'extinció."
-    },
-    "fr": {
-     "title": "Des randonneurs remontent un phoque moine orphelin en haut d'une falaise",
-     "summary": "Des randonneurs en Grèce ont trouvé un bébé phoque orphelin sur une plage au pied d'une falaise et l'ont ramené en lieu sûr, en haut.",
-     "why": "Un petit sauvetage pour un animal menacé."
-    },
-    "ru": {
-     "title": "Альпинисты подняли на скалу осиротевшего детёныша тюленя-монаха",
-     "summary": "Туристы в Греции нашли осиротевшего детёныша тюленя на пляже у подножия скалы и подняли его обратно в безопасное место.",
-     "why": "Небольшое спасение исчезающего вида."
-    }
-   }
-  },
-  {
-   "id": "sd-245-animals-living-in-deep-sea-nodule",
-   "title": "Hundreds of animals found living in deep-sea mineral nodules",
-   "summary": "Researchers examined 244 metal-rich deep Pacific nodules and found over 4,100 animals in their cracks, showing the nodules support rich habitats.",
-   "why": "Interesting discovery, but it also highlights risks from deep-sea mining.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261114202133.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Pacific Ocean",
-   "published": "2026-11-16T11:40:14Z",
-   "continent": "Global",
-   "added": "2026-11-18T05:14:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Troben centenars d'animals que viuen en nòduls minerals de les profunditats marines",
-     "summary": "Els investigadors han examinat 244 nòduls profunds del Pacífic, rics en metalls, i hi han trobat més de 4.100 animals en les seves esquerdes, cosa que demostra que els nòduls sostenen hàbitats rics.",
-     "why": "Descobriment interessant, però que també posa de manifest els riscos de la mineria en aigües profundes."
-    },
-    "fr": {
-     "title": "Des centaines d'animaux vivent dans des nodules minéraux des abysses",
-     "summary": "Des chercheurs ont examiné 244 nodules profonds du Pacifique, riches en métaux, et y ont trouvé plus de 4 100 animaux dans leurs fissures, ce qui montre que ces nodules abritent des habitats riches.",
-     "why": "Découverte intéressante, mais qui met aussi en lumière les risques de l'exploitation minière des fonds marins."
-    },
-    "ru": {
-     "title": "В минеральных конкрециях на морском дне обнаружены сотни животных",
-     "summary": "Исследователи изучили 244 богатые металлами глубоководные конкреции в Тихом океане и обнаружили более 4 100 животных в их трещинах, что показывает богатство этих мест обитания.",
-     "why": "Интересное открытие, но оно также показывает риски глубоководной добычи полезных ископаемых."
-    }
-   }
-  },
-  {
-   "id": "an-libyan-zoo-welcomes-first-white-tiger-cu",
-   "title": "Libyan zoo welcomes first white tiger cub",
-   "summary": "A zoo in Libya has welcomed its first white tiger cub a few months after reopening.",
-   "why": "A light moment for a recovering zoo.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/11/16/libyan-zoo-welcomes-first-white-tiger-cub-months-after-reopening/",
-   "score": 5,
-   "category": "Animals",
-   "region": "Libya",
-   "published": "2026-11-16T11:21:43Z",
-   "continent": "Africa",
-   "added": "2026-11-17T05:14:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Un zoo de Líbia acull el seu primer cadell de tigre blanc",
-     "summary": "Un zoo de Líbia ha rebut el seu primer cadell de tigre blanc uns mesos després de tornar a obrir.",
-     "why": "Un moment alegre per a un zoo que es recupera."
-    },
-    "fr": {
-     "title": "Un zoo libyen accueille son premier bébé tigre blanc",
-     "summary": "Un zoo de Libye a accueilli son premier bébé tigre blanc quelques mois après sa réouverture.",
-     "why": "Un moment de légèreté pour un zoo en pleine reprise."
-    },
-    "ru": {
-     "title": "Зоопарк в Ливии впервые принял новорождённого белого тигрёнка",
-     "summary": "Зоопарк в Ливии получил первого белого тигрёнка через несколько месяцев после возобновления работы.",
-     "why": "Радостное событие для зоопарка, который восстанавливается."
-    }
-   }
-  },
-  {
-   "id": "an-sudan-revolution-band-plays-again",
-   "title": "Band that voiced Sudan's revolution records together again in Cairo",
-   "summary": "Musician Mohamed al-Mustafa is recording in Cairo with his band, whose members were scattered across countries by the war in Sudan.",
-   "why": "A cultural comeback amid ongoing conflict.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/11/16/scattered-by-war-the-band-that-gave-voice-to-sudans-revolution-plays-again/",
-   "score": 6,
-   "category": "Culture",
-   "region": "Sudan",
-   "published": "2026-11-16T10:02:44Z",
-   "continent": "Africa",
-   "added": "2026-11-18T05:14:10Z",
-   "i18n": {
-    "ca": {
-     "title": "La banda que va donar veu a la revolució sudanesa torna a gravar junta al Caire",
-     "summary": "El músic Mohamed al-Mustafa grava al Caire amb la seva banda, els membres de la qual van quedar dispersos per diversos països a causa de la guerra al Sudan.",
-     "why": "Un retorn cultural en mig d'un conflicte que continua."
-    },
-    "fr": {
-     "title": "Le groupe qui a porté la voix de la révolution soudanaise enregistre à nouveau ensemble au Caire",
-     "summary": "Le musicien Mohamed al-Mustafa enregistre au Caire avec son groupe, dont les membres ont été dispersés dans plusieurs pays par la guerre au Soudan.",
-     "why": "Un retour culturel au milieu d'un conflit toujours en cours."
-    },
-    "ru": {
-     "title": "Группа, ставшая голосом революции в Судане, снова записывается вместе в Каире",
-     "summary": "Музыкант Мохаммед аль-Мустафа записывается в Каире вместе со своей группой, участники которой были разбросаны по разным странам войной в Судане.",
-     "why": "Культурное возвращение на фоне продолжающегося конфликта."
-    }
-   }
-  },
-  {
-   "id": "gr-liquid-co2-laundry-without-water",
-   "title": "Liquid carbon dioxide could wash clothes without water",
-   "summary": "Liquid CO2, a cleaning method developed for aerospace parts, can wash clothes without water or a dryer, according to Grist.",
-   "why": "An early-stage idea with potential water and energy savings.",
-   "source": "Grist",
-   "url": "https://grist.org/science/carbon-dioxide-is-a-climate-problem-it-might-also-be-a-laundry-solution/",
-   "score": 5,
-   "category": "Environment",
-   "region": "USA",
-   "published": "2026-11-16T09:45:00Z",
-   "continent": "North America",
-   "added": "2026-11-18T05:14:10Z",
-   "i18n": {
-    "ca": {
-     "title": "El diòxid de carboni líquid podria rentar la roba sense aigua",
-     "summary": "El CO2 líquid, un mètode de neteja desenvolupat per a peces aeroespacials, pot rentar la roba sense aigua ni assecadora, segons Grist.",
-     "why": "Una idea en fase inicial amb un potencial d'estalvi d'aigua i energia."
-    },
-    "fr": {
-     "title": "Le dioxyde de carbone liquide pourrait laver les vêtements sans eau",
-     "summary": "Le CO2 liquide, une méthode de nettoyage mise au point pour les pièces aérospatiales, permet de laver les vêtements sans eau ni sèche-linge, selon Grist.",
-     "why": "Une idée en phase précoce, aux économies potentielles d'eau et d'énergie."
-    },
-    "ru": {
-     "title": "Жидкий углекислый газ может стирать одежду без воды",
-     "summary": "Жидкий CO2, метод очистки, разработанный для деталей аэрокосмической техники, может стирать одежду без воды и сушилки, пишет Grist.",
-     "why": "Идея на раннем этапе, которая может сэкономить воду и энергию."
-    }
-   }
-  },
-  {
-   "id": "pn-charity-donates-bicycles-to-people-seeki",
-   "title": "Charity donates bicycles to people seeking asylum in the UK",
-   "summary": "The Bike Project gives bicycles to asylum seekers in the UK, helping with transport poverty and daily life.",
-   "why": "Helps many people directly, on a modest scale.",
-   "source": "Positive News",
-   "url": "https://www.positive.news/society/getting-a-bike-was-a-resurrection-the-project-donating-bicycles-to-refugees/",
-   "score": 6,
-   "category": "Society",
-   "region": "United Kingdom",
-   "published": "2026-11-16T09:25:57Z",
-   "continent": "Europe",
-   "added": "2026-11-17T05:14:58Z",
-   "i18n": {
-    "ca": {
-     "title": "Una entitat dona bicicletes a persones sol·licitants d'asil al Regne Unit",
-     "summary": "The Bike Project regala bicicletes a persones sol·licitants d'asil al Regne Unit, i ajuda a combatre la pobresa de transport i a facilitar la vida quotidiana.",
-     "why": "Ajuda directament moltes persones, a una escala modesta."
-    },
-    "fr": {
-     "title": "Une association offre des vélos à des demandeurs d'asile au Royaume-Uni",
-     "summary": "The Bike Project offre des vélos à des demandeurs d'asile au Royaume-Uni, pour lutter contre la précarité des transports et faciliter le quotidien.",
-     "why": "Aide directement de nombreuses personnes, à une échelle modeste."
-    },
-    "ru": {
-     "title": "Благотворительный проект передаёт велосипеды людям, ищущим убежище в Великобритании",
-     "summary": "The Bike Project передаёт велосипеды соискателям убежища в Великобритании, помогая бороться с транспортной бедностью и облегчая повседневную жизнь.",
-     "why": "Напрямую помогает многим людям, пусть и в скромных масштабах."
     }
    }
   }
