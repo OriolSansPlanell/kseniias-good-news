@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:13:50Z",
+ "updated": "2026-11-28T05:14:08Z",
  "sources": [
   "Positive News",
   "Good News Network",
@@ -11,10 +11,351 @@
   "Grist",
   "Africanews"
  ],
- "count": 133,
- "last_run": "run-20261127T0513Z.json",
- "note": "14 new, 45 skipped, 22 pruned, 0 translations added, failed feeds: The Optimist Daily",
+ "count": 135,
+ "last_run": "run-20261128T0514Z.json",
+ "note": "15 new, 44 skipped, 13 pruned, 0 translations added, failed feeds: The Optimist Daily",
  "stories": [
+  {
+   "id": "tbi-carbon-craft-air-pollution-tiles",
+   "title": "Indian designer makes building tiles from recovered air-pollution carbon",
+   "summary": "Carbon Craft Design turns carbon waste recovered from pollution into eco-friendly tiles, giving it a second use.",
+   "why": "Creative reuse of pollution, scale still to be shown.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/videos/business/they-are-turning-air-pollution-into-homes-12847511",
+   "score": 7,
+   "category": "Environment",
+   "region": "India",
+   "published": "2026-11-27T17:03:30Z",
+   "continent": "Asia",
+   "added": "2026-11-28T05:14:08Z",
+   "i18n": {
+    "ca": {
+     "title": "Una dissenyadora índia fa rajoles per a edificis amb carboni recuperat de la contaminació atmosfèrica",
+     "summary": "Carbon Craft Design transforma els residus de carboni recuperats de la contaminació en rajoles ecològiques, cosa que els dona una segona vida.",
+     "why": "Reutilització creativa de la contaminació, però encara cal demostrar-ne l'escala."
+    },
+    "fr": {
+     "title": "Une designer indienne fabrique des carreaux de construction à partir de carbone capté dans la pollution de l'air",
+     "summary": "Carbon Craft Design transforme les déchets de carbone récupérés dans la pollution en carreaux écologiques, leur offrant une seconde vie.",
+     "why": "Une réutilisation créative de la pollution, mais son échelle reste à démontrer."
+    },
+    "ru": {
+     "title": "Индийский дизайнер делает строительную плитку из углерода, извлечённого из загрязнения воздуха",
+     "summary": "Carbon Craft Design превращает углеродные отходы, извлечённые из загрязнения, в экологичную плитку, давая им второе применение.",
+     "why": "Творческое повторное использование загрязнения, но масштаб ещё предстоит показать."
+    }
+   }
+  },
+  {
+   "id": "mb-rohingya-agroforestry-bangladesh",
+   "title": "Rohingya refugees use agroforestry to restore degraded land in Bangladesh",
+   "summary": "Families in Kutupalong camp combine farming projects with traditional agroecology to bring back degraded landscape around the camp.",
+   "why": "Restores land and livelihoods for a displaced community.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/refugee-families-use-agroforestry-to-restore-degraded-landscape-in-bangladesh-camp/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Cox's Bazar, Bangladesh",
+   "published": "2026-11-27T15:32:02Z",
+   "continent": "Asia",
+   "added": "2026-11-28T05:14:08Z",
+   "i18n": {
+    "ca": {
+     "title": "Refugiats rohingya recorren a l'agrosilvicultura per restaurar terres degradades a Bangladesh",
+     "summary": "Famílies del campament de Kutupalong combinen projectes agrícoles amb l'agroecologia tradicional per recuperar el paisatge degradat que envolta el campament.",
+     "why": "Restaura la terra i els mitjans de vida d'una comunitat desplaçada."
+    },
+    "fr": {
+     "title": "Des réfugiés rohingyas recourent à l'agroforesterie pour restaurer des terres dégradées au Bangladesh",
+     "summary": "Des familles du camp de Kutupalong associent des projets agricoles à une agroécologie traditionnelle afin de rétablir le paysage dégradé qui entoure le camp.",
+     "why": "Restaure les terres et les moyens de subsistance d'une communauté déplacée."
+    },
+    "ru": {
+     "title": "Беженцы рохинджа используют агролесоводство для восстановления деградировавших земель в Бангладеш",
+     "summary": "Семьи из лагеря Кутупалонг сочетают сельскохозяйственные проекты с традиционной агроэкологией, чтобы восстановить деградировавший ландшафт вокруг лагеря.",
+     "why": "Восстанавливает земли и средства к существованию перемещённого сообщества."
+    }
+   }
+  },
+  {
+   "id": "mb-florida-bay-everglades-recovery",
+   "title": "Aerial photos show Florida Bay recovering as Everglades restoration advances",
+   "summary": "More freshwater flowing under Everglades restoration is linked to returning wading birds and waterfowl in Florida Bay.",
+   "why": "Visible ecological recovery from a long-running restoration.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/custom-story/2026/11/aerial-photos-show-recovery-of-florida-bay-us-as-restoration-sends-everglades-water/",
+   "score": 7,
+   "category": "Environment",
+   "region": "Florida, USA",
+   "published": "2026-11-27T14:04:23Z",
+   "continent": "North America",
+   "added": "2026-11-28T05:14:08Z",
+   "i18n": {
+    "ca": {
+     "title": "Fotografies aèries mostren la recuperació de la badia de Florida mentre avança la restauració dels Everglades",
+     "summary": "Més aigua dolça que flueix gràcies a la restauració dels Everglades s'associa al retorn d'ocells zancuts i aus aquàtiques a la badia de Florida.",
+     "why": "Recuperació ecològica visible d'una restauració de llarga durada."
+    },
+    "fr": {
+     "title": "Des photos aériennes montrent le rétablissement de la baie de Floride avec l'avancée de la restauration des Everglades",
+     "summary": "Un débit d'eau douce plus important, lié à la restauration des Everglades, est associé au retour des oiseaux échassiers et des oiseaux d'eau dans la baie de Floride.",
+     "why": "Un rétablissement écologique visible à la suite d'une restauration de longue haleine."
+    },
+    "ru": {
+     "title": "Аэроснимки показывают восстановление залива Флорида по мере продвижения восстановления Эверглейдс",
+     "summary": "Увеличение потока пресной воды в рамках восстановления Эверглейдс связывают с возвращением болотных птиц и водоплавающих в залив Флорида.",
+     "why": "Заметное экологическое восстановление в результате долгосрочной программы."
+    }
+   }
+  },
+  {
+   "id": "mb-whales-return-patagonia",
+   "title": "Whale populations recover in Argentine waters after whaling bans",
+   "summary": "Humpback and other whale populations are returning to Patagonia, though they now face new pressures such as shipping and fishing.",
+   "why": "Clear recovery success, tempered by emerging threats.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/whales-return-to-patagonia-but-face-new-threats-in-argentina/",
+   "score": 7,
+   "category": "Animals",
+   "region": "Patagonia, Argentina",
+   "published": "2026-11-27T11:07:04Z",
+   "continent": "South America",
+   "added": "2026-11-28T05:14:08Z",
+   "i18n": {
+    "ca": {
+     "title": "Les poblacions de balenes es recuperen a les aigües argentines després de la prohibició de la caça de balenes",
+     "summary": "Les balenes jorobades i altres espècies tornen a la Patagònia, tot i que ara s'enfronten a noves pressions, com el trànsit marítim i la pesca.",
+     "why": "Un clar èxit de recuperació, atenuat per amenaces emergents."
+    },
+    "fr": {
+     "title": "Les populations de baleines se rétablissent dans les eaux argentines après l'interdiction de la chasse à la baleine",
+     "summary": "Les baleines à bosse et d'autres espèces reviennent en Patagonie, mais elles font désormais face à de nouvelles menaces, comme le trafic maritime et la pêche.",
+     "why": "Une réussite claire en matière de rétablissement, nuancée par des menaces émergentes."
+    },
+    "ru": {
+     "title": "Популяции китов восстанавливаются в аргентинских водах после запрета на китобойный промысел",
+     "summary": "Горбатые киты и другие виды возвращаются в Патагонию, однако теперь они сталкиваются с новыми угрозами, включая судоходство и рыболовство.",
+     "why": "Явный успех в восстановлении популяций, омрачённый новыми угрозами."
+    }
+   }
+  },
+  {
+   "id": "sd-narwhal-tusk-double-spiral",
+   "title": "X-rays reveal a double spiral structure inside the narwhal tusk",
+   "summary": "Imaging showed the narwhal tusk contains two intertwined microscopic spirals, which may explain how it combines strength and flexibility.",
+   "why": "Interesting science with no direct benefit yet.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm",
+   "score": 5,
+   "category": "Science",
+   "region": "Arctic",
+   "published": "2026-11-27T10:01:39Z",
+   "continent": "Global",
+   "added": "2026-11-28T05:14:08Z",
+   "i18n": {
+    "ca": {
+     "title": "Els raigs X revelen una doble estructura d'espiral a l'interior del ullal del narval",
+     "summary": "Les imatges mostren que l'ullal del narval conté dues espirals microscòpiques entrellaçades, que podrien explicar com combina resistència i flexibilitat.",
+     "why": "Ciència interessant, sense benefici directe encara."
+    },
+    "fr": {
+     "title": "Des rayons X révèlent une double structure en spirale à l'intérieur de la défense du narval",
+     "summary": "L'imagerie montre que la défense du narval contient deux spirales microscopiques entrelacées, qui pourraient expliquer comment elle allie résistance et souplesse.",
+     "why": "Une science intéressante, sans bénéfice direct pour l'instant."
+    },
+    "ru": {
+     "title": "Рентгеновские снимки выявили двойную спиральную структуру внутри бивня нарвала",
+     "summary": "Визуализация показала, что бивень нарвала содержит две переплетённые микроскопические спирали, которые, возможно, объясняют, как в нём сочетаются прочность и гибкость.",
+     "why": "Интересное научное открытие без прямой пользы на данный момент."
+    }
+   }
+  },
+  {
+   "id": "sd-recycled-pvc-engine-material",
+   "title": "Researchers turn discarded PVC into a material for high-performance engines",
+   "summary": "Virginia Tech scientists converted waste PVC, a hard-to-recycle plastic, into a material usable in demanding engine applications.",
+   "why": "Promising recycling route, but still a research result.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm",
+   "score": 6,
+   "category": "Science",
+   "region": "Virginia, USA",
+   "published": "2026-11-27T09:52:24Z",
+   "continent": "North America",
+   "added": "2026-11-28T05:14:08Z",
+   "i18n": {
+    "ca": {
+     "title": "Investigadors converteixen PVC descartat en un material per a motors d'alt rendiment",
+     "summary": "Científics de Virginia Tech han convertit el PVC residual, un plàstic difícil de reciclar, en un material que es pot emprar en aplicacions exigents de motors.",
+     "why": "Una via de reciclatge prometedora, però encara és un resultat de recerca."
+    },
+    "fr": {
+     "title": "Des chercheurs transforment du PVC usagé en matériau pour moteurs haute performance",
+     "summary": "Des scientifiques de Virginia Tech ont converti des déchets de PVC, un plastique difficile à recycler, en un matériau utilisable dans les moteurs soumis à de fortes contraintes.",
+     "why": "Une piste de recyclage prometteuse, mais il ne s'agit encore que d'un résultat de recherche."
+    },
+    "ru": {
+     "title": "Исследователи превращают отработанный ПВХ в материал для высокоэффективных двигателей",
+     "summary": "Учёные из Virginia Tech переработали отходы ПВХ, трудно поддающегося переработке пластика, в материал, пригодный для применения в высоконагруженных двигателях.",
+     "why": "Перспективный путь переработки, но пока это лишь результат исследования."
+    }
+   }
+  },
+  {
+   "id": "tbi-nagaland-football-pangolin-ban",
+   "title": "Football tournament helps 30 Nagaland villages agree to ban pangolin hunting",
+   "summary": "Community initiatives in Nagaland, Manipur and Gujarat, including a tournament that united 30 villages, are protecting pangolins from hunting.",
+   "why": "Community-driven protection of a heavily trafficked species.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/wildlife/india-community-led-wildlife-conservation-pangolin-whale-shark-rescue-12845533",
+   "score": 7,
+   "category": "Animals",
+   "region": "Nagaland, India",
+   "published": "2026-11-27T09:24:52Z",
+   "continent": "Asia",
+   "added": "2026-11-28T05:14:08Z",
+   "i18n": {
+    "ca": {
+     "title": "Un torneig de futbol ajuda 30 pobles de Nagaland a acordar la prohibició de caçar pangolins",
+     "summary": "Iniciatives comunitàries a Nagaland, Manipur i Gujarat, entre elles un torneig que va unir 30 pobles, protegeixen els pangolins de la caça.",
+     "why": "Protecció d'una espècie molt traficada impulsada per la comunitat."
+    },
+    "fr": {
+     "title": "Un tournoi de football aide 30 villages du Nagaland à s'engager à interdire la chasse au pangolin",
+     "summary": "Des initiatives communautaires au Nagaland, au Manipur et au Gujarat, dont un tournoi ayant réuni 30 villages, protègent les pangolins de la chasse.",
+     "why": "Une protection, portée par la communauté, d'une espèce très victime du trafic."
+    },
+    "ru": {
+     "title": "Футбольный турнир помог 30 деревням Нагаленда договориться о запрете охоты на панголинов",
+     "summary": "Инициативы общин в Нагаленде, Манипуре и Гуджарате, включая турнир, объединивший 30 деревень, защищают панголинов от охоты.",
+     "why": "Защита сильно страдающего от браконьерства вида, инициированная самими общинами."
+    }
+   }
+  },
+  {
+   "id": "rtbc-ladakh-snow-leopard-corrals",
+   "title": "Ladakh communities and conservationists reduce conflict with snow leopards",
+   "summary": "Predator-proof livestock corrals and homestays in Ladakh help villagers live alongside snow leopards and earn income from conservation.",
+   "why": "Community-led coexistence benefits people and a vulnerable species.",
+   "source": "Reasons to be Cheerful",
+   "url": "https://reasonstobecheerful.world/snow-leopard-conservation-himalayas/",
+   "score": 7,
+   "category": "Animals",
+   "region": "Ladakh, India",
+   "published": "2026-11-27T08:00:59Z",
+   "continent": "Asia",
+   "added": "2026-11-28T05:14:08Z",
+   "i18n": {
+    "ca": {
+     "title": "Comunitats de Ladakh i conservacionistes redueixen els conflictes amb els lleopards de les neus",
+     "summary": "Corrals per al bestiar a prova de depredadors i allotjaments rurals a Ladakh ajuden els vilatans a conviure amb els lleopards de les neus i a obtenir ingressos de la conservació.",
+     "why": "La convivència impulsada per la comunitat beneficia les persones i una espècie vulnerable."
+    },
+    "fr": {
+     "title": "Des communautés et des défenseurs de la nature du Ladakh réduisent les conflits avec les léopards des neiges",
+     "summary": "Des enclos à bétail à l'épreuve des prédateurs et des gîtes d'accueil au Ladakh aident les villageois à cohabiter avec les léopards des neiges et leur permettent de tirer un revenu de la conservation.",
+     "why": "La coexistence portée par la communauté profite aux habitants comme à une espèce vulnérable."
+    },
+    "ru": {
+     "title": "Общины и природоохранники Ладакха снижают конфликты со снежными барсами",
+     "summary": "Загоны для скота, защищённые от хищников, и гостевые дома в Ладакхе помогают жителям деревень жить рядом со снежными барсами и получать доход от природоохранной деятельности.",
+     "why": "Сосуществование, основанное на инициативах общин, приносит пользу и людям, и уязвимому виду."
+    }
+   }
+  },
+  {
+   "id": "mb-liberia-women-rangers-nimba",
+   "title": "Women rangers help protect East Nimba Nature Reserve in Liberia",
+   "summary": "A small group of women rangers patrols the reserve; only 17 of Liberia's 143 rangers are women.",
+   "why": "Positive profile, though women remain a small minority.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/meet-the-few-liberian-women-rangers-in-a-race-to-protect-wildlife-and-forests/",
+   "score": 6,
+   "category": "Environment",
+   "region": "Liberia",
+   "published": "2026-11-27T08:00:23Z",
+   "continent": "Africa",
+   "added": "2026-11-28T05:14:08Z",
+   "i18n": {
+    "ca": {
+     "title": "Guardaparques dones protegeixen la reserva natural d'East Nimba, a Libèria",
+     "summary": "Un petit grup de guardaparques dones patrulla la reserva; només 17 dels 143 guardaparques de Libèria són dones.",
+     "why": "Un perfil positiu, tot i que les dones continuen sent una minoria petita."
+    },
+    "fr": {
+     "title": "Des femmes gardes forestières protègent la réserve naturelle d'East Nimba au Liberia",
+     "summary": "Un petit groupe de femmes gardes forestières patrouille dans la réserve ; seuls 17 des 143 gardes du Liberia sont des femmes.",
+     "why": "Un portrait positif, même si les femmes restent une petite minorité."
+    },
+    "ru": {
+     "title": "Женщины-рейнджеры помогают охранять природный заповедник Восточный Нимба в Либерии",
+     "summary": "Небольшая группа женщин-рейнджеров патрулирует заповедник; из 143 рейнджеров Либерии женщин только 17.",
+     "why": "Позитивный сюжет, хотя женщины по-прежнему составляют небольшое меньшинство."
+    }
+   }
+  },
+  {
+   "id": "tbi-codeyoung-students-learn-phones",
+   "title": "Three lakh Indian students learn to code on their phones",
+   "summary": "A visual story shows students across India learning to code on smartphones through an online platform.",
+   "why": "Wider access to skills, from a company-led story.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/web-stories/technology/coding-on-smartphones-codeyogi-edtech-india-12844947",
+   "score": 6,
+   "category": "Society",
+   "region": "India",
+   "published": "2026-11-27T07:30:37Z",
+   "continent": "Asia",
+   "added": "2026-11-28T05:14:08Z",
+   "i18n": {
+    "ca": {
+     "title": "Tres-cents mil estudiants indis aprenen a programar des del mòbil",
+     "summary": "Una història visual mostra estudiants de tota l'Índia que aprenen a programar amb el smartphone a través d'una plataforma en línia.",
+     "why": "Més accés a competències, en una història explicada des d'una empresa."
+    },
+    "fr": {
+     "title": "Trois cent mille élèves indiens apprennent à coder sur leur téléphone",
+     "summary": "Un récit visuel montre des élèves de toute l'Inde apprenant à coder sur smartphone grâce à une plateforme en ligne.",
+     "why": "Un accès élargi aux compétences, dans un récit publié par une entreprise."
+    },
+    "ru": {
+     "title": "Триста тысяч индийских школьников учатся программировать на телефонах",
+     "summary": "Визуальный материал показывает школьников из разных регионов Индии, которые учатся программировать на смартфонах с помощью онлайн-платформы.",
+     "why": "Расширение доступа к навыкам, сюжет подготовлен компанией."
+    }
+   }
+  },
+  {
+   "id": "mb-drc-community-forests-growth",
+   "title": "Community forest titles in DR Congo rise from eight to over 350",
+   "summary": "Congolese community forest concessions have grown sharply since 2017, giving local people a stake in conservation, though funding hurdles remain.",
+   "why": "Real progress for local forest management, with obstacles left.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/2026/11/community-forests-offer-hope-for-conservation-in-drc-but-major-hurdles-remain/",
+   "score": 6,
+   "category": "Environment",
+   "region": "DR Congo",
+   "published": "2026-11-26T21:30:06Z",
+   "continent": "Africa",
+   "added": "2026-11-28T05:14:08Z",
+   "i18n": {
+    "ca": {
+     "title": "Els títols de boscos comunitaris a la RD del Congo passen de vuit a més de 350",
+     "summary": "Les concessions de boscos comunitaris congolesos han crescut molt des del 2017, cosa que dona a la població local un paper en la conservació, tot i que encara hi ha obstacles en el finançament.",
+     "why": "Progrés real en la gestió forestal local, amb obstacles pendents."
+    },
+    "fr": {
+     "title": "Les titres de forêts communautaires en RD Congo passent de huit à plus de 350",
+     "summary": "Les concessions de forêts communautaires congolaises ont fortement augmenté depuis 2017, donnant aux populations locales un rôle dans la conservation, même si des difficultés de financement subsistent.",
+     "why": "Un réel progrès dans la gestion locale des forêts, mais des obstacles subsistent."
+    },
+    "ru": {
+     "title": "Число общинных лесных прав в ДР Конго выросло с восьми до более чем 350",
+     "summary": "Концессии общинных лесов в Конго значительно выросли с 2017 года, что даёт местным жителям роль в сохранении природы, однако проблемы с финансированием остаются.",
+     "why": "Реальный прогресс в местном управлении лесами, но остаются препятствия."
+    }
+   }
+  },
   {
    "id": "gnn-infant-brain-cancer-free-after-st-jude-referral",
    "title": "Infant with aggressive brain cancer recovers after referral to St. Jude",
@@ -202,6 +543,37 @@
    }
   },
   {
+   "id": "tbi-arunachal-horned-frogs-new",
+   "title": "Scientists describe five new horned frog species in Arunachal Pradesh",
+   "summary": "Researchers from the University of Delhi and Harvard identified five new horned frog species in northeast India.",
+   "why": "New species add to knowledge, though discovery alone does not protect them.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/wildlife/new-frog-species-eastern-himalayas-research-delhi-university-harvard-arunachal-pradesh-12826972",
+   "score": 6,
+   "category": "Science",
+   "region": "Arunachal Pradesh, India",
+   "published": "2026-11-26T08:30:37Z",
+   "continent": "Asia",
+   "added": "2026-11-28T05:14:08Z",
+   "i18n": {
+    "ca": {
+     "title": "Científics descriuen cinc noves espècies de granotes banyudes a Arunachal Pradesh",
+     "summary": "Investigadors de la Universitat de Delhi i de Harvard han identificat cinc noves espècies de granotes banyudes al nord-est de l'Índia.",
+     "why": "Les noves espècies amplien el coneixement, però el descobriment per si sol no les protegeix."
+    },
+    "fr": {
+     "title": "Des scientifiques décrivent cinq nouvelles espèces de grenouilles cornues en Arunachal Pradesh",
+     "summary": "Des chercheurs de l'Université de Delhi et de Harvard ont identifié cinq nouvelles espèces de grenouilles cornues dans le nord-est de l'Inde.",
+     "why": "De nouvelles espèces enrichissent les connaissances, mais leur découverte ne suffit pas à les protéger."
+    },
+    "ru": {
+     "title": "Учёные описали пять новых видов рогатых лягушек в Аруначал-Прадеше",
+     "summary": "Исследователи из Делийского университета и Гарварда выявили пять новых видов рогатых лягушек на северо-востоке Индии.",
+     "why": "Новые виды расширяют знания, однако одно лишь открытие не защищает их."
+    }
+   }
+  },
+  {
    "id": "rtbc-portland-urban-gleaners-rescued-food-meals",
    "title": "Portland nonprofit turns rescued food into prepared meals",
    "summary": "Urban Gleaners rescues food before it is wasted and cooks donated ingredients into meals for hungry residents in Portland.",
@@ -260,6 +632,37 @@
      "title": "Женщины-фермеры выращивают исчезающие гималайские лекарственные растения",
      "summary": "Женщины в Уттаракханде выращивают находящиеся под угрозой исчезновения высокогорные растения, такие как кутки, что снижает чрезмерный сбор в альпийских лугах.",
      "why": "Охрана природы под руководством общин, которая также поддерживает источники дохода."
+    }
+   }
+  },
+  {
+   "id": "tbi-ujani-deccan-mahseer-release",
+   "title": "One million Deccan Mahseer released into Ujani reservoir",
+   "summary": "BNHS with Cipla Foundation and Tata Power released 10 lakh native fish as part of a ten-year effort to restore the once-rare species.",
+   "why": "Large long-term restoration effort for a threatened fish.",
+   "source": "The Better India",
+   "url": "https://thebetterindia.com/wildlife/deccan-mahseer-conservation-ujani-reservoir-fish-restoration-12833875",
+   "score": 7,
+   "category": "Animals",
+   "region": "Maharashtra, India",
+   "published": "2026-11-26T06:13:59Z",
+   "continent": "Asia",
+   "added": "2026-11-28T05:14:08Z",
+   "i18n": {
+    "ca": {
+     "title": "Un milió de mahseers del Deccan alliberats al pantà d'Ujani",
+     "summary": "La BNHS, amb la Cipla Foundation i Tata Power, ha alliberat un milió de peixos autòctons com a part d'un esforç de deu anys per restaurar aquesta espècie, que abans era molt rara.",
+     "why": "Un gran esforç de restauració a llarg termini per a un peix amenaçat."
+    },
+    "fr": {
+     "title": "Un million de mahseers du Deccan relâchés dans le réservoir d'Ujani",
+     "summary": "La BNHS, avec la Cipla Foundation et Tata Power, a relâché un million de poissons indigènes dans le cadre d'un effort de dix ans pour restaurer cette espèce autrefois rare.",
+     "why": "Un vaste effort de restauration à long terme pour un poisson menacé."
+    },
+    "ru": {
+     "title": "Миллион махсиров Деккана выпущен в водохранилище Уджани",
+     "summary": "BNHS совместно с Cipla Foundation и Tata Power выпустила миллион местных рыб в рамках десятилетней программы по восстановлению этого когда-то редкого вида.",
+     "why": "Масштабные долгосрочные усилия по восстановлению вида рыбы, находящегося под угрозой."
     }
    }
   },
@@ -508,6 +911,37 @@
      "title": "Римское стекло найдено в гробнице знатного хунну в Монголии",
      "summary": "Раскопки элитной гробницы хунну в Монголии обнаружили предметы античного Рима, что свидетельствует о связях по Великому шёлковому пути.",
      "why": "Археологическая находка, которая дополняет исторические знания."
+    }
+   }
+  },
+  {
+   "id": "gnn-autos-for-love-cars",
+   "title": "Texas couple refurbishes donated cars and gives them to neighbours in need",
+   "summary": "An auto-repair couple in Texas repairs donated vehicles and hands them to neighbours who lack transport, helping people reach work and appointments.",
+   "why": "Direct, local help, though limited in scale.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/texas-auto-shop-couple-is-hungry-to-keep-giving-cars-away-to-neighbors-in-need/",
+   "score": 6,
+   "category": "Society",
+   "region": "Texas, USA",
+   "published": "2026-11-25T14:00:36Z",
+   "continent": "North America",
+   "added": "2026-11-28T05:14:08Z",
+   "i18n": {
+    "ca": {
+     "title": "Una parella de Texas restaura cotxes donats i els regala a veïns necessitats",
+     "summary": "Una parella que regenta un taller de reparació d'automòbils a Texas arregla vehicles donats i els lliura a veïns que no tenen transport, perquè puguin anar a la feina i a les cites mèdiques.",
+     "why": "Ajuda directa i local, tot i que d'abast limitat."
+    },
+    "fr": {
+     "title": "Un couple du Texas remet en état des voitures données et les offre à des voisins dans le besoin",
+     "summary": "Ce couple de mécaniciens du Texas répare des véhicules donnés et les remet à des voisins qui n'ont pas de moyen de transport, leur permettant de se rendre au travail et à leurs rendez-vous.",
+     "why": "Une aide directe et locale, mais à petite échelle."
+    },
+    "ru": {
+     "title": "Супружеская пара из Техаса ремонтирует подаренные автомобили и передаёт их нуждающимся соседям",
+     "summary": "Супруги, владеющие автомастерской в Техасе, ремонтируют пожертвованные автомобили и передают их соседям, у которых нет транспорта, помогая им добираться на работу и на приёмы к врачу.",
+     "why": "Прямая помощь на местном уровне, хотя и ограниченного масштаба."
     }
    }
   },
@@ -787,6 +1221,37 @@
      "title": "Испытание в Бразилии связало выпуск комаров с Wolbachia со снижением вирусных инфекций на 68%",
      "summary": "Четырехлетнее испытание, в ходе которого в Бразилии выпускали комаров с бактериями Wolbachia, было связано со снижением риска вирусных инфекций, передаваемых комарами, на 68%.",
      "why": "Крупный результат в реальных условиях, который может защитить многих людей от заболеваний типа денге."
+    }
+   }
+  },
+  {
+   "id": "gnn-instrument-bird-feeders",
+   "title": "Retired teacher turns scrapped musical instruments into bird feeders",
+   "summary": "A retired teacher on Prince Edward Island repurposes discarded instruments as bird feeders, keeping them out of landfill and helping garden birds.",
+   "why": "Charming small-scale reuse with little wider impact.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/retired-teacher-turns-retired-musical-instruments-into-bird-feeders-look/",
+   "score": 5,
+   "category": "Animals",
+   "region": "Prince Edward Island, Canada",
+   "published": "2026-11-24T16:30:36Z",
+   "continent": "North America",
+   "added": "2026-11-28T05:14:08Z",
+   "i18n": {
+    "ca": {
+     "title": "Una professora jubilada converteix instruments musicals retirats en menjadors per a ocells",
+     "summary": "Una professora jubilada de l'illa del Príncep Eduard, al Canadà, reutilitza instruments musicals descartats com a menjadors per a ocells, evitant que acabin a l'abocador i ajudant els ocells dels jardins.",
+     "why": "Reutilització encantadora a petita escala, amb poc impacte més ampli."
+    },
+    "fr": {
+     "title": "Une enseignante à la retraite transforme des instruments de musique mis au rebut en mangeoires pour oiseaux",
+     "summary": "Une enseignante à la retraite de l'Île-du-Prince-Édouard réutilise des instruments de musique abandonnés comme mangeoires pour oiseaux, ce qui les soustrait à la décharge et vient en aide aux oiseaux des jardins.",
+     "why": "Une réutilisation charmante à petite échelle, à l'impact plus large limité."
+    },
+    "ru": {
+     "title": "Учительница на пенсии превращает списанные музыкальные инструменты в кормушки для птиц",
+     "summary": "Учительница на пенсии с острова Принца Эдуарда использует выброшенные музыкальные инструменты как кормушки для птиц. Так инструменты не попадают на свалку, а садовые птицы получают помощь.",
+     "why": "Вдохновляющее повторное использование в небольшом масштабе, с ограниченным влиянием за его пределами."
     }
    }
   },
@@ -3732,409 +4197,6 @@
      "title": "Иммунноклеточная терапия уничтожает опухоли мозга у мышей",
      "summary": "Исследователи Калифорнийского университета в Сан-Франциско разработали иммунноклеточную терапию, которая активируется только внутри мозга, и она устранила агрессивные опухоли у всех протестированных мышей.",
      "why": "Перспективно, но пока испытано только на мышах."
-    }
-   }
-  },
-  {
-   "id": "sd-protein-sorla-reduces-alzheimer-s-related-damage-i",
-   "title": "Protein SORLA reduces Alzheimer's-related damage in mice",
-   "summary": "Boosting the protein SORLA in mice lowered toxic tau tangles and preserved brain function, pointing to a possible new treatment target.",
-   "why": "Early animal research, far from human treatment.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261114202233.htm",
-   "score": 5,
-   "category": "Health",
-   "region": "Global",
-   "published": "2026-11-18T11:53:30Z",
-   "continent": "Global",
-   "added": "2026-11-19T05:13:40Z",
-   "i18n": {
-    "ca": {
-     "title": "La proteïna SORLA redueix els danys relacionats amb l'Alzheimer en ratolins",
-     "summary": "Augmentar la proteïna SORLA en ratolins va reduir els cabdells tòxics de tau i va preservar la funció cerebral, cosa que apunta a una possible nova diana terapèutica.",
-     "why": "Investigació preliminar amb animals, lluny de ser un tractament per a humans."
-    },
-    "fr": {
-     "title": "La protéine SORLA réduit les dommages liés à Alzheimer chez la souris",
-     "summary": "L'augmentation de la protéine SORLA chez la souris a réduit les enchevêtrements toxiques de protéine tau et préservé les fonctions cérébrales, ce qui ouvre la voie à une nouvelle cible thérapeutique possible.",
-     "why": "Recherche animale préliminaire, encore loin d'un traitement pour l'humain."
-    },
-    "ru": {
-     "title": "Белок SORLA снижает повреждения, связанные с болезнью Альцгеймера, у мышей",
-     "summary": "Повышение уровня белка SORLA у мышей уменьшило количество токсичных клубков тау-белка и сохранило функции мозга, что указывает на возможную новую мишень для лечения.",
-     "why": "Ранние исследования на животных, до лечения людей ещё далеко."
-    }
-   }
-  },
-  {
-   "id": "tbi-india-wins-10th-saff-football-title-with-a-second",
-   "title": "India wins 10th SAFF football title with a second-string squad",
-   "summary": "India beat Pakistan to claim its tenth SAFF Championship title without its star players.",
-   "why": "Sporting success and community pride.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/videos/association-football/no-star-players-still-champions-india-wins-10th-saff-title-12821332",
-   "score": 6,
-   "category": "Culture",
-   "region": "India",
-   "published": "2026-11-18T10:38:18Z",
-   "continent": "Asia",
-   "added": "2026-11-19T05:13:40Z",
-   "i18n": {
-    "ca": {
-     "title": "L'Índia guanya el 10è títol de la SAFF amb una selecció de segona fila",
-     "summary": "L'Índia va vèncer el Pakistan i es va proclamar campiona del seu desè títol del Campionat SAFF sense els seus jugadors estrella.",
-     "why": "Èxit esportiu i orgull per a la comunitat."
-    },
-    "fr": {
-     "title": "L'Inde remporte le 10e titre de la SAFF avec une équipe de remplaçants",
-     "summary": "L'Inde a battu le Pakistan et a remporté son dixième titre de championne de la SAFF sans ses joueurs vedettes.",
-     "why": "Succès sportif et fierté collective."
-    },
-    "ru": {
-     "title": "Индия выигрывает 10-й титул чемпиона SAFF составом из запасных игроков",
-     "summary": "Индия обыграла Пакистан и завоевала десятый титул чемпиона Чемпионата SAFF без своих звёздных игроков.",
-     "why": "Спортивный успех и общественная гордость."
-    }
-   }
-  },
-  {
-   "id": "mb-basque-culinary-prize-chinampas",
-   "title": "Lucio Usobiaga wins Basque Culinary World Prize for protecting Mexico's chinampas",
-   "summary": "Usobiaga won the 2026 Basque Culinary World Prize for Arca Tierra, a network supporting farmers who maintain Mexico's chinampa ecosystem.",
-   "why": "Recognition and support for traditional, sustainable farming.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/11/lucio-usobiaga-wins-2026-nobel-prize-of-gastronomy-for-protecting-mexicos-chinampas-ecosystem/",
-   "score": 7,
-   "category": "Environment",
-   "region": "Mexico",
-   "published": "2026-11-18T09:31:11Z",
-   "continent": "North America",
-   "added": "2026-11-20T05:13:11Z",
-   "i18n": {
-    "ca": {
-     "title": "Lucio Usobiaga guanya el Basque Culinary World Prize per la protecció de les chinampes de Mèxic",
-     "summary": "Usobiaga ha guanyat el Basque Culinary World Prize 2026 pel projecte Arca Tierra, una xarxa que dona suport als agricultors que mantenen l'ecosistema de les chinampes de Mèxic.",
-     "why": "Reconeixement i suport a l'agricultura tradicional i sostenible."
-    },
-    "fr": {
-     "title": "Lucio Usobiaga remporte le Basque Culinary World Prize pour la protection des chinampas mexicaines",
-     "summary": "Usobiaga a remporté le Basque Culinary World Prize 2026 pour Arca Tierra, un réseau qui soutient les agriculteurs entretenant l'écosystème des chinampas du Mexique.",
-     "why": "Reconnaissance et soutien à une agriculture traditionnelle et durable."
-    },
-    "ru": {
-     "title": "Лусио Усобиага получил Basque Culinary World Prize за защиту чинампас в Мексике",
-     "summary": "Усобиага стал лауреатом премии Basque Culinary World Prize 2026 за проект Arca Tierra — сеть, которая поддерживает фермеров, сохраняющих экосистему чинампас в Мексике.",
-     "why": "Признание и поддержка традиционного устойчивого земледелия."
-    }
-   }
-  },
-  {
-   "id": "sd-hippos-roamed-the-arabian-desert-125-000-years-ago",
-   "title": "Hippos roamed the Arabian Desert 125,000 years ago",
-   "summary": "A Saudi Arabian site dated to about 125,000 years ago holds thousands of hippo-related traces, showing the region was once green and wet.",
-   "why": "Interesting science rather than news of impact.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261115085537.htm",
-   "score": 5,
-   "category": "Science",
-   "region": "Saudi Arabia",
-   "published": "2026-11-18T01:52:47Z",
-   "continent": "Asia",
-   "added": "2026-11-19T05:13:40Z",
-   "i18n": {
-    "ca": {
-     "title": "Hipopòtams habitaven el desert d'Aràbia fa 125.000 anys",
-     "summary": "Un jaciment d'Aràbia Saudita datat fa uns 125.000 anys conserva milers de vestigis relacionats amb hipopòtams, cosa que demostra que la regió va ser un dia verda i humida.",
-     "why": "Ciència interessant més que notícia d'impacte."
-    },
-    "fr": {
-     "title": "Des hippopotames peuplaient le désert d'Arabie il y a 125 000 ans",
-     "summary": "Un site d'Arabie saoudite daté d'environ 125 000 ans recèle des milliers de traces liées aux hippopotames, ce qui montre que la région était autrefois verte et humide.",
-     "why": "Une science intéressante plutôt qu'une actualité à fort impact."
-    },
-    "ru": {
-     "title": "Бегемоты обитали в Аравийской пустыне 125 000 лет назад",
-     "summary": "Место в Саудовской Аравии, датируемое примерно 125 000 годами назад, содержит тысячи следов, связанных с бегемотами, что указывает на то, что когда-то регион был зелёным и влажным.",
-     "why": "Интересная наука, а не новость о значимом влиянии."
-    }
-   }
-  },
-  {
-   "id": "mb-isolated-aw-people-encountered-in-brazil-exposing",
-   "title": "Isolated Awá people encountered in Brazil, exposing their vulnerability",
-   "summary": "About 20 Awá people living in voluntary isolation approached outsiders in Brazil, highlighting the threats to their territory.",
-   "why": "Shows the risks facing uncontacted people.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/11/rare-encounter-with-isolated-indigenous-awa-people-in-brazil-exposes-vulnerability/",
-   "score": 3,
-   "category": "Society",
-   "region": "Maranhão, Brazil",
-   "published": "2026-11-17T23:20:01Z",
-   "continent": "South America",
-   "added": "2026-11-19T05:13:40Z",
-   "i18n": {
-    "ca": {
-     "title": "Es produeix un contacte amb el poble awá aïllat al Brasil, que evidencia la seva vulnerabilitat",
-     "summary": "Unes 20 persones del poble awá, que viuen en aïllament voluntari, es van acostar a persones externes al Brasil, cosa que posa de manifest les amenaces al seu territori.",
-     "why": "Mostra els riscos als quals s'enfronten els pobles no contactats."
-    },
-    "fr": {
-     "title": "Des Awá isolés rencontrés au Brésil, ce qui met en lumière leur vulnérabilité",
-     "summary": "Une vingtaine d'Awá vivant en isolement volontaire se sont approchés de personnes extérieures au Brésil, mettant en évidence les menaces qui pèsent sur leur territoire.",
-     "why": "Illustre les risques auxquels sont exposés les peuples non contactés."
-    },
-    "ru": {
-     "title": "Изолированные авá в Бразилии вышли на контакт, что подчёркивает их уязвимость",
-     "summary": "Около 20 человек из народа авá, живущего в добровольной изоляции, приблизились к посторонним в Бразилии, что подчёркивает угрозы их территории.",
-     "why": "Показывает риски, с которыми сталкиваются незатронутые контактом народы."
-    }
-   }
-  },
-  {
-   "id": "gnn-olive-ridley-hatchlings-released-california",
-   "title": "Rescued olive ridley sea turtle hatchlings released into the Pacific",
-   "summary": "Olive ridley hatchlings rescued ahead of a California storm were released into the Pacific, described as the first such release on the US West Coast.",
-   "why": "A small but hopeful rescue of a threatened species.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/west-coasts-first-ever-sea-turtle-hatchlings-released-into-the-pacific-look/",
-   "score": 6,
-   "category": "Animals",
-   "region": "California, USA",
-   "published": "2026-11-17T19:30:43Z",
-   "continent": "North America",
-   "added": "2026-11-18T05:14:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Cries de tortuga marina olivàcia rescatades són alliberades al Pacífic",
-     "summary": "Les cries de tortuga olivàcia rescatades abans d'una tempesta a Califòrnia han estat alliberades al Pacífic, cosa que es descriu com el primer alliberament d'aquest tipus a la costa oest dels Estats Units.",
-     "why": "Un rescat petit però esperançador d'una espècie amenaçada."
-    },
-    "fr": {
-     "title": "Des bébés tortues olivâtres sauvés sont relâchés dans le Pacifique",
-     "summary": "Des bébés tortues olivâtres, sauvés avant une tempête en Californie, ont été relâchés dans le Pacifique, présenté comme le premier relâcher de ce type sur la côte ouest des États-Unis.",
-     "why": "Un sauvetage modeste mais porteur d'espoir pour une espèce menacée."
-    },
-    "ru": {
-     "title": "Спасённых детёнышей оливковой черепахи выпустили в Тихий океан",
-     "summary": "Детёнышей оливковой черепахи, спасённых перед штормом в Калифорнии, выпустили в Тихий океан. Это назвали первым подобным выпуском на западном побережье США.",
-     "why": "Небольшое, но обнадёживающее спасение вида, находящегося под угрозой исчезновения."
-    }
-   }
-  },
-  {
-   "id": "mb-earthshot-prize-winners-honoured-in-mumbai",
-   "title": "Earthshot Prize winners honoured in Mumbai",
-   "summary": "Prince William presented five Earthshot Prize winners with one million pounds each for environmental solutions at a ceremony in Mumbai.",
-   "why": "Funding boosts proven environmental projects.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/11/prince-williams-presents-earthshot-prize-winners-with-1-3m-each-in-mumbai/",
-   "score": 6,
-   "category": "Environment",
-   "region": "Mumbai, India",
-   "published": "2026-11-17T18:31:16Z",
-   "continent": "Asia",
-   "added": "2026-11-19T05:13:40Z",
-   "i18n": {
-    "ca": {
-     "title": "Guardonats amb el Earthshot Prize a Mumbai",
-     "summary": "El príncep Guillem va lliurar a cinc guanyadors de l'Earthshot Prize un milió de lliures a cadascun per a solucions ambientals, en una cerimònia a Mumbai.",
-     "why": "El finançament impulsa projectes ambientals ja comprovats."
-    },
-    "fr": {
-     "title": "Les lauréats de l'Earthshot Prize récompensés à Mumbai",
-     "summary": "Le prince William a remis à cinq lauréats de l'Earthshot Prize un million de livres chacun pour des solutions environnementales, lors d'une cérémonie à Mumbai.",
-     "why": "Le financement soutient des projets environnementaux éprouvés."
-    },
-    "ru": {
-     "title": "Лауреаты премии Earthshot отмечены в Мумбаи",
-     "summary": "Принц Уильям вручил пяти лауреатам премии Earthshot по миллиону фунтов каждому за экологические решения на церемонии в Мумбаи.",
-     "why": "Финансирование поддерживает уже зарекомендовавшие себя экологические проекты."
-    }
-   }
-  },
-  {
-   "id": "an-fela-kuti-becomes-first-african-inducted-into-rock",
-   "title": "Fela Kuti becomes first African inducted into Rock & Roll Hall of Fame",
-   "summary": "The Nigerian Afrobeat pioneer has been inducted into the Rock & Roll Hall of Fame, the first African artist to receive the honour.",
-   "why": "A landmark recognition for African music.",
-   "source": "Africanews",
-   "url": "http://www.africanews.com/2026/11/17/fela-kuti-becomes-first-african-to-be-inducted-in-rock-roll-hall-of-fame/",
-   "score": 7,
-   "category": "Culture",
-   "region": "Nigeria",
-   "published": "2026-11-17T17:21:26Z",
-   "continent": "Africa",
-   "added": "2026-11-19T05:13:40Z",
-   "i18n": {
-    "ca": {
-     "title": "Fela Kuti és el primer africà incorporat al Rock and Roll Hall of Fame",
-     "summary": "El pioner nigerià de l'afrobeat ha estat incorporat al Rock and Roll Hall of Fame, i és el primer artista africà a rebre aquest honor.",
-     "why": "Un reconeixement històric per a la música africana."
-    },
-    "fr": {
-     "title": "Fela Kuti est le premier Africain intronisé au Rock & Roll Hall of Fame",
-     "summary": "Le pionnier nigérian de l'afrobeat a été intronisé au Rock & Roll Hall of Fame, premier artiste africain à recevoir cet honneur.",
-     "why": "Une reconnaissance historique pour la musique africaine."
-    },
-    "ru": {
-     "title": "Фела Кути стал первым африканцем, введённым в Зал славы рок-н-ролла",
-     "summary": "Нигерийский пионер афробита введён в Зал славы рок-н-ролла и стал первым африканским артистом, удостоенным этой чести.",
-     "why": "Знаковое признание африканской музыки."
-    }
-   }
-  },
-  {
-   "id": "mb-scimitar-horned-oryx-returns-to-chad",
-   "title": "Scimitar-horned oryx returns to Chad",
-   "summary": "A reintroduction programme led by Sahara Conservation has rebuilt a wild population of the scimitar-horned oryx in Chad.",
-   "why": "Successful return of a species once extinct in the wild.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/short-article/2026/11/the-scimitar-horned-oryx-is-back-in-chad/",
-   "score": 8,
-   "category": "Animals",
-   "region": "Chad",
-   "published": "2026-11-17T16:58:40Z",
-   "continent": "Africa",
-   "added": "2026-11-19T05:13:40Z",
-   "i18n": {
-    "ca": {
-     "title": "L'òryx de banyes en cimitarra torna al Txad",
-     "summary": "Un programa de reintroducció dirigit per Sahara Conservation ha reconstruït una població salvatge d'òryx de banyes en cimitarra al Txad.",
-     "why": "Retorn exitós d'una espècie que va desaparèixer de la natura."
-    },
-    "fr": {
-     "title": "L'oryx algazelle revient au Tchad",
-     "summary": "Un programme de réintroduction mené par Sahara Conservation a permis de reconstituer une population sauvage d'oryx algazelles au Tchad.",
-     "why": "Retour réussi d'une espèce disparue à l'état sauvage."
-    },
-    "ru": {
-     "title": "Сабельные ориксы возвращаются в Чад",
-     "summary": "Программа реинтродукции под руководством Sahara Conservation восстановила дикую популяцию сабельных ориксов в Чаде.",
-     "why": "Успешное возвращение вида, который когда-то полностью исчез из дикой природы."
-    }
-   }
-  },
-  {
-   "id": "gnn-algeria-thanks-kansans",
-   "title": "Algeria repays hospitality shown to its World Cup team by Kansans",
-   "summary": "Kansans visiting Algeria were greeted at 4:30 a.m. with flowers by officials and hospitality workers, repaying the welcome Kansas gave Algeria's World Cup team.",
-   "why": "A warm goodwill gesture between communities.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/algeria-returns-kindness-shown-by-kansans-who-welcomed-its-world-cup-team-with-the-trip-of-a-lifetime/",
-   "score": 6,
-   "category": "Society",
-   "region": "Algeria",
-   "published": "2026-11-17T16:30:41Z",
-   "continent": "Africa",
-   "added": "2026-11-21T05:13:29Z",
-   "i18n": {
-    "ca": {
-     "title": "Algèria torna l'hospitalitat que els kansans van mostrar a la selecció del Mundial",
-     "summary": "Uns kansans que visitaven Algèria van ser rebuts a les 4:30 del matí amb flors per part de funcionaris i personal d'hostaleria, en resposta a la benvinguda que Kansas havia donat a la selecció algeriana del Mundial.",
-     "why": "Un gest de bona voluntat entre comunitats."
-    },
-    "fr": {
-     "title": "L'Algérie rend la pareille aux habitants du Kansas pour l'accueil réservé à son équipe de Coupe du monde",
-     "summary": "Des habitants du Kansas en visite en Algérie ont été accueillis à 4 h 30 du matin avec des fleurs par des responsables et du personnel hôtelier, en retour de l'accueil que le Kansas avait réservé à l'équipe algérienne de la Coupe du monde.",
-     "why": "Un geste de bienveillance entre deux communautés."
-    },
-    "ru": {
-     "title": "Алжир отплатил добром жителям Канзаса за тёплый приём своей сборной на чемпионате мира",
-     "summary": "Жителей Канзаса, приехавших в Алжир, в 4:30 утра встретили цветами официальные лица и работники сферы гостеприимства. Так Алжир ответил на тёплый приём, который Канзас оказал сборной Алжира на чемпионате мира.",
-     "why": "Жест доброй воли между общинами."
-    }
-   }
-  },
-  {
-   "id": "gnn-warren-buffett-donates-5-5-billion-in-shares-ahead",
-   "title": "Warren Buffett donates $5.5 billion in shares ahead of Thanksgiving",
-   "summary": "Warren Buffett converted Berkshire Hathaway shares into a $5.5 billion gift for charitable foundations, saying kindness is important.",
-   "why": "Large donation helping many causes.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/warren-buffett-gives-away-5-5-billion-thanksgiving-gift/",
-   "score": 7,
-   "category": "Society",
-   "region": "USA",
-   "published": "2026-11-17T15:55:24Z",
-   "continent": "North America",
-   "added": "2026-11-19T05:13:40Z",
-   "i18n": {
-    "ca": {
-     "title": "Warren Buffett fa una donació de 5.500 milions de dòlars en accions abans del Dia d'Acció de Gràcies",
-     "summary": "Warren Buffett ha convertit accions de Berkshire Hathaway en un regal de 5.500 milions de dòlars per a fundacions benèfiques, i ha dit que l'amabilitat és important.",
-     "why": "Donació important que ajuda moltes causes."
-    },
-    "fr": {
-     "title": "Warren Buffett fait don de 5,5 milliards de dollars en actions à l'approche de Thanksgiving",
-     "summary": "Warren Buffett a converti des actions de Berkshire Hathaway en un don de 5,5 milliards de dollars au profit de fondations caritatives, en affirmant que la gentillesse est importante.",
-     "why": "Un don considérable qui profite à de nombreuses causes."
-    },
-    "ru": {
-     "title": "Уоррен Баффетт передаёт акции на 5,5 млрд долларов накануне Дня благодарения",
-     "summary": "Уоррен Баффетт превратил акции Berkshire Hathaway в дар благотворительным фондам на 5,5 млрд долларов, заявив, что доброта важна.",
-     "why": "Крупное пожертвование, которое поможет многим благим делам."
-    }
-   }
-  },
-  {
-   "id": "gnn-electric-school-bus-fleet-south-bronx",
-   "title": "New York's largest electric school bus fleet serves a South Bronx neighborhood",
-   "summary": "The largest electric school bus fleet in New York State now runs in a South Bronx neighborhood with high childhood asthma rates, cutting exposure to diesel exhaust.",
-   "why": "Cleaner air for children in a high-asthma area.",
-   "source": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/largest-electric-bus-fleet-in-new-york-to-serve-bronx-neighborhood-riddled-with-asthma/",
-   "score": 7,
-   "category": "Environment",
-   "region": "New York, USA",
-   "published": "2026-11-17T14:00:28Z",
-   "continent": "North America",
-   "added": "2026-11-18T05:14:10Z",
-   "i18n": {
-    "ca": {
-     "title": "La flota d'autobusos escolars elèctrics més gran de Nova York presta servei en un barri del South Bronx",
-     "summary": "La flota d'autobusos escolars elèctrics més gran de l'estat de Nova York ja circula per un barri del South Bronx amb una alta incidència d'asma infantil, cosa que redueix l'exposició als gasos del dièsel.",
-     "why": "Aire més net per als infants en una zona amb molta asma."
-    },
-    "fr": {
-     "title": "La plus grande flotte de bus scolaires électriques de New York dessert un quartier du South Bronx",
-     "summary": "La plus grande flotte de bus scolaires électriques de l'État de New York circule désormais dans un quartier du South Bronx où les taux d'asthme chez les enfants sont élevés, ce qui réduit l'exposition aux gaz d'échappement diesel.",
-     "why": "Un air plus propre pour les enfants d'une zone touchée par l'asthme."
-    },
-    "ru": {
-     "title": "Крупнейший парк электрических школьных автобусов Нью-Йорка обслуживает район Южного Бронкса",
-     "summary": "Крупнейший в штате Нью-Йорк парк электрических школьных автобусов теперь работает в районе Южного Бронкса, где высок уровень детской астмы, что снижает воздействие выхлопов дизельного топлива.",
-     "why": "Более чистый воздух для детей в районе с высокой распространённостью астмы."
-    }
-   }
-  },
-  {
-   "id": "tbi-rewari-reviving-ponds-groundwater",
-   "title": "Rewari revives 10 ponds to store water as groundwater falls",
-   "summary": "TERI and Nokia India are restoring 10 village ponds in Haryana's Rewari district over 24 months, aiming to store 120 million litres of water.",
-   "why": "Practical local water security, though results are still to come.",
-   "source": "The Better India",
-   "url": "https://thebetterindia.com/conservation/nature/rewari-haryana-village-pond-restoration-teri-water-conservation-12816963",
-   "score": 7,
-   "category": "Environment",
-   "region": "Rewari, India",
-   "published": "2026-11-17T12:14:02Z",
-   "continent": "Asia",
-   "added": "2026-11-18T05:14:10Z",
-   "i18n": {
-    "ca": {
-     "title": "Rewari recupera 10 estanys per emmagatzemar aigua mentre baixen les aigües subterrànies",
-     "summary": "TERI i Nokia India restauren 10 estanys de pobles del districte de Rewari, a Haryana, durant 24 mesos, amb l'objectiu d'emmagatzemar 120 milions de litres d'aigua.",
-     "why": "Seguretat hídrica local i pràctica, tot i que els resultats encara han d'arribar."
-    },
-    "fr": {
-     "title": "Rewari restaure 10 étangs pour stocker l'eau alors que la nappe phréatique baisse",
-     "summary": "TERI et Nokia India restaurent 10 étangs villageois dans le district de Rewari, au Haryana, sur une période de 24 mois, dans le but de stocker 120 millions de litres d'eau.",
-     "why": "Une sécurisation locale et concrète de l'eau, même si les résultats restent à venir."
-    },
-    "ru": {
-     "title": "Ревари восстанавливает 10 прудов для накопления воды на фоне падения уровня грунтовых вод",
-     "summary": "TERI и Nokia India восстанавливают 10 деревенских прудов в округе Ревари в штате Харьяна в течение 24 месяцев, чтобы накопить 120 миллионов литров воды.",
-     "why": "Практичная локальная защита водных ресурсов, хотя результаты ещё впереди."
     }
    }
   }
